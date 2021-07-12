@@ -5,7 +5,7 @@ Any entity operating an FTSO signal provider service may submit a pull request t
 Each signal provider has its own file with a unique lowercase ASCII (a-z) as filename and `.json` as file extension. You can find the source data in `data/providers`.
 
 ## Provider File Requirements
-* All attributes must be in ASCII
+* All attributes are required and must be in ASCII
 * `name` may be max 32 characters
 * `description` may be max 250 characters
 * `url` may be max 100 characters
