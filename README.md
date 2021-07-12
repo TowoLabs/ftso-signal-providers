@@ -2,7 +2,7 @@
 
 Any entity operating an FTSO signal provider service may submit a pull request to this repository. Inactive, underperforming or misbehaving signal providers will be denied and removed.
 
-Each signal provider has its own file with a unique lowercase ASCII (a-z) as filename and `.json` as file extension. You can find the source data in _data/providers.
+Each signal provider has its own file with a unique lowercase ASCII (a-z) as filename and `.json` as file extension. You can find the source data in `data/providers`.
 
 ## Provider File Requirements
 * All attributes must be in ASCII
@@ -26,7 +26,7 @@ Each signal provider has its own file with a unique lowercase ASCII (a-z) as fil
 }
 ```
 
-Each signal provider file must include a unique SVG icon in _data/icons. The icon filename must be exactly the same as the provider filename, but use `.svg` as file extension. See for example _data/icons/towolabs.svg.
+Each signal provider file must include a unique SVG icon in `data/icons`. The icon filename must be exactly the same as the provider filename, but use `.svg` as file extension. See for example `data/icons/towolabs.svg`.
 
 ## SVG Icon Requirements
 * The aspect ratio must be 1, use the same width and height
