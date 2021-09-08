@@ -3,7 +3,7 @@
 Any individual or entity operating an FTSO signal provider service may submit a pull request to this repository. We do not accept requests from unknown or anonymous individuals or entities. We may require you to prove ownership of your URL and/or address before accepting your contribution. Inactive, underperforming or misbehaving signal providers will be denied and removed.
 
 ## How to Add Your Signal Provider
-1. Copy an existing entry in `bifrost-wallet.providerlist.json`
+1. Copy an existing provider entry in `bifrost-wallet.providerlist.json` (see example below)
 2. Fill your details and add your entry to the bottom of the list
 3. Upload your logo to `assets/` and make sure it meets the image requirements
 4. Submit a pull request
