@@ -1,10 +1,14 @@
 # Flare Time Series Oracle Signal Providers
 
-Any entity operating an FTSO signal provider service may submit a pull request to this repository. Inactive, underperforming or misbehaving signal providers will be denied and/or removed. 
+Any individual or entity operating an FTSO signal provider service may submit a pull request to this repository. We do not accept requests from unknown or anonymous individuals or entities. We may require you to prove ownership of your URL and/or address before accepting your contribution. Inactive, underperforming or misbehaving signal providers will be denied and removed.
 
-To add you signal provider's details, copy an existing entry in `bifrost-wallet.providerlist.json`, fill your details and add it to the bottom of the list. 
+## How to Add Your Signal Provider
+1. Copy an existing entry in `bifrost-wallet.providerlist.json`
+2. Fill your details and add your entry to the bottom of the list
+3. Upload your logo to `assets/` and make sure it meets the image requirements
+4. Submit a pull request
 
-Add one entry per network you intend to submit prices on. For example, if you're submitting prices on both Songbird and Flare, add two separate entries with different `chainId` values.
+Add one entry per network that you intend to submit prices on. For example, if you're submitting price data to both Songbird and Flare, add two separate entries with different `chainId` values.
 
 ## Requirements
 * All attributes are required and must be in ASCII
