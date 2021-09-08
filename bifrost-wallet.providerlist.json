@@ -22,6 +22,22 @@
             "url": "https://towolabs.com",
             "address": "0x1234123412341234123412341234123412341234",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1234123412341234123412341234123412341234.png"
+        },
+        {
+            "chainId": 19,
+            "name": "Scandinodes",
+            "description": "We are proud to be part of Flare Networks. We have a responsibility and take our role as a signal provider very serious. We do not only provide data estimates. We provide good estimates, for maximum returns.",
+            "url": "https://scandinodes.com",
+            "address": "0x4ed9e5b82ce66311ac2230d2fccc5202d7b8c083",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4ed9e5b82ce66311ac2230d2fccc5202d7b8c083.png"
+        },
+        {
+            "chainId": 14,
+            "name": "Scandinodes",
+            "description": "We are proud to be part of Flare Networks. We have a responsibility and take our role as a signal provider very serious. We do not only provide data estimates. We provide good estimates, for maximum returns.",
+            "url": "https://scandinodes.com",
+            "address": "0x4ed9e5b82ce66311ac2230d2fccc5202d7b8c083",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4ed9e5b82ce66311ac2230d2fccc5202d7b8c083.png"
         }
     ]
 }
