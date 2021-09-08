@@ -1,0 +1,27 @@
+{
+    "name": "Bifrost Wallet",
+    "timestamp": "2021-09-08T00:00:00+00:00",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "providers": [
+        {
+            "chainId": 19,
+            "name": "Towo Labs",
+            "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 250 characters. Shorter is better.",
+            "url": "https://towolabs.com",
+            "address": "0x1234123412341234123412341234123412341234",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1234123412341234123412341234123412341234.png"
+        },
+        {
+            "chainId": 14,
+            "name": "Towo Labs",
+            "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 250 characters. Shorter is better.",
+            "url": "https://towolabs.com",
+            "address": "0x1234123412341234123412341234123412341234",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1234123412341234123412341234123412341234.png"
+        }
+    ]
+}

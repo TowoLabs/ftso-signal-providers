@@ -1,40 +1,62 @@
 # Flare Time Series Oracle Signal Providers
 
-Any entity operating an FTSO signal provider service may submit a pull request to this repository. Inactive, underperforming or misbehaving signal providers will be denied and removed.
+Any entity operating an FTSO signal provider service may submit a pull request to this repository. Inactive, underperforming or misbehaving signal providers will be denied and/or removed. 
 
-Each signal provider has its own file with a unique lowercase ASCII (a-z) as filename and `.json` as file extension. You can find the source data in `data/providers`.
+To add you signal provider's details, copy an existing entry in `bifrost-wallet.providerlist.json`, fill your details and add it to the bottom of the list. 
 
-## Provider File Requirements
+Add one entry per network you intend to submit prices on. For example, if you're submitting prices on both Songbird and Flare, add two separate entries with different `chainId` values.
+
+## Requirements
 * All attributes are required and must be in ASCII
+* `chainId` must be one of 14 (Songbird), 16 (Coston) or 19 (Flare)
 * `name` may be max 32 characters
 * `description` may be max 250 characters
 * `url` may be max 100 characters
     * Must be prefixed with https://
     * Must redirect HTTP to HTTPS
 * `address` must be 40 characters hex
-    * Must be a valid Flare address
-    * Must be EIP-55 checksummed
+    * Must be the same Songbird, Coston or Flare address that you submit prices with
+    * Must be all lowercase
+* `logoURI` must be this repository's raw GitHub user content path
+  * Must end with your address in all lowercase and a `.png` file extension
+  * Must fulfill the PNG image requirements
 
-### Example towolabs.json
+### PNG Image Requirements
+* The aspect ratio must be 1, use the same width and height
+* The width and height must be between 128 px and 256 px
+* The background must be transparent or fill the entire image
+* The maximum filesize is 24 KB, optimized using for example: https://tinypng.com
+
+### Example for Songbird
 
 ```json
 {
+  "chainId": 19,
   "name": "Towo Labs",
   "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 250 characters. Shorter is better.",
   "url": "https://towolabs.com",
-  "address": "0xBCEB62c761A0c6A9bdbF2E072589C7bD0bDb406F"
+  "address": "0x1234123412341234123412341234123412341234",
+  "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1234123412341234123412341234123412341234.png"
 }
 ```
 
-Each signal provider file must include a unique SVG icon in `data/icons`. The icon filename must be exactly the same as the provider filename, but use `.svg` as file extension. See for example `data/icons/towolabs.svg`.
+### Example for Songbird and Flare
 
-## SVG Icon Requirements
-* The aspect ratio must be 1, use the same width and height
-* The viewport must be the same size as the image
-* The background must be transparent or fill the entire image
-* No rasterized images, vector graphics only
-* No animation or event attributes
-* No script or style elements
-* No xlink or foreign objects
-* Maximum filesize of 32 KB
-* Optimized using e.g: https://jakearchibald.github.io/svgomg/
+```json
+{
+  "chainId": 19,
+  "name": "Towo Labs",
+  "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 250 characters. Shorter is better.",
+  "url": "https://towolabs.com",
+  "address": "0x1234123412341234123412341234123412341234",
+  "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1234123412341234123412341234123412341234.png"
+},
+{
+  "chainId": 14,
+  "name": "Towo Labs",
+  "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 250 characters. Shorter is better.",
+  "url": "https://towolabs.com",
+  "address": "0x1234123412341234123412341234123412341234",
+  "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1234123412341234123412341234123412341234.png"
+}
+```
