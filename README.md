@@ -36,9 +36,9 @@ Add one entry per network that you intend to submit prices on. For example, if y
 ```json
 {
   "chainId": 19,
-  "name": "Towo Labs",
+  "name": "Example Name",
   "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 250 characters. Shorter is better.",
-  "url": "https://towolabs.com",
+  "url": "https://example.com",
   "address": "0x1234123412341234123412341234123412341234",
   "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1234123412341234123412341234123412341234.png"
 }
@@ -49,17 +49,17 @@ Add one entry per network that you intend to submit prices on. For example, if y
 ```json
 {
   "chainId": 19,
-  "name": "Towo Labs",
+  "name": "Example Name",
   "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 250 characters. Shorter is better.",
-  "url": "https://towolabs.com",
+  "url": "https://example.com",
   "address": "0x1234123412341234123412341234123412341234",
   "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1234123412341234123412341234123412341234.png"
 },
 {
   "chainId": 14,
-  "name": "Towo Labs",
+  "name": "Example Name",
   "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 250 characters. Shorter is better.",
-  "url": "https://towolabs.com",
+  "url": "https://example.com",
   "address": "0x1234123412341234123412341234123412341234",
   "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1234123412341234123412341234123412341234.png"
 }
