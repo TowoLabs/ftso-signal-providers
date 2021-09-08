@@ -12,7 +12,7 @@ Add one entry per network that you intend to submit prices on. For example, if y
 
 ## Requirements
 * All attributes are required and must be in ASCII
-* `chainId` must be one of 14 (Songbird), 16 (Coston) or 19 (Flare)
+* `chainId` must be one of 19 (Songbird), 16 (Coston) or 14 (Flare)
 * `name` may be max 32 characters
 * `description` may be max 250 characters
 * `url` may be max 100 characters
