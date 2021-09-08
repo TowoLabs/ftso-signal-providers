@@ -3,31 +3,15 @@
     "timestamp": "2021-09-08T00:00:00+00:00",
     "version": {
         "major": 1,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "providers": [
         {
             "chainId": 19,
-            "name": "Towo Labs",
-            "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 250 characters. Shorter is better.",
-            "url": "https://towolabs.com",
-            "address": "0x1234123412341234123412341234123412341234",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1234123412341234123412341234123412341234.png"
-        },
-        {
-            "chainId": 14,
-            "name": "Towo Labs",
-            "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 250 characters. Shorter is better.",
-            "url": "https://towolabs.com",
-            "address": "0x1234123412341234123412341234123412341234",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1234123412341234123412341234123412341234.png"
-        },
-        {
-            "chainId": 19,
             "name": "ScandiNodes FTSO",
             "description": "We are proud to be part of Flare Networks. We have a responsibility and take our role as a signal provider very serious. We do not only provide data estimates. We provide good estimates, for maximum returns.",
-            "url": "https://scandinodes.com",
+            "url": "https://ftso.scandinodes.com",
             "address": "0x4ed9e5b82ce66311ac2230d2fccc5202d7b8c083",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4ed9e5b82ce66311ac2230d2fccc5202d7b8c083.png"
         },
@@ -35,7 +19,7 @@
             "chainId": 14,
             "name": "ScandiNodes FTSO",
             "description": "We are proud to be part of Flare Networks. We have a responsibility and take our role as a signal provider very serious. We do not only provide data estimates. We provide good estimates, for maximum returns.",
-            "url": "https://scandinodes.com",
+            "url": "https://ftso.scandinodes.com",
             "address": "0x4ed9e5b82ce66311ac2230d2fccc5202d7b8c083",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4ed9e5b82ce66311ac2230d2fccc5202d7b8c083.png"
         }
