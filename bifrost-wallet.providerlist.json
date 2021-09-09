@@ -58,10 +58,18 @@
         {
             "chainId": 19,
             "name": "FTSO EU",
-            "description": "Ftso.eu is the one of the oldest signal providers building on Flare, with a strong community and presence. Our signals are weighted, dynamic, resilient, processed with an innovative approach on a distributed p2p network to guarantee their accuracy.",
+            "description": "Ftso.eu is one of the oldest signal providers building on Flare, with a strong community and presence. Our signals are weighted, dynamic, resilient, processed with an innovative approach on a distributed P2P network to guarantee their accuracy.",
             "url": "https://www.ftso.eu",
             "address": "0x010a16c53f33e4d93892f00897965578b55a8cfc",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x010a16c53f33e4d93892f00897965578b55a8cfc.png"
+        },
+        {
+            "chainId": 14,
+            "name": "FTSO EU",
+            "description": "Ftso.eu is one of the oldest signal providers building on Flare, with a strong community and presence. Our signals are weighted, dynamic, resilient and processed with an innovative approach on a distributed P2P network to guarantee their accuracy.",
+            "url": "https://www.ftso.eu",
+            "address": "0xb0421af2cffb21d8a0be4087448146e4f9cbd306",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb0421af2cffb21d8a0be4087448146e4f9cbd306.png"
         },
         {
             "chainId": 19,
