@@ -66,7 +66,7 @@
         {
             "chainId": 19,
             "name": "FTSO UK",
-            "description": "Signal provider on the @FlareNetworks. UK-based team with global coverage. Providing robust and weighted signals. Dedicated to unlocking value.",
+            "description": "Signal provider on the Flare Network. UK-based team with global coverage. Providing robust and weighted signals. Dedicated to unlocking value.",
             "url": "https://www.ftso.uk",
             "address": "0xb9b7355f5b71cee345311921d247b1d2ba5cfe90",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb9b7355f5b71cee345311921d247b1d2ba5cfe90.png"
@@ -74,7 +74,7 @@
         {
             "chainId": 14,
             "name": "FTSO UK",
-            "description": "Signal provider on the @FlareNetworks. UK-based team with global coverage. Providing robust and weighted signals. Dedicated to unlocking value.",
+            "description": "Signal provider on the Flare Network. UK-based team with global coverage. Providing robust and weighted signals. Dedicated to unlocking value.",
             "url": "https://www.ftso.uk",
             "address": "0x5f911c2c681f678e5a3a8d54f950d6b192cc16e3",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5f911c2c681f678e5a3a8d54f950d6b192cc16e3.png"
