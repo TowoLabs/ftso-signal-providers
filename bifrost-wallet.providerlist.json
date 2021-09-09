@@ -54,6 +54,14 @@
             "url": "https://www.alphaoracle.io",
             "address": "0x47b6effe71abd4e8cdcc56f2341beb404f804b87",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x47b6effe71abd4e8cdcc56f2341beb404f804b87.png"
-        }
+        },
+        {
+            "chainId": 19,
+            "name": "FTSO EU",
+            "description": "Ftso.eu is the one of the oldest signal providers building on Flare, with a strong community and presence. Our signals are weighted, dynamic, resilient, processed with an innovative approach on a distributed p2p network to guarantee their accuracy.",
+            "url": "https://www.ftso.eu",
+            "address": "0x010a16c53f33e4d93892f00897965578b55a8cfc",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x010a16c53f33e4d93892f00897965578b55a8cfc.png"
+        },
     ]
 }
