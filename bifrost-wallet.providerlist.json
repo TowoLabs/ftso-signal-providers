@@ -60,16 +60,16 @@
             "name": "interoracle",
             "description": "An interchain oracle built by whirledlabs. Price ranked by liquidity.",
             "url": "https://interoracle.io",
-            "address": "pending...",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/interoracle_256.png"
+            "address": "0x62d6116d6A139F2D402e8d8E30BAaF5790542801",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62d6116d6A139F2D402e8d8E30BAaF5790542801.png"
         },
         {
             "chainId": 14,
             "name": "interoracle",
             "description": "An interchain oracle built by whirledlabs. Price ranked by liquidity.",
             "url": "https://interoracle.io",
-            "address": "pending...",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/interoracle_256.png"
+            "address": "0x62d6116d6A139F2D402e8d8E30BAaF5790542801",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62d6116d6A139F2D402e8d8E30BAaF5790542801.png"
         }
     ]
 }
