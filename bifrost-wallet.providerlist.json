@@ -78,6 +78,22 @@
             "url": "https://www.ftso.uk",
             "address": "0x5f911c2c681f678e5a3a8d54f950d6b192cc16e3",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5f911c2c681f678e5a3a8d54f950d6b192cc16e3.png"
+        },
+        {
+            "chainId": 19,
+            "name": "Interoracle",
+            "description": "An interchain oracle built by whirledlabs. Price ranked by liquidity.",
+            "url": "https://interoracle.io",
+            "address": "0x62d6116d6a139f2d402e8d8e30baaf5790542801",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62d6116d6a139f2d402e8d8e30baaf5790542801.png"
+        },
+        {
+            "chainId": 14,
+            "name": "Interoracle",
+            "description": "An interchain oracle built by whirledlabs. Price ranked by liquidity.",
+            "url": "https://interoracle.io",
+            "address": "0x62d6116d6a139f2d402e8d8e30baaf5790542801",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62d6116d6a139f2d402e8d8e30baaf5790542801.png"
         }
     ]
 }
