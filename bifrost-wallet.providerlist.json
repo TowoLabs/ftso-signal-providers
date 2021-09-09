@@ -22,6 +22,38 @@
             "url": "https://ftso.scandinodes.com",
             "address": "0x4ed9e5b82ce66311ac2230d2fccc5202d7b8c083",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4ed9e5b82ce66311ac2230d2fccc5202d7b8c083.png"
+        },
+        {
+            "chainId": 19,
+            "name": "Aureus Ox",
+            "description": "Aureus Ox is building a scalable and reliable FTSO signal provider. Our initial goals include accurate price submission and delegation tools.",
+            "url": "https://aureusox.com",
+            "address": "0x6d323e71e141ce2d7b752313c8a654a9c9d1b377",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6d323e71e141ce2d7b752313c8a654a9c9d1b377.png"
+        },
+        {
+            "chainId": 14,
+            "name": "Aureus Ox",
+            "description": "Aureus Ox is building a scalable and reliable FTSO signal provider. Our initial goals include accurate price submission and delegation tools.",
+            "url": "https://aureusox.com",
+            "address": "0x9269fb79b098ab314de8a1e2afb8705678520443",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9269fb79b098ab314de8a1e2afb8705678520443.png"
+        },
+        {
+            "chainId": 19,
+            "name": "AlphaOracle",
+            "description": "AlphaOracle is a US based Signal Provider to the Flare Network. Our goal is to provide reliable data to support applications and expand the ecosystem.",
+            "url": "https://www.alphaoracle.io",
+            "address": "0xbf61db1cdb43d196309824473fa82e5b17581159",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbf61db1cdb43d196309824473fa82e5b17581159.png"
+        },
+        {
+            "chainId": 14,
+            "name": "AlphaOracle",
+            "description": "AlphaOracle is a US based Signal Provider to the Flare Network. Our goal is to provide reliable data to support applications and expand the ecosystem.",
+            "url": "https://www.alphaoracle.io",
+            "address": "0x47b6effe71abd4e8cdcc56f2341beb404f804b87",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x47b6effe71abd4e8cdcc56f2341beb404f804b87.png"
         }
     ]
 }
