@@ -54,6 +54,22 @@
             "url": "https://www.alphaoracle.io",
             "address": "0x47b6effe71abd4e8cdcc56f2341beb404f804b87",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x47b6effe71abd4e8cdcc56f2341beb404f804b87.png"
+        },
+        {
+            "chainId": 19,
+            "name": "interoracle",
+            "description": "An interchain oracle built by whirledlabs. Price ranked by liquidity.",
+            "url": "https://interoracle.io",
+            "address": "pending...",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/interoracle_256.png"
+        },
+        {
+            "chainId": 14,
+            "name": "interoracle",
+            "description": "An interchain oracle built by whirledlabs. Price ranked by liquidity.",
+            "url": "https://interoracle.io",
+            "address": "pending...",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/interoracle_256.png"
         }
     ]
 }
