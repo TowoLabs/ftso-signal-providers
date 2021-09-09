@@ -94,6 +94,22 @@
             "url": "https://interoracle.io",
             "address": "0x62d6116d6a139f2d402e8d8e30baaf5790542801",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62d6116d6a139f2d402e8d8e30baaf5790542801.png"
+        },
+        {
+            "chainId": 19,
+            "name": "FTSO AU",
+            "description": "FTSO AU provide accurate and reliable price feeds to the Flare Network and a transparent, incentivised, risk-free delegation service. We do so by leveraging the distributed nature of the network and its participants.",
+            "url": "https://www.ftso.com.au",
+            "address": "0x499017adb21d6f70480e4e6224cf4144071c1461",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x499017adb21d6f70480e4e6224cf4144071c1461.png"
+        },
+        {
+            "chainId": 14,
+            "name": "FTSO AU",
+            "description": "FTSO AU provide accurate and reliable price feeds to the Flare Network and a transparent, incentivised, risk-free delegation service. We do so by leveraging the distributed nature of the network and its participants.",
+            "url": "https://www.ftso.com.au",
+            "address": "0x4990320858ae3528b645c60059281a66c3488888",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4990320858ae3528b645c60059281a66c3488888.png"
         }
     ]
 }
