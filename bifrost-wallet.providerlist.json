@@ -118,6 +118,22 @@
             "url": "https://www.ftso.com.au",
             "address": "0x4990320858ae3528b645c60059281a66c3488888",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4990320858ae3528b645c60059281a66c3488888.png"
+        },
+        {
+            "chainId": 19,
+            "name": "Use Your Spark",
+            "description": "Global Signal Provider for the Flare Time Series Oracle (FTSO), offering vote delegation services to Songbird (SGB) token holders. Start earning risk-free rewards today!",
+            "url": "https://www.useyourspark.com",
+            "address": "0x53caedda4339ed74272ecfef85b657def18fa2e4",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x53caedda4339ed74272ecfef85b657def18fa2e4.png"
+        },
+        {
+            "chainId": 14,
+            "name": "Use Your Spark",
+            "description": "Global Signal Provider for the Flare Time Series Oracle (FTSO), offering vote delegation services to Spark (FLR) token holders. Start earning risk-free rewards today!",
+            "url": "https://www.useyourspark.com",
+            "address": "0xa288054b230dcbb8689ac229d6dbd7df39203181",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa288054b230dcbb8689ac229d6dbd7df39203181.png"
         }
     ]
 }
