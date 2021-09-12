@@ -1,9 +1,9 @@
 {
     "name": "Bifrost Wallet",
-    "timestamp": "2021-09-08T00:00:00+00:00",
+    "timestamp": "2021-09-12T00:00:00+00:00",
     "version": {
         "major": 1,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "providers": [
@@ -134,6 +134,23 @@
             "url": "https://www.useyourspark.com",
             "address": "0xa288054b230dcbb8689ac229d6dbd7df39203181",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa288054b230dcbb8689ac229d6dbd7df39203181.png"
+        },
+        {
+
+            "chainId": 19,
+            "name": "Sun-Dara",
+            "description": "Sun-Dara is an Asian STSO provider based primarily in Bangladesh with connections to the United Kingdom. We try and keep things simple and easy to understand. Check out our website for more information and service status updates.",
+            "url": "https://sun-dara.co.uk",
+            "address": "0x7394923453fc2f606cfb4d0ea1a5438bb8260d08",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7394923453fc2f606cfb4d0ea1a5438bb8260d08.png"
+        },
+        {
+            "chainId": 14,
+            "name": "Sun-Dara",
+            "description": "Sun-Dara is an Asian FTSO provider based primarily in Bangladesh with connections to the United Kingdom. We try and keep things simple and easy to understand. Check out our website for more information and service status updates.",
+            "url": "https://sun-dara.co.uk",
+            "address": "0x1e8f916ce03f4ce86186531a8994d366581ed4be",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1e8f916ce03f4ce86186531a8994d366581ed4be.png"
         }
     ]
 }
