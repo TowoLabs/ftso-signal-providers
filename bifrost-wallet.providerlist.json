@@ -151,6 +151,23 @@
             "url": "https://sun-dara.co.uk",
             "address": "0x1e8f916ce03f4ce86186531a8994d366581ed4be",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1e8f916ce03f4ce86186531a8994d366581ed4be.png"
+        },
+        {
+
+            "chainId": 19,
+            "name": "Bifrost Oracle",
+            "description": "Bifrost Oracle is a reliable Songbird oracle service run by Towo Labs, a Songbird Network development partner and the company behind Bifrost Wallet.",
+            "url": "https://bifrostoracle.com",
+            "address": "0x69141e890f3a79cd2cff552c0b71508be23712dc",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x69141e890f3a79cd2cff552c0b71508be23712dc.png"
+        },
+        {
+            "chainId": 14,
+            "name": "Bifrost Oracle",
+            "description": "Bifrost Oracle is a reliable Flare oracle service run by Towo Labs, a Flare Network development partner and the company behind Bifrost Wallet.",
+            "url": "https://bifrostoracle.com",
+            "address": "0x9a46864a3b0a7805b266c445289c3fad1e48f18e",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9a46864a3b0a7805b266c445289c3fad1e48f18e.png"
         }
     ]
 }
