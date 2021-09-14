@@ -1,9 +1,9 @@
 {
     "name": "Bifrost Wallet",
-    "timestamp": "2021-09-12T00:00:00+00:00",
+    "timestamp": "2021-09-08T00:00:00+00:00",
     "version": {
         "major": 1,
-        "minor": 2,
+        "minor": 1,
         "patch": 0
     },
     "providers": [
@@ -57,117 +57,35 @@
         },
         {
             "chainId": 19,
-            "name": "FTSO EU",
-            "description": "Ftso.eu is one of the oldest signal providers building on Flare, with a strong community and presence. Our signals are weighted, dynamic, resilient, processed with an innovative approach on a distributed P2P network to guarantee their accuracy.",
-            "url": "https://www.ftso.eu",
-            "address": "0x010a16c53f33e4d93892f00897965578b55a8cfc",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x010a16c53f33e4d93892f00897965578b55a8cfc.png"
-        },
-        {
-            "chainId": 14,
-            "name": "FTSO EU",
-            "description": "Ftso.eu is one of the oldest signal providers building on Flare, with a strong community and presence. Our signals are weighted, dynamic, resilient and processed with an innovative approach on a distributed P2P network to guarantee their accuracy.",
-            "url": "https://www.ftso.eu",
-            "address": "0xb0421af2cffb21d8a0be4087448146e4f9cbd306",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb0421af2cffb21d8a0be4087448146e4f9cbd306.png"
-        },
-        {
-            "chainId": 19,
-            "name": "FTSO UK",
-            "description": "Signal provider on the Flare Network. UK-based team with global coverage. Providing robust and weighted signals. Dedicated to unlocking value.",
-            "url": "https://www.ftso.uk",
-            "address": "0xb9b7355f5b71cee345311921d247b1d2ba5cfe90",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb9b7355f5b71cee345311921d247b1d2ba5cfe90.png"
-        },
-        {
-            "chainId": 14,
-            "name": "FTSO UK",
-            "description": "Signal provider on the Flare Network. UK-based team with global coverage. Providing robust and weighted signals. Dedicated to unlocking value.",
-            "url": "https://www.ftso.uk",
-            "address": "0x5f911c2c681f678e5a3a8d54f950d6b192cc16e3",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5f911c2c681f678e5a3a8d54f950d6b192cc16e3.png"
-        },
-        {
-            "chainId": 19,
-            "name": "Interoracle",
+            "name": "interoracle",
             "description": "An interchain oracle built by whirledlabs. Price ranked by liquidity.",
             "url": "https://interoracle.io",
-            "address": "0x62d6116d6a139f2d402e8d8e30baaf5790542801",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62d6116d6a139f2d402e8d8e30baaf5790542801.png"
+            "address": "0x62d6116d6A139F2D402e8d8E30BAaF5790542801",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62d6116d6A139F2D402e8d8E30BAaF5790542801.png"
         },
         {
             "chainId": 14,
-            "name": "Interoracle",
+            "name": "interoracle",
             "description": "An interchain oracle built by whirledlabs. Price ranked by liquidity.",
             "url": "https://interoracle.io",
-            "address": "0x62d6116d6a139f2d402e8d8e30baaf5790542801",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62d6116d6a139f2d402e8d8e30baaf5790542801.png"
+            "address": "0x62d6116d6A139F2D402e8d8E30BAaF5790542801",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62d6116d6A139F2D402e8d8E30BAaF5790542801.png"
         },
         {
             "chainId": 19,
-            "name": "FTSO AU",
-            "description": "FTSO AU provide accurate and reliable price feeds to the Flare Network and a transparent, incentivised, risk-free delegation service. We do so by leveraging the distributed nature of the network and its participants.",
-            "url": "https://www.ftso.com.au",
-            "address": "0x499017adb21d6f70480e4e6224cf4144071c1461",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x499017adb21d6f70480e4e6224cf4144071c1461.png"
+            "name": "Lena Instruments",
+            "description": "Institutional Grade Vote Delegation Service and FTSO Signals provider to the Flare ecosystem.",
+            "url": "https://lena.tech",
+            "address": "0xc9AC8F034d295962A6a975b717B691437605Bbb6",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc9AC8F034d295962A6a975b717B691437605Bbb6.png"
         },
         {
             "chainId": 14,
-            "name": "FTSO AU",
-            "description": "FTSO AU provide accurate and reliable price feeds to the Flare Network and a transparent, incentivised, risk-free delegation service. We do so by leveraging the distributed nature of the network and its participants.",
-            "url": "https://www.ftso.com.au",
-            "address": "0x4990320858ae3528b645c60059281a66c3488888",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4990320858ae3528b645c60059281a66c3488888.png"
-        },
-        {
-            "chainId": 19,
-            "name": "Use Your Spark",
-            "description": "Global Signal Provider for the Flare Time Series Oracle (FTSO), offering vote delegation services to Songbird (SGB) token holders. Start earning risk-free rewards today!",
-            "url": "https://www.useyourspark.com",
-            "address": "0x53caedda4339ed74272ecfef85b657def18fa2e4",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x53caedda4339ed74272ecfef85b657def18fa2e4.png"
-        },
-        {
-            "chainId": 14,
-            "name": "Use Your Spark",
-            "description": "Global Signal Provider for the Flare Time Series Oracle (FTSO), offering vote delegation services to Spark (FLR) token holders. Start earning risk-free rewards today!",
-            "url": "https://www.useyourspark.com",
-            "address": "0xa288054b230dcbb8689ac229d6dbd7df39203181",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa288054b230dcbb8689ac229d6dbd7df39203181.png"
-        },
-        {
-
-            "chainId": 19,
-            "name": "Sun-Dara",
-            "description": "Sun-Dara is an Asian STSO provider based primarily in Bangladesh with connections to the United Kingdom. We try and keep things simple and easy to understand. Check out our website for more information and service status updates.",
-            "url": "https://sun-dara.co.uk",
-            "address": "0x7394923453fc2f606cfb4d0ea1a5438bb8260d08",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7394923453fc2f606cfb4d0ea1a5438bb8260d08.png"
-        },
-        {
-            "chainId": 14,
-            "name": "Sun-Dara",
-            "description": "Sun-Dara is an Asian FTSO provider based primarily in Bangladesh with connections to the United Kingdom. We try and keep things simple and easy to understand. Check out our website for more information and service status updates.",
-            "url": "https://sun-dara.co.uk",
-            "address": "0x1e8f916ce03f4ce86186531a8994d366581ed4be",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1e8f916ce03f4ce86186531a8994d366581ed4be.png"
-        },
-        {
-
-            "chainId": 19,
-            "name": "Bifrost Oracle",
-            "description": "Bifrost Oracle is a reliable Songbird oracle service run by Towo Labs, a Songbird Network development partner and the company behind Bifrost Wallet.",
-            "url": "https://bifrostoracle.com",
-            "address": "0x69141e890f3a79cd2cff552c0b71508be23712dc",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x69141e890f3a79cd2cff552c0b71508be23712dc.png"
-        },
-        {
-            "chainId": 14,
-            "name": "Bifrost Oracle",
-            "description": "Bifrost Oracle is a reliable Flare oracle service run by Towo Labs, a Flare Network development partner and the company behind Bifrost Wallet.",
-            "url": "https://bifrostoracle.com",
-            "address": "0x9a46864a3b0a7805b266c445289c3fad1e48f18e",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9a46864a3b0a7805b266c445289c3fad1e48f18e.png"
-        }
+            "name": "Lena Instruments",
+            "description": "Institutional Grade Vote Delegation Service and FTSO Signals provider to the Flare ecosystem.",
+            "url": "https://lena.tech",
+            "address": "0xc9AC8F034d295962A6a975b717B691437605Bbb6",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc9AC8F034d295962A6a975b717B691437605Bbb6.png"
+        } 
     ]
 }
