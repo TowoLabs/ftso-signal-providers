@@ -89,22 +89,6 @@
         },
         {
             "chainId": 19,
-            "name": "Interoracle",
-            "description": "An interchain oracle built by whirledlabs. Price ranked by liquidity.",
-            "url": "https://interoracle.io",
-            "address": "0x62d6116d6a139f2d402e8d8e30baaf5790542801",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62d6116d6a139f2d402e8d8e30baaf5790542801.png"
-        },
-        {
-            "chainId": 14,
-            "name": "Interoracle",
-            "description": "An interchain oracle built by whirledlabs. Price ranked by liquidity.",
-            "url": "https://interoracle.io",
-            "address": "0x62d6116d6a139f2d402e8d8e30baaf5790542801",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62d6116d6a139f2d402e8d8e30baaf5790542801.png"
-        },
-        {
-            "chainId": 19,
             "name": "FTSO AU",
             "description": "FTSO AU provide accurate and reliable price feeds to the Flare Network and a transparent, incentivised, risk-free delegation service. We do so by leveraging the distributed nature of the network and its participants.",
             "url": "https://www.ftso.com.au",
@@ -138,6 +122,23 @@
         {
 
             "chainId": 19,
+            "name": "Bifrost Oracle",
+            "description": "Bifrost Oracle is a reliable Songbird oracle service run by Towo Labs, a Songbird Network development partner and the company behind Bifrost Wallet.",
+            "url": "https://bifrostoracle.com",
+            "address": "0x69141e890f3a79cd2cff552c0b71508be23712dc",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x69141e890f3a79cd2cff552c0b71508be23712dc.png"
+        },
+        {
+            "chainId": 14,
+            "name": "Bifrost Oracle",
+            "description": "Bifrost Oracle is a reliable Flare oracle service run by Towo Labs, a Flare Network development partner and the company behind Bifrost Wallet.",
+            "url": "https://bifrostoracle.com",
+            "address": "0x9a46864a3b0a7805b266c445289c3fad1e48f18e",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9a46864a3b0a7805b266c445289c3fad1e48f18e.png"
+        },
+        {
+
+            "chainId": 19,
             "name": "Sun-Dara",
             "description": "Sun-Dara is an Asian STSO provider based primarily in Bangladesh with connections to the United Kingdom. We try and keep things simple and easy to understand. Check out our website for more information and service status updates.",
             "url": "https://sun-dara.co.uk",
@@ -153,21 +154,20 @@
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1e8f916ce03f4ce86186531a8994d366581ed4be.png"
         },
         {
-
             "chainId": 19,
-            "name": "Bifrost Oracle",
-            "description": "Bifrost Oracle is a reliable Songbird oracle service run by Towo Labs, a Songbird Network development partner and the company behind Bifrost Wallet.",
-            "url": "https://bifrostoracle.com",
-            "address": "0x69141e890f3a79cd2cff552c0b71508be23712dc",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x69141e890f3a79cd2cff552c0b71508be23712dc.png"
+            "name": "Interoracle",
+            "description": "An interchain oracle built by whirledlabs. Price ranked by liquidity.",
+            "url": "https://interoracle.io",
+            "address": "0x62d6116d6a139f2d402e8d8e30baaf5790542801",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62d6116d6a139f2d402e8d8e30baaf5790542801.png"
         },
         {
             "chainId": 14,
-            "name": "Bifrost Oracle",
-            "description": "Bifrost Oracle is a reliable Flare oracle service run by Towo Labs, a Flare Network development partner and the company behind Bifrost Wallet.",
-            "url": "https://bifrostoracle.com",
-            "address": "0x9a46864a3b0a7805b266c445289c3fad1e48f18e",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9a46864a3b0a7805b266c445289c3fad1e48f18e.png"
+            "name": "Interoracle",
+            "description": "An interchain oracle built by whirledlabs. Price ranked by liquidity.",
+            "url": "https://interoracle.io",
+            "address": "0x62d6116d6a139f2d402e8d8e30baaf5790542801",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62d6116d6a139f2d402e8d8e30baaf5790542801.png"
         }
     ]
 }
