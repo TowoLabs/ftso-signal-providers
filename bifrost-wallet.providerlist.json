@@ -1,9 +1,9 @@
 {
     "name": "Bifrost Wallet",
-    "timestamp": "2021-09-12T00:00:00+00:00",
+    "timestamp": "2021-09-16T00:00:00+00:00",
     "version": {
         "major": 1,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
     "providers": [
@@ -168,6 +168,22 @@
             "url": "https://interoracle.io",
             "address": "0x62d6116d6a139f2d402e8d8e30baaf5790542801",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62d6116d6a139f2d402e8d8e30baaf5790542801.png"
+        },
+        {
+            "chainId": 19,
+            "name": "Lena Instruments",
+            "description": "Institutional grade vote delegation service and FTSO signal provider to the Songbird ecosystem",
+            "url": "https://www.lena.tech",
+            "address": "0xc9ac8f034d295962a6a975b717b691437605bbb6",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc9ac8f034d295962a6a975b717b691437605bbb6.png"
+        },
+        {
+            "chainId": 14,
+            "name": "Lena Instruments",
+            "description": "Institutional grade vote delegation service and FTSO signal provider to the Flare ecosystem",
+            "url": "https://www.lena.tech",
+            "address": "0xc9ac8f034d295962a6a975b717b691437605bbb6",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc9ac8f034d295962a6a975b717b691437605bbb6.png"
         }
     ]
 }
