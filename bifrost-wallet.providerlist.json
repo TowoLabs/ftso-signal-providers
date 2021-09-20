@@ -184,6 +184,22 @@
             "url": "https://www.lena.tech",
             "address": "0xc9ac8f034d295962a6a975b717b691437605bbb6",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc9ac8f034d295962a6a975b717b691437605bbb6.png"
+        },
+        {
+            "chainId": 19,
+            "name": "A-FTSO",
+            "description": "The first indie FTSO provider, run as a professional one. No frills, low fees.",
+            "url": "https://ftso.alexdupre.com",
+            "address": "0x2d7bf53ed6117ad1dcd6416d460481522a16afdf",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2d7bf53ed6117ad1dcd6416d460481522a16afdf.png"
+        },
+        {
+            "chainId": 14,
+            "name": "A-FTSO",
+            "description": "The first indie FTSO provider, run as a professional one. No frills, low fees.",
+            "url": "https://ftso.alexdupre.com",
+            "address": "0x2d7bf53ed6117ad1dcd6416d460481522a16afdf",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2d7bf53ed6117ad1dcd6416d460481522a16afdf.png"
         }
     ]
 }
