@@ -200,6 +200,22 @@
             "url": "https://ftso.alexdupre.com",
             "address": "0x2d7bf53ed6117ad1dcd6416d460481522a16afdf",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2d7bf53ed6117ad1dcd6416d460481522a16afdf.png"
+        },
+        {
+            "chainId": 19,
+            "name": "Best FTSO",
+            "description": "Our goal is to offer users the most value for their delegation. Come check out our NFT club and earn more than just SGB rewards!",
+            "url": "https://bestftso.xyz/",
+            "address": "0x939789ed3d07a80da886a3e3017d665cbb5591dc",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x939789ed3d07a80da886a3e3017d665cbb5591dc.png"
+        },
+        {
+            "chainId": 14,
+            "name": "Best FTSO",
+            "description": "Our goal is to offer users the most value for their delegation. Come check out our NFT club and earn more than just FLR rewards!",
+            "url": "https://bestftso.xyz/",
+            "address": "0x939789ed3d07a80da886a3e3017d665cbb5591dc",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x939789ed3d07a80da886a3e3017d665cbb5591dc.png"
         }
     ]
 }
