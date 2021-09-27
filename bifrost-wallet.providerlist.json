@@ -216,6 +216,22 @@
             "url": "https://bestftso.xyz/",
             "address": "0x939789ed3d07a80da886a3e3017d665cbb5591dc",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x939789ed3d07a80da886a3e3017d665cbb5591dc.png"
-        }
+        },
+        {
+            "chainId": 19,
+            "name": "KysenPool",
+            "description": "Global Proof-of-Stake Validator experienced operating nodes for Cardano, Cosmos, Terra , Harmony, Kava and Desmos. Now FTSO for Flare/Songbird.",
+            "url": "https://www.kysenpool.io/",
+            "address": "0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61.png"
+        },
+        {
+            "chainId": 14,
+            "name": "KysenPool",
+            "description": "Global Proof-of-Stake Validator experienced operating nodes for Cardano, Cosmos, Terra , Harmony, Kava and Desmos. Now FTSO for Flare/Songbird.",
+            "url": "https://www.kysenpool.io/",
+            "address": "0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61.png"
+        }        
     ]
 }
