@@ -216,9 +216,17 @@
             "url": "https://bestftso.xyz/",
             "address": "0x939789ed3d07a80da886a3e3017d665cbb5591dc",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x939789ed3d07a80da886a3e3017d665cbb5591dc.png"
-        }
+        },
 				{
 					"chainId": 19,
+					"name": "Defi Oracles",
+					"description": "DeFi Oracles is a Multi-Chain Decentralized Finance Oracle Service Provider.",
+					"url": "https://defioracles.org",
+					"address": "0xCa60cd408A5E447897258cDB1F699478c71Cc55E",
+					"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xCa60cd408A5E447897258cDB1F699478c71Cc55E.png"
+				},
+				{
+					"chainId": 14,
 					"name": "Defi Oracles",
 					"description": "DeFi Oracles is a Multi-Chain Decentralized Finance Oracle Service Provider.",
 					"url": "https://defioracles.org",
