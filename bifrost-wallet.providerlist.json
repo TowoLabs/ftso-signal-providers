@@ -232,22 +232,6 @@
             "url": "https://ftso.it/",
             "address": "0x651ccEBfA2C5aa1e6d9C6180d91079F120314080",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x651ccEBfA2C5aa1e6d9C6180d91079F120314080.png"
-        },
-        {
-            "chainId": 19,
-            "name": "ACE.Trade SongBird FTSO.AT",
-            "description": "Your most convenient and efficient Songbird data provider. See ACE.Trade for the quickest dive in the crypto world; available on iOS and Android app store!",
-            "url": "https://ftso.at/",
-            "address": "0x6fF5947eF89754682aD765b79C11f33452756D0B",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6fF5947eF89754682aD765b79C11f33452756D0B.png"
-        },
-        {
-            "chainId": 14,
-            "name": "ACE.Trade Flare FTSO.AT",
-            "description": "Your most convenient and efficient Flare data provider. See ACE.Trade for the quickest dive in the crypto world; available on iOS and Android app store!",
-            "url": "https://ftso.at/",
-            "address": "0x6fF5947eF89754682aD765b79C11f33452756D0B",
-            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6fF5947eF89754682aD765b79C11f33452756D0B.png"
         }
     ]
 }
