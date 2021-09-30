@@ -252,8 +252,8 @@
 			"name": "AFOracle",
 			"description": "AFOracle is an FTSO provider from AFLabs, a team that helped build the Flare's smart contract infrastructure.",
 			"url": "https://aforacle.com/",
-			"address": "0x9565d813a3a0CEa62B3bDB9A4e236dCb5910c4f0",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9565d813a3a0CEa62B3bDB9A4e236dCb5910c4f0.png"
+			"address": "0x9565d813a3a0cea62b3bdb9a4e236dcb5910c4f0",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9565d813a3a0cea62b3bdb9a4e236dcb5910c4f0.png"
 		}
 	]
 }
