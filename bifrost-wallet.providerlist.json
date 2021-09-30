@@ -252,8 +252,8 @@
 			"name": "Optakt",
 			"description": "Optakt is a tactical engineering team working on projects which reshape the landscape of blockchain technology.",
 			"url": "https://www.optakt.io",
-			"address": "0xDDEF7e54a9f72D9Fc0a281b42F15A22B30681da5",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xDDEF7e54a9f72D9Fc0a281b42F15A22B30681da5.png"
+			"address": "0xddef7e54a9f72d9fc0a281b42f15a22b30681da5",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xddef7e54a9f72d9fc0a281b42f15a22b30681da5.png"
 		}
 	]
 }
