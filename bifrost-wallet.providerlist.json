@@ -262,6 +262,14 @@
 			"url": "https://aforacle.com/",
 			"address": "0x9565d813a3a0cea62b3bdb9a4e236dcb5910c4f0",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9565d813a3a0cea62b3bdb9a4e236dcb5910c4f0.png"
+		},
+		{
+			"chainId": 14,
+			"name": "FTSOExpress",
+			"description": "FTSO Express, looking to be a no frills, minimal FTSO and STSO Provider",
+			"url": "https://ftso.express/",
+			"address": "0x33DDAe234e403789954CD792e1feBdBE2466ADC2",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x33DDAe234e403789954CD792e1feBdBE2466ADC2.png"
 		}
 	]
 }
