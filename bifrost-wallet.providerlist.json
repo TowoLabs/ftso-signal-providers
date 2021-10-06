@@ -267,7 +267,7 @@
 			"chainId": 19,
 			"name": "FTSOExpress",
 			"description": "FTSO Express, looking to be a no frills, minimal FTSO Provider",
-			"url": "https://ftso.express/",
+			"url": "https://ftso.express",
 			"address": "0x33ddae234e403789954cd792e1febdbe2466adc2",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x33ddae234e403789954cd792e1febdbe2466adc2.png"
 		}
