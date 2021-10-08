@@ -286,6 +286,14 @@
 			"url": "https://hewg.org",
 			"address": "0x819eab111bd9a6e595187a914240529d2efff21f",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x819eab111bd9a6e595187a914240529d2efff21f.png"
-		}			
+		},
+		{
+			"chainId": 19,
+			"name": "FTSO Cloud",
+			"description": "FTSO provider with an emphasis on accuracy.",
+			"url": "https://ftso.cloud.si",
+			"address": "0x0fa72d3912d1c530ab1f6a8a9fb61c672947e964",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0fa72d3912d1c530ab1f6a8a9fb61c672947e964.png"
+		}
 	]
 }
