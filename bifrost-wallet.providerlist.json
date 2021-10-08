@@ -275,7 +275,7 @@
   			"chainId": 19,
   			"name": "Taco-Tso",
   			"description": "An oracle service for lovers of mexican and asian cuisine.",
-  			"url": "http://taco-tso.io/",
+  			"url": "https://taco-tso.io/",
   			"address": "0x17fABA2995351176F648219A5a86921F9eD51A31",
   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x17fABA2995351176F648219A5a86921F9eD51A31.png"
 		},
@@ -283,8 +283,8 @@
   			"chainId": 14,
   			"name": "Taco-Tso",
   			"description": "An oracle service for lovers of mexican and asian cuisine.",
-                        "address": "0xaCb098842542b8DEcAD0EA49eCd97d1410cbEb26",
-  			"url": "http://taco-tso.io/",
+            "address": "0xaCb098842542b8DEcAD0EA49eCd97d1410cbEb26",
+  			"url": "https://taco-tso.io/",
   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xaCb098842542b8DEcAD0EA49eCd97d1410cbEb26.png"
 		}
 	]
