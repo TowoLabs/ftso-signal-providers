@@ -287,6 +287,7 @@
   			"url": "https://taco-tso.io/",
   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xaCb098842542b8DEcAD0EA49eCd97d1410cbEb26.png"
 		},
+		{
 			"chainId": 19,
 			"name": "HEWG",
 			"description": "HEWG strikes to provide best FTSO price data.",
