@@ -32,6 +32,14 @@
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1B00870092a929D160492daf8E734b4bCA033266.png"
 		},
 		{
+			"chainId": 14,
+			"name": "Flare Oracle",
+			"description": "Flare Oracle, a data provider to the Flare network. Our goal is to give users a plug & play solution to effortlessly control their passive income.",
+			"url": "https://flareoracle.io",
+			"address": "0x1B00870092a929D160492daf8E734b4bCA033266",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1B00870092a929D160492daf8E734b4bCA033266.png"
+		},
+		{
 			"chainId": 19,
 			"name": "ScandiNodes FTSO",
 			"description": "We are proud to be part of Flare Networks. We have a responsibility and take our role as a signal provider very serious. We do not only provide data estimates. We provide good estimates, for maximum returns.",
