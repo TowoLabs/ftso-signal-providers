@@ -294,6 +294,22 @@
 			"url": "https://ftso.cloud.si",
 			"address": "0x0fa72d3912d1c530ab1f6a8a9fb61c672947e964",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0fa72d3912d1c530ab1f6a8a9fb61c672947e964.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Flare Oracle",
+			"description": "Flare Oracle, a data provider to the Flare network. Our goal is to give users a plug & play solution to effortlessly control their passive income.",
+			"url": "https://flareoracle.io",
+			"address": "0x1b00870092a929d160492daf8e734b4bca033266",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1b00870092a929d160492daf8e734b4bca033266.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Flare Oracle",
+			"description": "Flare Oracle, a data provider to the Flare network. Our goal is to give users a plug & play solution to effortlessly control their passive income.",
+			"url": "https://flareoracle.io",
+			"address": "0x1b00870092a929d160492daf8e734b4bca033266",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1b00870092a929d160492daf8e734b4bca033266.png"
 		}
 	]
 }
