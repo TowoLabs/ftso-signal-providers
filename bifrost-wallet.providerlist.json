@@ -342,6 +342,22 @@
 			"url": "https://hono-tso.com",
 			"address": "0xa467ACeE8127C55Fb1f4d3b863EA5b0C4F599b9b",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa467ACeE8127C55Fb1f4d3b863EA5b0C4F599b9b.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Big Baby FTSO",
+			"description": "Big Baby FTSO - Feed the Big Baby!",
+			"url": "https://bbftso.com",
+			"address": "0xe60784D1c661a8D8eE19b442999bB71279F0A91f",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe60784D1c661a8D8eE19b442999bB71279F0A91f.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Big Baby FTSO",
+			"description": "Big Baby FTSO - Feed the Big Baby!",
+			"url": "https://bbftso.com",
+			"address": "0xe60784D1c661a8D8eE19b442999bB71279F0A91f",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe60784D1c661a8D8eE19b442999bB71279F0A91f.png"
 		}
 	]
 }
