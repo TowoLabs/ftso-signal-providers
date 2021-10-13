@@ -326,6 +326,22 @@
 			"url": "https://flareoracle.io",
 			"address": "0x1b00870092a929d160492daf8e734b4bca033266",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1b00870092a929d160492daf8e734b4bca033266.png"
+		},
+		{
+			"chainId": 19,
+			"name": "HONO-TSO",
+			"description": "Hono (Jap Honoo) It's the flame that ignites the game. Let's play!",
+			"url": "https://hono-tso.com",
+			"address": "0xa467acee8127c55fb1f4d3b863ea5b0c4f599b9b",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa467acee8127c55fb1f4d3b863ea5b0c4f599b9b.png"
+		},
+		{
+			"chainId": 14,
+			"name": "HONO-TSO",
+			"description": "Hono (Jap Honoo) It's the flame that ignites the game. Let's play!",
+			"url": "https://hono-tso.com",
+			"address": "0xa467acee8127c55fb1f4d3b863ea5b0c4f599b9b",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa467acee8127c55fb1f4d3b863ea5b0c4f599b9b.png"
 		}
 	]
 }
