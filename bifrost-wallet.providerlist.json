@@ -358,6 +358,22 @@
 			"url": "https://bbftso.com",
 			"address": "0xe60784D1c661a8D8eE19b442999bB71279F0A91f",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe60784D1c661a8D8eE19b442999bB71279F0A91f.png"
+		},
+		{
+			"chainId": 19,
+			"name": "SparkiFi",
+			"description": "The high fidelity, low fee, independent FTSO provider.",
+			"url": "https://www.sparkifi.xyz",
+			"address": "0x153aD30381b11DCE62f349c97a54c2a58956B992",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x153aD30381b11DCE62f349c97a54c2a58956B992.png"
+		},
+		{
+			"chainId": 14,
+			"name": "SparkiFi",
+			"description": "The high fidelity, low fee, independent FTSO provider.",
+			"url": "https://www.sparkifi.xyz",
+			"address": "0x153aD30381b11DCE62f349c97a54c2a58956B992",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x153aD30381b11DCE62f349c97a54c2a58956B992.png"
 		}
 	]
 }
