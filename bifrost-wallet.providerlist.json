@@ -374,6 +374,22 @@
 			"url": "https://www.sparkifi.xyz",
 			"address": "0x153aD30381b11DCE62f349c97a54c2a58956B992",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x153aD30381b11DCE62f349c97a54c2a58956B992.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Scintilla",
+			"description": "High accuracy signal provider to the Songbird Network.",
+			"url": "https://www.scintilla.io",
+			"address": "0xE70d5351a842131c66AAeBC4bD604912BF3cBa72",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE70d5351a842131c66AAeBC4bD604912BF3cBa72.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Scintilla",
+			"description": "High accuracy signal provider to the Flare Network.",
+			"url": "https://www.scintilla.io",
+			"address": "0xE70d5351a842131c66AAeBC4bD604912BF3cBa72",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE70d5351a842131c66AAeBC4bD604912BF3cBa72.png"
 		}
 	]
 }
