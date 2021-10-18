@@ -20,9 +20,9 @@ Add one entry per network that you intend to submit prices on. For example, if y
     * Must redirect HTTP to HTTPS
 * `address` must be 40 characters hex
     * Must be the same Songbird, Coston or Flare address that you submit prices with
-    * Must be all lowercase
+    * Must be EIP-55 checksummed
 * `logoURI` must be this repository's raw GitHub user content path
-  * Must end with your address in all lowercase and a `.png` file extension
+  * Must end with your checksummed address and a `.png` file extension
   * Must fulfill the PNG image requirements
 
 ### PNG Image Requirements
