@@ -406,6 +406,22 @@
 			"url": "https://www.lightft.so",
 			"address": "0xfB9197720329a80191BA140844E96DCcAD149014",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfB9197720329a80191BA140844E96DCcAD149014.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Flare Kollektiv",
+			"description": "Flare Kollektiv is an independent infrastructure provider on Flare and Songbird, providing reliable delegation services.",
+			"url": "https://www.flarekollektiv.xyz/",
+			"address": "0xE76Bc13136338f27363425FcbCB36967B0540176",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE76Bc13136338f27363425FcbCB36967B0540176.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Flare Kollektiv",
+			"description": "Flare Kollektiv is an independent infrastructure provider on Flare and Songbird, providing reliable delegation services.",
+			"url": "https://www.flarekollektiv.xyz/",
+			"address": "0xE76Bc13136338f27363425FcbCB36967B0540176",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE76Bc13136338f27363425FcbCB36967B0540176.png"
 		}
 	]
 }
