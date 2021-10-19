@@ -407,6 +407,22 @@
 			"address": "0xfB9197720329a80191BA140844E96DCcAD149014",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfB9197720329a80191BA140844E96DCcAD149014.png"
 		},
+    {
+      "chainId": 19,
+      "name": "Oracle Daemon",
+      "description": "Oracle Daemon is a team of dedicated professionals designing the best data provider.",
+			"url": "https://oracle-daemon.unigames.studio",
+			"address": "0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23",
+			"logoURI": "https://raw.githubusercontent.com/towolabs/ftso-signal-providers/master/assets/0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Oracle Daemon",
+			"description": "Oracle Daemon is a team of dedicated professionals designing the best data provider.",
+			"url": "https://oracle-daemon.unigames.studio",
+			"address": "0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23",
+			"logoURI": "https://raw.githubusercontent.com/towolabs/ftso-signal-providers/master/assets/0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23.png"
+		},
 		{
 			  "chainId": 19,
 			  "name": "Oracle of Delphi",
@@ -422,6 +438,6 @@
 			  "url": "https://oracledelphi.one",
 			  "address": "0x4fE889F450EcA4decd8a65B6B6eC5b7Db8EaB12E",
 			  "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4fE889F450EcA4decd8a65B6B6eC5b7Db8EaB12E.png"
-		}
+    }
 	]
 }
