@@ -454,6 +454,14 @@
 			"url": "https://www.flarekollektiv.xyz",
 			"address": "0xE76Bc13136338f27363425FcbCB36967B0540176",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE76Bc13136338f27363425FcbCB36967B0540176.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Dione",
+			"description": "Dione prides itself as a gateway between the heart and the veins of the network, Composed of a team of data experts to provide timely and consistent insights to unlock the network's potential for stable rewards to our delegators",
+			"url": "https://dionenetwork.io",
+			"address": "0x285430390a72Ce038f6e54BF10f24B94A550474f",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x285430390a72Ce038f6e54BF10f24B94A550474f.png"
 		}
 	]
 }
