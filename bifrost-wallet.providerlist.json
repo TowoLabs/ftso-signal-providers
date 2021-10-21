@@ -462,6 +462,22 @@
 			"url": "https://dionenetwork.io",
 			"address": "0x285430390a72Ce038f6e54BF10f24B94A550474f",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x285430390a72Ce038f6e54BF10f24B94A550474f.png"
+		},
+		{
+			"chainId": 19,
+			"name": "African Proofs",
+			"description": "We are a Flare and Songbird blockchain networks data signals provider based is South Africa. We provide a consistent and honest account of real world information for use in the Flare Networks ecosystem of chains.",
+			"url": "https://proofs.africa",
+			"address": "0xaF31CA175bbE0C6dD667c8403B65a33b28238afa",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xaF31CA175bbE0C6dD667c8403B65a33b28238afa.png"
+		},
+		{
+			"chainId": 14,
+			"name": "African Proofs",
+			"description": "We are a Flare and Songbird blockchain networks data signals provider based is South Africa. We provide a consistent and honest account of real world information for use in the Flare Networks ecosystem of chains.",
+			"url": "https://proofs.africa",
+			"address": "0xaF31CA175bbE0C6dD667c8403B65a33b28238afa",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xaF31CA175bbE0C6dD667c8403B65a33b28238afa.png"
 		}
 	]
 }
