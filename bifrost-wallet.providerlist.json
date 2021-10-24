@@ -462,6 +462,22 @@
 			"url": "https://dionenetwork.io",
 			"address": "0x285430390a72Ce038f6e54BF10f24B94A550474f",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x285430390a72Ce038f6e54BF10f24B94A550474f.png"
+		},
+		{
+			"chainId": 19,
+			"name": "FlareFTSO",
+			"description": "FlareFTSO is a signal provider for the Flare Time Series Oracle, providing reliable price feeds, delegation services, validator services, and other solutions to the crypto community.",
+			"url": "https://flareftso.com/",
+			"address": "0x4F7f5F8eF4a3CC11f94e875393Ee909Eb5f824ea",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4F7f5F8eF4a3CC11f94e875393Ee909Eb5f824ea.png"
+		},
+		{
+			"chainId": 14,
+			"name": "FlareFTSO",
+			"description": "FlareFTSO is a signal provider for the Flare Time Series Oracle, providing reliable price feeds, delegation services, validator services, and other solutions to the crypto community.",
+			"url": "https://flareftso.com/",
+			"address": "0x58048528D3d3aea14Ec95eb5e98b18dE51780e27",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x58048528D3d3aea14Ec95eb5e98b18dE51780e27.png"
 		}
 	]
 }
