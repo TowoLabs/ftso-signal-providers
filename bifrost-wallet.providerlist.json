@@ -465,8 +465,24 @@
 		},
 		{
 			"chainId": 19,
+			"name": "FlareFTSO",
+			"description": "FlareFTSO is a signal provider for the Flare Time Series Oracle, providing reliable price feeds, delegation services, validator services, and other solutions to the crypto community.",
+			"url": "https://flareftso.com",
+			"address": "0x4F7f5F8eF4a3CC11f94e875393Ee909Eb5f824ea",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4F7f5F8eF4a3CC11f94e875393Ee909Eb5f824ea.png"
+		},
+		{
+			"chainId": 14,
+			"name": "FlareFTSO",
+			"description": "FlareFTSO is a signal provider for the Flare Time Series Oracle, providing reliable price feeds, delegation services, validator services, and other solutions to the crypto community.",
+			"url": "https://flareftso.com",
+			"address": "0x58048528D3d3aea14Ec95eb5e98b18dE51780e27",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x58048528D3d3aea14Ec95eb5e98b18dE51780e27.png"
+		},
+		{
+			"chainId": 19,
 			"name": "African Proofs",
-			"description": "We are a Flare and Songbird blockchain networks data signals provider based is South Africa. We provide a consistent and honest account of real world information for use in the Flare Networks ecosystem of chains.",
+			"description": "We are a Flare and Songbird blockchain networks data signals provider based in South Africa. We provide a consistent and honest account of real world information for use in the Flare Networks ecosystem of chains.",
 			"url": "https://proofs.africa",
 			"address": "0xaF31CA175bbE0C6dD667c8403B65a33b28238afa",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xaF31CA175bbE0C6dD667c8403B65a33b28238afa.png"
@@ -474,7 +490,7 @@
 		{
 			"chainId": 14,
 			"name": "African Proofs",
-			"description": "We are a Flare and Songbird blockchain networks data signals provider based is South Africa. We provide a consistent and honest account of real world information for use in the Flare Networks ecosystem of chains.",
+			"description": "We are a Flare and Songbird blockchain networks data signals provider based in South Africa. We provide a consistent and honest account of real world information for use in the Flare Networks ecosystem of chains.",
 			"url": "https://proofs.africa",
 			"address": "0xaF31CA175bbE0C6dD667c8403B65a33b28238afa",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xaF31CA175bbE0C6dD667c8403B65a33b28238afa.png"
