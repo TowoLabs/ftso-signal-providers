@@ -494,6 +494,22 @@
 			"url": "https://proofs.africa",
 			"address": "0xaF31CA175bbE0C6dD667c8403B65a33b28238afa",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xaF31CA175bbE0C6dD667c8403B65a33b28238afa.png"
+		},
+		{
+			"chainId": 19,
+			"name": "dank FTSO",
+			"description": "We only source best prices from best price aggregators.",
+			"url": "http://dankftso.com/",
+			"address": "0xF8b92bE7ffB021B074F8621765D72dA4C8862749",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF8b92bE7ffB021B074F8621765D72dA4C8862749.png"
+		},
+		{
+			"chainId": 14,
+			"name": "dank FTSO",
+			"description": "We only source best prices from best price aggregators.",
+			"url": "http://dankftso.com/",
+			"address": "0xF8b92bE7ffB021B074F8621765D72dA4C8862749",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF8b92bE7ffB021B074F8621765D72dA4C8862749.png"
 		}
 	]
 }
