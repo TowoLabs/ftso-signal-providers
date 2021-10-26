@@ -494,6 +494,22 @@
 			"url": "https://proofs.africa",
 			"address": "0xaF31CA175bbE0C6dD667c8403B65a33b28238afa",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xaF31CA175bbE0C6dD667c8403B65a33b28238afa.png"
+		},
+		{
+			"chainId": 19,
+			"name": "FlareFi",
+			"description": "We are a trustworthy data provider for Songbird and Flare Network, the new distributed ecosystem. We collect data reliably for the benefit of the ecosystem and our delegators.",
+			"url": "https://flarefi.tech",
+			"address": "0x5f3C5991De3F0713715a733eE125785D516cEb16",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5f3C5991De3F0713715a733eE125785D516cEb16.png"
+		},
+		{
+			"chainId": 14,
+			"name": "FlareFi",
+			"description": "We are a trustworthy data provider for Songbird and Flare Network, the new distributed ecosystem. We collect data reliably for the benefit of the ecosystem and our delegators.",
+			"url": "https://flarefi.tech",
+			"address": "0x5f3C5991De3F0713715a733eE125785D516cEb16",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5f3C5991De3F0713715a733eE125785D516cEb16.png"
 		}
 	]
 }
