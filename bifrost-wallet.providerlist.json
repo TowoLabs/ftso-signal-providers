@@ -510,6 +510,22 @@
 			"url": "https://flarefi.tech",
 			"address": "0x5f3C5991De3F0713715a733eE125785D516cEb16",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5f3C5991De3F0713715a733eE125785D516cEb16.png"
+		},
+		{
+		        "chainId": 19,
+		        "name": "WitterFTSO",
+		        "description": "We are a NYC based Flare Network signal provider. We put the PRO in provider!",
+		        "url": "https://witterftso.com",
+		        "address": "0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F",
+		        "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F.png"
+		},
+		{
+		        "chainId": 14,
+		        "name": "WitterFTSO",
+		        "description": "We are a NYC based Flare Network signal provider. We put the PRO in provider!",
+		        "url": "https://witterftso.com",
+		        "address": "0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F",
+		        "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F.png"
 		}
 	]
 }
