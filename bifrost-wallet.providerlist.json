@@ -512,6 +512,7 @@
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5f3C5991De3F0713715a733eE125785D516cEb16.png"
 		},
 		{
+			"chainId": 19,
 			"name": "WitterFTSO",
 			"description": "We are a NYC based Flare Network signal provider. We put the PRO in provider!",
 			"url": "https://witterftso.com",
