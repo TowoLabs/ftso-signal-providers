@@ -513,6 +513,22 @@
 		},
 		{
 			"chainId": 19,
+			"name": "WitterFTSO",
+			"description": "We are a NYC based Flare Network signal provider. We put the PRO in provider!",
+			"url": "https://witterftso.com",
+			"address": "0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F.png"
+		},
+		{
+			"chainId": 14,
+			"name": "WitterFTSO",
+			"description": "We are a NYC based Flare Network signal provider. We put the PRO in provider!",
+			"url": "https://witterftso.com",
+			"address": "0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F.png"
+		},
+    {
+			"chainId": 19,
 			"name": "BeamFTSO",
 			"description": "Beaming high-fidelity FTSO signals to the Flare ecosystem.",
 			"url": "https://beamftso.com",
@@ -526,6 +542,6 @@
 			"url": "https://beamftso.com",
 			"address": "0x8888888830A0fddAaa09CCD891fF5D35fb45D2A6",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x8888888830A0fddAaa09CCD891fF5D35fb45D2A6.png"
-		}
+    }
 	]
 }
