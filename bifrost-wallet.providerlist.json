@@ -512,7 +512,6 @@
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5f3C5991De3F0713715a733eE125785D516cEb16.png"
 		},
 		{
-			"chainId": 19,
 			"name": "WitterFTSO",
 			"description": "We are a NYC based Flare Network signal provider. We put the PRO in provider!",
 			"url": "https://witterftso.com",
@@ -542,6 +541,14 @@
 			"url": "https://beamftso.com",
 			"address": "0x8888888830A0fddAaa09CCD891fF5D35fb45D2A6",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x8888888830A0fddAaa09CCD891fF5D35fb45D2A6.png"
-    }
+    },
+    {
+			"chainId": 19,
+			"name": "4DadsFTSO",
+			"description": "4 dads, a bunch of kids and a FTSO. Furthering efforts of decentralization for Flare Network and it’s canary network, Songbird.",
+			"url": "https://4dads.io",
+			"address": "0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3.png"
+		}
 	]
 }
