@@ -1,9 +1,9 @@
 {
 	"name": "Bifrost Wallet",
-	"timestamp": "2021-10-19T00:00:00+00:00",
+	"timestamp": "2021-11-02T00:00:00+00:00",
 	"version": {
 		"major": 1,
-		"minor": 6,
+		"minor": 8,
 		"patch": 0
 	},
 	"providers": [
@@ -497,8 +497,64 @@
 		},
 		{
 			"chainId": 19,
-			"name": "dank FTSO",
-			"description": "We only source best prices from best price aggregators.",
+			"name": "FlareFi",
+			"description": "We are a trustworthy data provider for Songbird and Flare Network, the new distributed ecosystem. We collect data reliably for the benefit of the ecosystem and our delegators.",
+			"url": "https://flarefi.tech",
+			"address": "0x5f3C5991De3F0713715a733eE125785D516cEb16",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5f3C5991De3F0713715a733eE125785D516cEb16.png"
+		},
+		{
+			"chainId": 14,
+			"name": "FlareFi",
+			"description": "We are a trustworthy data provider for Songbird and Flare Network, the new distributed ecosystem. We collect data reliably for the benefit of the ecosystem and our delegators.",
+			"url": "https://flarefi.tech",
+			"address": "0x5f3C5991De3F0713715a733eE125785D516cEb16",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5f3C5991De3F0713715a733eE125785D516cEb16.png"
+		},
+		{
+			"chainId": 19,
+			"name": "WitterFTSO",
+			"description": "We are a NYC based Flare Network signal provider. We put the PRO in provider!",
+			"url": "https://witterftso.com",
+			"address": "0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F.png"
+		},
+		{
+			"chainId": 14,
+			"name": "WitterFTSO",
+			"description": "We are a NYC based Flare Network signal provider. We put the PRO in provider!",
+			"url": "https://witterftso.com",
+			"address": "0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F.png"
+		},
+		{
+			"chainId": 19,
+			"name": "BeamFTSO",
+			"description": "Beaming high-fidelity FTSO signals to the Flare ecosystem.",
+			"url": "https://beamftso.com",
+			"address": "0x8888888830A0fddAaa09CCD891fF5D35fb45D2A6",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x8888888830A0fddAaa09CCD891fF5D35fb45D2A6.png"
+		},
+		{
+			"chainId": 14,
+			"name": "BeamFTSO",
+			"description": "Beaming high-fidelity FTSO signals to the Flare ecosystem.",
+			"url": "https://beamftso.com",
+			"address": "0x8888888830A0fddAaa09CCD891fF5D35fb45D2A6",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x8888888830A0fddAaa09CCD891fF5D35fb45D2A6.png"
+		},
+		{
+			"chainId": 19,
+			"name": "4DadsFTSO",
+			"description": "4 dads, a bunch of kids and a FTSO. Furthering efforts of decentralization for Flare Network and it’s canary network, Songbird.",
+			"url": "https://4dads.io",
+			"address": "0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3.png"
+		},
+    {
+      "chainId": 19,
+    	"name": "dank FTSO",
+			"description": "We only source best prices from best exchanges.",
 			"url": "http://dankftso.com/",
 			"address": "0xF8b92bE7ffB021B074F8621765D72dA4C8862749",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF8b92bE7ffB021B074F8621765D72dA4C8862749.png"
@@ -506,10 +562,10 @@
 		{
 			"chainId": 14,
 			"name": "dank FTSO",
-			"description": "We only source best prices from best price aggregators.",
+			"description": "We only source best prices from best exchanges.",
 			"url": "http://dankftso.com/",
 			"address": "0xF8b92bE7ffB021B074F8621765D72dA4C8862749",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF8b92bE7ffB021B074F8621765D72dA4C8862749.png"
-		}
+    }
 	]
 }
