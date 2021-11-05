@@ -550,6 +550,22 @@
 			"url": "https://4dads.io",
 			"address": "0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Aternety",
+			"description": "Aternety is based off Chicago (USA) and run by a team of experienced software engineers.",
+			"url": "https://aternety.com",
+			"address": "0x2De2C741658f0Ae7b2DdD8EAdD179911564af119",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2De2C741658f0Ae7b2DdD8EAdD179911564af119.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Aternety",
+			"description": "Aternety is based off Chicago (USA) and run by a team of experienced software engineers.",
+			"url": "https://aternety.com",
+			"address": "0x2De2C741658f0Ae7b2DdD8EAdD179911564af119",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2De2C741658f0Ae7b2DdD8EAdD179911564af119.png"
 		}
 	]
 }
