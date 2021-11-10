@@ -1,9 +1,9 @@
 {
 	"name": "Bifrost Wallet",
-	"timestamp": "2021-11-02T00:00:00+00:00",
+	"timestamp": "2021-11-10T00:00:00+00:00",
 	"version": {
 		"major": 1,
-		"minor": 8,
+		"minor": 9,
 		"patch": 0
 	},
 	"providers": [
@@ -553,19 +553,35 @@
 		},
     {
       "chainId": 19,
-    	"name": "dank FTSO",
+    	"name": "Dank FTSO",
 			"description": "We only source best prices from best exchanges.",
-			"url": "http://dankftso.com/",
+			"url": "https://dankftso.com",
 			"address": "0xF8b92bE7ffB021B074F8621765D72dA4C8862749",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF8b92bE7ffB021B074F8621765D72dA4C8862749.png"
 		},
 		{
 			"chainId": 14,
-			"name": "dank FTSO",
+			"name": "Dank FTSO",
 			"description": "We only source best prices from best exchanges.",
-			"url": "http://dankftso.com/",
+			"url": "https://dankftso.com",
 			"address": "0xF8b92bE7ffB021B074F8621765D72dA4C8862749",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF8b92bE7ffB021B074F8621765D72dA4C8862749.png"
-    }
+    },
+		{
+			"chainId": 19,
+			"name": "Aternety",
+			"description": "Aternety is based off Chicago (USA) and run by a team of experienced software engineers.",
+			"url": "https://aternety.com",
+			"address": "0x2De2C741658f0Ae7b2DdD8EAdD179911564af119",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2De2C741658f0Ae7b2DdD8EAdD179911564af119.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Aternety",
+			"description": "Aternety is based off Chicago (USA) and run by a team of experienced software engineers.",
+			"url": "https://aternety.com",
+			"address": "0x2De2C741658f0Ae7b2DdD8EAdD179911564af119",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2De2C741658f0Ae7b2DdD8EAdD179911564af119.png"
+		}
 	]
 }
