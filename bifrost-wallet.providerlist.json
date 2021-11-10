@@ -550,6 +550,22 @@
 			"url": "https://4dads.io",
 			"address": "0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3.png"
-		}
+		},
+		{
+                        "chainId": 19,
+                        "name": "Dragon Oracle",
+                        "description": "Your Asia Based Professional FTSO signal provider",
+                        "url": "https://dragonoracle.io",
+                        "address": "0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2",
+                        "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2.png"
+                },
+                {
+                        "chainId": 14,
+                        "name": "Dragon Oracle",
+                        "description": "Your Asia Based Professional FTSO signal provider",
+                        "url": "https://dragonoracle.io",
+                        "address": "0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2",
+                        "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2.png"
+                }
 	]
 }
