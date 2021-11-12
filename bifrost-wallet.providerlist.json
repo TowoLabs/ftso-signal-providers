@@ -582,6 +582,22 @@
 			"url": "https://aternety.com",
 			"address": "0x2De2C741658f0Ae7b2DdD8EAdD179911564af119",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2De2C741658f0Ae7b2DdD8EAdD179911564af119.png"
+		},
+		{
+			"chainId": 19,
+			"name": "1FTSO",
+			"description": "Providing accurate on-time data to the network.",
+			"url": "https://1ftso.com",
+			"address": "0xeceFe81ff88E5609704697De20Cc36990b76d633",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xeceFe81ff88E5609704697De20Cc36990b76d633.png"
+		},
+		{
+			"chainId": 14,
+			"name": "1FTSO",
+			"description": "Providing accurate on-time data to the network.",
+			"url": "https://1ftso.com",
+			"address": "0xeceFe81ff88E5609704697De20Cc36990b76d633",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xeceFe81ff88E5609704697De20Cc36990b76d633.png"
 		}
 	]
 }
