@@ -1,9 +1,9 @@
 {
 	"name": "Bifrost Wallet",
-	"timestamp": "2021-11-10T00:00:00+00:00",
+	"timestamp": "2021-11-12T00:00:00+00:00",
 	"version": {
 		"major": 1,
-		"minor": 9,
+		"minor": 10,
 		"patch": 0
 	},
 	"providers": [
@@ -585,7 +585,23 @@
 		},
 		{
 			"chainId": 19,
-			"name": "ACE.Trade SongBird FTSO.IT",
+			"name": "1FTSO",
+			"description": "Providing accurate on-time data to the network.",
+			"url": "https://1ftso.com",
+			"address": "0xeceFe81ff88E5609704697De20Cc36990b76d633",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xeceFe81ff88E5609704697De20Cc36990b76d633.png"
+		},
+		{
+			"chainId": 14,
+			"name": "1FTSO",
+			"description": "Providing accurate on-time data to the network.",
+			"url": "https://1ftso.com",
+			"address": "0xeceFe81ff88E5609704697De20Cc36990b76d633",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xeceFe81ff88E5609704697De20Cc36990b76d633.png"
+		},
+    {
+      "chainId": 19,
+			"name": "FTSO.IT",
 			"description": "Your most convenient and efficient Songbird data provider.",
 			"url": "https://ftso.it",
 			"address": "0x6fF5947eF89754682aD765b79C11f33452756D0B",
@@ -593,11 +609,11 @@
 		},
 		{
 			"chainId": 14,
-			"name": "ACE.Trade Flare FTSO.IT",
+			"name": "FTSO.IT",
 			"description": "Your most convenient and efficient Flare data provider.",
 			"url": "https://ftso.it",
 			"address": "0x6fF5947eF89754682aD765b79C11f33452756D0B",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6fF5947eF89754682aD765b79C11f33452756D0B.png"
-		}
+    }
 	]
 }
