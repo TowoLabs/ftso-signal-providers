@@ -462,6 +462,22 @@
 			"url": "https://dionenetwork.io",
 			"address": "0x285430390a72Ce038f6e54BF10f24B94A550474f",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x285430390a72Ce038f6e54BF10f24B94A550474f.png"
-		}
+		},
+        {
+            "chainId": 19,
+            "name": "ACE.Trade SongBird FTSO.IT",
+            "description": "Your most convenient and efficient Songbird data provider.",
+            "url": "https://ftso.it",
+            "address": "0x6fF5947eF89754682aD765b79C11f33452756D0B",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6fF5947eF89754682aD765b79C11f33452756D0B.png"
+        },
+        {
+            "chainId": 14,
+            "name": "ACE.Trade Flare FTSO.IT",
+            "description": "Your most convenient and efficient Flare data provider.",
+            "url": "https://ftso.it",
+            "address": "0x6fF5947eF89754682aD765b79C11f33452756D0B",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6fF5947eF89754682aD765b79C11f33452756D0B.png"
+        }
 	]
 }
