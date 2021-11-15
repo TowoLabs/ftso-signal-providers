@@ -599,7 +599,7 @@
 			"address": "0xeceFe81ff88E5609704697De20Cc36990b76d633",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xeceFe81ff88E5609704697De20Cc36990b76d633.png"
 		},
-    {
+    	{
       "chainId": 19,
 			"name": "FTSO.IT",
 			"description": "Your most convenient and efficient Songbird data provider.",
@@ -614,6 +614,23 @@
 			"url": "https://ftso.it",
 			"address": "0x6fF5947eF89754682aD765b79C11f33452756D0B",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6fF5947eF89754682aD765b79C11f33452756D0B.png"
-    }
+   		},
+		{
+			"chainId": 19,
+			"name": "Comfy Nodes",
+			"description": "Only the comfiest rates.",
+			"url": "https://www.comfynodes.com",
+			"address": "0x821BDE578955B35F9F2C9022268E5BC748994f71",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x821BDE578955B35F9F2C9022268E5BC748994f71.png"
+   		},
+		{
+			"chainId": 14,
+			"name": "Comfy Nodes",
+			"description": "Only the comfiest rates.",
+			"url": "https://www.comfynodes.com",
+			"address": "0x821BDE578955B35F9F2C9022268E5BC748994f71",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x821BDE578955B35F9F2C9022268E5BC748994f71.png"
+   		}
+
 	]
 }
