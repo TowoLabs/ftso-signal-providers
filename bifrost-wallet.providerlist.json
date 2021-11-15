@@ -1,9 +1,9 @@
 {
 	"name": "Bifrost Wallet",
-	"timestamp": "2021-11-12T00:00:00+00:00",
+	"timestamp": "2021-11-15T00:00:00+00:00",
 	"version": {
 		"major": 1,
-		"minor": 10,
+		"minor": 11,
 		"patch": 0
 	},
 	"providers": [
@@ -599,8 +599,8 @@
 			"address": "0xeceFe81ff88E5609704697De20Cc36990b76d633",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xeceFe81ff88E5609704697De20Cc36990b76d633.png"
 		},
-    {
-      "chainId": 19,
+		{
+			"chainId": 19,
 			"name": "FTSO.IT",
 			"description": "Your most convenient and efficient Songbird data provider.",
 			"url": "https://ftso.it",
@@ -614,22 +614,22 @@
 			"url": "https://ftso.it",
 			"address": "0x6fF5947eF89754682aD765b79C11f33452756D0B",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6fF5947eF89754682aD765b79C11f33452756D0B.png"
-    },
+		},
 		{
-                        "chainId": 19,
-                        "name": "Dragon Oracle",
-                        "description": "Your Asia Based Professional FTSO signal provider",
-                        "url": "https://dragonoracle.io",
-                        "address": "0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2",
-                        "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2.png"
-                },
-                {
-                        "chainId": 14,
-                        "name": "Dragon Oracle",
-                        "description": "Your Asia Based Professional FTSO signal provider",
-                        "url": "https://dragonoracle.io",
-                        "address": "0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2",
-                        "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2.png"
-                }
+			"chainId": 19,
+			"name": "Dragon Oracle",
+			"description": "Your Asia based professional FTSO signal provider",
+			"url": "https://dragonoracle.io",
+			"address": "0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Dragon Oracle",
+			"description": "Your Asia based professional FTSO signal provider",
+			"url": "https://dragonoracle.io",
+			"address": "0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2.png"
+		}
 	]
 }
