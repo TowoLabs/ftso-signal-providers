@@ -632,6 +632,7 @@
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2.png"
 		},
 		{
+			"chainId": 19,
 			"name": "Comfy Nodes",
 			"description": "Only the comfiest rates.",
 			"url": "https://www.comfynodes.com",
