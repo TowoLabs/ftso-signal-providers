@@ -632,6 +632,37 @@
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2.png"
 		},
 		{
+			"name": "Comfy Nodes",
+			"description": "Only the comfiest rates.",
+			"url": "https://www.comfynodes.com",
+			"address": "0x821BDE578955B35F9F2C9022268E5BC748994f71",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x821BDE578955B35F9F2C9022268E5BC748994f71.png"
+   		},
+		{
+			"chainId": 14,
+			"name": "Comfy Nodes",
+			"description": "Only the comfiest rates.",
+			"url": "https://www.comfynodes.com",
+			"address": "0x821BDE578955B35F9F2C9022268E5BC748994f71",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x821BDE578955B35F9F2C9022268E5BC748994f71.png"
+   		},
+		{
+			"chainId": 19,
+			"name": "Mayanodes",
+			"description": "Mayanodes FTSO Americas",
+			"url": "https://www.mayanodes.com",
+			"address": "0x6D457FbA88729c683015a308232b805C857e0EAe",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6D457FbA88729c683015a308232b805C857e0EAe.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Mayanodes",
+			"description": "Mayanodes FTSO Americas",
+			"url": "https://www.mayanodes.com",
+			"address": "0x6D457FbA88729c683015a308232b805C857e0EAe",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6D457FbA88729c683015a308232b805C857e0EAe.png"
+		},
+    {
 			"chainId": 19,
 			"name": "Topbird",
 			"description": "Topbird is a team of blockchain engineers distributed across the world. We host reliable infrastructure and provide accurate price signals to FTSOs on Songbird network.",
@@ -646,6 +677,6 @@
 			"url": "https://topbird.info",
 			"address": "0xf45e6102e702a95f633d1d914f6fb5f0ca344e80",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf45e6102e702a95f633d1d914f6fb5f0ca344e80.png"
-		},
+		}
 	]
 }
