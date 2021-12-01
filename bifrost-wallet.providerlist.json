@@ -662,6 +662,22 @@
 			"url": "https://www.mayanodes.com",
 			"address": "0x6D457FbA88729c683015a308232b805C857e0EAe",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6D457FbA88729c683015a308232b805C857e0EAe.png"
-		}
+		},
+		{
+   			"chainId": 19,
+   			"name": "FTSOnly",
+   			"description": "The Only FTSO you need. The Only Signals you want. Your tokens stay safe in your wallet, Only your voice comes out.",
+   			"url": "https://www.ftsonly.com/",
+   			"address": "0x4838CdE6EF442d450b0B897cfdAf3b135F69d151",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4838CdE6EF442d450b0B897cfdAf3b135F69d151.png"
+  		},
+  		{
+   			"chainId": 14,
+   			"name": "FTSOnly",
+   			"description": "The Only FTSO you need. The Only Signals you want. Your tokens stay safe in your wallet, Only your voice comes out.",
+   			"url": "https://www.ftsonly.com/",
+   			"address": "0x4838CdE6EF442d450b0B897cfdAf3b135F69d151",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4838CdE6EF442d450b0B897cfdAf3b135F69d151.png"
+  		}
 	]
 }
