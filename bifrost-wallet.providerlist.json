@@ -289,22 +289,6 @@
 		},
 		{
 			"chainId": 19,
-			"name": "Taco-Tso",
-			"description": "A time series oracle for lovers of mexican and asian cuisine.",
-			"url": "https://taco-tso.io",
-			"address": "0x17fABA2995351176F648219A5a86921F9eD51A31",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x17fABA2995351176F648219A5a86921F9eD51A31.png"
-		},
-		{
-			"chainId": 14,
-			"name": "Taco-Tso",
-			"description": "A time series oracle for lovers of mexican and asian cuisine.",
-			"address": "0xaCb098842542b8DEcAD0EA49eCd97d1410cbEb26",
-			"url": "https://taco-tso.io",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xaCb098842542b8DEcAD0EA49eCd97d1410cbEb26.png"
-		},
-		{
-			"chainId": 19,
 			"name": "FTSO Cloud",
 			"description": "FTSO provider with an emphasis on accuracy.",
 			"url": "https://ftso.cloud.si",
@@ -638,7 +622,7 @@
 			"url": "https://www.comfynodes.com",
 			"address": "0x821BDE578955B35F9F2C9022268E5BC748994f71",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x821BDE578955B35F9F2C9022268E5BC748994f71.png"
-   		},
+   	},
 		{
 			"chainId": 14,
 			"name": "Comfy Nodes",
@@ -646,7 +630,7 @@
 			"url": "https://www.comfynodes.com",
 			"address": "0x821BDE578955B35F9F2C9022268E5BC748994f71",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x821BDE578955B35F9F2C9022268E5BC748994f71.png"
-   		},
+   	},
 		{
 			"chainId": 19,
 			"name": "Mayanodes",
@@ -655,13 +639,61 @@
 			"address": "0x6D457FbA88729c683015a308232b805C857e0EAe",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6D457FbA88729c683015a308232b805C857e0EAe.png"
 		},
-		{
+    {
 			"chainId": 14,
 			"name": "Mayanodes",
 			"description": "Mayanodes FTSO Americas",
 			"url": "https://www.mayanodes.com",
 			"address": "0x6D457FbA88729c683015a308232b805C857e0EAe",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6D457FbA88729c683015a308232b805C857e0EAe.png"
+		},
+    {
+			"chainId": 19,
+			"name": "Topbird",
+			"description": "Topbird is a team of blockchain engineers distributed across the world. We host reliable infrastructure and provide accurate price signals to FTSOs on Songbird network.",
+			"url": "https://topbird.info",
+			"address": "0xf45e6102E702A95f633D1D914f6FB5f0cA344E80",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf45e6102E702A95f633D1D914f6FB5f0cA344E80.png"
+    },
+    {
+			"chainId": 14,
+			"name": "Topbird",
+			"description": "Topbird is a team of blockchain engineers distributed across the world. We host reliable infrastructure and provide accurate price signals to FTSOs on Songbird network.",
+			"url": "https://topbird.info",
+			"address": "0xf45e6102E702A95f633D1D914f6FB5f0cA344E80",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf45e6102E702A95f633D1D914f6FB5f0cA344E80.png"
+		},
+    {
+			"chainId": 19,
+			"name": "FTSO GG",
+			"description": "FTSO GG a data provider from Florida/USA",
+			"url": "https://ftso.gg",
+			"address": "0x32fE8AC862453DC1B8a390CD3AF821b4FA6fF39D",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x32fE8AC862453DC1B8a390CD3AF821b4FA6fF39D.png"
+		},
+		{
+			"chainId": 14,
+			"name": "FTSO GG",
+			"description": "FTSO GG a data provider from Florida/USA",
+			"url": "https://ftso.gg",
+			"address": "0x32fE8AC862453DC1B8a390CD3AF821b4FA6fF39D",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x32fE8AC862453DC1B8a390CD3AF821b4FA6fF39D.png"
+    },
+    {
+    	"chainId": 19,
+			"name": "Origami",
+			"description": "Bringing more decentralization to the Flare and Songbird networks & more rewards to your pocket",
+			"url": "https://www.origamiftso.com",
+			"address": "0x4cfaE1745980Fe3Bb3731E8542EFdce5004338a4",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4cfaE1745980Fe3Bb3731E8542EFdce5004338a4.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Origami",
+ 			"description": "Bringing more decentralization to the Flare and Songbird networks & more rewards to your pocket",
+			"url": "https://www.origamiftso.com",
+    	"address": "0x4cfaE1745980Fe3Bb3731E8542EFdce5004338a4",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4cfaE1745980Fe3Bb3731E8542EFdce5004338a4.png"
 		},
 		{
 			"chainId": 19,
@@ -678,6 +710,6 @@
 			"url": "https://www.xdrops.live",
 			"address": "0x2d3bdE536ad297f2EA74965f02C9E42f4780fB6A",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2d3bdE536ad297f2EA74965f02C9E42f4780fB6A.png"
-		}
+    }
 	]
 }
