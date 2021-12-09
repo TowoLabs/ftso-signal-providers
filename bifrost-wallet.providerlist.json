@@ -726,6 +726,22 @@
 			"url": "https://www.ftso.ingen.com.ph",
 			"address": "0x664e070592063bFE5072F0aC25C6C11e5ccF9928",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x664e070592063bFE5072F0aC25C6C11e5ccF9928.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Bitrue",
+			"description": "Bitrue exchange",
+			"url": "https://www.bitrue.com",
+			"address": "0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Bitrue",
+			"description": "Bitrue exchange",
+			"url": "https://www.bitrue.com",
+			"address": "0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE.png"
 		}
 	]
 }
