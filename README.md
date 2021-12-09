@@ -3,33 +3,34 @@
 Any individual or entity operating an FTSO signal provider service may submit a pull request to this repository. We do not accept requests from unknown or anonymous individuals or entities. We may require you to prove ownership of your URL and/or address before accepting your contribution. Inactive, underperforming or misbehaving signal providers will be denied and removed.
 
 ## How to Add Your Signal Provider
-1. Copy an existing provider entry in `bifrost-wallet.providerlist.json` (see example below)
-2. Fill your details and add your entry to the bottom of the list
-3. Upload your logo to `assets/` and make sure it meets the image requirements
-4. Submit a pull request
+1. Read the [Requirements](#requirements).
+2. Copy an existing provider entry in `bifrost-wallet.providerlist.json`
+3. Fill your details and add your entry to the bottom of the list
+4. Upload your logo to `assets/`
+5. Submit a pull request
 
 Add one entry per network that you intend to submit prices on. For example, if you're submitting price data to both Songbird and Flare, add two separate entries with different `chainId` values.
 
 ## Requirements
 * All attributes are required and must be in ASCII
-* `chainId` must be one of 19 (Songbird), 16 (Coston) or 14 (Flare)
+* `chainId` must be one of 19 (Songbird) or 14 (Flare)
 * `name` may be max 32 characters
 * `description` may be max 250 characters
 * `url` may be max 100 characters
     * Must be prefixed with https://
     * Must redirect HTTP to HTTPS
 * `address` must be 40 characters hex
-    * Must be the same Songbird, Coston or Flare address that you submit prices with
+    * Must be the same Songbird or Flare address that you submit prices with
     * Must be EIP-55 checksummed
 * `logoURI` must be this repository's raw GitHub user content path
   * Must end with your checksummed address and a `.png` file extension
-  * Must fulfill the PNG image requirements
+  * Must fulfill the [PNG image requirements](#png-image-requirements)
 
 ### PNG Image Requirements
 * The aspect ratio must be 1, use the same width and height
 * The width and height must be between 128 px and 256 px
 * The background must be transparent or fill the entire image
-* The maximum filesize is 24 KB, optimized using for example: https://tinypng.com
+* The maximum filesize is 24 KB, optimized using: https://tinypng.com
 
 ### Example for Songbird
 
