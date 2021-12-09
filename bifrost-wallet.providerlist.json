@@ -742,6 +742,14 @@
 			"url": "https://www.bitrue.com",
 			"address": "0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Qixote FTSO",
+			"description": "In a village of La Mancha, the name of which I have no desire to call to mind…a FTSO starts its journey",
+			"url": "https://www.ftso.es",
+			"address": "0x6D457FbA88729c683015a308232b805C857e0EAe",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3EBb92dC85F2c7AaeC852e008215e2b9C75212C4.png"
 		}
 	]
 }
