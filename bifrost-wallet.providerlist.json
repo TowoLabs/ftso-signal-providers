@@ -742,6 +742,22 @@
 			"url": "https://www.bitrue.com",
 			"address": "0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE.png"
-		}
+		},
+		{
+   			"chainId": 19,
+   			"name": "Thunder",
+   			"description": "Your Striking data provider",
+   			"url": "https://thunderoracles.com",
+   			"address": "0xC045dcC2C5eE8726963abEAb8fCfE2d194CE5c36",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC045dcC2C5eE8726963abEAb8fCfE2d194CE5c36.png"
+  		},
+  		{
+   			"chainId": 14,
+   			"name": "Thunder",
+   			"description": "Your Striking data provider",
+   			"url": "https://thunderoracles.com",
+   			"address": "0xC045dcC2C5eE8726963abEAb8fCfE2d194CE5c36",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC045dcC2C5eE8726963abEAb8fCfE2d194CE5c36.png"
+  		}
 	]
 }
