@@ -742,6 +742,22 @@
 			"url": "https://www.bitrue.com",
 			"address": "0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE.png"
-		}
+		},
+		{
+   			"chainId": 19,
+   			"name": "Pacific Signals",
+   			"description": "Our qualities: Risk-Free Voting, High End Infrastructure, the most Innovative Technologies",
+   			"url": "https://pacificsignals.com",
+   			"address": "0x79526967D531433BC3E0FCB00Df446aE8f3CA62D",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x79526967D531433BC3E0FCB00Df446aE8f3CA62D.png"
+  		},
+  		{
+   			"chainId": 14,
+   			"name": "Pacific Signals",
+   			"description": "Our qualities: Risk-Free Voting, High End Infrastructure, the most Innovative Technologies",
+   			"url": "https://pacificsignals.com",
+   			"address": "0x79526967D531433BC3E0FCB00Df446aE8f3CA62D",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x79526967D531433BC3E0FCB00Df446aE8f3CA62D.png"
+  		}
 	]
 }
