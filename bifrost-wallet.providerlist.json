@@ -742,6 +742,22 @@
 			"url": "https://www.bitrue.com",
 			"address": "0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE.png"
-		}
+		},
+		{
+   			"chainId": 19,
+   			"name": "Infinity",
+   			"description": "WE OFFER YOU: Security, Reliability, Transparency",
+   			"url": "https://infinityftso.com",
+   			"address": "0x792Bb161C6eAE681ba2F223db1a071e4cf4B4201",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x792Bb161C6eAE681ba2F223db1a071e4cf4B4201.png"
+  		},
+  		{
+   			"chainId": 14,
+   			"name": "Infinity",
+   			"description": "WE OFFER YOU: Security, Reliability, Transparency",
+   			"url": "https://infinityftso.com",
+   			"address": "0x792Bb161C6eAE681ba2F223db1a071e4cf4B4201",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x792Bb161C6eAE681ba2F223db1a071e4cf4B4201.png"
+  		}
 	]
 }
