@@ -742,6 +742,22 @@
 			"url": "https://www.bitrue.com",
 			"address": "0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE.png"
-		}
+		},
+		{
+   			"chainId": 19,
+   			"name": "Ninja Oracle",
+   			"description": "Enlightened and discreet FTSO provider",
+   			"url": "https://ninjaoracle.com",
+   			"address": "0xA3FD735fE50F47B047561Fdd42ddCC4CeFb03e6E",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA3FD735fE50F47B047561Fdd42ddCC4CeFb03e6E.png"
+  		},
+  		{
+   			"chainId": 14,
+   			"name": "Ninja Oracle",
+   			"description": "Enlightened and discreet FTSO provider",
+   			"url": "https://ninjaoracle.com",
+   			"address": "0xA3FD735fE50F47B047561Fdd42ddCC4CeFb03e6E",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA3FD735fE50F47B047561Fdd42ddCC4CeFb03e6E.png"
+  		}
 	]
 }
