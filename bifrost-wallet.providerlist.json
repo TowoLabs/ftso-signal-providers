@@ -742,6 +742,22 @@
 			"url": "https://www.bitrue.com",
 			"address": "0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE.png"
-		}
+		},
+		{
+   			"chainId": 19,
+   			"name": "Bull FTSO",
+   			"description": "BULL FTSO sends resilient and efficient price signals to the Flare Decentralized Network",
+   			"url": "https://bullftso.com",
+   			"address": "0x44Fd0E5C3AacD66D83e1518f1C1b79dC379d87Ac",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x44Fd0E5C3AacD66D83e1518f1C1b79dC379d87Ac.png"
+  		},
+  		{
+   			"chainId": 14,
+   			"name": "Bull FTSO",
+   			"description": "BULL FTSO sends resilient and efficient price signals to the Flare Decentralized Network",
+   			"url": "https://bullftso.com",
+   			"address": "0x44Fd0E5C3AacD66D83e1518f1C1b79dC379d87Ac",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x44Fd0E5C3AacD66D83e1518f1C1b79dC379d87Ac.png"
+  		}
 	]
 }
