@@ -742,6 +742,22 @@
 			"url": "https://www.bitrue.com",
 			"address": "0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE.png"
+		},
+		{
+			"chainId": 19,
+			"name": "FTSO Tech",
+			"description": "Your most reliable Flare Time Series Oracle",
+			"url": "https://ftsotech.xyz",
+			"address": "0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f.png"
+		},
+		{
+			"chainId": 14,
+			"name": "FTSO Tech",
+			"description": "Your most reliable Flare Time Series Oracle",
+			"url": "https://ftsotech.xyz",
+			"address": "0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f.png"
 		}
 	]
 }
