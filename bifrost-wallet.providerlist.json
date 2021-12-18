@@ -742,6 +742,22 @@
 			"url": "https://www.bitrue.com",
 			"address": "0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE.png"
-		}
+		},
+		{
+   			"chainId": 19,
+   			"name": "FTSO Canada",
+   			"description": "Start Delegating - Safe & Secure",
+   			"url": "https://ftsocanada.com",
+   			"address": "0x53987F2c36A8D13D40B5f63f2A2ce3110ace41d9",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x53987F2c36A8D13D40B5f63f2A2ce3110ace41d9.png"
+  		},
+  		{
+   			"chainId": 14,
+   			"name": "FTSO Canada",
+   			"description": "Start Delegating - Safe & Secure",
+   			"url": "https://ftsocanada.com",
+   			"address": "0x53987F2c36A8D13D40B5f63f2A2ce3110ace41d9",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x53987F2c36A8D13D40B5f63f2A2ce3110ace41d9.png"
+  		}
 	]
 }
