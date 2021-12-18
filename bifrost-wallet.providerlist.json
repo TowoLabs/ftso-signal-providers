@@ -742,6 +742,22 @@
 			"url": "https://www.bitrue.com",
 			"address": "0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE.png"
-		}
+		},
+		{
+   			"chainId": 19,
+  			"name": "Global Oracles",
+   			"description": "We are an international Team of Crypto experts who has been in the industry for five years.",
+   			"url": "https://globaloracles.org",
+   			"address": "0xF70D53158c3878112c79750e45f970F6c25360a1",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF70D53158c3878112c79750e45f970F6c25360a1.png"
+  		},
+  		{
+   			"chainId": 14,
+   			"name": "Global Oracles",
+   			"description": "We are an international Team of Crypto experts who has been in the industry for five years.",
+   			"url": "https://globaloracles.org",
+   			"address": "0xF70D53158c3878112c79750e45f970F6c25360a1",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF70D53158c3878112c79750e45f970F6c25360a1.png"
+  		}
 	]
 }
