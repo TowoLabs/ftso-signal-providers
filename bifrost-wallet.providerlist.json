@@ -1,9 +1,9 @@
 {
 	"name": "Bifrost Wallet",
-	"timestamp": "2021-12-08T00:00:00+00:00",
+	"timestamp": "2021-12-21T00:00:00+00:00",
 	"version": {
 		"major": 1,
-		"minor": 12,
+		"minor": 13,
 		"patch": 0
 	},
 	"providers": [
@@ -233,17 +233,17 @@
 		},
 		{
 			"chainId": 19,
-			"name": "KysenPool",
-			"description": "Global Proof-of-Stake validator experienced operating nodes for Cardano, Cosmos, Terra, Harmony, Kava and Desmos. Now FTSO for Flare/Songbird.",
-			"url": "https://www.kysenpool.io",
+			"name": "uGaenn",
+			"description": "Your gain is our first priority.",
+			"url": "https://ugaenn.io/",
 			"address": "0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61.png"
 		},
 		{
 			"chainId": 14,
-			"name": "KysenPool",
-			"description": "Global Proof-of-Stake validator experienced operating nodes for Cardano, Cosmos, Terra, Harmony, Kava and Desmos. Now FTSO for Flare/Songbird.",
-			"url": "https://www.kysenpool.io",
+			"name": "uGaenn",
+			"description": "Your gain is our first priority.",
+			"url": "https://ugaenn.io/",
 			"address": "0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61.png"
 		},
@@ -742,6 +742,22 @@
 			"url": "https://www.bitrue.com",
 			"address": "0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Infinity",
+			"description": "WE OFFER YOU: Security, Reliability, Transparency",
+			"url": "https://infinityftso.com",
+			"address": "0x792Bb161C6eAE681ba2F223db1a071e4cf4B4201",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x792Bb161C6eAE681ba2F223db1a071e4cf4B4201.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Infinity",
+			"description": "WE OFFER YOU: Security, Reliability, Transparency",
+			"url": "https://infinityftso.com",
+			"address": "0x792Bb161C6eAE681ba2F223db1a071e4cf4B4201",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x792Bb161C6eAE681ba2F223db1a071e4cf4B4201.png"
 		},
 		{
 			"chainId": 19,
