@@ -3,7 +3,7 @@
 	"timestamp": "2021-12-21T00:00:00+00:00",
 	"version": {
 		"major": 1,
-		"minor": 13,
+		"minor": 14,
 		"patch": 0
 	},
 	"providers": [
@@ -774,6 +774,22 @@
 			"url": "https://www.pricekraken.de",
 			"address": "0xEF4ef2f3B8C69282846a98341095baa018247553",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xEF4ef2f3B8C69282846a98341095baa018247553.png"
-		}
+		},
+    {
+      "chainId": 19,
+			"name": "FTSO Tech",
+			"description": "Your most reliable Flare Time Series Oracle",
+			"url": "https://ftsotech.xyz",
+			"address": "0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f.png"
+		},
+		{
+			"chainId": 14,
+			"name": "FTSO Tech",
+			"description": "Your most reliable Flare Time Series Oracle",
+			"url": "https://ftsotech.xyz",
+			"address": "0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f.png"
+    }
 	]
 }
