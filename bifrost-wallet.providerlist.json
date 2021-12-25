@@ -790,6 +790,22 @@
 			"url": "https://ftsotech.xyz",
 			"address": "0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f.png"
-		}
+		},
+		{
+    			"chainId": 19,
+    			"name": "FTSOnly",
+    			"description": "The Only FTSO you need. The Only Signals you want. Your tokens stay safe in your wallet, Only your voice comes out.",
+    			"url": "https://www.ftsonly.com/",
+    			"address": "0x4838CdE6EF442d450b0B897cfdAf3b135F69d151",
+    			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4838CdE6EF442d450b0B897cfdAf3b135F69d151.png"
+  		},
+  		{
+    			"chainId": 14,
+    			"name": "FTSOnly",
+    			"description": "The Only FTSO you need. The Only Signals you want. Your tokens stay safe in your wallet, Only your voice comes out.",
+    			"url": "https://www.ftsonly.com/",
+    			"address": "0x4838CdE6EF442d450b0B897cfdAf3b135F69d151",
+    			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4838CdE6EF442d450b0B897cfdAf3b135F69d151.png"
+  		}
 	]
 }
