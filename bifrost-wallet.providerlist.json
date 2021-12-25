@@ -790,6 +790,22 @@
 			"url": "https://ftsotech.xyz",
 			"address": "0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f.png"
-		}
+		},
+		{
+   			"chainId": 19,
+   			"name": "Lehman Sisters",
+   			"description": "You don’t have to send us your FLR or SGB Tokens. You don’t have to worry if we go bankrupt or not. We are just a better decentralized trustless version of our brothers’ business and we will definitely make you happy",
+   			"url": "https://lehmansisters.org",
+   			"address": "0x7606D86dAEC7Cd79E4c557D0fBDc77d41376f3bf",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7606D86dAEC7Cd79E4c557D0fBDc77d41376f3bf.png"
+  		},
+  		{
+   			"chainId": 14,
+   			"name": "Lehman Sisters",
+   			"description": "You don’t have to send us your FLR or SGB Tokens. You don’t have to worry if we go bankrupt or not. We are just a better decentralized trustless version of our brothers’ business and we will definitely make you happy",
+   			"url": "https://lehmansisters.org",
+   			"address": "0x7606D86dAEC7Cd79E4c557D0fBDc77d41376f3bf",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7606D86dAEC7Cd79E4c557D0fBDc77d41376f3bf.png"
+  		}
 	]
 }
