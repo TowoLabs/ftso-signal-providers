@@ -790,6 +790,22 @@
 			"url": "https://ftsotech.xyz",
 			"address": "0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f.png"
-		}
+		},
+		{
+   			"chainId": 19,
+   			"name": "Team USA",
+   			"description": "Welcome to Team USA. Our missions: Bring more decentralization to Flare Network. Cut the middle men. Delegate directly to us and don’t let your exchange get a cut of your rewards",
+   			"url": "https://teamusa-ftso.com",
+   			"address": "0x4aE5157DdCc7Ae646406Ee3B677b19501E3DFb23",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4aE5157DdCc7Ae646406Ee3B677b19501E3DFb23.png"
+  		},
+  		{
+   			"chainId": 14,
+   			"name": "Team USA",
+   			"description": "Welcome to Team USA. Our missions: Bring more decentralization to Flare Network. Cut the middle men. Delegate directly to us and don’t let your exchange get a cut of your rewards",
+   			"url": "https://teamusa-ftso.com",
+   			"address": "0x4aE5157DdCc7Ae646406Ee3B677b19501E3DFb23",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4aE5157DdCc7Ae646406Ee3B677b19501E3DFb23.png"
+  		}
 	]
 }
