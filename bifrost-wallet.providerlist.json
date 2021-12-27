@@ -790,6 +790,22 @@
 			"url": "https://ftsotech.xyz",
 			"address": "0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f.png"
-		}
+		},
+		{
+    			"chainId": 19,
+    			"name": "Black Swan",
+    			"description": "Your Austrian FTSO",
+    			"url": "https://blackswan-signals.com",
+    			"address": "0xf51415629673C4B377623dEFe6602E5D42802C2D",
+    			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf51415629673C4B377623dEFe6602E5D42802C2D.png"
+  		},
+  		{
+    			"chainId": 14,
+    			"name": "Black Swan",
+    			"description": "Your Austrian FTSO",
+    			"url": "https://blackswan-signals.com",
+    			"address": "0xf51415629673C4B377623dEFe6602E5D42802C2D",
+    			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf51415629673C4B377623dEFe6602E5D42802C2D.png"
+  		}
 	]
 }
