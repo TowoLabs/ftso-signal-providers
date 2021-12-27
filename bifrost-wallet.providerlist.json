@@ -790,6 +790,22 @@
 			"url": "https://ftsotech.xyz",
 			"address": "0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f.png"
-		}
+		},
+		{
+    			"chainId": 19,
+    			"name": "Avax",
+    			"description": "WE SIMPLIFY FLARE TIME SERIES ORACLE PROVISION",
+    			"url": "https://avaxftso.com",
+    			"address": "0xd656c094C1D43Dc5DCd7F5C44199cE66c0f148bf",
+    			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xd656c094C1D43Dc5DCd7F5C44199cE66c0f148bf.png"
+  		},
+  		{
+    			"chainId": 14,
+    			"name": "Avax",
+    			"description": "WE SIMPLIFY FLARE TIME SERIES ORACLE PROVISION",
+    			"url": "https://avaxftso.com",
+    			"address": "0xd656c094C1D43Dc5DCd7F5C44199cE66c0f148bf",
+    			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xd656c094C1D43Dc5DCd7F5C44199cE66c0f148bf.png"
+  		}
 	]
 }
