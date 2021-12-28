@@ -790,6 +790,22 @@
 			"url": "https://ftsotech.xyz",
 			"address": "0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f.png"
+		},
+		{
+			"chainId": 19,
+			"name": "XAWC",
+			"description": "Japan based signal provider with a goal to provide reliable accuracy",
+			"url": "https://ftso.xawc.live",
+			"address": "0x190C6f470A866Db58A6c17631e24b07BE257eAf5",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x190C6f470A866Db58A6c17631e24b07BE257eAf5.png"
+		},
+		{
+			"chainId": 14,
+			"name": "XAWC",
+			"description": "Japan based signal provider with a goal to provide reliable accuracy",
+			"url": "https://ftso.xawc.live",
+			"address": "0x190C6f470A866Db58A6c17631e24b07BE257eAf5",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x190C6f470A866Db58A6c17631e24b07BE257eAf5.png"
 		}
 	]
 }
