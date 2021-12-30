@@ -798,14 +798,6 @@
 			"url": "https://www.ftso.london",
 			"address": "0x0708a4C813594b7E0218CB4A5D8b75c76AbFc859",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0708a4C813594b7E0218CB4A5D8b75c76AbFc859.png"
-		},
-		{
-			"chainId": 14,
-			"name": "FTSO London",
-			"description": "Let’s work together to maximise your Flare Rewards. Our delegation services enable token holders to earn lucrative rewards on the Flare Network",
-			"url": "https://www.ftso.london",
-			"address": "0x0708a4C813594b7E0218CB4A5D8b75c76AbFc859",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0708a4C813594b7E0218CB4A5D8b75c76AbFc859.png"
 		}
 	]
 }
