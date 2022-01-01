@@ -790,6 +790,14 @@
 			"url": "https://ftsotech.xyz",
 			"address": "0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f.png"
+		},
+		{
+			"chainId": 19,
+			"name": "SGBFTSO.com",
+			"description": "SGBFTSO.com is a new innovator in this space developing a fast and efficient price provider written in GoLang. We are active in the Flare/Songbird community and always happy to help!",
+			"url": "https://sgbftso.com",
+			"address": "0xbADF00D6387958a3E7747C0A0CF5E5a06dcc90c0",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbADF00D6387958a3E7747C0A0CF5E5a06dcc90c0.png"
 		}
 	]
 }
