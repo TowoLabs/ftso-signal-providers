@@ -793,6 +793,14 @@
 		},
 		{
 			"chainId": 19,
+			"name": "SGBFTSO.com",
+			"description": "SGBFTSO.com is a new innovator in this space developing a fast and efficient price provider written in GoLang. We are active in the Flare/Songbird community and always happy to help!",
+			"url": "https://sgbftso.com",
+			"address": "0xbADF00D6387958a3E7747C0A0CF5E5a06dcc90c0",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbADF00D6387958a3E7747C0A0CF5E5a06dcc90c0.png"
+		},
+		{
+			"chainId": 19,
 			"name": "Sparkles FTSO",
 			"description": "Sparkles FTSO is an extension of Sparkles, an NFT platform on the Songbird/Flare Network. Our philosophy is to push boundaries and create standards, be creative and make everything we do fun and interactive for our community.",
 			"url": "https://sparklesnft.com",
