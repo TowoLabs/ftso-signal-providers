@@ -1,9 +1,9 @@
 {
 	"name": "Bifrost Wallet",
-	"timestamp": "2021-12-21T00:00:00+00:00",
+	"timestamp": "2022-01-05T00:00:00+00:00",
 	"version": {
-		"major": 1,
-		"minor": 14,
+		"major": 2,
+		"minor": 0,
 		"patch": 0
 	},
 	"providers": [
@@ -743,7 +743,7 @@
 			"address": "0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE.png"
 		},
-		{
+		}
 			"chainId": 19,
 			"name": "Infinity",
 			"description": "WE OFFER YOU: Security, Reliability, Transparency",
@@ -814,6 +814,22 @@
 			"url": "https://sparklesnft.com",
 			"address": "0x3012c799565010C3b090D252839a3D24f3b766bE",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3012c799565010C3b090D252839a3D24f3b766bE.png"
-		}
+		},
+		{
+      "chainId": 19,
+      "name": "Thunder",
+      "description": "Your Striking data provider",
+      "url": "https://thunderoracles.com",
+      "address": "0xC045dcC2C5eE8726963abEAb8fCfE2d194CE5c36",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC045dcC2C5eE8726963abEAb8fCfE2d194CE5c36.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Thunder",
+      "description": "Your Striking data provider",
+      "url": "https://thunderoracles.com",
+      "address": "0xC045dcC2C5eE8726963abEAb8fCfE2d194CE5c36",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC045dcC2C5eE8726963abEAb8fCfE2d194CE5c36.png"
+    }
 	]
 }
