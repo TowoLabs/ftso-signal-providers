@@ -1,4 +1,4 @@
-{
+﻿{
 	"name": "Bifrost Wallet",
 	"timestamp": "2022-01-05T00:00:00+00:00",
 	"version": {
@@ -830,6 +830,22 @@
 			"url": "https://thunderoracles.com",
 			"address": "0xC045dcC2C5eE8726963abEAb8fCfE2d194CE5c36",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC045dcC2C5eE8726963abEAb8fCfE2d194CE5c36.png"
+		},
+		{
+		  "chainId": 19,
+		  "name": "Flaris",
+		  "description": "UK technology",
+		  "url": "https://www.flaris.it",
+		  "address": "0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46" 
+		  "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46.png"
+		},
+		{
+		  "chainId": 14,
+		  "name": "Flaris",
+		  "description": "UK technology",
+		  "url": "https://www.flaris.it",
+		  "address": "0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46" 
+		  "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46.png"
 		}
 	]
 }
