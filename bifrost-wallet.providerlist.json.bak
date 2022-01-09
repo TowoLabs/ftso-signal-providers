@@ -832,6 +832,22 @@
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC045dcC2C5eE8726963abEAb8fCfE2d194CE5c36.png"
 		},
 		{
+			"chainId": 19,
+			"name": "Moon FTSO",
+			"description": "Moon FTSO is a Signal Provider based on the Moon",
+			"url": "https://moonftso.com",
+			"address": "0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Moon FTSO",
+			"description": "Moon FTSO is a Signal Provider based on the Moon",
+			"url": "https://moonftso.com",
+			"address": "0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271.png"
+		},
+		{
 		  "chainId": 19,
 		  "name": "Flaris",
 		  "description": "UK technology",
