@@ -846,6 +846,22 @@
 			"url": "https://moonftso.com",
 			"address": "0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271.png"
+		},
+		{
+			"chainId": 19,
+			"name": "sigma7",
+			"description": "sigma7 - Applied Financial Analytics",
+			"url": "https://ftso.sigma7.io/",
+			"address": "0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0.png"
+		},
+		{
+			"chainId": 14,
+			"name": "sigma7",
+			"description": "sigma7 - Applied Financial Analytics",
+			"url": "https://ftso.sigma7.io/",
+			"address": "0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0.png"
 		}
 	]
 }
