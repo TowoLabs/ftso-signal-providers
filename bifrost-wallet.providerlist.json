@@ -846,6 +846,22 @@
 			"url": "https://moonftso.com",
 			"address": "0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271.png"
+		},
+		{
+			"chainId": 19,
+			"name": " FTSORK",
+			"description": "Flare/Songbird signal provider by Adark d.o.o",
+			"url": "https://www.ftso.adark.io",
+			"address": "0xF1Bd86b547a25921F800AdBb3F35f6E88D336c72",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF1Bd86b547a25921F800AdBb3F35f6E88D336c72.png"
+		},
+		{
+			"chainId": 14,
+			"name": "FTSORK",
+			"description": "Flare/Songbird signal provider by Adark d.o.o",
+			"url": "https://www.ftso.adark.io",
+			"address": "0xF1Bd86b547a25921F800AdBb3F35f6E88D336c72",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF1Bd86b547a25921F800AdBb3F35f6E88D336c72.png"
 		}
 	]
 }
