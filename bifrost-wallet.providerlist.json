@@ -846,6 +846,22 @@
 			"url": "https://moonftso.com",
 			"address": "0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271.png"
-		}
+		},
+		{
+   			"chainId": 19, 
+   			"name": "Chili FTSO",
+   			"description": "Delegate to the hottest Signals provider",
+   			"url": "https://chili-ftso.com",
+   			"address": "0xbBfEB874d5846b09f6E16bA701F676Cc28C78b75",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbBfEB874d5846b09f6E16bA701F676Cc28C78b75.png"
+  		},
+  		{
+   			"chainId": 14, 
+   			"name": "Chili FTSO",
+   			"description": "Delegate to the hottest Signals provider",
+   			"url": "https://chili-ftso.com",
+   			"address": "0xbBfEB874d5846b09f6E16bA701F676Cc28C78b75",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbBfEB874d5846b09f6E16bA701F676Cc28C78b75.png"
+  		}
 	]
 }
