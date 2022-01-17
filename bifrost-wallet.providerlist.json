@@ -846,6 +846,22 @@
 			"url": "https://moonftso.com",
 			"address": "0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271.png"
-		}
+		},
+		{
+   			"chainId": 19, 
+   			"name": "Hercules",
+   			"description": "Your Titan provider consistently feeding good quality APIs to the Flare universe.",
+   			"url": "https://herculesftso.com",
+   			"address": "0xB30EC20cFc5D93aCC403EC54889368C5F1927fDe",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB30EC20cFc5D93aCC403EC54889368C5F1927fDe.png"
+  		},
+  		{
+   			"chainId": 14, 
+   			"name": "Hercules",
+   			"description": "Your Titan provider consistently feeding good quality APIs to the Flare universe.",
+   			"url": "https://herculesftso.com",
+   			"address": "0xB30EC20cFc5D93aCC403EC54889368C5F1927fDe",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB30EC20cFc5D93aCC403EC54889368C5F1927fDe.png"
+  		}
 	]
 }
