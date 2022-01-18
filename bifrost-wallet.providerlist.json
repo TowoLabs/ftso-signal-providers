@@ -846,6 +846,22 @@
 			"url": "https://moonftso.com",
 			"address": "0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271.png"
-		}
+		},
+		{
+   			"chainId": 19, 
+   			"name": "Top Signals",
+   			"description": "By collecting the most accurate data from centralized and decentralized exchanges as well as price aggregators we will give to the network the means to grow its services and for you to earn rewards.",
+   			"url": "https://www.topsignals.org",
+   			"address": "0x6716234e92Afb1b11C1261106d217C140b09D1aC",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6716234e92Afb1b11C1261106d217C140b09D1aC.png"
+  		},
+  		{
+   			"chainId": 14, 
+   			"name": "Top Signals",
+   			"description": "By collecting the most accurate data from centralized and decentralized exchanges as well as price aggregators we will give to the network the means to grow its services and for you to earn rewards.",
+   			"url": "https://www.topsignals.org",
+   			"address": "0x6716234e92Afb1b11C1261106d217C140b09D1aC",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6716234e92Afb1b11C1261106d217C140b09D1aC.png"
+  		}
 	]
 }
