@@ -846,6 +846,22 @@
 			"url": "https://moonftso.com",
 			"address": "0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271.png"
-		}
+		},
+		{
+   			"chainId": 19, 
+   			"name": "Shark Oracle",
+   			"description": "Shark Oracle has a vision… To supply shark signals to the Flare ecosystem. Be a part of the revolution.",
+   			"url": "https://sharkoracle.com",
+   			"address": "0xC0FFaCc88F782785Ecc5BC9Fe3E390F52cE55760",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC0FFaCc88F782785Ecc5BC9Fe3E390F52cE55760.png"
+  		},
+  		{
+   			"chainId": 14, 
+   			"name": "Shark Oracle",
+   			"description": "Shark Oracle has a vision… To supply shark signals to the Flare ecosystem. Be a part of the revolution.",
+   			"url": "https://sharkoracle.com",
+   			"address": "0xC0FFaCc88F782785Ecc5BC9Fe3E390F52cE55760",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC0FFaCc88F782785Ecc5BC9Fe3E390F52cE55760.png"
+  		}
 	]
 }
