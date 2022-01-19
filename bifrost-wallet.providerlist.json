@@ -846,6 +846,22 @@
 			"url": "https://moonftso.com",
 			"address": "0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271.png"
-		}
+		},
+		{
+   			"chainId": 19,
+   			"name": "Blue FTSO",
+   			"description": "Let us be your verified provider and agent for one of the world’s most influential networks, Flare and Songbird.",
+   			"url": "https://blueftso.com",
+   			"address": "0x0e780E41e253391187C57533fA56A850c4b2B8d9",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0e780E41e253391187C57533fA56A850c4b2B8d9.png"
+  		},
+  		{
+   			"chainId": 14,
+   			"name": "Blue FTSO",
+   			"description": "Let us be your verified provider and agent for one of the world’s most influential networks, Flare and Songbird.",
+   			"url": "https://blueftso.com",
+   			"address": "0x0e780E41e253391187C57533fA56A850c4b2B8d9",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0e780E41e253391187C57533fA56A850c4b2B8d9.png"
+  		}
 	]
 }
