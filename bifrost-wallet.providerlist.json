@@ -846,6 +846,22 @@
 			"url": "https://moonftso.com",
 			"address": "0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271.png"
+		},
+		{
+			"chainId": 19,
+			"name": "SignalChamp",
+			"description": "SignalChamp is a premium and super-fast delegation service. Enjoy high reward rates and low fees with just a few clicks.",
+			"url": "https://www.signalchamp.com/",
+			"address": "0x263fEca2d46754Aa71BC4Cfc460e8E3055699324",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x263fEca2d46754Aa71BC4Cfc460e8E3055699324.png"
+		},
+		{
+			"chainId": 14,
+			"name": "SignalChamp",
+			"description": "SignalChamp is a premium and super-fast delegation service. Enjoy high reward rates and low fees with just a few clicks.",
+			"url": "https://www.signalchamp.com/",
+			"address": "0x263fEca2d46754Aa71BC4Cfc460e8E3055699324",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x263fEca2d46754Aa71BC4Cfc460e8E3055699324.png"
 		}
 	]
 }
