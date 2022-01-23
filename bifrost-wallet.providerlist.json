@@ -846,6 +846,22 @@
 			"url": "https://moonftso.com",
 			"address": "0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271.png"
+		},
+		{
+  			"chainId": 19,
+  			"name": "Oracle Beast FTSO",
+  			"description": "Providing a Flare Time Series Oracle for those who want to delegate like a BEAST!",
+  			"url": "https://www.oracle-beast.com",
+  			"address": "0x3ed7b2cCC4BA420CdcE2BA232d3efdc13075F16D",
+  			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3ed7b2cCC4BA420CdcE2BA232d3efdc13075F16D.png"
+		},
+		{
+  			"chainId": 14,
+  			"name": "Oracle Beast FTSO",
+  			"description": "Providing a Flare Time Series Oracle for those who want to delegate like a BEAST!",
+  			"url": "https://www.oracle-beast.com",
+  			"address": "0x3ed7b2cCC4BA420CdcE2BA232d3efdc13075F16D",
+  			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3ed7b2cCC4BA420CdcE2BA232d3efdc13075F16D.png"
 		}
 	]
 }
