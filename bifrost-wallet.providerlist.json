@@ -846,6 +846,22 @@
 			"url": "https://moonftso.com",
 			"address": "0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271.png"
-		}
+		},
+		{
+   			"chainId": 19,
+   			"name": "Bull FTSO",
+   			"description": "BULL FTSO sends resilient and efficient price signals to the Flare Decentralized Network.",
+   			"url": "https://bullftso.com",
+   			"address": "0x44Fd0E5C3AacD66D83e1518f1C1b79dC379d87Ac",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x44Fd0E5C3AacD66D83e1518f1C1b79dC379d87Ac.png"
+  		},
+  		{
+   			"chainId": 14,
+   			"name": "Bull FTSO",
+   			"description": "BULL FTSO sends resilient and efficient price signals to the Flare Decentralized Network.",
+   			"url": "https://bullftso.com",
+   			"address": "0x44Fd0E5C3AacD66D83e1518f1C1b79dC379d87Ac",
+   			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x44Fd0E5C3AacD66D83e1518f1C1b79dC379d87Ac.png"
+  		}
 	]
 }
