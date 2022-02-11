@@ -894,6 +894,22 @@
 			"url": "https://teamusa-ftso.com",
 			"address": "0x4aE5157DdCc7Ae646406Ee3B677b19501E3DFb23",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4aE5157DdCc7Ae646406Ee3B677b19501E3DFb23.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Küng",
+			"description": "Qualität Signals. For your beloved Flare and Songbird Networks",
+			"url": "https://kungftso.com",
+			"address": "0x6c6114a863Bd229D3cC1e80F3827be7E87EF144d",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6c6114a863Bd229D3cC1e80F3827be7E87EF144d.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Küng",
+			"description": "Qualität Signals. For your beloved Flare and Songbird Networks",
+			"url": "https://kungftso.com",
+			"address": "0x6c6114a863Bd229D3cC1e80F3827be7E87EF144d",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6c6114a863Bd229D3cC1e80F3827be7E87EF144d.png"
 		}
 	]
 }
