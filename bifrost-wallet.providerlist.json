@@ -1,9 +1,9 @@
 {
 	"name": "Bifrost Wallet",
-	"timestamp": "2022-01-05T00:00:00+00:00",
+	"timestamp": "2022-02-11T00:00:00+00:00",
 	"version": {
 		"major": 2,
-		"minor": 0,
+		"minor": 1,
 		"patch": 0
 	},
 	"providers": [
@@ -862,6 +862,22 @@
 			"url": "https://ftsocanada.com",
 			"address": "0x53987F2c36A8D13D40B5f63f2A2ce3110ace41d9",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x53987F2c36A8D13D40B5f63f2A2ce3110ace41d9.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Lehman Sisters",
+			"description": "You don’t have to send us your FLR or SGB Tokens. You don’t have to worry if we go bankrupt or not. We are just a better decentralized trustless version of our brothers’ business and we will definitely make you happy",
+			"url": "https://lehmansisters.org",
+			"address": "0x7606D86dAEC7Cd79E4c557D0fBDc77d41376f3bf",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7606D86dAEC7Cd79E4c557D0fBDc77d41376f3bf.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Lehman Sisters",
+			"description": "You don’t have to send us your FLR or SGB Tokens. You don’t have to worry if we go bankrupt or not. We are just a better decentralized trustless version of our brothers’ business and we will definitely make you happy",
+			"url": "https://lehmansisters.org",
+			"address": "0x7606D86dAEC7Cd79E4c557D0fBDc77d41376f3bf",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7606D86dAEC7Cd79E4c557D0fBDc77d41376f3bf.png"
 		}
 	]
 }
