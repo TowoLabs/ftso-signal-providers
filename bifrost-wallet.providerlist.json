@@ -851,7 +851,7 @@
 		  "chainId": 19,
 		  "name": "Flaris",
 		  "description": "UK technology",
-		  "url": "https://www.flaris.it",
+		  "url": "https://www.flaris.uk",
 		  "address": "0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46" 
 		  "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46.png"
 		},
@@ -859,7 +859,7 @@
 		  "chainId": 14,
 		  "name": "Flaris",
 		  "description": "UK technology",
-		  "url": "https://www.flaris.it",
+		  "url": "https://www.flaris.uk",
 		  "address": "0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46" 
 		  "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46.png"
 		}
