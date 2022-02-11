@@ -1,9 +1,9 @@
 ﻿{
 	"name": "Bifrost Wallet",
-	"timestamp": "2022-01-05T00:00:00+00:00",
+	"timestamp": "2022-02-11T00:00:00+00:00",
 	"version": {
 		"major": 2,
-		"minor": 0,
+		"minor": 2,
 		"patch": 0
 	},
 	"providers": [
@@ -846,6 +846,182 @@
 			"url": "https://moonftso.com",
 			"address": "0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271.png"
+		},
+		{
+			"chainId": 19,
+			"name": "FTSO Canada",
+			"description": "Start Delegating - Safe & Secure",
+			"url": "https://ftsocanada.com",
+			"address": "0x53987F2c36A8D13D40B5f63f2A2ce3110ace41d9",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x53987F2c36A8D13D40B5f63f2A2ce3110ace41d9.png"
+		},
+		{
+			"chainId": 14,
+			"name": "FTSO Canada",
+			"description": "Start Delegating - Safe & Secure",
+			"url": "https://ftsocanada.com",
+			"address": "0x53987F2c36A8D13D40B5f63f2A2ce3110ace41d9",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x53987F2c36A8D13D40B5f63f2A2ce3110ace41d9.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Lehman Sisters",
+			"description": "You don’t have to send us your FLR or SGB Tokens. You don’t have to worry if we go bankrupt or not. We are just a better decentralized trustless version of our brothers’ business and we will definitely make you happy",
+			"url": "https://lehmansisters.org",
+			"address": "0x7606D86dAEC7Cd79E4c557D0fBDc77d41376f3bf",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7606D86dAEC7Cd79E4c557D0fBDc77d41376f3bf.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Lehman Sisters",
+			"description": "You don’t have to send us your FLR or SGB Tokens. You don’t have to worry if we go bankrupt or not. We are just a better decentralized trustless version of our brothers’ business and we will definitely make you happy",
+			"url": "https://lehmansisters.org",
+			"address": "0x7606D86dAEC7Cd79E4c557D0fBDc77d41376f3bf",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7606D86dAEC7Cd79E4c557D0fBDc77d41376f3bf.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Team USA",
+			"description": "Welcome to Team USA. Our missions: Bring more decentralization to Flare Network. Cut the middle men. Delegate directly to us and don’t let your exchange get a cut of your rewards",
+			"url": "https://teamusa-ftso.com",
+			"address": "0x4aE5157DdCc7Ae646406Ee3B677b19501E3DFb23",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4aE5157DdCc7Ae646406Ee3B677b19501E3DFb23.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Team USA",
+			"description": "Welcome to Team USA. Our missions: Bring more decentralization to Flare Network. Cut the middle men. Delegate directly to us and don’t let your exchange get a cut of your rewards",
+			"url": "https://teamusa-ftso.com",
+			"address": "0x4aE5157DdCc7Ae646406Ee3B677b19501E3DFb23",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4aE5157DdCc7Ae646406Ee3B677b19501E3DFb23.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Küng",
+			"description": "Qualität Signals. For your beloved Flare and Songbird Networks",
+			"url": "https://kungftso.com",
+			"address": "0x6c6114a863Bd229D3cC1e80F3827be7E87EF144d",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6c6114a863Bd229D3cC1e80F3827be7E87EF144d.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Küng",
+			"description": "Qualität Signals. For your beloved Flare and Songbird Networks",
+			"url": "https://kungftso.com",
+			"address": "0x6c6114a863Bd229D3cC1e80F3827be7E87EF144d",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6c6114a863Bd229D3cC1e80F3827be7E87EF144d.png"
+		},
+		{
+			"chainId": 19,
+			"name": "FTSOnly",
+			"description": "The Only FTSO you need. The Only Signals you want. Your tokens stay safe in your wallet, Only your voice comes out.",
+			"url": "https://www.ftsonly.com",
+			"address": "0x4838CdE6EF442d450b0B897cfdAf3b135F69d151",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4838CdE6EF442d450b0B897cfdAf3b135F69d151.png"
+		},
+		{
+			"chainId": 14,
+			"name": "FTSOnly",
+			"description": "The Only FTSO you need. The Only Signals you want. Your tokens stay safe in your wallet, Only your voice comes out.",
+			"url": "https://www.ftsonly.com",
+			"address": "0x4838CdE6EF442d450b0B897cfdAf3b135F69d151",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4838CdE6EF442d450b0B897cfdAf3b135F69d151.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Avax",
+			"description": "We simplify Flare time series oracle provision",
+			"url": "https://avaxftso.com",
+			"address": "0xd656c094C1D43Dc5DCd7F5C44199cE66c0f148bf",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xd656c094C1D43Dc5DCd7F5C44199cE66c0f148bf.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Avax",
+			"description": "We simplify Flare time series oracle provision",
+			"url": "https://avaxftso.com",
+			"address": "0xd656c094C1D43Dc5DCd7F5C44199cE66c0f148bf",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xd656c094C1D43Dc5DCd7F5C44199cE66c0f148bf.png"
+		},
+		{
+			"chainId": 19,
+			"name": "FTSO London",
+			"description": "Let’s work together to maximise your Flare Rewards. Our delegation services enable token holders to earn lucrative rewards on the Flare Network",
+			"url": "https://www.ftso.london",
+			"address": "0x0708a4C813594b7E0218CB4A5D8b75c76AbFc859",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0708a4C813594b7E0218CB4A5D8b75c76AbFc859.png"
+		},
+		{
+			"chainId": 14,
+			"name": "FTSO London",
+			"description": "Let’s work together to maximise your Flare Rewards. Our delegation services enable token holders to earn lucrative rewards on the Flare Network",
+			"url": "https://www.ftso.london",
+			"address": "0x0708a4C813594b7E0218CB4A5D8b75c76AbFc859",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0708a4C813594b7E0218CB4A5D8b75c76AbFc859.png"
+		},
+		{
+			"chainId": 19,
+			"name": "sigma7",
+			"description": "sigma7 - Applied Financial Analytics",
+			"url": "https://ftso.sigma7.io/",
+			"address": "0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0.png"
+		},
+		{
+			"chainId": 14,
+			"name": "sigma7",
+			"description": "sigma7 - Applied Financial Analytics",
+			"url": "https://ftso.sigma7.io/",
+			"address": "0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0.png"
+		},
+		{
+			"chainId": 19,
+			"name": "FTSORK",
+			"description": "Flare/Songbird signal provider by Adark d.o.o",
+			"url": "https://www.ftso.adark.io",
+			"address": "0xF1Bd86b547a25921F800AdBb3F35f6E88D336c72",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF1Bd86b547a25921F800AdBb3F35f6E88D336c72.png"
+		},
+		{
+			"chainId": 14,
+			"name": "FTSORK",
+			"description": "Flare/Songbird signal provider by Adark d.o.o",
+			"url": "https://www.ftso.adark.io",
+			"address": "0xF1Bd86b547a25921F800AdBb3F35f6E88D336c72",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF1Bd86b547a25921F800AdBb3F35f6E88D336c72.png"
+		},
+		{
+			"chainId": 19, 
+			"name": "Shark Oracle",
+			"description": "Shark Oracle has a vision... To supply shark signals to the Flare ecosystem. Be a part of the revolution.",
+			"url": "https://sharkoracle.com",
+			"address": "0xC0FFaCc88F782785Ecc5BC9Fe3E390F52cE55760",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC0FFaCc88F782785Ecc5BC9Fe3E390F52cE55760.png"
+		},
+		{
+			"chainId": 14, 
+			"name": "Shark Oracle",
+			"description": "Shark Oracle has a vision... To supply shark signals to the Flare ecosystem. Be a part of the revolution.",
+			"url": "https://sharkoracle.com",
+			"address": "0xC0FFaCc88F782785Ecc5BC9Fe3E390F52cE55760",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC0FFaCc88F782785Ecc5BC9Fe3E390F52cE55760.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Oracle Beast FTSO",
+			"description": "Providing a Flare Time Series Oracle for those who want to delegate like a BEAST!",
+			"url": "https://www.oracle-beast.com",
+			"address": "0x3ed7b2cCC4BA420CdcE2BA232d3efdc13075F16D",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3ed7b2cCC4BA420CdcE2BA232d3efdc13075F16D.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Oracle Beast FTSO",
+			"description": "Providing a Flare Time Series Oracle for those who want to delegate like a BEAST!",
+			"url": "https://www.oracle-beast.com",
+			"address": "0x3ed7b2cCC4BA420CdcE2BA232d3efdc13075F16D",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3ed7b2cCC4BA420CdcE2BA232d3efdc13075F16D.png"
 		},
 		{
 		  "chainId": 19,
