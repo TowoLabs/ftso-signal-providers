@@ -958,6 +958,22 @@
 			"url": "https://www.ftso.london",
 			"address": "0x0708a4C813594b7E0218CB4A5D8b75c76AbFc859",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0708a4C813594b7E0218CB4A5D8b75c76AbFc859.png"
+		},
+		{
+			"chainId": 19,
+			"name": "sigma7",
+			"description": "sigma7 - Applied Financial Analytics",
+			"url": "https://ftso.sigma7.io/",
+			"address": "0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0.png"
+		},
+		{
+			"chainId": 14,
+			"name": "sigma7",
+			"description": "sigma7 - Applied Financial Analytics",
+			"url": "https://ftso.sigma7.io/",
+			"address": "0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0.png"
 		}
 	]
 }
