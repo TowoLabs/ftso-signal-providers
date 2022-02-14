@@ -1,9 +1,9 @@
-{
+﻿{
 	"name": "Bifrost Wallet",
-	"timestamp": "2022-02-11T00:00:00+00:00",
+	"timestamp": "2022-02-14T00:00:00+00:00",
 	"version": {
 		"major": 2,
-		"minor": 2,
+		"minor": 3,
 		"patch": 0
 	},
 	"providers": [
@@ -1022,6 +1022,22 @@
 			"url": "https://www.oracle-beast.com",
 			"address": "0x3ed7b2cCC4BA420CdcE2BA232d3efdc13075F16D",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3ed7b2cCC4BA420CdcE2BA232d3efdc13075F16D.png"
+		},
+		{
+		  "chainId": 19,
+		  "name": "Flaris",
+		  "description": "UK technology",
+		  "url": "https://www.flaris.uk",
+		  "address": "0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46",
+		  "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46.png"
+		},
+		{
+		  "chainId": 14,
+		  "name": "Flaris",
+		  "description": "UK technology",
+		  "url": "https://www.flaris.uk",
+		  "address": "0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46",
+		  "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46.png"
 		}
 	]
 }
