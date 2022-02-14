@@ -289,9 +289,9 @@
 		},
 		{
 			"chainId": 19,
-			"name": "FTSO Cloud",
+			"name": "FTSO Plus",
 			"description": "FTSO provider with an emphasis on accuracy.",
-			"url": "https://ftso.cloud.si",
+			"url": "https://ftso.plus",
 			"address": "0x0FA72D3912d1C530AB1f6a8A9fB61C672947E964",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0FA72D3912d1C530AB1f6a8A9fB61C672947E964.png"
 		},
