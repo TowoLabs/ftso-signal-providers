@@ -1,9 +1,9 @@
-{
+﻿{
 	"name": "Bifrost Wallet",
-	"timestamp": "2022-02-14T00:00:00+00:00",
+	"timestamp": "2022-02-16T00:00:00+00:00",
 	"version": {
 		"major": 2,
-		"minor": 3,
+		"minor": 4,
 		"patch": 0
 	},
 	"providers": [
