@@ -1,9 +1,9 @@
 ﻿{
 	"name": "Bifrost Wallet",
-	"timestamp": "2022-02-14T00:00:00+00:00",
+	"timestamp": "2022-02-16T00:00:00+00:00",
 	"version": {
 		"major": 2,
-		"minor": 3,
+		"minor": 4,
 		"patch": 0
 	},
 	"providers": [
@@ -289,9 +289,9 @@
 		},
 		{
 			"chainId": 19,
-			"name": "FTSO Cloud",
+			"name": "FTSO Plus",
 			"description": "FTSO provider with an emphasis on accuracy.",
-			"url": "https://ftso.cloud.si",
+			"url": "https://ftso.plus",
 			"address": "0x0FA72D3912d1C530AB1f6a8A9fB61C672947E964",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0FA72D3912d1C530AB1f6a8A9fB61C672947E964.png"
 		},
@@ -992,7 +992,7 @@
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF1Bd86b547a25921F800AdBb3F35f6E88D336c72.png"
 		},
 		{
-			"chainId": 19, 
+			"chainId": 19,
 			"name": "Shark Oracle",
 			"description": "Shark Oracle has a vision... To supply shark signals to the Flare ecosystem. Be a part of the revolution.",
 			"url": "https://sharkoracle.com",
@@ -1000,7 +1000,7 @@
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC0FFaCc88F782785Ecc5BC9Fe3E390F52cE55760.png"
 		},
 		{
-			"chainId": 14, 
+			"chainId": 14,
 			"name": "Shark Oracle",
 			"description": "Shark Oracle has a vision... To supply shark signals to the Flare ecosystem. Be a part of the revolution.",
 			"url": "https://sharkoracle.com",
