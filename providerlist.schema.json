@@ -80,7 +80,7 @@
           "description": "The description of the FTSO provider",
           "minLength": 10,
           "maxLength": 250,
-          "pattern": "^[A-Za-z0-9 \\/’'&?!\\-.,;:()]+",
+          "pattern": "^[ \\w.'+\\-%/À-ÖØ-öø-ÿ:&\\[\\]\\(\\)]+",
           "examples": [
             "Bifrost Oracle"
           ]
@@ -145,6 +145,7 @@
     "providers": {
       "type": "array",
       "description": "The list of providers included in the list",
+      "uniqueItems": true,
       "items": {
         "$ref": "#/definitions/ProviderInfo"
       },
