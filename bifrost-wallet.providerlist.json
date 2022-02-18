@@ -1054,6 +1054,22 @@
 			"url": "https://www.signalchamp.com/",
 			"address": "0x263fEca2d46754Aa71BC4Cfc460e8E3055699324",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x263fEca2d46754Aa71BC4Cfc460e8E3055699324.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Tailwind FTSO",
+			"description": "Tailwind FTSO is a European provider run by IT professionals and developers using enterprise technologies to deliver accurate and reliable data.",
+			"url": "https://tailwindftso.com",
+			"address": "0x04Bd6870d801D68CD58163900B8EED6BDDdA29cB",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x04Bd6870d801D68CD58163900B8EED6BDDdA29cB.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Tailwind FTSO",
+			"description": "Tailwind FTSO is a European provider run by IT professionals and developers using enterprise technologies to deliver accurate and reliable data.",
+			"url": "https://tailwindftso.com",
+			"address": "0x04Bd6870d801D68CD58163900B8EED6BDDdA29cB",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x04Bd6870d801D68CD58163900B8EED6BDDdA29cB.png"
 		}
 	]
 }
