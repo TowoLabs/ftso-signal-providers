@@ -1,0 +1,162 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/TowoLabs/ftso-signal-providers/blob/master/providerlist.schema.json",
+  "title": "Bifrost Wallet FTSO Provider List",
+  "description": "Schema for lists of FTSO providers compatible with Bifrost Wallet",
+  "definitions": {
+    "Version": {
+      "type": "object",
+      "description": "The version of the list, used in change detection",
+      "examples": [
+        {
+          "major": 2,
+          "minor": 3,
+          "patch": 0
+        }
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "major": {
+          "type": "integer",
+          "description": "The major version of the list. Must be incremented when FTSO providers are removed from the list or FTSO provider addresses are changed.",
+          "minimum": 0,
+          "examples": [
+            1,
+            2
+          ]
+        },
+        "minor": {
+          "type": "integer",
+          "description": "The minor version of the list. Must be incremented when FTSO providers are added to the list.",
+          "minimum": 0,
+          "examples": [
+            0,
+            1
+          ]
+        },
+        "patch": {
+          "type": "integer",
+          "description": "The patch version of the list. Must be incremented for any changes to the list.",
+          "minimum": 0,
+          "examples": [
+            0,
+            1
+          ]
+        }
+      },
+      "required": [
+        "major",
+        "minor",
+        "patch"
+      ]
+    },
+    "ProviderInfo": {
+      "type": "object",
+      "description": "Metadata for a single FTSO provider in a provider list",
+      "additionalProperties": false,
+      "properties": {
+        "chainId": {
+          "type": "integer",
+          "description": "The chain ID of either Coston, Flare or Songbird where this FTSO provider is submitting prices",
+          "enum": [14, 16, 19],
+          "examples": [
+            19,
+            16,
+            14
+          ]
+        },
+        "name": {
+          "type": "string",
+          "description": "The name of the FTSO provider",
+          "minLength": 2,
+          "maxLength": 32,
+          "pattern": "^[ \\w.'+\\-%/À-ÖØ-öø-ÿ:&\\[\\]\\(\\)]+$",
+          "examples": [
+            "Bifrost Oracle"
+          ]
+        },
+        "description": {
+          "type": "string",
+          "description": "The description of the FTSO provider",
+          "minLength": 10,
+          "maxLength": 250,
+          "pattern": "^[ \\w.'+\\-%/À-ÖØ-öø-ÿ:&\\[\\]\\(\\)]+",
+          "examples": [
+            "Bifrost Oracle"
+          ]
+        },
+        "url": {
+          "type": "string",
+          "description": "A URI to the FTSO provider website. Must use HTTPS",
+          "format": "uri",
+          "pattern": "^https://",
+          "examples": [
+            "https://bifrostoracle.com"
+          ]
+        },
+        "address": {
+          "type": "string",
+          "description": "The checksummed address of the FTSO provider on the specified chain ID",
+          "pattern": "^0x[a-fA-F0-9]{40}$",
+          "examples": [
+            "0x69141E890F3a79cd2CFf552c0B71508bE23712dC"
+          ]
+        },
+        "logoURI": {
+          "type": "string",
+          "description": "A content URL for this repository to the FTSO provider logo asset",
+          "pattern": "^https:\\/\\/raw\\.githubusercontent\\.com\\/TowoLabs\\/ftso-signal-providers\\/master\\/assets\\/0x[a-fA-F0-9]{40}\\.png$",
+          "examples": [
+            "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x69141E890F3a79cd2CFf552c0B71508bE23712dC.png"
+          ]
+        }
+      },
+      "required": [
+        "chainId",
+        "name",
+        "description",
+        "url",
+        "address",
+        "logoURI"
+      ]
+    }
+  },
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "The name of the FTSO provider list",
+      "minLength": 1,
+      "maxLength": 30,
+      "pattern": "^[A-Za-z ]+$",
+      "examples": [
+        "My Provider List"
+      ]
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "The timestamp of this list version; i.e. when this immutable version of the list was created"
+    },
+    "version": {
+      "$ref": "#/definitions/Version"
+    },
+    "providers": {
+      "type": "array",
+      "description": "The list of providers included in the list",
+      "uniqueItems": true,
+      "items": {
+        "$ref": "#/definitions/ProviderInfo"
+      },
+      "minItems": 1,
+      "maxItems": 10000
+    }
+  },
+  "required": [
+    "name",
+    "timestamp",
+    "version",
+    "providers"
+  ]
+}

@@ -1,0 +1,78 @@
+#!/usr/bin/env node
+
+const fs = require("fs");
+const path = require("path");
+const Ajv = require("ajv");
+const addFormats = require("ajv-formats");
+const web3Utils = require("web3-utils");
+
+const repoPath = path.join(__dirname, "..");
+const listPath = path.join(repoPath, "bifrost-wallet.providerlist.json");
+const schemaPath = path.join(repoPath, "providerlist.schema.json");
+
+const listBuffer = fs.readFileSync(listPath);
+const listString = listBuffer.toString("utf-8");
+
+// Helper function
+const root = {};
+function isUnique(provider, propertyName) {
+  const chainId = provider.chainId;
+  const propertyValue = provider[propertyName];
+  const forChainId = root[chainId] = root[chainId] || {};
+  const knownValues = forChainId[propertyName] = forChainId[propertyName] || new Set();
+  if (knownValues.has(propertyValue)) {
+    throw new Error(`Property ${propertyName} is not unique, ${propertyValue} already exists for chain ID ${chainId}`);
+  }
+
+  knownValues.add(propertyValue);
+}
+
+// Parse JSON (will fail if file has BOM added)
+let listContent;
+try {
+  listContent = JSON.parse(listString);
+} catch (error) {
+  throw new Error(`List content could not be parsed (${error.message})`);
+}
+
+// Setup AJV
+const ajv = new Ajv({ allErrors: true });
+addFormats(ajv);
+
+// Load schema
+const schema = require(schemaPath);
+const isSchemaValid = ajv.validateSchema(schema);
+if (!isSchemaValid) {
+  throw new Error("Schema definition is invalid");
+}
+
+// Validate list against JSON schema
+const validator = ajv.compile(schema);
+const isListValid = validator(listContent);
+if (!isListValid) {
+  throw new Error(`List content is invalid.\n\nErrors:\n${JSON.stringify(validator.errors, null, 2)}`);
+}
+
+const addressRegex = /0x[0-9A-Fa-f]{40}/;
+listContent.providers.forEach(provider => {
+  // Validate EIP-55 address checksum
+  if (!web3Utils.checkAddressChecksum(provider.address)) {
+    throw new Error(`Invalid checksum for address: ${provider.address}`);
+  }
+
+  // Validate logo file name
+  const logoFileName = provider.logoURI.match(addressRegex)[0];
+  if (logoFileName !== provider.address) {
+    throw new Error(`Logo file name mismatch, expected ${provider.address}, received ${logoFileName}`);
+  }
+
+  // Validate FTSO provider uniqueness
+  isUnique(provider, "name");
+  isUnique(provider, "description");
+  isUnique(provider, "url");
+  isUnique(provider, "address");
+  isUnique(provider, "logoURI");
+
+  // TODO: Validate image size and dimensions
+  // TODO: Validate HTTP to HTTPS redirect
+});
