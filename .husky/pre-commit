@@ -1,0 +1,39 @@
+#!/usr/bin/env node
+
+const fs = require("fs");
+const path = require("path");
+const Ajv = require("ajv");
+const addFormats = require("ajv-formats");
+
+const repoPath = path.join(__dirname, "..");
+const listPath = path.join(repoPath, "bifrost-wallet.providerlist.json");
+const schemaPath = path.join(repoPath, "tokenlist.schema.json");
+
+const listBuffer = fs.readFileSync(listPath);
+const listString = listBuffer.toString("utf-8");
+
+// Parse JSON (will fail if file has BOM added)
+let listContent;
+try {
+  listContent = JSON.parse(listString);
+} catch (error) {
+  throw new Error(`List content could not be parsed (${error.message})`);
+}
+
+// Setup AJV
+const ajv = new Ajv({ allErrors: true });
+addFormats(ajv);
+
+// Load schema
+const schema = require(schemaPath);
+const isSchemaValid = ajv.validateSchema(schema);
+if (!isSchemaValid) {
+  throw new Error("Schema definition is invalid");
+}
+
+// Validate list
+const validator = ajv.compile(schema);
+const isListValid = validator(listContent);
+if (!isListValid) {
+  throw new Error(`List content is invalid.\n\nErrors:\n${JSON.stringify(validator.errors, null, 2)}`);
+}
