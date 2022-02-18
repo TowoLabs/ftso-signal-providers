@@ -7,7 +7,7 @@ const addFormats = require("ajv-formats");
 
 const repoPath = path.join(__dirname, "..");
 const listPath = path.join(repoPath, "bifrost-wallet.providerlist.json");
-const schemaPath = path.join(repoPath, "tokenlist.schema.json");
+const schemaPath = path.join(repoPath, "providerlist.schema.json");
 
 const listBuffer = fs.readFileSync(listPath);
 const listString = listBuffer.toString("utf-8");
