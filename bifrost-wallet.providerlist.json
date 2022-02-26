@@ -1070,6 +1070,22 @@
 			"url": "https://tailwindftso.com",
 			"address": "0x04Bd6870d801D68CD58163900B8EED6BDDdA29cB",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x04Bd6870d801D68CD58163900B8EED6BDDdA29cB.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Flare Dienst",
+			"description": "An EU-based provider.",
+			"url": "https://flare-dienst.xyz/",
+			"address": "0xDe4051b333b3063fd28267Cd4412DD25233D0Ae1",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xDe4051b333b3063fd28267Cd4412DD25233D0Ae1.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Flare Dienst",
+			"description": "An EU-based provider.",
+			"url": "https://flare-dienst.xyz/",
+			"address": "0xDe4051b333b3063fd28267Cd4412DD25233D0Ae1",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xDe4051b333b3063fd28267Cd4412DD25233D0Ae1.png"
 		}
 	]
 }
