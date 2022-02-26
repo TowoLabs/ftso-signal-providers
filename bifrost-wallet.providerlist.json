@@ -1076,14 +1076,14 @@
 			"description": "ACDTftso is an Italian provider. We offer near real time prices with an high accuracy rate and a simple Webapp for interact with Flare Network.",
 			"url": "https://www.acdtftso.it/",
 			"address": "0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d",
-			"logoURI": "https://raw.githubusercontent.com/Pennywise83/ftso-signal-providers/master/assets/0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d.png"
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d.png"
 		},{
 			"chainId": 14,
 			"name": "ACDTftso",
 			"description": "ACDTftso is an Italian provider. We offer near real time prices with an high accuracy rate and a simple Webapp for interact with Flare Network.",
 			"url": "https://www.acdtftso.it/",
 			"address": "0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d",
-			"logoURI": "https://raw.githubusercontent.com/Pennywise83/ftso-signal-providers/master/assets/0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d.png"
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d.png"
 		}
 	]
 }
