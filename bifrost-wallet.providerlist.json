@@ -1070,6 +1070,22 @@
 			"url": "https://tailwindftso.com",
 			"address": "0x04Bd6870d801D68CD58163900B8EED6BDDdA29cB",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x04Bd6870d801D68CD58163900B8EED6BDDdA29cB.png"
+		},
+		{
+			"chainId": 19,
+			"name": "FTSO Brasil",
+			"description": "FTSO Brasil is the first ftso in South America working together with Flare Networks to empower token holders with knowledge and rewards.",
+			"url": "https://www.ftso-brasil.com.br",
+			"address": "0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926.png"
+		},
+		{
+			"chainId": 14,
+			"name": "FTSO Brasil",
+			"description": "FTSO Brasil is the first ftso in South America working together with Flare Networks to empower token holders with knowledge and rewards.",
+			"url": "https://www.ftso-brasil.com.br",
+			"address": "0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926.png"
 		}
 	]
 }
