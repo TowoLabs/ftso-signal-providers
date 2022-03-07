@@ -1070,6 +1070,22 @@
 			"url": "https://tailwindftso.com",
 			"address": "0x04Bd6870d801D68CD58163900B8EED6BDDdA29cB",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x04Bd6870d801D68CD58163900B8EED6BDDdA29cB.png"
+		},
+		{
+			"chainId": 19,
+			"name": "EvolveFTSO",
+			"description": "EvolveFTSO is a reliable data provider, run by a team providing continuous improvements to produce the best results",
+			"url": "https://evolveftso.com",
+			"address": "0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa.png"
+		},
+		{
+			"chainId": 14,
+			"name": "EvolveFTSO",
+			"description": "EvolveFTSO is a reliable data provider, run by a team providing continuous improvements to produce the best results",
+			"url": "https://evolveftso.com",
+			"address": "0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa.png"
 		}
 	]
 }
