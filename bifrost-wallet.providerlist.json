@@ -3,7 +3,7 @@
 	"timestamp": "2022-03-17T00:00:00+00:00",
 	"version": {
 		"major": 2,
-		"minor": 7,
+		"minor": 8,
 		"patch": 0
 	},
 	"providers": [
@@ -1118,6 +1118,22 @@
 			"url": "https://www.ftso-brasil.com.br",
 			"address": "0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926.png"
+		},
+		{
+			"chainId": 19,
+			"name": "EvolveFTSO",
+			"description": "EvolveFTSO is a reliable data provider, run by a team providing continuous improvements to produce the best results",
+			"url": "https://evolveftso.com",
+			"address": "0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa.png"
+		},
+		{
+			"chainId": 14,
+			"name": "EvolveFTSO",
+			"description": "EvolveFTSO is a reliable data provider, run by a team providing continuous improvements to produce the best results",
+			"url": "https://evolveftso.com",
+			"address": "0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa.png"
 		}
 	]
 }
