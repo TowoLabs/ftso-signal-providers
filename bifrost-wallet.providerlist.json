@@ -1,9 +1,9 @@
 {
 	"name": "Bifrost Wallet",
-	"timestamp": "2022-02-16T00:00:00+00:00",
+	"timestamp": "2022-03-17T00:00:00+00:00",
 	"version": {
 		"major": 2,
-		"minor": 4,
+		"minor": 5,
 		"patch": 0
 	},
 	"providers": [
@@ -963,7 +963,7 @@
 			"chainId": 19,
 			"name": "sigma7",
 			"description": "sigma7 - Applied Financial Analytics",
-			"url": "https://ftso.sigma7.io/",
+			"url": "https://ftso.sigma7.io",
 			"address": "0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0.png"
 		},
@@ -971,7 +971,7 @@
 			"chainId": 14,
 			"name": "sigma7",
 			"description": "sigma7 - Applied Financial Analytics",
-			"url": "https://ftso.sigma7.io/",
+			"url": "https://ftso.sigma7.io",
 			"address": "0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0.png"
 		},
@@ -1043,7 +1043,7 @@
 			"chainId": 19,
 			"name": "SignalChamp",
 			"description": "SignalChamp is a premium and super-fast delegation service. Enjoy high reward rates and low fees with just a few clicks.",
-			"url": "https://www.signalchamp.com/",
+			"url": "https://www.signalchamp.com",
 			"address": "0x263fEca2d46754Aa71BC4Cfc460e8E3055699324",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x263fEca2d46754Aa71BC4Cfc460e8E3055699324.png"
 		},
@@ -1051,7 +1051,7 @@
 			"chainId": 14,
 			"name": "SignalChamp",
 			"description": "SignalChamp is a premium and super-fast delegation service. Enjoy high reward rates and low fees with just a few clicks.",
-			"url": "https://www.signalchamp.com/",
+			"url": "https://www.signalchamp.com",
 			"address": "0x263fEca2d46754Aa71BC4Cfc460e8E3055699324",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x263fEca2d46754Aa71BC4Cfc460e8E3055699324.png"
 		},
@@ -1075,7 +1075,7 @@
 			"chainId": 19,
 			"name": "Flare Dienst",
 			"description": "An EU-based provider.",
-			"url": "https://flare-dienst.xyz/",
+			"url": "https://flare-dienst.xyz",
 			"address": "0xDe4051b333b3063fd28267Cd4412DD25233D0Ae1",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xDe4051b333b3063fd28267Cd4412DD25233D0Ae1.png"
 		},
@@ -1083,7 +1083,7 @@
 			"chainId": 14,
 			"name": "Flare Dienst",
 			"description": "An EU-based provider.",
-			"url": "https://flare-dienst.xyz/",
+			"url": "https://flare-dienst.xyz",
 			"address": "0xDe4051b333b3063fd28267Cd4412DD25233D0Ae1",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xDe4051b333b3063fd28267Cd4412DD25233D0Ae1.png"
 		}
