@@ -3,7 +3,7 @@
 	"timestamp": "2022-03-17T00:00:00+00:00",
 	"version": {
 		"major": 2,
-		"minor": 6,
+		"minor": 7,
 		"patch": 0
 	},
 	"providers": [
@@ -1102,6 +1102,22 @@
 			"url": "https://www.acdtftso.it",
 			"address": "0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d.png"
+		},
+		{
+			"chainId": 19,
+			"name": "FTSO Brasil",
+			"description": "FTSO Brasil is the first ftso in South America working together with Flare Networks to empower token holders with knowledge and rewards.",
+			"url": "https://www.ftso-brasil.com.br",
+			"address": "0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926.png"
+		},
+		{
+			"chainId": 14,
+			"name": "FTSO Brasil",
+			"description": "FTSO Brasil is the first ftso in South America working together with Flare Networks to empower token holders with knowledge and rewards.",
+			"url": "https://www.ftso-brasil.com.br",
+			"address": "0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926.png"
 		}
 	]
 }
