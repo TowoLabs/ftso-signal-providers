@@ -1134,6 +1134,22 @@
 			"url": "https://evolveftso.com",
 			"address": "0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Flare Portal",
+			"description": "Flare Portal - FTSO Data Provider - provides accurate price and reliable globally sourced data. Using your Bifrost wallet to delegate your vote to us is greatly appreciated.",
+			"url": "https://flareportal.com",
+			"address": "0x9225db8B30A59D8Dd15448E2E5918BD160262b5D",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9225db8B30A59D8Dd15448E2E5918BD160262b5D.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Flare Portal",
+			"description": "Flare Portal - FTSO Data Provider - provides accurate price and reliable globally sourced data. Using your Bifrost wallet to delegate your vote to us is greatly appreciated.",
+			"url": "https://flareportal.com",
+			"address": "0x9225db8B30A59D8Dd15448E2E5918BD160262b5D",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9225db8B30A59D8Dd15448E2E5918BD160262b5D.png"
 		}
 	]
 }
