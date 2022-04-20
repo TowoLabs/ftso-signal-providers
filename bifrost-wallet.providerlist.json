@@ -3,7 +3,7 @@
 	"timestamp": "2022-04-20T00:00:00+00:00",
 	"version": {
 		"major": 2,
-		"minor": 9,
+		"minor": 10,
 		"patch": 0
 	},
 	"providers": [
@@ -1150,6 +1150,22 @@
 			"url": "https://www.knotnodes.com",
 			"address": "0x4619Ae2f09cF5e6da873C501a12D86AaCbD7962B",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4619Ae2f09cF5e6da873C501a12D86AaCbD7962B.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Flare Portal",
+			"description": "Flare Portal - FTSO Data Provider - provides accurate price and reliable globally sourced data. Using your Bifrost wallet to delegate your vote to us is greatly appreciated.",
+			"url": "https://flareportal.com",
+			"address": "0x9225db8B30A59D8Dd15448E2E5918BD160262b5D",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9225db8B30A59D8Dd15448E2E5918BD160262b5D.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Flare Portal",
+			"description": "Flare Portal - FTSO Data Provider - provides accurate price and reliable globally sourced data. Using your Bifrost wallet to delegate your vote to us is greatly appreciated.",
+			"url": "https://flareportal.com",
+			"address": "0x9225db8B30A59D8Dd15448E2E5918BD160262b5D",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9225db8B30A59D8Dd15448E2E5918BD160262b5D.png"
 		}
 	]
 }
