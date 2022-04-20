@@ -1,9 +1,9 @@
 {
 	"name": "Bifrost Wallet",
-	"timestamp": "2022-03-17T00:00:00+00:00",
+	"timestamp": "2022-04-20T00:00:00+00:00",
 	"version": {
 		"major": 2,
-		"minor": 8,
+		"minor": 9,
 		"patch": 0
 	},
 	"providers": [
@@ -1134,6 +1134,22 @@
 			"url": "https://evolveftso.com",
 			"address": "0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Knot Nodes",
+			"description": "Knot Nodes is a Signal Provider that aims to contribute to the endeavor of building a decentralized world by delivering necessary data to the  Flare network.",
+			"url": "https://www.knotnodes.com",
+			"address": "0x4619Ae2f09cF5e6da873C501a12D86AaCbD7962B",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4619Ae2f09cF5e6da873C501a12D86AaCbD7962B.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Knot Nodes",
+			"description": "Knot Nodes is a Signal Provider that aims to contribute to the endeavor of building a decentralized world by delivering necessary data to the  Flare network.",
+			"url": "https://www.knotnodes.com",
+			"address": "0x4619Ae2f09cF5e6da873C501a12D86AaCbD7962B",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4619Ae2f09cF5e6da873C501a12D86AaCbD7962B.png"
 		}
 	]
 }
