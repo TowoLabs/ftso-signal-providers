@@ -89,14 +89,6 @@
 		},
 		{
 			"chainId": 19,
-			"name": "Nerdherd.ai",
-			"description": "NerdHerd.ai is a team of professional data scientists. We utilize AI to maximize accuracy and rewards in all market conditions.",
-			"url": "https://nerdherd.ai",
-			"address": "0xE899f8Cca524E9d7681548709e7A87c41adB0c53",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE899f8Cca524E9d7681548709e7A87c41adB0c53.png"
-		},
-		{
-			"chainId": 19,
 			"name": "FTSO UK",
 			"description": "Signal provider on the Flare Network. UK-based team with global coverage. Providing robust and weighted signals. Dedicated to unlocking value.",
 			"url": "https://www.ftso.uk",
@@ -1174,6 +1166,22 @@
 			"url": "https://flareportal.com",
 			"address": "0x9225db8B30A59D8Dd15448E2E5918BD160262b5D",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9225db8B30A59D8Dd15448E2E5918BD160262b5D.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Nerdherd.ai",
+			"description": "NerdHerd.ai is a team of professional data scientists. We utilize AI to maximize accuracy and rewards in all market conditions.",
+			"url": "https://nerdherd.ai",
+			"address": "0xE899f8Cca524E9d7681548709e7A87c41adB0c53",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE899f8Cca524E9d7681548709e7A87c41adB0c53.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Nerdherd.ai",
+			"description": "NerdHerd.ai is a team of professional data scientists. We utilize AI to maximize accuracy and rewards in all market conditions.",
+			"url": "https://nerdherd.ai",
+			"address": "0xE899f8Cca524E9d7681548709e7A87c41adB0c53",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE899f8Cca524E9d7681548709e7A87c41adB0c53.png"
 		}
 	]
 }
