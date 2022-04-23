@@ -1166,6 +1166,22 @@
 			"url": "https://flareportal.com",
 			"address": "0x9225db8B30A59D8Dd15448E2E5918BD160262b5D",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9225db8B30A59D8Dd15448E2E5918BD160262b5D.png"
+		},
+		{
+			"chainId": 19,
+			"name": "FTSO Wales",
+			"description": "Providing accurate and reliable price signals to the Songbird network. Delegate your SGB with us and start earning risk-free rewards today!",
+			"url": "https://ftso.wales",
+			"address": "0xDD27994108c788613800A8356253Aad99A5DAeD5",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xDD27994108c788613800A8356253Aad99A5DAeD5.png"
+		},
+		{
+			"chainId": 14,
+			"name": "FTSO Wales",
+			"description": "Providing accurate and reliable price signals to the Flare network. Delegate your FLR with us and start earning risk-free rewards today!",
+			"url": "https://ftso.wales",
+			"address": "0xDD27994108c788613800A8356253Aad99A5DAeD5",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xDD27994108c788613800A8356253Aad99A5DAeD5.png"
 		}
 	]
 }
