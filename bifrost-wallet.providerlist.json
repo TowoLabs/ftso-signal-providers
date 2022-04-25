@@ -1166,6 +1166,22 @@
 			"url": "https://flareportal.com",
 			"address": "0x9225db8B30A59D8Dd15448E2E5918BD160262b5D",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9225db8B30A59D8Dd15448E2E5918BD160262b5D.png"
+		},
+		{
+			"chainId": 19,
+			"name": "NORTSO",
+			"description": "NORTSO is a Norwegian-based data provider aiming to provide the most accurate price signals on the network.",
+			"url": "https://nortso.xyz",
+			"address": "0x04a8b3171fBbfe4554B55190B43E709c4b672030",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x04a8b3171fBbfe4554B55190B43E709c4b672030.png"
+		},
+		{
+			"chainId": 14,
+			"name": "NORTSO",
+			"description": "NORTSO is a Norwegian-based data provider aiming to provide the most accurate price signals on the network.",
+			"url": "https://nortso.xyz",
+			"address": "0x04a8b3171fBbfe4554B55190B43E709c4b672030",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x04a8b3171fBbfe4554B55190B43E709c4b672030.png"
 		}
 	]
 }
