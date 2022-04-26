@@ -1166,6 +1166,22 @@
 			"url": "https://flareportal.com",
 			"address": "0x9225db8B30A59D8Dd15448E2E5918BD160262b5D",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9225db8B30A59D8Dd15448E2E5918BD160262b5D.png"
+		}.
+		{
+			"chainId": 19,
+			"name": "SSDS",
+			"description": "SSD Speedy LLC - A professionally manager Flare/Songbird signal provider - Maximize your rewards. Delegate to us for accurate pricing.",
+			"url": "https://www.ssdspeedy.com/flare",
+			"address": "0x15bC48091332808391ac700A980B12dD4FC266Fb",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x15bC48091332808391ac700A980B12dD4FC266Fb.png"
+		},
+		{
+			"chainId": 14,
+			"name": "SSDS",
+			"description": "SSD Speedy LLC - A professionally manager Flare/Songbird signal provider - Maximize your rewards. Delegate to us for accurate pricing.",
+			"url": "https://www.ssdspeedy.com/flare",
+			"address": "0x15bC48091332808391ac700A980B12dD4FC266Fb",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x15bC48091332808391ac700A980B12dD4FC266Fb.png"
 		}
 	]
 }
