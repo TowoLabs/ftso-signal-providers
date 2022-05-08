@@ -1088,7 +1088,7 @@
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xDe4051b333b3063fd28267Cd4412DD25233D0Ae1.png"
 		},
 		{
-			"chainId": 19,	
+			"chainId": 19,
 			"name": "ACDTftso",
 			"description": "ACDTftso is an Italian provider. We offer near real time prices with an high accuracy rate and a simple Webapp for interact with Flare Network.",
 			"url": "https://www.acdtftso.it",
@@ -1166,6 +1166,22 @@
 			"url": "https://flareportal.com",
 			"address": "0x9225db8B30A59D8Dd15448E2E5918BD160262b5D",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9225db8B30A59D8Dd15448E2E5918BD160262b5D.png"
+		},
+		{
+			"chainId": 19,
+			"name": "BushiFinance",
+			"description": "As samurai are born to serve their lord and die, BushiFinance exists to provide accurate and reliable prices for the Songbird ecosystem.",
+			"url": "https://bushi.finance",
+			"address": "0x0d3852Ad415477fFC39ce9351bD4dEdbbd585833",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0d3852Ad415477fFC39ce9351bD4dEdbbd585833.png"
+		},
+		{
+			"chainId": 14,
+			"name": "BushiFinance",
+			"description": "As samurai are born to serve their lord and die, BushiFinance exists to provide accurate and reliable prices for the Flare ecosystem.",
+			"url": "https://bushi.finance",
+			"address": "0x0d3852Ad415477fFC39ce9351bD4dEdbbd585833",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0d3852Ad415477fFC39ce9351bD4dEdbbd585833.png"
 		}
 	]
 }
