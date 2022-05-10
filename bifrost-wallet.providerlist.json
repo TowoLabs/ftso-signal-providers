@@ -1168,8 +1168,16 @@
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9225db8B30A59D8Dd15448E2E5918BD160262b5D.png"
 		},
 		{
+			"chainId": 14,
+			"name": "sToadz FTSO",
+			"description": "FTSO Stoadz provides a Flare Time Series Oracle for those who want to delegate their assets!",
+			"url": "https://xtoadz.xyz/signal-provider",
+			"address": "0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae.png"
+		},
+		{
 			"chainId": 19,
-			"name": "FTSO Stoadz",
+			"name": "sToadz FTSO",
 			"description": "FTSO Stoadz provides a Flare Time Series Oracle for those who want to delegate their assets!",
 			"url": "https://xtoadz.xyz/signal-provider",
 			"address": "0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae",
