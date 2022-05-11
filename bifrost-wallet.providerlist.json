@@ -3,7 +3,7 @@
 	"timestamp": "2022-05-11T00:00:00+00:00",
 	"version": {
 		"major": 2,
-		"minor": 13,
+		"minor": 14,
 		"patch": 0
 	},
 	"providers": [
@@ -1230,6 +1230,22 @@
 			"url": "https://bushi.finance",
 			"address": "0x0d3852Ad415477fFC39ce9351bD4dEdbbd585833",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0d3852Ad415477fFC39ce9351bD4dEdbbd585833.png"
+		},
+		{
+			"chainId": 14,
+			"name": "sToadz FTSO",
+			"description": "FTSO Stoadz provides a Flare Time Series Oracle for those who want to delegate their assets!",
+			"url": "https://xtoadz.xyz/signal-provider",
+			"address": "0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae.png"
+		},
+		{
+			"chainId": 19,
+			"name": "sToadz FTSO",
+			"description": "FTSO Stoadz provides a Flare Time Series Oracle for those who want to delegate their assets!",
+			"url": "https://xtoadz.xyz/signal-provider",
+			"address": "0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae.png"
 		}
 	]
 }
