@@ -2,8 +2,8 @@
 	"name": "Bifrost Wallet",
 	"timestamp": "2022-05-11T00:00:00+00:00",
 	"version": {
-		"major": 2,
-		"minor": 14,
+		"major": 3,
+		"minor": 0,
 		"patch": 0
 	},
 	"providers": [
@@ -1246,6 +1246,30 @@
 			"url": "https://xtoadz.xyz/signal-provider",
 			"address": "0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae.png"
+		},
+		{
+			"chainId": 16,
+			"name": "Test Provider 1",
+			"description": "Test provider 1 for the Coston test network.",
+			"url": "https://towolabs.com#1",
+			"address": "0xABaA1718C2d80fC037Bf66e3f66f0975D67431a9",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xABaA1718C2d80fC037Bf66e3f66f0975D67431a9.png"
+		},
+		{
+			"chainId": 16,
+			"name": "Test Provider 2",
+			"description": "Test provider 2 for the Coston test network.",
+			"url": "https://towolabs.com#2",
+			"address": "0x07f5053C867AE107Db15A38Aa4421b2c24aC4e51",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x07f5053C867AE107Db15A38Aa4421b2c24aC4e51.png"
+		},
+		{
+			"chainId": 16,
+			"name": "Test Provider 3",
+			"description": "Test provider 3 for the Coston test network.",
+			"url": "https://towolabs.com#3",
+			"address": "0xE80c39Eae57c0359EE6c4086e2b22300353728e1",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE80c39Eae57c0359EE6c4086e2b22300353728e1.png"
 		}
 	]
 }
