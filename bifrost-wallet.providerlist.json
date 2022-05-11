@@ -3,7 +3,7 @@
 	"timestamp": "2022-05-11T00:00:00+00:00",
 	"version": {
 		"major": 2,
-		"minor": 11,
+		"minor": 12,
 		"patch": 0
 	},
 	"providers": [
@@ -1198,6 +1198,22 @@
 			"url": "https://ftso.wales",
 			"address": "0xDD27994108c788613800A8356253Aad99A5DAeD5",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xDD27994108c788613800A8356253Aad99A5DAeD5.png"
+		},
+		{
+			"chainId": 19,
+			"name": "NORTSO",
+			"description": "NORTSO is a Norwegian-based data provider aiming to provide the most accurate price signals on the network.",
+			"url": "https://nortso.xyz",
+			"address": "0x04a8b3171fBbfe4554B55190B43E709c4b672030",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x04a8b3171fBbfe4554B55190B43E709c4b672030.png"
+		},
+		{
+			"chainId": 14,
+			"name": "NORTSO",
+			"description": "NORTSO is a Norwegian-based data provider aiming to provide the most accurate price signals on the network.",
+			"url": "https://nortso.xyz",
+			"address": "0x04a8b3171fBbfe4554B55190B43E709c4b672030",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x04a8b3171fBbfe4554B55190B43E709c4b672030.png"
 		}
 	]
 }
