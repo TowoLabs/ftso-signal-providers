@@ -1270,6 +1270,14 @@
 			"url": "https://towolabs.com#3",
 			"address": "0xE80c39Eae57c0359EE6c4086e2b22300353728e1",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE80c39Eae57c0359EE6c4086e2b22300353728e1.png"
+		},
+		{
+			"chainId": 19,
+			"name": "CATA",
+			"description": "CATA provides the most accurate signals from Russia!",
+			"url": "https://cataProv.com",
+			"address": "0x4957001aE4c536eB2FeB5468B3489ffbD41AE514",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4957001aE4c536eB2FeB5468B3489ffbD41AE514.png"
 		}
 	]
 }
