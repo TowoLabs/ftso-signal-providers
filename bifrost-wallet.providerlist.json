@@ -1270,6 +1270,22 @@
 			"url": "https://towolabs.com#3",
 			"address": "0xE80c39Eae57c0359EE6c4086e2b22300353728e1",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE80c39Eae57c0359EE6c4086e2b22300353728e1.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Ugly Kitty",
+			"description": "We are a Flare and Songbird blockchain networks data signals provider based in the USA.",
+			"url": "https://uglykitty.xyz",
+			"address": "0x35149714467F2FE71b46eEb4d11689ED8728Bd25",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x35149714467F2FE71b46eEb4d11689ED8728Bd25.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Ugly Kitty",
+			"description": "We are a Flare and Songbird blockchain networks data signals provider based in the USA.",
+			"url": "https://uglykitty.xyz",
+			"address": "0x35149714467F2FE71b46eEb4d11689ED8728Bd25",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x35149714467F2FE71b46eEb4d11689ED8728Bd25.png"
 		}
 	]
 }
