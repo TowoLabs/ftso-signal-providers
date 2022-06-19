@@ -1270,6 +1270,14 @@
 			"url": "https://towolabs.com#3",
 			"address": "0xE80c39Eae57c0359EE6c4086e2b22300353728e1",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE80c39Eae57c0359EE6c4086e2b22300353728e1.png"
+		},
+		{
+			"chainId": 19,
+			"name": "ApeFTSO",
+			"description": "An aped out signal provider to the Flare Time Series Oracle on the Flare Network",
+			"url": "https://x-apes.com",
+			"address": "0xd7D31D0dff5fF56901D45B797c077046BD25c7B5",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xd7D31D0dff5fF56901D45B797c077046BD25c7B5.png"
 		}
 	]
 }
