@@ -3,7 +3,7 @@
 	"timestamp": "2022-06-20T00:00:00+00:00",
 	"version": {
 		"major": 3,
-		"minor": 1,
+		"minor": 2,
 		"patch": 0
 	},
 	"providers": [
@@ -1318,6 +1318,14 @@
 			"url": "https://uglykitty.xyz",
 			"address": "0x35149714467F2FE71b46eEb4d11689ED8728Bd25",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x35149714467F2FE71b46eEb4d11689ED8728Bd25.png"
+		},
+		{
+			"chainId": 19,
+			"name": "ApeFTSO",
+			"description": "An aped out signal provider to the Flare Time Series Oracle on the Flare Network",
+			"url": "https://x-apes.com",
+			"address": "0xd7D31D0dff5fF56901D45B797c077046BD25c7B5",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xd7D31D0dff5fF56901D45B797c077046BD25c7B5.png"
 		}
 	]
 }
