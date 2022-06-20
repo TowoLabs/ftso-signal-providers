@@ -1,9 +1,9 @@
 {
 	"name": "Bifrost Wallet",
-	"timestamp": "2022-05-11T00:00:00+00:00",
+	"timestamp": "2022-06-20T00:00:00+00:00",
 	"version": {
 		"major": 3,
-		"minor": 0,
+		"minor": 1,
 		"patch": 0
 	},
 	"providers": [
@@ -1286,6 +1286,22 @@
 			"url": "https://www.ssdspeedy.com/flare",
 			"address": "0x15bC48091332808391ac700A980B12dD4FC266Fb",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x15bC48091332808391ac700A980B12dD4FC266Fb.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Solarius",
+			"description": "Solarius Flare Time Series Oracle provides accurate data from advanced algorithms using our reliable and robust hardware.",
+			"url": "https://www.solarius.io/ftso",
+			"address": "0x6c6b3560704Da8A2c33B1BB00E88bA343807E565",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6c6b3560704Da8A2c33B1BB00E88bA343807E565.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Solarius",
+			"description": "Solarius Flare Time Series Oracle provides accurate data from advanced algorithms using our reliable and robust hardware.",
+			"url": "https://www.solarius.io/ftso",
+			"address": "0x6c6b3560704Da8A2c33B1BB00E88bA343807E565",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6c6b3560704Da8A2c33B1BB00E88bA343807E565.png"
 		}
 	]
 }
