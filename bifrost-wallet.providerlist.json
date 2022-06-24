@@ -1326,6 +1326,22 @@
 			"url": "https://x-apes.com",
 			"address": "0xd7D31D0dff5fF56901D45B797c077046BD25c7B5",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xd7D31D0dff5fF56901D45B797c077046BD25c7B5.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Wonderftso",
+			"description": "The best ftso around",
+			"url": "http://www.wonderftso.eu",
+			"address": "0x78A99Aa32cDe18B33B150941fBF718715d15Af6a",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x78A99Aa32cDe18B33B150941fBF718715d15Af6a.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Wonderftso",
+			"description": "The best ftso around",
+			"url": "http://www.wonderftso.eu",
+			"address": "0x78A99Aa32cDe18B33B150941fBF718715d15Af6a",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x78A99Aa32cDe18B33B150941fBF718715d15Af6a.png"
 		}
 	]
 }
