@@ -1326,6 +1326,14 @@
 			"url": "https://x-apes.com",
 			"address": "0xd7D31D0dff5fF56901D45B797c077046BD25c7B5",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xd7D31D0dff5fF56901D45B797c077046BD25c7B5.png"
+		},
+		{
+			"chainId": 14,
+			"name": "4DadsFTSO",
+			"description": "4 dads, a bunch of kids and a FTSO. Furthering efforts of decentralization for Flare Network and it’s canary network, Songbird.",
+			"url": "https://4dads.io",
+			"address": "0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3.png"
 		}
 	]
 }
