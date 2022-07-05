@@ -1330,10 +1330,10 @@
 		{
 			"chainId": 14,
 			"name": "4DadsFTSO",
-			"description": "4 dads, a bunch of kids and a FTSO. Furthering efforts of decentralization for Flare Network and it’s canary network, Songbird.",
+			"description": "4 dads, a bunch of kids and a FTSO. Furthering efforts of decentralization for Flare Network and it's canary network, Songbird.",
 			"url": "https://4dads.io",
-			"address": "0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3.png"
+			"address": "0xC522E6A633545872f1afc0cdD7b2D96d97E3dE67",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC522E6A633545872f1afc0cdD7b2D96d97E3dE67.png"
 		}
 	]
 }
