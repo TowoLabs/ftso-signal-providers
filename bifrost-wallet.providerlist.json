@@ -1212,7 +1212,7 @@
 			"name": "NORTSO",
 			"description": "NORTSO is a Norwegian-based data provider aiming to provide the most accurate price signals on the network.",
 			"url": "https://nortso.xyz",
-			"address": "0x04a8b3171fBbfe4554B55190B43E709c4b672030",
+			"address": "0x00c0fFEf480E392f5Fe7af592214855Ff872fa80",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x04a8b3171fBbfe4554B55190B43E709c4b672030.png"
 		},
 		{
