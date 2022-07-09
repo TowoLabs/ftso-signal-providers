@@ -1132,8 +1132,8 @@
 			"name": "EvolveFTSO",
 			"description": "EvolveFTSO is a reliable data provider, run by a team providing continuous improvements to produce the best results",
 			"url": "https://evolveftso.com",
-			"address": "0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa.png"
+			"address": "0x9b5F4A2177135A2A6DC83893D5d58e684419aB24",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9b5F4A2177135A2A6DC83893D5d58e684419aB24.png"
 		},
 		{
 			"chainId": 19,
