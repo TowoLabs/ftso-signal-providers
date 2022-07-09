@@ -708,8 +708,8 @@
 			"name": "Xdrops Oracle",
 			"description": "Croatia based Flare FTSO data provider.",
 			"url": "https://www.xdrops.live",
-			"address": "0x2d3bdE536ad297f2EA74965f02C9E42f4780fB6A",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2d3bdE536ad297f2EA74965f02C9E42f4780fB6A.png"
+			"address": "0x112B1130BD78B5A520adeace6130151E07a270a7",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x112B1130BD78B5A520adeace6130151E07a270a7.png"
 		},
 		{
 			"chainId": 19,
