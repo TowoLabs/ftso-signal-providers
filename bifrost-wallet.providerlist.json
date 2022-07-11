@@ -492,8 +492,8 @@
 			"name": "FlareFi",
 			"description": "We are a trustworthy data provider for Songbird and Flare Network, the new distributed ecosystem. We collect data reliably for the benefit of the ecosystem and our delegators.",
 			"url": "https://flarefi.tech",
-			"address": "0x5f3C5991De3F0713715a733eE125785D516cEb16",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5f3C5991De3F0713715a733eE125785D516cEb16.png"
+			"address": "0x184DbC7F2D96aBDfDe5CDa8c56F3F13DbF138cdF",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x184DbC7F2D96aBDfDe5CDa8c56F3F13DbF138cdF.png"
 		},
 		{
 			"chainId": 19,
