@@ -1331,7 +1331,7 @@
 			"chainId": 19,
 			"name": "Wonderftso",
 			"description": "The best ftso around",
-			"url": "http://www.wonderftso.eu",
+			"url": "https://www.wonderftso.eu",
 			"address": "0x78A99Aa32cDe18B33B150941fBF718715d15Af6a",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x78A99Aa32cDe18B33B150941fBF718715d15Af6a.png"
 		},
@@ -1339,9 +1339,9 @@
 			"chainId": 14,
 			"name": "Wonderftso",
 			"description": "The best ftso around",
-			"url": "http://www.wonderftso.eu",
-			"address": "0x78A99Aa32cDe18B33B150941fBF718715d15Af6a",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x78A99Aa32cDe18B33B150941fBF718715d15Af6a.png"
+			"url": "https://www.wonderftso.eu",
+			"address": "0x4c1F288cAFECbbDac653C2170337c38e62c400E9",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c1F288cAFECbbDac653C2170337c38e62c400E9.png"
 		}
 	]
 }
