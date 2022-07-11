@@ -1332,8 +1332,8 @@
 			"name": "ApeFTSO",
 			"description": "An aped out signal provider to the Flare Time Series Oracle on the Flare Network",
 			"url": "https://x-apes.com",
-			"address": "0x3774c4fdd0a52b202d7583fa938a77ac252d770f",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3774c4fdd0a52b202d7583fa938a77ac252d770f.png"
+			"address": "0x3774c4Fdd0a52B202d7583Fa938A77ac252d770f",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3774c4Fdd0a52B202d7583Fa938A77ac252d770f.png"
 		},
 		{
 			"chainId": 14,
@@ -1341,7 +1341,7 @@
 			"description": "An aped out signal provider to the Flare Time Series Oracle on the Flare Network",
 			"url": "https://x-apes.com",
 			"address": "0x622f389d96D3E6BaE90bAd965Fd51d5a04f85922",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3774c4fdd0a52b202d7583fa938a77ac252d770f.png"
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x622f389d96D3E6BaE90bAd965Fd51d5a04f85922.png"
 		}
 	]
 }
