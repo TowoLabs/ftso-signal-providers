@@ -1334,6 +1334,14 @@
 			"url": "https://4dads.io",
 			"address": "0xC522E6A633545872f1afc0cdD7b2D96d97E3dE67",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC522E6A633545872f1afc0cdD7b2D96d97E3dE67.png"
+		},
+		{
+			"chainId": 19,
+			"name": "EDPFTSO",
+			"description": "Enterprise Data Provider FTSO",
+			"url": "https://edp-ftso.com",
+			"address": "0x1C602a30335187A97D8061Ffffd4522796DE82bF",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1C602a30335187A97D8061Ffffd4522796DE82bF.png"
 		}
 	]
 }
