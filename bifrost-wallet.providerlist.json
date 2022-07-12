@@ -1346,7 +1346,7 @@
     {
       "chainId": 19,
       "name": "O1 FTSO",
-      "description": "O1 FTSO is an open-minded data signals provider looking for a great partnership on the Flare Network.",
+      "description": "O1 FTSO is an open-minded data signals provider looking for a great partnership on the Flare and Songbird Network.",
       "url": "https://o1ftso.netlify.app",
       "address": "0x229458a754cd1aeba8a0c87f59e22777d593b85a",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x229458a754cd1aeba8a0c87f59e22777d593b85a.png"
@@ -1354,9 +1354,9 @@
     {
       "chainId": 14,
       "name": "O1 FTSO",
-      "description": "O1 FTSO is an open-minded data signals provider looking for a great partnership on the Flare Network.",
+      "description": "O1 FTSO is an open-minded data signals provider looking for a great partnership on the Flare and Songbird Network.",
       "url": "https://o1ftso.netlify.app",
-      "address": "0x229458a754cd1aeba8a0c87f59e22777d593b85a",
+      "address": "0xBE304C28F3a050486b9733AE56cB5541B16c007B",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x229458a754cd1aeba8a0c87f59e22777d593b85a.png"
     }
   ]
