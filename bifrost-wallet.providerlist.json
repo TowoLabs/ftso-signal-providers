@@ -498,7 +498,7 @@
 		{
 			"chainId": 19,
 			"name": "WitterFTSO",
-			"description": "We are a NYC based Flare Network signal provider. We put the PRO in provider!",
+			"description": "We are a NYC based Songbird Network signal provider. We put the PRO in provider!",
 			"url": "https://witterftso.com",
 			"address": "0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F.png"
@@ -508,8 +508,8 @@
 			"name": "WitterFTSO",
 			"description": "We are a NYC based Flare Network signal provider. We put the PRO in provider!",
 			"url": "https://witterftso.com",
-			"address": "0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F.png"
+			"address": "0x4A74e79738009711a6ddB6653614d43ba9F431b9",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4A74e79738009711a6ddB6653614d43ba9F431b9.png"
 		},
 		{
 			"chainId": 19,
