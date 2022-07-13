@@ -1327,6 +1327,7 @@
 			"address": "0xd7D31D0dff5fF56901D45B797c077046BD25c7B5",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xd7D31D0dff5fF56901D45B797c077046BD25c7B5.png"
 		},
+		
 		{
 			"chainId": 19,
 			"name": "Wonderftso",
