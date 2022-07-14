@@ -1,9 +1,9 @@
 {
 	"name": "Bifrost Wallet",
-	"timestamp": "2022-06-20T00:00:00+00:00",
+	"timestamp": "2022-07-11T00:00:00+00:00",
 	"version": {
 		"major": 3,
-		"minor": 2,
+		"minor": 3,
 		"patch": 0
 	},
 	"providers": [
@@ -492,8 +492,8 @@
 			"name": "FlareFi",
 			"description": "We are a trustworthy data provider for Songbird and Flare Network, the new distributed ecosystem. We collect data reliably for the benefit of the ecosystem and our delegators.",
 			"url": "https://flarefi.tech",
-			"address": "0x5f3C5991De3F0713715a733eE125785D516cEb16",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5f3C5991De3F0713715a733eE125785D516cEb16.png"
+			"address": "0x184DbC7F2D96aBDfDe5CDa8c56F3F13DbF138cdF",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x184DbC7F2D96aBDfDe5CDa8c56F3F13DbF138cdF.png"
 		},
 		{
 			"chainId": 19,
@@ -534,6 +534,14 @@
 			"url": "https://4dads.io",
 			"address": "0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3.png"
+		},
+		{
+			"chainId": 14,
+			"name": "4DadsFTSO",
+			"description": "4 dads, a bunch of kids and a FTSO. Furthering efforts of decentralization for Flare Network and it's canary network, Songbird.",
+			"url": "https://4dads.io",
+			"address": "0xC522E6A633545872f1afc0cdD7b2D96d97E3dE67",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC522E6A633545872f1afc0cdD7b2D96d97E3dE67.png"
 		},
 		{
 			"chainId": 19,
@@ -708,8 +716,8 @@
 			"name": "Xdrops Oracle",
 			"description": "Croatia based Flare FTSO data provider.",
 			"url": "https://www.xdrops.live",
-			"address": "0x2d3bdE536ad297f2EA74965f02C9E42f4780fB6A",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2d3bdE536ad297f2EA74965f02C9E42f4780fB6A.png"
+			"address": "0x112B1130BD78B5A520adeace6130151E07a270a7",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x112B1130BD78B5A520adeace6130151E07a270a7.png"
 		},
 		{
 			"chainId": 19,
@@ -772,8 +780,8 @@
 			"name": "PRICEKRAKEN",
 			"description": "Germany based FTSO data provider with passion for improvements",
 			"url": "https://www.pricekraken.de",
-			"address": "0xEF4ef2f3B8C69282846a98341095baa018247553",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xEF4ef2f3B8C69282846a98341095baa018247553.png"
+			"address": "0xB95f930711DA83226416FFaAB084249B2e01e1F2",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB95f930711DA83226416FFaAB084249B2e01e1F2.png"
 		},
 		{
 			"chainId": 19,
@@ -1099,9 +1107,9 @@
 			"chainId": 14,
 			"name": "ACDTftso",
 			"description": "ACDTftso is an Italian provider. We offer near real time prices with an high accuracy rate and a simple Webapp for interact with Flare Network.",
-			"url": "https://www.acdtftso.it",
-			"address": "0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d.png"
+			"url": "https://www.acdtftso.it/",
+			"address": "0xAc2884A4479Bf7c21AA0462d52bc9c76c3a9A3dD",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAc2884A4479Bf7c21AA0462d52bc9c76c3a9A3dD.png"
 		},
 		{
 			"chainId": 19,
@@ -1132,8 +1140,8 @@
 			"name": "EvolveFTSO",
 			"description": "EvolveFTSO is a reliable data provider, run by a team providing continuous improvements to produce the best results",
 			"url": "https://evolveftso.com",
-			"address": "0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa.png"
+			"address": "0x9b5F4A2177135A2A6DC83893D5d58e684419aB24",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9b5F4A2177135A2A6DC83893D5d58e684419aB24.png"
 		},
 		{
 			"chainId": 19,
@@ -1300,8 +1308,8 @@
 			"name": "Solarius",
 			"description": "Solarius Flare Time Series Oracle provides accurate data from advanced algorithms using our reliable and robust hardware.",
 			"url": "https://www.solarius.io/ftso",
-			"address": "0x6c6b3560704Da8A2c33B1BB00E88bA343807E565",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6c6b3560704Da8A2c33B1BB00E88bA343807E565.png"
+			"address": "0x8863eAD675DfF5Cf260D5FdC079d50996D1F3cd4",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x8863eAD675DfF5Cf260D5FdC079d50996D1F3cd4.png"
 		},
 		{
 			"chainId": 19,
@@ -1324,8 +1332,16 @@
 			"name": "ApeFTSO",
 			"description": "An aped out signal provider to the Flare Time Series Oracle on the Flare Network",
 			"url": "https://x-apes.com",
-			"address": "0xd7D31D0dff5fF56901D45B797c077046BD25c7B5",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xd7D31D0dff5fF56901D45B797c077046BD25c7B5.png"
+			"address": "0x3774c4Fdd0a52B202d7583Fa938A77ac252d770f",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3774c4Fdd0a52B202d7583Fa938A77ac252d770f.png"
+		},
+		{
+			"chainId": 14,
+			"name": "ApeFTSO",
+			"description": "An aped out signal provider to the Flare Time Series Oracle on the Flare Network",
+			"url": "https://x-apes.com",
+			"address": "0x622f389d96D3E6BaE90bAd965Fd51d5a04f85922",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x622f389d96D3E6BaE90bAd965Fd51d5a04f85922.png"
 		}
 	]
 }
