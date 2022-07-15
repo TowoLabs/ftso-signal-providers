@@ -1342,6 +1342,23 @@
 			"url": "https://x-apes.com",
 			"address": "0x622f389d96D3E6BaE90bAd965Fd51d5a04f85922",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x622f389d96D3E6BaE90bAd965Fd51d5a04f85922.png"
-		}
+		},
+		{
+                        "chainId": 19,
+                        "name": "Maple",
+                        "description": "Flare / Songbird Validator and Data Provider.",
+                        "url": "https://maple-coin.net/",
+                        "address": "0x0x3cA9aA64A040644c00302b2287447bC97597B1dd",
+                        "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3cA9aA64A040644c00302b2287447bC97597B1dd.png"
+                },
+                {
+                        "chainId": 14,
+                        "name": "Maple",
+                        "description": "Flare / Songbird Validator and Data Provider.",
+                        "url": "https://maple-coin.net/",
+                        "address": "0xA815c4ab86a2bc36D1447Dc9344C6D0ed8251e36",
+                        "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA815c4ab86a2bc36D1447Dc9344C6D0ed8251e36.png"
+                }
+
 	]
 }
