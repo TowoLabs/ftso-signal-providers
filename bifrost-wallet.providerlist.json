@@ -986,7 +986,7 @@
 		{
 			"chainId": 19,
 			"name": "FTSORK",
-			"description": "Flare/Songbird signal provider by Adark d.o.o",
+			"description": "Songbird time series oracle signal provider by Adark d.o.o",
 			"url": "https://www.ftso.adark.io",
 			"address": "0xF1Bd86b547a25921F800AdBb3F35f6E88D336c72",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF1Bd86b547a25921F800AdBb3F35f6E88D336c72.png"
@@ -994,10 +994,10 @@
 		{
 			"chainId": 14,
 			"name": "FTSORK",
-			"description": "Flare/Songbird signal provider by Adark d.o.o",
+			"description": "Flare time series oracle signal provider by Adark d.o.o",
 			"url": "https://www.ftso.adark.io",
-			"address": "0xF1Bd86b547a25921F800AdBb3F35f6E88D336c72",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF1Bd86b547a25921F800AdBb3F35f6E88D336c72.png"
+			"address": "0x22a95C2DB77742FFb127f6b084BEdEE4d182e1ba",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x22a95C2DB77742FFb127f6b084BEdEE4d182e1ba.png"
 		},
 		{
 			"chainId": 19,
