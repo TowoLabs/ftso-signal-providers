@@ -372,8 +372,8 @@
 			"name": "Scintilla",
 			"description": "High accuracy signal provider to the Flare Network.",
 			"url": "https://www.scintilla.io",
-			"address": "0xE70d5351a842131c66AAeBC4bD604912BF3cBa72",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE70d5351a842131c66AAeBC4bD604912BF3cBa72.png"
+			"address": "0xeFb939Ebe430efD987c2650367a1b2c9f070d3f1",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xeFb939Ebe430efD987c2650367a1b2c9f070d3f1.png"
 		},
 		{
 			"chainId": 19,
