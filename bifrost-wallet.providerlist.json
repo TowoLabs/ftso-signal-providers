@@ -1343,7 +1343,6 @@
             "address": "0x1C602a30335187A97D8061Ffffd4522796DE82bF",
             "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1C602a30335187A97D8061Ffffd4522796DE82bF.png"
         },
-        ,
         {
             "chainId": 14,
             "name": "EDPFTSO",
