@@ -1333,7 +1333,7 @@
       "description": "We are a Flare and Songbird blockchain networks data signals provider based in Egypt.",
       "url": "https://singularity.finance",
       "address": "0xAe45A3c0aD97504814752ea74820Ac14991E030c",
-      "logoURI": "https://avatars.githubusercontent.com/u/108846281?v=4"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAe45A3c0aD97504814752ea74820Ac14991E030c.png"
     },
     {
       "chainId": 19,
@@ -1341,7 +1341,7 @@
       "description": "We are a Flare and Songbird blockchain networks data signals provider based in Egypt.",
       "url": "https://singularity.finance",
       "address": "0x88d7767a64ED01300C616d3432ea5ca307ec2192",
-      "logoURI": "https://avatars.githubusercontent.com/u/108846281?v=4"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAe45A3c0aD97504814752ea74820Ac14991E030c.png"
     }
   ]
 }
