@@ -1342,6 +1342,22 @@
 			"url": "https://x-apes.com",
 			"address": "0x622f389d96D3E6BaE90bAd965Fd51d5a04f85922",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x622f389d96D3E6BaE90bAd965Fd51d5a04f85922.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Flare Beacon",
+			"description": "Songbird network signal provider. Beaconing since inception",
+			"url": "https://flarebeacon.xyz/",
+			"address": "0x633CE03ea66d910c15869e1552fDccC2bf9aAD87",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x633CE03ea66d910c15869e1552fDccC2bf9aAD87.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Flare Beacon",
+			"description": "Flare network signal provider. Beaconing since inception",
+			"url": "https://flarebeacon.xyz/",
+			"address": "0x633CE03ea66d910c15869e1552fDccC2bf9aAD87",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x633CE03ea66d910c15869e1552fDccC2bf9aAD87.png"
 		}
 	]
 }
