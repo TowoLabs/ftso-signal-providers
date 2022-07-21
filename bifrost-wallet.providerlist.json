@@ -1342,6 +1342,22 @@
 			"url": "https://x-apes.com",
 			"address": "0x622f389d96D3E6BaE90bAd965Fd51d5a04f85922",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x622f389d96D3E6BaE90bAd965Fd51d5a04f85922.png"
-		}
+		},
+		{
+			"chainId": 19,
+			"name": "EDPFTSO",
+			"description": "Enterprise Data Provider FTSO",
+			"url": "https://edp-ftso.com",
+			"address": "0x1C602a30335187A97D8061Ffffd4522796DE82bF",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1C602a30335187A97D8061Ffffd4522796DE82bF.png"
+		 },
+		 {
+			"chainId": 14,
+			"name": "EDPFTSO",
+			"description": "Enterprise Data Provider FTSO",
+			"url": "https://edp-ftso.com",
+			"address": "0xad918962795547a8c997F96f7BAbB822612a5FfE",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xad918962795547a8c997F96f7BAbB822612a5FfE.png"
+		 }
 	]
 }
