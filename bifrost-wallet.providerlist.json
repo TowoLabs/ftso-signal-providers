@@ -1124,8 +1124,8 @@
 			"name": "FTSO Brasil",
 			"description": "FTSO Brasil is the first ftso in South America working together with Flare Networks to empower token holders with knowledge and rewards.",
 			"url": "https://www.ftso-brasil.com.br",
-			"address": "0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926.png"
+			"address": "0x0DDD059Bf29DE115b48B2844E112eA9A2fcCfC2b",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0DDD059Bf29DE115b48B2844E112eA9A2fcCfC2b.png"
 		},
 		{
 			"chainId": 19,
