@@ -3,7 +3,7 @@
 	"timestamp": "2022-07-26T00:00:00+00:00",
 	"version": {
 		"major": 3,
-		"minor": 4,
+		"minor": 5,
 		"patch": 0
 	},
 	"providers": [
@@ -1028,8 +1028,8 @@
 			"name": "Oracle Beast FTSO",
 			"description": "Providing a Flare Time Series Oracle for those who want to delegate like a BEAST!",
 			"url": "https://www.oracle-beast.com",
-			"address": "0x3ed7b2cCC4BA420CdcE2BA232d3efdc13075F16D",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3ed7b2cCC4BA420CdcE2BA232d3efdc13075F16D.png"
+			"address": "0x13F43BAE34d69Cc1E42743764f2b5f65dDb4a142",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x13F43BAE34d69Cc1E42743764f2b5f65dDb4a142.png"
 		},
 		{
 			"chainId": 19,
@@ -1342,6 +1342,46 @@
 			"url": "https://x-apes.com",
 			"address": "0x622f389d96D3E6BaE90bAd965Fd51d5a04f85922",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x622f389d96D3E6BaE90bAd965Fd51d5a04f85922.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Wonderftso",
+			"description": "The best ftso around",
+			"url": "https://www.wonderftso.eu",
+			"address": "0x78A99Aa32cDe18B33B150941fBF718715d15Af6a",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x78A99Aa32cDe18B33B150941fBF718715d15Af6a.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Wonderftso",
+			"description": "The best ftso around",
+			"url": "https://www.wonderftso.eu",
+			"address": "0x4c1F288cAFECbbDac653C2170337c38e62c400E9",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c1F288cAFECbbDac653C2170337c38e62c400E9.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Nomikai FTSO",
+			"description": "Nomikai.network is a reliable and responsive FTSO signal provider for the Songbird and Flare Networks.",
+			"url": "https://nomikai.network",
+			"address": "0x6dB5149c022D17f0ec1dd18e01ddb890509E08F3",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6dB5149c022D17f0ec1dd18e01ddb890509E08F3.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Singularity Finance",
+			"description": "We are a Flare and Songbird blockchain networks data signals provider based in Egypt.",
+			"url": "https://singularity.finance",
+			"address": "0xAe45A3c0aD97504814752ea74820Ac14991E030c",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAe45A3c0aD97504814752ea74820Ac14991E030c.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Singularity Finance",
+			"description": "We are a Flare and Songbird blockchain networks data signals provider based in Egypt.",
+			"url": "https://singularity.finance",
+			"address": "0x88d7767a64ED01300C616d3432ea5ca307ec2192",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x88d7767a64ED01300C616d3432ea5ca307ec2192.png"
 		}
 	]
 }
