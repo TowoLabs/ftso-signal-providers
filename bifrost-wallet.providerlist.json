@@ -196,8 +196,8 @@
 			"name": "A-FTSO",
 			"description": "The first indie FTSO provider, run as a professional one. No frills, low fees.",
 			"url": "https://ftso.alexdupre.com",
-			"address": "0x2d7bf53ED6117aD1DCD6416d460481522a16aFdf",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2d7bf53ED6117aD1DCD6416d460481522a16aFdf.png"
+			"address": "0xAF7504242064532CbD3370aD7591452B1D09BBdc",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAF7504242064532CbD3370aD7591452B1D09BBdc.png"
 		},
 		{
 			"chainId": 19,
