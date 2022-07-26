@@ -1082,7 +1082,7 @@
 		{
 			"chainId": 19,
 			"name": "Flare Dienst",
-			"description": "An EU-based provider.",
+			"description": "An EU-based data provider.",
 			"url": "https://flare-dienst.xyz",
 			"address": "0xDe4051b333b3063fd28267Cd4412DD25233D0Ae1",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xDe4051b333b3063fd28267Cd4412DD25233D0Ae1.png"
@@ -1090,10 +1090,10 @@
 		{
 			"chainId": 14,
 			"name": "Flare Dienst",
-			"description": "An EU-based provider.",
+			"description": "An EU-based data provider.",
 			"url": "https://flare-dienst.xyz",
-			"address": "0xDe4051b333b3063fd28267Cd4412DD25233D0Ae1",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xDe4051b333b3063fd28267Cd4412DD25233D0Ae1.png"
+			"address": "0xDe40311b4b538392e0e7dCC134426C397c956cA9",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xDe40311b4b538392e0e7dCC134426C397c956cA9.png"
 		},
 		{
 			"chainId": 19,
