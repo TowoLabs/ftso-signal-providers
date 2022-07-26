@@ -388,8 +388,8 @@
 			"name": "LightFTSO",
 			"description": "Homebrewed FTSO, light, nimble, with high rewards and lower fees. Get on! We're getting passive income!",
 			"url": "https://www.lightft.so",
-			"address": "0xfB9197720329a80191BA140844E96DCcAD149014",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfB9197720329a80191BA140844E96DCcAD149014.png"
+			"address": "0xA9C69eb9De79188A9ABa46c5336607F88A80eC89",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA9C69eb9De79188A9ABa46c5336607F88A80eC89.png"
 		},
 		{
 			"chainId": 19,
