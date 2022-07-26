@@ -1382,6 +1382,22 @@
 			"url": "https://singularity.finance",
 			"address": "0x88d7767a64ED01300C616d3432ea5ca307ec2192",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x88d7767a64ED01300C616d3432ea5ca307ec2192.png"
+		},
+		{
+			"chainId": 19,
+			"name": "FTSOCAN",
+			"description": "FTSO Canada is your partner to help you build your passive income on the Flare Network, by providing the Flare Network with a fast and efficient price provider.",
+			"url": "https://ftsocan.com",
+			"address": "0x7C255e428e95bEbc76e944D49D4F460C84b3A3c3",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7C255e428e95bEbc76e944D49D4F460C84b3A3c3.png"
+		},
+		{
+			"chainId": 14,
+			"name": "FTSOCAN",
+			"description": "FTSO Canada is your partner to help you build your passive income on the Flare Network, by providing the Flare Network with a fast and efficient price provider.",
+			"url": "https://ftsocan.com",
+			"address": "0x9e55a49D251324B1623dc2A81894D1AfBfB8bbdC",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9e55a49D251324B1623dc2A81894D1AfBfB8bbdC.png"
 		}
 	]
 }
