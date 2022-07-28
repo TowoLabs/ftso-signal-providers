@@ -594,11 +594,19 @@
 		{
 			"chainId": 19,
 			"name": "FTSO.IT",
-			"description": "Convenient and efficient data provider for Songbird canary network.",
+			"description": "Reliable and efficient data provider for Songbird canary network.",
 			"url": "https://ftso.it",
 			"address": "0x6fF5947eF89754682aD765b79C11f33452756D0B",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6fF5947eF89754682aD765b79C11f33452756D0B.png"
 		},
+        {
+            "chainId": 14,
+            "name": "FTSO.IT",
+            "description": "Reliable and efficient data provider for Flare network.",
+            "url": "https://ftso.it",
+            "address": "0x6fF5947eF89754682aD765b79C11f33452756D0B",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6fF5947eF89754682aD765b79C11f33452756D0B.png"
+        },
 		{
 			"chainId": 14,
 			"name": "Flare.Space",
