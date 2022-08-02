@@ -1357,7 +1357,7 @@
 			"description": "Flare network signal provider. Beaconing since inception",
 			"url": "https://flarebeacon.xyz/",
 			"address": "0xdd33Ba13F32C90D678422251B52B005335fB7A4c",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x633CE03ea66d910c15869e1552fDccC2bf9aAD87.png"
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xdd33Ba13F32C90D678422251B52B005335fB7A4c.png"
 		}
 	]
 }
