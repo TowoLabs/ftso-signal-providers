@@ -1382,6 +1382,22 @@
 			"url": "https://singularity.finance",
 			"address": "0x88d7767a64ED01300C616d3432ea5ca307ec2192",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x88d7767a64ED01300C616d3432ea5ca307ec2192.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Envision",
+			"description": "Providing reliable data feeds to the Songbird Network",
+			"url": "https://www.envisionftso.com",
+			"address": "0x58Cd43E9FcdBd4D0F507aB4f6029dB8032746da8",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x58Cd43E9FcdBd4D0F507aB4f6029dB8032746da8.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Envision",
+			"description": "Providing reliable data feeds to the Flare Network",
+			"url": "https://www.envisionftso.com",
+			"address": "0x9b42B895D2A10D048eaf4996fDf93aEBf59167BF",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9b42B895D2A10D048eaf4996fDf93aEBf59167BF.png"
 		}
 	]
 }
