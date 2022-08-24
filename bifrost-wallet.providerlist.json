@@ -570,7 +570,7 @@
 		{
 			"chainId": 19,
 			"name": "Aternety",
-			"description": "Aternety is based off Chicago (USA) and run by a team of experienced software engineers.",
+			"description": "Aternety US-based data provider on the Songbird Network.",
 			"url": "https://aternety.com",
 			"address": "0x2De2C741658f0Ae7b2DdD8EAdD179911564af119",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2De2C741658f0Ae7b2DdD8EAdD179911564af119.png"
@@ -578,10 +578,10 @@
 		{
 			"chainId": 14,
 			"name": "Aternety",
-			"description": "Aternety is based off Chicago (USA) and run by a team of experienced software engineers.",
+			"description": "Aternety US-based data provider on the Flare Network.",
 			"url": "https://aternety.com",
-			"address": "0x2De2C741658f0Ae7b2DdD8EAdD179911564af119",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2De2C741658f0Ae7b2DdD8EAdD179911564af119.png"
+			"address": "0xD3956F862a4960bB4937e596a2BaeCFfCbb4b3e0",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xD3956F862a4960bB4937e596a2BaeCFfCbb4b3e0.png"
 		},
 		{
 			"chainId": 19,
