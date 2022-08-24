@@ -1486,6 +1486,14 @@
 			"url": "https://www.oracleswap.io",
 			"address": "0x4E6c61d1DC945EeBd3Fc9A6251BD8B8b5EbD5637",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4E6c61d1DC945EeBd3Fc9A6251BD8B8b5EbD5637.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Ivy Oracle",
+			"description": "Low fee and optimised rewards, Ivy Oracle strive for providing the best open analytics tools for the community.",
+			"url": "https://ivy-oracle.vercel.app",
+			"address": "0xA174D46EF49D7d4a0328f9910222689E9eAb2f45",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA174D46EF49D7d4a0328f9910222689E9eAb2f45.png"
 		}
 	]
 }
