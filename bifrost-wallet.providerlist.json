@@ -1438,6 +1438,22 @@
 			"url": "https://o1ftso.netlify.app",
 			"address": "0xBE304C28F3a050486b9733AE56cB5541B16c007B",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xBE304C28F3a050486b9733AE56cB5541B16c007B.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Maple",
+			"description": "Flare / Songbird Validator and Data Provider.",
+			"url": "https://maple-coin.net",
+			"address": "0x3cA9aA64A040644c00302b2287447bC97597B1dd",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3cA9aA64A040644c00302b2287447bC97597B1dd.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Maple",
+			"description": "Flare / Songbird Validator and Data Provider.",
+			"url": "https://maple-coin.net",
+			"address": "0xA815c4ab86a2bc36D1447Dc9344C6D0ed8251e36",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA815c4ab86a2bc36D1447Dc9344C6D0ed8251e36.png"
 		}
 	]
 }
