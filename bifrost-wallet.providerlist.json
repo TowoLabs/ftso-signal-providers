@@ -3,7 +3,7 @@
 	"timestamp": "2022-08-24T00:00:00+00:00",
 	"version": {
 		"major": 3,
-		"minor": 6,
+		"minor": 7,
 		"patch": 0
 	},
 	"providers": [
@@ -1454,6 +1454,38 @@
 			"url": "https://maple-coin.net",
 			"address": "0xA815c4ab86a2bc36D1447Dc9344C6D0ed8251e36",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA815c4ab86a2bc36D1447Dc9344C6D0ed8251e36.png"
+		},
+		{
+			"chainId": 19,
+			"name": "WEBB FTSO",
+			"description": "WEBB FTSO is a FTSO that focuses on Simplicity and Accuracy.",
+			"url": "https://webbftso.com",
+			"address": "0x01793Cac76c24f3b739128372D4A25B49eC4f963",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x01793Cac76c24f3b739128372D4A25B49eC4f963.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Flare Beacon",
+			"description": "Songbird network signal provider. Beaconing since inception",
+			"url": "https://flarebeacon.xyz",
+			"address": "0x633CE03ea66d910c15869e1552fDccC2bf9aAD87",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x633CE03ea66d910c15869e1552fDccC2bf9aAD87.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Flare Beacon",
+			"description": "Flare network signal provider. Beaconing since inception",
+			"url": "https://flarebeacon.xyz",
+			"address": "0xdd33Ba13F32C90D678422251B52B005335fB7A4c",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xdd33Ba13F32C90D678422251B52B005335fB7A4c.png"
+		},
+		{
+			"chainId": 19,
+			"name": "OracleSwap FTSO",
+			"description": "OracleSwap is the premier decentralized exchange on the Songbird Network. The OracleSwap FTSO uses a Machine Learning algorithm to aggregate price data from many sources to submit the most accurate price data possible.",
+			"url": "https://www.oracleswap.io",
+			"address": "0x4E6c61d1DC945EeBd3Fc9A6251BD8B8b5EbD5637",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4E6c61d1DC945EeBd3Fc9A6251BD8B8b5EbD5637.png"
 		}
 	]
 }
