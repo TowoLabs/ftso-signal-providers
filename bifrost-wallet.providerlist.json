@@ -1068,8 +1068,8 @@
 			"name": "SignalChamp",
 			"description": "SignalChamp is a premium and super-fast delegation service. Enjoy high reward rates and low fees with just a few clicks.",
 			"url": "https://www.signalchamp.com",
-			"address": "0x263fEca2d46754Aa71BC4Cfc460e8E3055699324",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x263fEca2d46754Aa71BC4Cfc460e8E3055699324.png"
+			"address": "0xB0EBac02775B5fD157659c3483AC3a205786c2E7",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB0EBac02775B5fD157659c3483AC3a205786c2E7.png"
 		},
 		{
 			"chainId": 19,
