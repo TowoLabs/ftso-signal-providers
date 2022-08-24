@@ -1,9 +1,9 @@
 {
 	"name": "Bifrost Wallet",
-	"timestamp": "2022-07-26T00:00:00+00:00",
+	"timestamp": "2022-08-24T00:00:00+00:00",
 	"version": {
 		"major": 3,
-		"minor": 5,
+		"minor": 6,
 		"patch": 0
 	},
 	"providers": [
@@ -1398,6 +1398,22 @@
 			"url": "https://ftsocan.com",
 			"address": "0x9e55a49D251324B1623dc2A81894D1AfBfB8bbdC",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9e55a49D251324B1623dc2A81894D1AfBfB8bbdC.png"
+		},
+		{
+			"chainId": 19,
+			"name": "SAKURA",
+			"description": "Beautiful Japanese SAKURA and beautiful Flare Network technology.",
+			"url": "https://sakura-japan.com",
+			"address": "0xE4124E02610a881e3B8413294A4f6D3718028C6d",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE4124E02610a881e3B8413294A4f6D3718028C6d.png"
+		},
+		{
+			"chainId": 14,
+			"name": "SAKURA",
+			"description": "Beautiful Japanese SAKURA and beautiful Flare Network technology.",
+			"url": "https://sakura-japan.com",
+			"address": "0x7081a25589875F5d9D91d9f58bcf466706D8f997",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7081a25589875F5d9D91d9f58bcf466706D8f997.png"
 		}
 	]
 }
