@@ -403,7 +403,7 @@
 			"chainId": 19,
 			"name": "Oracle Daemon",
 			"description": "Oracle Daemon is a team of dedicated professionals designing the best data provider.",
-			"url": "https://oracle-daemon.unigames.studio",
+			"url": "https://www.oracle-daemon.com",
 			"address": "0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23.png"
 		},
@@ -411,9 +411,9 @@
 			"chainId": 14,
 			"name": "Oracle Daemon",
 			"description": "Oracle Daemon is a team of dedicated professionals designing the best data provider.",
-			"url": "https://oracle-daemon.unigames.studio",
-			"address": "0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23.png"
+			"url": "https://www.oracle-daemon.com",
+			"address": "0xfe532cB6Fb3C47940aeA7BeAd4d61C5e041D950e",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfe532cB6Fb3C47940aeA7BeAd4d61C5e041D950e.png"
 		},
 		{
 			"chainId": 19,
