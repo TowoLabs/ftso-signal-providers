@@ -404,8 +404,8 @@
 			"name": "Oracle Daemon",
 			"description": "Oracle Daemon is a team of dedicated professionals designing the best data provider.",
 			"url": "https://www.oracle-daemon.com",
-			"address": "0xfe532cb6fb3c47940aea7bead4d61c5e041d950e",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfe532cb6fb3c47940aea7bead4d61c5e041d950e.png"
+			"address": "0xfe532cB6Fb3C47940aeA7BeAd4d61C5e041D950e",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfe532cB6Fb3C47940aeA7BeAd4d61C5e041D950e.png"
 		},
 		{
 			"chainId": 19,
