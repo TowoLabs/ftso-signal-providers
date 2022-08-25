@@ -1,9 +1,9 @@
 {
 	"name": "Bifrost Wallet",
-	"timestamp": "2022-08-24T00:00:00+00:00",
+	"timestamp": "2022-08-25T00:00:00+00:00",
 	"version": {
 		"major": 3,
-		"minor": 7,
+		"minor": 8,
 		"patch": 0
 	},
 	"providers": [
@@ -1486,6 +1486,22 @@
 			"url": "https://www.oracleswap.io",
 			"address": "0x4E6c61d1DC945EeBd3Fc9A6251BD8B8b5EbD5637",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4E6c61d1DC945EeBd3Fc9A6251BD8B8b5EbD5637.png"
+		},
+		{
+			"chainId": 19,
+			"name": "EDPFTSO",
+			"description": "Enterprise Data Provider FTSO",
+			"url": "https://edp-ftso.com",
+			"address": "0x1C602a30335187A97D8061Ffffd4522796DE82bF",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1C602a30335187A97D8061Ffffd4522796DE82bF.png"
+		},
+		{
+			"chainId": 14,
+			"name": "EDPFTSO",
+			"description": "Enterprise Data Provider FTSO",
+			"url": "https://edp-ftso.com",
+			"address": "0xad918962795547a8c997F96f7BAbB822612a5FfE",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xad918962795547a8c997F96f7BAbB822612a5FfE.png"
 		}
 	]
 }
