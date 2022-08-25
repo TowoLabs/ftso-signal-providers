@@ -1,9 +1,9 @@
 {
 	"name": "Bifrost Wallet",
-	"timestamp": "2022-08-24T00:00:00+00:00",
+	"timestamp": "2022-08-25T00:00:00+00:00",
 	"version": {
 		"major": 3,
-		"minor": 7,
+		"minor": 8,
 		"patch": 0
 	},
 	"providers": [
@@ -403,7 +403,7 @@
 			"chainId": 19,
 			"name": "Oracle Daemon",
 			"description": "Oracle Daemon is a team of dedicated professionals designing the best data provider.",
-			"url": "https://oracle-daemon.unigames.studio",
+			"url": "https://www.oracle-daemon.com",
 			"address": "0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23.png"
 		},
@@ -411,9 +411,9 @@
 			"chainId": 14,
 			"name": "Oracle Daemon",
 			"description": "Oracle Daemon is a team of dedicated professionals designing the best data provider.",
-			"url": "https://oracle-daemon.unigames.studio",
-			"address": "0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23.png"
+			"url": "https://www.oracle-daemon.com",
+			"address": "0xfe532cB6Fb3C47940aeA7BeAd4d61C5e041D950e",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfe532cB6Fb3C47940aeA7BeAd4d61C5e041D950e.png"
 		},
 		{
 			"chainId": 19,
@@ -1487,7 +1487,31 @@
 			"address": "0x4E6c61d1DC945EeBd3Fc9A6251BD8B8b5EbD5637",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4E6c61d1DC945EeBd3Fc9A6251BD8B8b5EbD5637.png"
 		},
+     {
+      "chainId": 19,
+			"name": "EDPFTSO",
+			"description": "Enterprise Data Provider FTSO",
+			"url": "https://edp-ftso.com",
+			"address": "0x1C602a30335187A97D8061Ffffd4522796DE82bF",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1C602a30335187A97D8061Ffffd4522796DE82bF.png"
+		},
 		{
+			"chainId": 14,
+			"name": "EDPFTSO",
+			"description": "Enterprise Data Provider FTSO",
+			"url": "https://edp-ftso.com",
+			"address": "0xad918962795547a8c997F96f7BAbB822612a5FfE",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xad918962795547a8c997F96f7BAbB822612a5FfE.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Ivy Oracle",
+			"description": "Low fee and optimised rewards, Ivy Oracle strive for providing the best open analytics tools for the community.",
+			"url": "https://ivy-oracle.vercel.app",
+			"address": "0xA174D46EF49D7d4a0328f9910222689E9eAb2f45",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA174D46EF49D7d4a0328f9910222689E9eAb2f45.png"
+		},
+    {
 			"chainId": 14,
 			"name": "TheGrungies",
 			"description": "TheGrungies FTSO is a Signal Provider based on the TheGrungies NFT Community",
@@ -1502,6 +1526,6 @@
 			"url": "https://ftso.thegrungies.com",
 			"address": "0x2C293599ca61bb53e8fF82c8a19c2A8B883ea23f",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2C293599ca61bb53e8fF82c8a19c2A8B883ea23f.png"
-		}
+     }
 	]
 }
