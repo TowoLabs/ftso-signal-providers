@@ -1511,14 +1511,6 @@
 			"address": "0xA174D46EF49D7d4a0328f9910222689E9eAb2f45",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA174D46EF49D7d4a0328f9910222689E9eAb2f45.png"
 		},
-    		{
-			"chainId": 14,
-			"name": "TheGrungies",
-			"description": "TheGrungies FTSO is a Signal Provider based on the TheGrungies NFT Community",
-			"url": "https://ftso.thegrungies.com",
-			"address": "0x2C293599ca61bb53e8fF82c8a19c2A8B883ea23f",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2C293599ca61bb53e8fF82c8a19c2A8B883ea23f.png"
-		},
 		{
 			"chainId": 19,
 			"name": "TheGrungies",
