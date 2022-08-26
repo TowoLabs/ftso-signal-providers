@@ -1,9 +1,9 @@
 {
 	"name": "Bifrost Wallet",
-	"timestamp": "2022-08-25T00:00:00+00:00",
+	"timestamp": "2022-08-26T00:00:00+00:00",
 	"version": {
 		"major": 3,
-		"minor": 8,
+		"minor": 9,
 		"patch": 0
 	},
 	"providers": [
@@ -829,7 +829,7 @@
 			"description": "Sparkles FTSO is an extension of Sparkles, an NFT platform on the Songbird/Flare Network. Our philosophy is to push boundaries and create standards, be creative and make everything we do fun and interactive for our community.",
 			"url": "https://sparklesnft.com",
 			"address": "0x3D985CFF3C4680428d5ce093dBc4919a57F6E2f6",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3012c799565010C3b090D252839a3D24f3b766bE.png"
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3D985CFF3C4680428d5ce093dBc4919a57F6E2f6.png"
 		},
 		{
 			"chainId": 19,
