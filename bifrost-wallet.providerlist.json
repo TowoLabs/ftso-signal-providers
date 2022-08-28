@@ -1518,6 +1518,14 @@
 			"url": "https://ivy-oracle.vercel.app",
 			"address": "0xA174D46EF49D7d4a0328f9910222689E9eAb2f45",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA174D46EF49D7d4a0328f9910222689E9eAb2f45.png"
+		},
+		{
+			"chainId": 19,
+			"name": "NewWave",
+			"description": "NewWave is a SongBird Network signal provider. We are proud to be a part of Flare Network.",
+			"url": "https://newwaveftso.com/",
+			"address": "0xc84d776ddf92da03c37d77bc65519af696cdfe8b",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc84d776ddf92da03c37d77bc65519af696cdfe8b.png"
 		}
 	]
 }
