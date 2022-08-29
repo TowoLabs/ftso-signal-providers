@@ -304,6 +304,14 @@
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0FA72D3912d1C530AB1f6a8A9fB61C672947E964.png"
 		},
 		{
+			"chainId": 14,
+			"name": "FTSO Plus",
+			"description": "FTSO provider with an emphasis on accuracy.",
+			"url": "https://ftso.plus",
+			"address": "0x3D2c08eD9B2333cbce2b8A219e02F4Aa31ebcCd3",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3D2c08eD9B2333cbce2b8A219e02F4Aa31ebcCd3.png"
+		},
+		{
 			"chainId": 19,
 			"name": "Flare Oracle",
 			"description": "Flare Oracle, a data provider to the Flare network. Our goal is to give users a plug & play solution to effortlessly control their passive income.",
