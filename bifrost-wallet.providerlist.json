@@ -1542,6 +1542,22 @@
 			"url": "https://solidifi.app",
 			"address": "0x769530a9F2e4624aE2D6869869d510D4cd55b545",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x769530a9F2e4624aE2D6869869d510D4cd55b545.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Ad. Owl",
+			"description": "Ad. Owl is a flexible and adaptable data provider for both Songbird and Flare network",
+			"url": "https://owl-ftso.com",
+			"address": "0x7B6DA41157852a86142bc4c62A73f969AC15a869",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7B6DA41157852a86142bc4c62A73f969AC15a869.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Ad. Owl",
+			"description": "Ad. Owl is a flexible and adaptable data provider for both Songbird and Flare network",
+			"url": "https://owl-ftso.com",
+			"address": "0xad6f97449d5D7C6c191B58792137E6204bD0538F",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xad6f97449d5D7C6c191B58792137E6204bD0538F.png"
 		}
 	]
 }
