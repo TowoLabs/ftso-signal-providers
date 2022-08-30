@@ -1582,6 +1582,22 @@
 			"url": "https://www.envisionftso.com",
 			"address": "0x9b42B895D2A10D048eaf4996fDf93aEBf59167BF",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9b42B895D2A10D048eaf4996fDf93aEBf59167BF.png"
+		},
+		{
+			"chainId": 19,
+			"name": "TheGrungies",
+			"description": "TheGrungies FTSO is a Signal Provider based on the TheGrungies NFT Community",
+			"url": "https://ftso.thegrungies.com",
+			"address": "0x2C293599ca61bb53e8fF82c8a19c2A8B883ea23f",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2C293599ca61bb53e8fF82c8a19c2A8B883ea23f.png"
+		},
+		{
+			"chainId": 14,
+			"name": "TheGrungies",
+			"description": "TheGrungies FTSO is a Signal Provider based on the TheGrungies NFT Community",
+			"url": "https://ftso.thegrungies.com",
+			"address": "0x085841B253590281cc5c5222b09D4e59a605E774",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x085841B253590281cc5c5222b09D4e59a605E774.png"
 		}
 	]
 }
