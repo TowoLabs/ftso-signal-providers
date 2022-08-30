@@ -20,7 +20,7 @@ Add one entry per network that you intend to submit prices on. For example, if y
     * Must be prefixed with https://
     * Must redirect HTTP to HTTPS
 * `address` must be 40 characters hex
-    * Must be the same Songbird or Flare address that you submit prices with
+    * Must be the same Songbird, Flare or Coston address you submit prices with
     * Must be EIP-55 checksummed
 * `logoURI` must be this repository's raw GitHub user content path
   * Must end with your checksummed address and a `.png` file extension
@@ -40,8 +40,8 @@ Add one entry per network that you intend to submit prices on. For example, if y
   "name": "Example Name",
   "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 250 characters. Shorter is better.",
   "url": "https://example.com",
-  "address": "0x1234123412341234123412341234123412341234",
-  "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1234123412341234123412341234123412341234.png"
+  "address": "0x69141E890F3a79cd2CFf552c0B71508bE23712dC",
+  "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x69141E890F3a79cd2CFf552c0B71508bE23712dC.png"
 }
 ```
 
@@ -53,15 +53,15 @@ Add one entry per network that you intend to submit prices on. For example, if y
   "name": "Example Name",
   "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 250 characters. Shorter is better.",
   "url": "https://example.com",
-  "address": "0x1234123412341234123412341234123412341234",
-  "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1234123412341234123412341234123412341234.png"
+  "address": "0x69141E890F3a79cd2CFf552c0B71508bE23712dC",
+  "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x69141E890F3a79cd2CFf552c0B71508bE23712dC.png"
 },
 {
   "chainId": 14,
   "name": "Example Name",
   "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 250 characters. Shorter is better.",
   "url": "https://example.com",
-  "address": "0x1234123412341234123412341234123412341234",
-  "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1234123412341234123412341234123412341234.png"
+  "address": "0x9A46864A3b0a7805B266C445289C3fAD1E48f18e",
+  "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9A46864A3b0a7805B266C445289C3fAD1E48f18e.png"
 }
 ```
