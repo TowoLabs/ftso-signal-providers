@@ -1068,8 +1068,8 @@
 			"name": "Flaris",
 			"description": "UK technology",
 			"url": "https://www.flaris.uk",
-			"address": "0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46.png"
+			"address": "0xf8B1Dcf2594AfD082aae088661bF574CB9BbDC61",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf8B1Dcf2594AfD082aae088661bF574CB9BbDC61.png"
 		},
 		{
 			"chainId": 19,
