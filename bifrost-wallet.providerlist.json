@@ -3,7 +3,7 @@
 	"timestamp": "2022-08-30T00:00:00+00:00",
 	"version": {
 		"major": 3,
-		"minor": 12,
+		"minor": 13,
 		"patch": 0
 	},
 	"providers": [
@@ -1614,6 +1614,22 @@
 			"url": "https://starlinkoracle.com",
 			"address": "0xEb190a42eff3bCCAf65A432F2B7D2b1CaBE30c25",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xEb190a42eff3bCCAf65A432F2B7D2b1CaBE30c25.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Aimlezz",
+			"description": "Aimlezzly providing the best prices.",
+			"url": "https://www.aimlezz.com",
+			"address": "0x0501B6306b03A9EEDe8165d4B9abCB4915937b89",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0501B6306b03A9EEDe8165d4B9abCB4915937b89.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Aimlezz",
+			"description": "Aimlezzly providing the best prices.",
+			"url": "https://www.aimlezz.com",
+			"address": "0xD1eDC6Dd3Ba8b0881A44002Ac501a69E924b8F00",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xD1eDC6Dd3Ba8b0881A44002Ac501a69E924b8F00.png"
 		}
 	]
 }
