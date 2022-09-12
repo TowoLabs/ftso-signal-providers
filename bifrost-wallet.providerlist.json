@@ -1638,6 +1638,22 @@
 			"url": "https://newwaveftso.com",
 			"address": "0xC84d776Ddf92dA03C37d77BC65519AF696cDfe8b",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC84d776Ddf92dA03C37d77BC65519AF696cDfe8b.png"
-		}
+		},
+		{
+			"chainId": 19,
+			"name": "MyFTSO",
+			"description": "MyFtso is a community centric data provider. We are looking to deliver accurate and reliable price feeds to the Flare/Songbird Networks to maximize returns for all.",
+			"url": "https://myftso.xyz",
+			"address": "0x399a2de69e38d93bc397eb2b1f5487bd25a71c00",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x399a2de69e38d93bc397eb2b1f5487bd25a71c00.png"
+		},
+		{
+			"chainId": 14,
+			"name": "MyFTSO",
+			"description": "MyFtso is a community centric data provider. We are looking to deliver accurate and reliable price feeds to the Flare/Songbird Networks to maximize returns for all.",
+			"url": "https://myftso.xyz",
+			"address": "0x399a2de69e38d93bc397eb2b1f5487bd25a71c00",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x399a2de69e38d93bc397eb2b1f5487bd25a71c00.png"
+		},
 	]
 }
