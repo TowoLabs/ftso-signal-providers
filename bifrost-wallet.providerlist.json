@@ -1638,6 +1638,14 @@
 			"url": "https://newwaveftso.com",
 			"address": "0xC84d776Ddf92dA03C37d77BC65519AF696cDfe8b",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC84d776Ddf92dA03C37d77BC65519AF696cDfe8b.png"
+		},
+		{
+			"chainId": 19,
+            "name": "Cootie Finance",
+            "description": "Delegate to Cootie Finance for the best! a Songbird NFT Ecosystem",
+            "url": "https://cootie.finance/",
+            "address": "0x40A6226A2Abdc5506C75c04A331db08c35831e93",
+            "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x40A6226A2Abdc5506C75c04A331db08c35831e93.png"
 		}
 	]
 }
