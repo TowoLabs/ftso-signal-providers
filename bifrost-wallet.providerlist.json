@@ -9,6 +9,14 @@
 	"providers": [
 		{
 			"chainId": 19,
+			"name": "Drusus FTSO",
+			"description": "Drusus FTSO is a based Signal Provider to the Flare Network. Our goal is to provide reliable data to support applications and expand the ecosystem.",
+			"url": "https://drususftso.net/",
+			"address": "0xd06225a70d865C7A737a0beeC744b0C420E9bfdb",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xd06225a70d865C7A737a0beeC744b0C420E9bfdb.png"
+		},
+		{
+			"chainId": 19,
 			"name": "Bifrost Oracle",
 			"description": "Bifrost Oracle is a reliable Songbird oracle service run by Towo Labs, a Songbird Network development partner and the company behind Bifrost Wallet.",
 			"url": "https://bifrostoracle.com",
