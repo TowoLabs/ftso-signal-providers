@@ -1638,6 +1638,22 @@
 			"url": "https://newwaveftso.com",
 			"address": "0xC84d776Ddf92dA03C37d77BC65519AF696cDfe8b",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC84d776Ddf92dA03C37d77BC65519AF696cDfe8b.png"
+		},
+		{
+			"chainId": 19,
+			"name": "XAWC FTSO",
+			"description": "Helping provide dentralised prices to Songbird and Flare.",
+			"url": "https://ftso.xawc.live",
+			"address": "0x190C6f470A866Db58A6c17631e24b07BE257eAf5",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x190C6f470A866Db58A6c17631e24b07BE257eAf5.png"
+		},
+		{
+			"chainId": 14,
+			"name": "XAWC FTSO",
+			"description": "Helping provide dentralised prices to Songbird and Flare.",
+			"url": "https://ftso.xawc.live",
+			"address": "0x07aDBa9ecB8de51AeC39d8FF90cD8e49DBcFfd02",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x07aDBa9ecB8de51AeC39d8FF90cD8e49DBcFfd02.png"
 		}
 	]
 }
