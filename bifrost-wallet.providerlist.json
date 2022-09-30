@@ -153,22 +153,6 @@
 		},
 		{
 			"chainId": 19,
-			"name": "Interoracle",
-			"description": "An interchain oracle built by whirledlabs. Price ranked by liquidity.",
-			"url": "https://www.interoracle.io",
-			"address": "0x62d6116d6A139F2D402e8d8E30BAaF5790542801",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62d6116d6A139F2D402e8d8E30BAaF5790542801.png"
-		},
-		{
-			"chainId": 14,
-			"name": "Interoracle",
-			"description": "An interchain oracle built by whirledlabs. Price ranked by liquidity.",
-			"url": "https://www.interoracle.io",
-			"address": "0xf8414eB967DDf1fb7419633419C4F8CC7C880600",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf8414eB967DDf1fb7419633419C4F8CC7C880600.png"
-		},
-		{
-			"chainId": 19,
 			"name": "Lena Instruments",
 			"description": "Institutional grade vote delegation service and FTSO signal provider to the Songbird ecosystem",
 			"url": "https://www.lena.tech",
@@ -345,38 +329,6 @@
 		},
 		{
 			"chainId": 19,
-			"name": "Big Baby FTSO",
-			"description": "Big Baby FTSO - Feed the Big Baby!",
-			"url": "https://bbftso.com",
-			"address": "0xe60784D1c661a8D8eE19b442999bB71279F0A91f",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe60784D1c661a8D8eE19b442999bB71279F0A91f.png"
-		},
-		{
-			"chainId": 14,
-			"name": "Big Baby FTSO",
-			"description": "Big Baby FTSO - Feed the Big Baby!",
-			"url": "https://bbftso.com",
-			"address": "0xe60784D1c661a8D8eE19b442999bB71279F0A91f",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe60784D1c661a8D8eE19b442999bB71279F0A91f.png"
-		},
-		{
-			"chainId": 19,
-			"name": "SparkiFi",
-			"description": "The high fidelity, low fee, independent FTSO provider.",
-			"url": "https://www.sparkifi.xyz",
-			"address": "0x153aD30381b11DCE62f349c97a54c2a58956B992",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x153aD30381b11DCE62f349c97a54c2a58956B992.png"
-		},
-		{
-			"chainId": 14,
-			"name": "SparkiFi",
-			"description": "The high fidelity, low fee, independent FTSO provider.",
-			"url": "https://www.sparkifi.xyz",
-			"address": "0x153aD30381b11DCE62f349c97a54c2a58956B992",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x153aD30381b11DCE62f349c97a54c2a58956B992.png"
-		},
-		{
-			"chainId": 19,
 			"name": "Scintilla",
 			"description": "High accuracy signal provider to the Songbird Network.",
 			"url": "https://www.scintilla.io",
@@ -422,22 +374,6 @@
 			"url": "https://www.oracle-daemon.com",
 			"address": "0xfe532cB6Fb3C47940aeA7BeAd4d61C5e041D950e",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfe532cB6Fb3C47940aeA7BeAd4d61C5e041D950e.png"
-		},
-		{
-			"chainId": 19,
-			"name": "Oracle of Delphi",
-			"description": "Reach Further with the Oracle of Delphi. Join us for unparalleled access to expertise, opportunity, and each other.",
-			"url": "https://oracledelphi.one",
-			"address": "0x4fE889F450EcA4decd8a65B6B6eC5b7Db8EaB12E",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4fE889F450EcA4decd8a65B6B6eC5b7Db8EaB12E.png"
-		},
-		{
-			"chainId": 14,
-			"name": "Oracle of Delphi",
-			"description": "Reach Further with the Oracle of Delphi. Join us for unparalleled access to expertise, opportunity, and each other.",
-			"url": "https://oracledelphi.one",
-			"address": "0x4fE889F450EcA4decd8a65B6B6eC5b7Db8EaB12E",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4fE889F450EcA4decd8a65B6B6eC5b7Db8EaB12E.png"
 		},
 		{
 			"chainId": 19,
@@ -713,22 +649,6 @@
 		},
 		{
 			"chainId": 19,
-			"name": "Origami",
-			"description": "Bringing more decentralization to the Flare and Songbird networks & more rewards to your pocket",
-			"url": "https://www.origamiftso.com",
-			"address": "0x4cfaE1745980Fe3Bb3731E8542EFdce5004338a4",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4cfaE1745980Fe3Bb3731E8542EFdce5004338a4.png"
-		},
-		{
-			"chainId": 14,
-			"name": "Origami",
-			"description": "Bringing more decentralization to the Flare and Songbird networks & more rewards to your pocket",
-			"url": "https://www.origamiftso.com",
-			"address": "0x4cfaE1745980Fe3Bb3731E8542EFdce5004338a4",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4cfaE1745980Fe3Bb3731E8542EFdce5004338a4.png"
-		},
-		{
-			"chainId": 19,
 			"name": "Xdrops Oracle",
 			"description": "Croatia based Flare FTSO data provider.",
 			"url": "https://www.xdrops.live",
@@ -777,22 +697,6 @@
 		},
 		{
 			"chainId": 19,
-			"name": "Infinity",
-			"description": "WE OFFER YOU: Security, Reliability, Transparency",
-			"url": "https://infinityftso.com",
-			"address": "0x792Bb161C6eAE681ba2F223db1a071e4cf4B4201",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x792Bb161C6eAE681ba2F223db1a071e4cf4B4201.png"
-		},
-		{
-			"chainId": 14,
-			"name": "Infinity",
-			"description": "WE OFFER YOU: Security, Reliability, Transparency",
-			"url": "https://infinityftso.com",
-			"address": "0x792Bb161C6eAE681ba2F223db1a071e4cf4B4201",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x792Bb161C6eAE681ba2F223db1a071e4cf4B4201.png"
-		},
-		{
-			"chainId": 19,
 			"name": "PRICEKRAKEN",
 			"description": "Germany based FTSO data provider with passion for improvements",
 			"url": "https://www.pricekraken.de",
@@ -806,22 +710,6 @@
 			"url": "https://www.pricekraken.de",
 			"address": "0xB95f930711DA83226416FFaAB084249B2e01e1F2",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB95f930711DA83226416FFaAB084249B2e01e1F2.png"
-		},
-		{
-			"chainId": 19,
-			"name": "FTSO Tech",
-			"description": "Your most reliable Flare Time Series Oracle",
-			"url": "https://ftsotech.xyz",
-			"address": "0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f.png"
-		},
-		{
-			"chainId": 14,
-			"name": "FTSO Tech",
-			"description": "Your most reliable Flare Time Series Oracle",
-			"url": "https://ftsotech.xyz",
-			"address": "0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f.png"
 		},
 		{
 			"chainId": 19,
