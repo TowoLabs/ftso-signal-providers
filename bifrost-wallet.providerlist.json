@@ -1526,6 +1526,14 @@
 			"url": "https://newwaveftso.com",
 			"address": "0xC84d776Ddf92dA03C37d77BC65519AF696cDfe8b",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC84d776Ddf92dA03C37d77BC65519AF696cDfe8b.png"
-		}
+		},
+		{
+			"chainId": 19,
+			"name": "True FTSO",
+			"description": "Still improving. No cheating. Reliable data. No dumping. Low fee.",
+			"url": "https://trueftso.com",
+			"address": "0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA.png"
+		}		
 	]
 }
