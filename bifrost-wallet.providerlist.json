@@ -1432,6 +1432,14 @@
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0937E91c116767ffD2256ABc15B67561BaD5d1C2.png"
 		},
 		{
+			"chainId": 14,
+			"name": "SolidiFi FTSO",
+			"description": "The SolidiFi FTSO Data provider aims to provide accurate price information to the Songbird Network",
+			"url": "https://solidifi.app",
+			"address": "0x4CfB79399cd840414a2BeF2c7C7A0cE3b9b0F89d",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x769530a9F2e4624aE2D6869869d510D4cd55b545.png"
+		},
+		{
 			"chainId": 19,
 			"name": "SolidiFi FTSO",
 			"description": "The SolidiFi FTSO Data provider aims to provide accurate price information to the Songbird Network",
