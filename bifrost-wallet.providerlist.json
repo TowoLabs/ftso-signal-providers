@@ -1523,7 +1523,7 @@
 			"chainId": 19,
 			"name": "Ivy Oracle",
 			"description": "Low fee and optimised rewards, Ivy Oracle strive for providing the best open analytics tools for the community.",
-			"url": "https://ivy-oracle.vercel.app",
+			"url": "https://ivyoracle.xyz",
 			"address": "0xA174D46EF49D7d4a0328f9910222689E9eAb2f45",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA174D46EF49D7d4a0328f9910222689E9eAb2f45.png"
 		},
@@ -1531,7 +1531,7 @@
 			"chainId": 14,
 			"name": "Ivy Oracle",
 			"description": "Low fee and optimised rewards, Ivy Oracle strive for providing the best open analytics tools for the community.",
-			"url": "https://ivy-oracle.vercel.app",
+			"url": "https://ivyoracle.xyz",
 			"address": "0x64D998BC81424131E5aF05071263fDeBD1a82986",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x64D998BC81424131E5aF05071263fDeBD1a82986.png"
 		},
