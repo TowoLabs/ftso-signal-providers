@@ -1527,5 +1527,14 @@
 			"address": "0xC84d776Ddf92dA03C37d77BC65519AF696cDfe8b",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC84d776Ddf92dA03C37d77BC65519AF696cDfe8b.png"
 		}
+		,{
+			"chainId": 19,
+			"name": "Canary FTSO",
+			"description": "Canary FTSO. A Flexible And Adaptable Data Provider For Songbird Network.",
+			"url": "https://www.can4ry.com/",
+			"address": "0xb76865823f68b48b02Bb9604A2CD886eB49A9f3D",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb76865823f68b48b02Bb9604A2CD886eB49A9f3D.png"
+		}
+		
 	]
 }
