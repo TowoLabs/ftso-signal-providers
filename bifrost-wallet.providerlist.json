@@ -1638,6 +1638,14 @@
 			"url": "https://newwaveftso.com",
 			"address": "0xC84d776Ddf92dA03C37d77BC65519AF696cDfe8b",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC84d776Ddf92dA03C37d77BC65519AF696cDfe8b.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Mickey B Fresh",
+			"description": "Our goal is to provide the crypto community with a hub of resources revolving around the coming explosion of everything being build in the XRP, SGB and Flare network ecosystems. We pride ourselves on transparency and evidence-based speculation of what is to pass. In that light, the group behind this site are long term holders of XRP as we have been researching this digital asset and the firms involved with it for years. Additionally, the focus of the site will mainly be on the Flare and Sonbird Network and its corresponding ecosystem. ",
+			"url": "https://www.mickeybfresh.com",
+			"address": "0xE304AF184b9ca77E3576Aef834A4dc1A43EBfA70",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE304AF184b9ca77E3576Aef834A4dc1A43EBfA70.png"
 		}
 	]
 }
