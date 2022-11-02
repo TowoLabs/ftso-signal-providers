@@ -1411,9 +1411,17 @@
 			"chainId": 19,
 			"name": "Ivy Oracle",
 			"description": "Low fee and optimised rewards, Ivy Oracle strive for providing the best open analytics tools for the community.",
-			"url": "https://ivy-oracle.vercel.app",
+			"url": "https://ivyoracle.xyz",
 			"address": "0xA174D46EF49D7d4a0328f9910222689E9eAb2f45",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA174D46EF49D7d4a0328f9910222689E9eAb2f45.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Ivy Oracle",
+			"description": "Low fee and optimised rewards, Ivy Oracle strive for providing the best open analytics tools for the community.",
+			"url": "https://ivyoracle.xyz",
+			"address": "0x64D998BC81424131E5aF05071263fDeBD1a82986",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x64D998BC81424131E5aF05071263fDeBD1a82986.png"
 		},
 		{
 			"chainId": 19,
@@ -1534,6 +1542,38 @@
 			"url": "https://newwave-provider.com",
 			"address": "0xF1f2a4859EA38A0c2CEb2eAF4c591a8257F2BB34",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC84d776Ddf92dA03C37d77BC65519AF696cDfe8b.png"
+    },
+    {
+			"chainId": 19,
+			"name": "Atlas TSO",
+			"description": "Atlas Songbird Network Data Provider. Doing what is best for the users and the network.",
+			"url": "https://tsoatlas.xyz/",
+			"address": "0xB5ECB64526F777Eb6f02D4A83AbAB1FAD26b1C00",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB5ECB64526F777Eb6f02D4A83AbAB1FAD26b1C00.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Atlas TSO",
+			"description": "Atlas Flare Network Data Provider. Doing what is best for the users and the network.",
+			"url": "https://tsoatlas.xyz/",
+			"address": "0x07702A7494F760B0b3642463BdD2B7A13cFDDbb2",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x07702A7494F760B0b3642463BdD2B7A13cFDDbb2.png"
+    },
+    {
+      "chainId": 19,
+			"name": "XAWC FTSO",
+			"description": "Helping provide dentralised prices to Songbird and Flare.",
+			"url": "https://ftso.xawc.live",
+			"address": "0x190C6f470A866Db58A6c17631e24b07BE257eAf5",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x190C6f470A866Db58A6c17631e24b07BE257eAf5.png"
+		},
+		{
+			"chainId": 14,
+			"name": "XAWC FTSO",
+			"description": "Helping provide dentralised prices to Songbird and Flare.",
+			"url": "https://ftso.xawc.live",
+			"address": "0x07aDBa9ecB8de51AeC39d8FF90cD8e49DBcFfd02",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x07aDBa9ecB8de51AeC39d8FF90cD8e49DBcFfd02.png"
 		}
 	]
 }
