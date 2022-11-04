@@ -1582,6 +1582,14 @@
 			"url": "https://ftso.xawc.live",
 			"address": "0x07aDBa9ecB8de51AeC39d8FF90cD8e49DBcFfd02",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x07aDBa9ecB8de51AeC39d8FF90cD8e49DBcFfd02.png"
+		},
+		{
+			"chainId": 14,
+			"name": "True FTSO",
+			"description": "Still improving. No cheating. Reliable data. No dumping. Low fee.",
+			"url": "https://trueftso.com",
+			"address": "0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA.png"
 		}
 	]
 }
