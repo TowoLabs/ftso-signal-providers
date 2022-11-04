@@ -1316,8 +1316,8 @@
 			"name": "SAKURA",
 			"description": "Beautiful Japanese SAKURA and beautiful Flare Network technology.",
 			"url": "https://sakura-japan.com",
-			"address": "0xE4124E02610a881e3B8413294A4f6D3718028C6d",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE4124E02610a881e3B8413294A4f6D3718028C6d.png"
+			"address": "0x1a696Acb220a4f76153c779f828d0Ba99028770a",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1a696Acb220a4f76153c779f828d0Ba99028770a.png"
 		},
 		{
 			"chainId": 14,
