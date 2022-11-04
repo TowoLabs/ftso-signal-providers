@@ -1540,8 +1540,8 @@
 			"name": "MyFTSO",
 			"description": "MyFtso is a community centric data provider. We are looking to deliver accurate and reliable price feeds to the Flare/Songbird Networks to maximize returns for all.",
 			"url": "https://myftso.xyz",
-			"address": "0x399a2de69e38d93bc397eb2b1f5487bd25a71c00",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x399a2de69e38d93bc397eb2b1f5487bd25a71c00.png"
+			"address": "0x399A2dE69e38D93bc397Eb2b1f5487bD25a71C00",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x399A2dE69e38D93bc397Eb2b1f5487bD25a71C00.png"
 		},
 		{
 			"chainId": 14,
