@@ -1551,7 +1551,7 @@
 			"address": "0x6da8b10612c2C5a5A62642d4a666bC830E74FC40",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6da8b10612c2C5a5A62642d4a666bC830E74FC40.png"
 		},
-    }
+    {
       "chainId": 19,
 			"name": "Atlas TSO",
 			"description": "Atlas Songbird Network Data Provider. Doing what is best for the users and the network.",
