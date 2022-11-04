@@ -35,6 +35,11 @@ try {
   throw new Error(`List content could not be parsed (${error.message})`);
 }
 
+// Stringify JSON (will fail if linting is incorrect)
+if (JSON.stringify(listContent, null, 2) !== listString) {
+  throw new Error("List content is malformed, indent using 2 spaces, run the linter");
+}
+
 // Setup AJV
 const ajv = new Ajv({ allErrors: true });
 addFormats(ajv);

@@ -90,7 +90,7 @@
           "description": "A URI to the FTSO provider website. Must use HTTPS",
           "format": "uri",
           "maxLength": 100,
-          "pattern": "^https://",
+          "pattern": "^https://[^\\s]*[^/]$",
           "examples": [
             "https://bifrostoracle.com"
           ]
