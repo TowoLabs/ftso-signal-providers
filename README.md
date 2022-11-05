@@ -1,13 +1,14 @@
 # Flare Time Series Oracle Signal Providers
 
-Any individual or entity operating an FTSO signal provider service may submit a pull request to this repository. We do not accept requests from unknown or anonymous individuals or entities. We may require you to prove ownership of your URL and/or address before accepting your contribution. Inactive, underperforming or misbehaving signal providers will be denied and removed.
+Any individual or entity operating an FTSO signal provider service, passing all tests and fulfilling all requirements, may submit a pull request to this repository. We do not accept requests from unknown or anonymous individuals or entities. We may require you to prove ownership of your URL and/or address before accepting your contribution. Inactive, underperforming or misbehaving signal providers will be denied and removed.
 
 ## How to Add Your Signal Provider
 1. Read the [Requirements](#requirements).
-2. Copy an existing provider entry in `bifrost-wallet.providerlist.json`
-3. Fill your details and add your entry to the bottom of the list
-4. Upload your logo to `assets/`
-5. Submit a pull request
+2. Fork the repository and run `yarn install`.
+3. Copy an existing provider entry in `bifrost-wallet.providerlist.json`
+4. Fill your details and add your entry to the bottom of the list
+5. Add your logo to `assets/` and make sure it's named correctly
+6. Run `yarn test` and make sure all tests pass, before submitting a pull request
 
 Add one entry per network that you intend to submit prices on. For example, if you're submitting price data to both Songbird and Flare, add two separate entries with different `chainId` values.
 
@@ -16,12 +17,14 @@ Add one entry per network that you intend to submit prices on. For example, if y
 * `chainId` must be one of 19 (Songbird), 14 (Flare) or 16 (Coston)
 * `name` may be max 32 characters
 * `description` may be max 250 characters
+    * Must describe your service, values or unique selling points
+    * Must be spellchecked
 * `url` may be max 100 characters
     * Must be prefixed with https://
     * Must redirect HTTP to HTTPS
 * `address` must be 40 characters hex
-    * Must be the same Songbird, Flare or Coston address you submit prices with
     * Must be EIP-55 checksummed
+    * Must be actively and successfully submitting prices
 * `logoURI` must be this repository's raw GitHub user content path
   * Must end with your checksummed address and a `.png` file extension
   * Must fulfill the [PNG image requirements](#png-image-requirements)
@@ -30,7 +33,9 @@ Add one entry per network that you intend to submit prices on. For example, if y
 * The aspect ratio must be 1, use the same width and height
 * The width and height must be between 128 px and 256 px
 * The background must be transparent or fill the entire image
-* The maximum filesize is 24 KB, optimized using: https://tinypng.com
+* The image content must be centered horizontally and vertically
+* The image must be optimized, using for example: https://tinypng.com
+* The maximum image filesize is 24 KB
 
 ### Example for Songbird
 
