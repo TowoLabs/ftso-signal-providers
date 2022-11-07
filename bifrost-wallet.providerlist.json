@@ -1449,6 +1449,14 @@
     },
     {
       "chainId": 14,
+      "name": "SolidiFi FTSO",
+      "description": "The SolidiFi FTSO Data provider aims to provide accurate price information to the Flare Network",
+      "url": "https://solidifi.app",
+      "address": "0x4CfB79399cd840414a2BeF2c7C7A0cE3b9b0F89d",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4CfB79399cd840414a2BeF2c7C7A0cE3b9b0F89d.png"
+    },
+    {
+      "chainId": 14,
       "name": "Ad. Owl",
       "description": "Ad. Owl is a flexible and adaptable data provider for both Songbird and Flare network",
       "url": "https://owl-ftso.com",
