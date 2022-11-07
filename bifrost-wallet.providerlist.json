@@ -1,3 +1,4 @@
+{
   "name": "Bifrost Wallet",
   "timestamp": "2022-11-04T00:00:00+00:00",
   "version": {
@@ -1583,20 +1584,20 @@
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x07aDBa9ecB8de51AeC39d8FF90cD8e49DBcFfd02.png"
     },
     {
-      "chainId": 19,
-			"name": "FTSchizO",
-			"description": "FTSchizO is where based esoteric schizos gather and delegate sgb/flr and pray to Christ and hold xrp. 2 more weeks.",
-			"url": "https://ftschizo.xyz",
-			"address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86.png"
-		},
-		{
-			"chainId": 14,
-			"name": "FTSchizO",
-			"description": "FTSchizO is where based esoteric schizos gather and delegate sgb/flr and pray to Christ and hold xrp. 2 more weeks.",
-			"url": "https://ftschizo.xyz",
-			"address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86.png"
-		}
+	"chainId": 19,
+	"name": "FTSchizO",
+	"description": "FTSchizO is where based esoteric schizos gather and delegate sgb/flr and pray to Christ and hold xrp. 2 more weeks.",
+	"url": "https://ftschizo.xyz",
+	"address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
+	"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86.png"
+	},
+	{
+	"chainId": 14,
+	"name": "FTSchizO",
+	"description": "FTSchizO is where based esoteric schizos gather and delegate sgb/flr and pray to Christ and hold xrp. 2 more weeks.",
+	"url": "https://ftschizo.xyz",
+	"address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
+	"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86.png"
+	}
   ]
 }
