@@ -71,6 +71,17 @@ listContent.providers.forEach(provider => {
     throw new Error(`Logo file name mismatch, expected ${provider.address}, received ${logoFileName}`);
   }
 
+  // Check that first part of logo URI is valid
+  if (!provider.logoURI.startsWith('https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/')) {
+    throw new Error(`LogoURI of ${provider.address} does not have correct path`)
+  }
+
+  // Check that logo image exists
+  const exists = fs.existsSync(`./assets/${logoFileName}.png`)
+  if (!exists) {
+    throw new Error(`Could not find logo for ${provider.address}`)
+  }
+
   // Validate FTSO provider uniqueness
   isUnique(provider, "name");
   isUnique(provider, "description");
