@@ -1593,20 +1593,6 @@
     },
     {
       "chainId": 19,
-      "name": "FTSchizO",
-      "description": "FTSchizO is a SGB/FLR data provider that focuses on esoteric community building.",
-      "url": "https://ftschizo.xyz",
-      "address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86.png"
-    },
-    {
-      "chainId": 14,
-      "name": "FTSchizO",
-      "description": "FTSchizO is a SGB/FLR data provider that focuses on esoteric community building.",
-      "url": "https://ftschizo.xyz",
-      "address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86.png"
-    },
       "name": "Odin",
       "description": "California data provider on the Songbird Network. Aggregating hundreds of external data points in order to provide the most accurate prices to the FTSO system.",
       "url": "https://odinftso.com",
@@ -1620,6 +1606,22 @@
       "url": "https://odinftso.com",
       "address": "0x0701ab70BB0deb504e2daD44ffe2f8E0f7399a1D",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0701ab70BB0deb504e2daD44ffe2f8E0f7399a1D.png"
+    },
+    {
+      "chainId": 19,
+      "name": "FTSchizO",
+      "description": "FTSchizO is a SGB/FLR data provider that focuses on esoteric community building.",
+      "url": "https://ftschizo.xyz",
+      "address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86.png"
+    },
+    {
+      "chainId": 14,
+      "name": "FTSchizO",
+      "description": "FTSchizO is a SGB/FLR data provider that focuses on esoteric community building.",
+      "url": "https://ftschizo.xyz",
+      "address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86.png"
     }
   ]
 }
