@@ -10,8 +10,6 @@ Any individual or entity operating an FTSO signal provider service, passing all 
 5. Add your logo to `assets/` and make sure it's named correctly
 6. Run `yarn test` and make sure all tests pass, before submitting a pull request
 
-Add one entry per network that you intend to submit prices on. For example, if you're submitting price data to both Songbird and Flare, add two separate entries with different `chainId` values.
-
 ## Requirements
 * All attributes are required and must be in ASCII
 * `chainId` must be one of 19 (Songbird), 14 (Flare) or 16 (Coston)
