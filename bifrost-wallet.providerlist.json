@@ -1449,6 +1449,14 @@
     },
     {
       "chainId": 14,
+      "name": "SolidiFi FTSO",
+      "description": "The SolidiFi FTSO Data provider aims to provide accurate price information to the Flare Network",
+      "url": "https://solidifi.app",
+      "address": "0x4CfB79399cd840414a2BeF2c7C7A0cE3b9b0F89d",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4CfB79399cd840414a2BeF2c7C7A0cE3b9b0F89d.png"
+    },
+    {
+      "chainId": 14,
       "name": "Ad. Owl",
       "description": "Ad. Owl is a flexible and adaptable data provider for both Songbird and Flare network",
       "url": "https://owl-ftso.com",
@@ -1598,6 +1606,20 @@
       "url": "https://ftschizo.xyz",
       "address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86.png"
+    },
+      "name": "Odin",
+      "description": "California data provider on the Songbird Network. Aggregating hundreds of external data points in order to provide the most accurate prices to the FTSO system.",
+      "url": "https://odinftso.com",
+      "address": "0x8FdBcb218561776759702b175084dBa856282a88",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x8FdBcb218561776759702b175084dBa856282a88.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Odin",
+      "description": "California data provider on the Flare Network. Aggregating hundreds of external data points in order to provide the most accurate prices to the FTSO system.",
+      "url": "https://odinftso.com",
+      "address": "0x0701ab70BB0deb504e2daD44ffe2f8E0f7399a1D",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0701ab70BB0deb504e2daD44ffe2f8E0f7399a1D.png"
     }
   ]
 }
