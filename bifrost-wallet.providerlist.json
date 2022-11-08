@@ -1622,6 +1622,22 @@
       "url": "https://fat-cats.club",
       "address": "0x7776fC062AE648466958a28b3001f6a4517a147c",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7776fC062AE648466958a28b3001f6a4517a147c.png"
+    },
+    {
+      "chainId": 19,
+      "name": "True FTSO",
+      "description": "Still improving. No cheating. Reliable data. No dumping. Low fee.",
+      "url": "https://trueftso.com",
+      "address": "0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA.png"
+    },
+    {
+      "chainId": 14,
+      "name": "True FTSO",
+      "description": "Still improving. No cheating. Reliable data. No dumping. Low fee.",
+      "url": "https://trueftso.com",
+      "address": "0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA.png"
     }
   ]
 }
