@@ -36,7 +36,7 @@ try {
 }
 
 // Stringify JSON (will fail if linting is incorrect)
-if (JSON.stringify(listContent, null, 2) !== listString) {
+if (JSON.stringify(listContent, null, 2) + "\n" !== listString) {
   throw new Error("List content is malformed, indent using 2 spaces, run the linter");
 }
 
