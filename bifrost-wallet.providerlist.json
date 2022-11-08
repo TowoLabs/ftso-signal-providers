@@ -8,22 +8,6 @@
   },
   "providers": [
     {
-      "chainId": 14,
-      "name": "Viridissima.es",
-      "description": "Viridissima is a FTSO / STSO and portal promoting and developing on exclusively low-carbon blockchain technologies.",
-      "url": "https://ftso.viri.uk",
-      "address": "0x74664cA92690C1EaD5382808dE0de4B04a2E57Ae",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x74664cA92690C1EaD5382808dE0de4B04a2E57Ae.png"
-    },
-    {
-      "chainId": 19,
-      "name": "Viridissima.es",
-      "description": "Viridissima is a STSO/FTSO and portal promoting and devaloping on exclusively low-carbon blockchain technologies. Our STSO was forerly known as SGBFTSO.com, and had been operational since reward epoch #11.",
-      "url": "https://ftso.viri.uk",
-      "address": "0xbADF00D6387958a3E7747C0A0CF5E5a06dcc90c0",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbADF00D6387958a3E7747C0A0CF5E5a06dcc90c0.png"
-    },
-    {
       "chainId": 19,
       "name": "Bifrost Oracle",
       "description": "Bifrost Oracle is a reliable Songbird oracle service run by Towo Labs, a Songbird Network development partner and the company behind Bifrost Wallet.",
@@ -726,6 +710,22 @@
       "url": "https://www.pricekraken.de",
       "address": "0xB95f930711DA83226416FFaAB084249B2e01e1F2",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB95f930711DA83226416FFaAB084249B2e01e1F2.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Viridissima.es",
+      "description": "Viridissima is a FTSO / STSO and portal promoting and developing on exclusively low-carbon blockchain technologies.",
+      "url": "https://ftso.viri.uk",
+      "address": "0x74664cA92690C1EaD5382808dE0de4B04a2E57Ae",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x74664cA92690C1EaD5382808dE0de4B04a2E57Ae.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Viridissima.es",
+      "description": "Viridissima is a STSO/FTSO and portal promoting and developing on exclusively low-carbon blockchain technologies. Our STSO was formerly known as SGBFTSO.com, and had been operational since reward epoch #11.",
+      "url": "https://ftso.viri.uk",
+      "address": "0xbADF00D6387958a3E7747C0A0CF5E5a06dcc90c0",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbADF00D6387958a3E7747C0A0CF5E5a06dcc90c0.png"
     },
     {
       "chainId": 19,
