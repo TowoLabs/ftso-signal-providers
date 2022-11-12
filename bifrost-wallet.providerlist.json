@@ -1532,8 +1532,8 @@
 			"name": "Nikola",
 			"description": "Nikola FTSO is provider on the Flare Network operating out of Virginia, USA. Focused on providing acurate pricing to the Flare Time Series Oracle.",
 			"url": "https://nikola-ftso.com/",
-			"address": "0x15942e7de003424a3e11c213cd05e4fe9b8a9d7a",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x15942e7de003424a3e11c213cd05e4fe9b8a9d7a.png"
+			"address": "0x15942e7dE003424A3e11C213Cd05e4fE9B8A9D7a",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x15942e7dE003424A3e11C213Cd05e4fE9B8A9D7a.png"
 		}
 	]
 }
