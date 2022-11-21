@@ -233,14 +233,6 @@
     },
     {
       "chainId": 19,
-      "name": "Optakt",
-      "description": "Optakt is a tactical engineering team working on projects which reshape the landscape of blockchain technology.",
-      "url": "https://www.optakt.io",
-      "address": "0xDDEF7e54a9f72D9Fc0a281b42F15A22B30681da5",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xDDEF7e54a9f72D9Fc0a281b42F15A22B30681da5.png"
-    },
-    {
-      "chainId": 19,
       "name": "AFOracle",
       "description": "AFOracle is an FTSO provider from AFLabs, a team that helped build the Flare's smart contract infrastructure.",
       "url": "https://aforacle.com",
@@ -494,22 +486,6 @@
       "url": "https://4dads.io",
       "address": "0xC522E6A633545872f1afc0cdD7b2D96d97E3dE67",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC522E6A633545872f1afc0cdD7b2D96d97E3dE67.png"
-    },
-    {
-      "chainId": 19,
-      "name": "Dank FTSO",
-      "description": "We only source best prices from best exchanges.",
-      "url": "https://dankftso.com",
-      "address": "0xF8b92bE7ffB021B074F8621765D72dA4C8862749",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF8b92bE7ffB021B074F8621765D72dA4C8862749.png"
-    },
-    {
-      "chainId": 14,
-      "name": "Dank FTSO",
-      "description": "We only source best prices from best exchanges.",
-      "url": "https://dankftso.com",
-      "address": "0xF8b92bE7ffB021B074F8621765D72dA4C8862749",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF8b92bE7ffB021B074F8621765D72dA4C8862749.png"
     },
     {
       "chainId": 19,
@@ -1086,22 +1062,6 @@
       "url": "https://flareportal.com",
       "address": "0x9225db8B30A59D8Dd15448E2E5918BD160262b5D",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9225db8B30A59D8Dd15448E2E5918BD160262b5D.png"
-    },
-    {
-      "chainId": 14,
-      "name": "Nerdherd.ai",
-      "description": "NerdHerd.ai is a team of professional data scientists. We utilize AI to maximize accuracy and rewards in all market conditions.",
-      "url": "https://nerdherd.ai",
-      "address": "0xc3c4C0A44ef34cf60d9076F66C8411793375a4Ff",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc3c4C0A44ef34cf60d9076F66C8411793375a4Ff.png"
-    },
-    {
-      "chainId": 19,
-      "name": "Nerdherd.ai",
-      "description": "NerdHerd.ai is a team of professional data scientists. We utilize AI to maximize accuracy and rewards in all market conditions.",
-      "url": "https://nerdherd.ai",
-      "address": "0xE899f8Cca524E9d7681548709e7A87c41adB0c53",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE899f8Cca524E9d7681548709e7A87c41adB0c53.png"
     },
     {
       "chainId": 19,
