@@ -1547,9 +1547,17 @@
       "chainId": 19,
       "name": "NewWave",
       "description": "NewWave is a SongBird Network signal provider. We are proud to be a part of Flare Network.",
-      "url": "https://newwaveftso.com",
+      "url": "https://newwave-provider.com",
       "address": "0xC84d776Ddf92dA03C37d77BC65519AF696cDfe8b",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC84d776Ddf92dA03C37d77BC65519AF696cDfe8b.png"
+    },
+    {
+      "chainId": 14,
+      "name": "NewWave",
+      "description": "NewWave is a SongBird Network signal provider. We are proud to be a part of Flare Network.",
+      "url": "https://newwave-provider.com",
+      "address": "0xF1f2a4859EA38A0c2CEb2eAF4c591a8257F2BB34",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF1f2a4859EA38A0c2CEb2eAF4c591a8257F2BB34.png"
     },
     {
       "chainId": 19,
