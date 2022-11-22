@@ -79,7 +79,7 @@
           "type": "string",
           "description": "The description of the FTSO provider",
           "minLength": 10,
-          "maxLength": 250,
+          "maxLength": 350,
           "pattern": "^[ \\w.'+\\-%/À-ÖØ-öø-ÿ:&\\[\\]\\(\\)]+",
           "examples": [
             "Bifrost Oracle"

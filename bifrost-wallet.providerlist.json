@@ -1646,6 +1646,22 @@
       "url": "https://trueftso.com",
       "address": "0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Mickey B Fresh",
+      "description": "We provide a hub of resources revolving around everything build on the XRP, SGB and Flare networks. We pride ourselves on transparency and evidence-based content. The group behind this site are long term holders of XRP and researching this digital asset for years. The focus of the site will mainly be on the XRP, Flare and Songbird Networks.",
+      "url": "https://www.mickeybfresh.com",
+      "address": "0xE304AF184b9ca77E3576Aef834A4dc1A43EBfA70",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE304AF184b9ca77E3576Aef834A4dc1A43EBfA70.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Mickey B Fresh",
+      "description": "We provide a hub of resources revolving around everything build on the XRP, SGB and Flare networks. We pride ourselves on transparency and evidence-based content. The group behind this site are long term holders of XRP and researching this digital asset for years. The focus of the site will mainly be on the XRP, Flare and Songbird Networks.",
+      "url": "https://www.mickeybfresh.com",
+      "address": "0x4E94Dbff86b7f1F5ac9FD849E8101A4d52E947eC",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4E94Dbff86b7f1F5ac9FD849E8101A4d52E947eC.png"
     }
   ]
 }
