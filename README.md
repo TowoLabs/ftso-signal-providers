@@ -14,7 +14,7 @@ Any individual or entity operating an FTSO signal provider service, passing all 
 * All attributes are required and must be in ASCII
 * `chainId` must be one of 19 (Songbird), 14 (Flare) or 16 (Coston)
 * `name` may be max 32 characters
-* `description` may be max 250 characters
+* `description` may be max 350 characters
     * Must describe your service, values or unique selling points
     * Must be spellchecked
 * `url` may be max 100 characters
@@ -41,7 +41,7 @@ Any individual or entity operating an FTSO signal provider service, passing all 
 {
   "chainId": 19,
   "name": "Example Name",
-  "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 250 characters. Shorter is better.",
+  "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 350 characters. Shorter is better.",
   "url": "https://example.com",
   "address": "0x69141E890F3a79cd2CFf552c0B71508bE23712dC",
   "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x69141E890F3a79cd2CFf552c0B71508bE23712dC.png"
@@ -54,7 +54,7 @@ Any individual or entity operating an FTSO signal provider service, passing all 
 {
   "chainId": 19,
   "name": "Example Name",
-  "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 250 characters. Shorter is better.",
+  "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 350 characters. Shorter is better.",
   "url": "https://example.com",
   "address": "0x69141E890F3a79cd2CFf552c0B71508bE23712dC",
   "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x69141E890F3a79cd2CFf552c0B71508bE23712dC.png"
@@ -62,7 +62,7 @@ Any individual or entity operating an FTSO signal provider service, passing all 
 {
   "chainId": 14,
   "name": "Example Name",
-  "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 250 characters. Shorter is better.",
+  "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 350 characters. Shorter is better.",
   "url": "https://example.com",
   "address": "0x9A46864A3b0a7805B266C445289C3fAD1E48f18e",
   "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9A46864A3b0a7805B266C445289C3fAD1E48f18e.png"
