@@ -8,7 +8,8 @@ Any individual or entity operating an FTSO signal provider service, passing all 
 3. Copy an existing provider entry in `bifrost-wallet.providerlist.json`
 4. Fill your details and add your entry to the bottom of the list
 5. Add your logo to `assets/` and make sure it's named correctly
-6. Run `yarn test` and make sure all tests pass, before submitting a pull request
+6. Run `yarn test` and make sure all tests pass
+7. Submit a pull request to the `next` branch
 
 ## Requirements
 * All attributes are required and must be in ASCII
