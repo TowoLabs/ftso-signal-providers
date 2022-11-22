@@ -1646,6 +1646,22 @@
       "url": "https://ftschizo.xyz",
       "address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86.png"
+    },
+    {
+      "chainId": 19,
+      "name": "CFN",
+      "description": "A passive income community driven project based on utility NFTs.",
+      "url": "https://cryptapero.fr",
+      "address": "0x889FD8C79FCC81E619b720BD589154C2c9fD74e9",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x889FD8C79FCC81E619b720BD589154C2c9fD74e9.png"
+    },
+    {
+      "chainId": 14,
+      "name": "CFN",
+      "description": "A passive income community driven project based on utility NFTs.",
+      "url": "https://cryptapero.fr",
+      "address": "0xf12f09E8Ee7E0C0D0b3279120325A97dc821E971",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf12f09E8Ee7E0C0D0b3279120325A97dc821E971.png"
     }
   ]
 }
