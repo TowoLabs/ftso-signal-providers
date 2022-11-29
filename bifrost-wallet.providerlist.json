@@ -1680,12 +1680,12 @@
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4eb408FA585a5C66E523a4aE5f5706374Ec9E8c7.png"
     },
     {
-      "chainId": 19,
+      "chainId": 14,
       "name": "Nodes Signals",
-      "description": "We are a data provider on the Songbirs Network",
+      "description": "We are a data provider on the Flare Network",
       "url": "http://nodesignals.com/",
-      "address": "0xD8DD91234f60EbD5fc3f4E5c5489F4b941c10498",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xD8DD91234f60EbD5fc3f4E5c5489F4b941c10498.png"
+      "address": "0xF233855E88fF50acA6266273D49e87568633D13b",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF233855E88fF50acA6266273D49e87568633D13b.png"
     }
   ]
 }
