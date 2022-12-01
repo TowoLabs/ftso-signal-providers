@@ -1356,8 +1356,8 @@
 			"name": "FTSO4ALL",
 			"description": "FTSO4ALL is a reliable data provider that aims to become the reference data provider for everyone",
 			"url": "https://ftso4all.xyz",
-			"address": "0x0937E91c116767ffD2256ABc15B67561BaD5d1C2",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0937E91c116767ffD2256ABc15B67561BaD5d1C2.png"
+			"address": "0xA99C45A2D3dF0547CD43190cB388EfC8bCdd75Ec",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA99C45A2D3dF0547CD43190cB388EfC8bCdd75Ec.png"
 		}
 	]
 }
