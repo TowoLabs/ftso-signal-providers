@@ -1678,6 +1678,14 @@
       "url": "https://tempestftso.com",
       "address": "0x4eb408FA585a5C66E523a4aE5f5706374Ec9E8c7",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4eb408FA585a5C66E523a4aE5f5706374Ec9E8c7.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Nikola",
+      "description": "Nikola FTSO is provider on the Flare Network operating out of Virginia, USA. Focused on providing acurate pricing to the Flare Time Series Oracle.",
+      "url": "https://nikola-ftso.com",
+      "address": "0x15942e7dE003424A3e11C213Cd05e4fE9B8A9D7a",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x15942e7dE003424A3e11C213Cd05e4fE9B8A9D7a.png"
     }
   ]
 }
