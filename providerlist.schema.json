@@ -57,10 +57,16 @@
       "properties": {
         "chainId": {
           "type": "integer",
-          "description": "The chain ID of either Coston, Flare or Songbird where this FTSO provider is submitting prices",
-          "enum": [14, 16, 19],
+          "description": "The chain ID of either Coston, Coston2, Flare or Songbird where this FTSO provider is submitting prices",
+          "enum": [
+            19,
+            114,
+            16,
+            14
+          ],
           "examples": [
             19,
+            114,
             16,
             14
           ]
