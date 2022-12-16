@@ -116,6 +116,13 @@
           "examples": [
             "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x69141E890F3a79cd2CFf552c0B71508bE23712dC.png"
           ]
+        },
+        "listed": {
+          "type": "boolean",
+          "description": "Specifices whether the provider meets the extended requirements to be listed in Bifrost Wallet",
+          "examples": [
+            "true"
+          ]
         }
       },
       "required": [
