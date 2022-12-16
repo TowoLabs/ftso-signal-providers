@@ -77,8 +77,8 @@ If your provider fulfill the extended requirements below, it may be eligible to 
 * The provider has enough vote power to participate in the FTSO system
 * The provider has at least 95% uptime, measured over the last 30 days
 
-## Recommendations for Other Developers
-If you're a wallet or dapp developer using this provider list in your software, we recommend that you:
+## Recommendations for Developers
+If you're a wallet or dapp developer using `bifrost-wallet.providerlist.json` in your software, we recommend that you:
 
 1. **Hide** all providers missing the `listed` property from contexts where users choose between different providers, such as in provider lists.
 2. **Show** all providers in contexts where a choice has already been made, such as in confirmation views and transaction details.
