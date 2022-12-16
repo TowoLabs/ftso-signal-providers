@@ -34,8 +34,8 @@ The purpose of `bifrost-wallet.providerlist.json` is to map on-chain signal prov
 * The width and height must be between 128 px and 256 px
 * The background must be transparent or fill the entire image
 * The image content must be centered horizontally and vertically
-* The image must be optimized, using for example: https://tinypng.com
-* The maximum image filesize is 24 KB
+* The image must be optimized using for example: https://tinypng.com
+* The maximum image file size is 24 KB
 
 ### Example for Songbird and Flare
 
@@ -59,7 +59,7 @@ The purpose of `bifrost-wallet.providerlist.json` is to map on-chain signal prov
 ```
 
 ## Extended Requirements
-If your provider fulfill the extended requirements below, it may be eligible to receive the `listed` property. We regularly screen signal providers in `bifrost-wallet.providerlist.json` for eligiblity. If your provider has been eligible for more than 30 days without receiving the `listed` property or you think a mistake has been made, you may open an issue and provide data supporting your claim.
+If your provider fulfills the extended requirements below, it may be eligible to receive the `listed` property. We regularly screen signal providers in `bifrost-wallet.providerlist.json` for eligiblity. If your provider has been eligible for more than 30 days without receiving the `listed` property or you think a mistake has been made, you may open an issue and provide data supporting your claim.
 
 ### Trustworthy
 * The team developing and running the signal provider is known to other signal providers
@@ -74,7 +74,7 @@ If your provider fulfill the extended requirements below, it may be eligible to 
 * The provider uses an algorithm developed in-house or an open-source alternative
 
 ### Available
-* The provider has enough vote power to participate in the FTSO system
+* The provider has enough voting power to participate in the FTSO system
 * The provider has at least 95% uptime, measured over the last 30 days
 
 ## Recommendations for Developers
