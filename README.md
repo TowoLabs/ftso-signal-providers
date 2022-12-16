@@ -4,7 +4,7 @@ Anyone operating an FTSO signal provider, passing all tests and fulfilling all r
 The purpose of `bifrost-wallet.providerlist.json` is to map on-chain signal provider addresses to their logos, names, descriptions and websites. It may be referenced by wallets, dapps and other applications in need of signal provider logos and metadata. Inactive, underperforming or misbehaving signal providers will be denied and removed.
 
 ## How to Add Your Signal Provider
-1. Read the [Requirements](#requirements-naming)
+1. Read the [Requirements](#requirements)
 2. Fork the repository and run `yarn install`
 3. Copy an existing provider entry in `bifrost-wallet.providerlist.json`
 4. Fill your details and add your entry to the bottom of the list
