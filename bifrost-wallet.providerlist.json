@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet",
-  "timestamp": "2022-12-16T00:00:00+00:00",
+  "timestamp": "2022-12-17T00:00:00+00:00",
   "version": {
     "major": 3,
-    "minor": 17,
+    "minor": 18,
     "patch": 0
   },
   "providers": [
@@ -980,7 +980,8 @@
       "description": "FTSO Stoadz provides a Flare Time Series Oracle for those who want to delegate their assets!",
       "url": "https://xtoadz.xyz/signal-provider",
       "address": "0xf9D68721929eF5811fcBbBc7C77ea897dCc8bB05",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf9D68721929eF5811fcBbBc7C77ea897dCc8bB05.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf9D68721929eF5811fcBbBc7C77ea897dCc8bB05.png",
+      "listed": true
     },
     {
       "chainId": 19,
@@ -988,7 +989,8 @@
       "description": "FTSO Stoadz provides a Flare Time Series Oracle for those who want to delegate their assets!",
       "url": "https://xtoadz.xyz/signal-provider",
       "address": "0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae.png",
+      "listed": true
     },
     {
       "chainId": 16,
