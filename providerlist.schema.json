@@ -57,10 +57,16 @@
       "properties": {
         "chainId": {
           "type": "integer",
-          "description": "The chain ID of either Coston, Flare or Songbird where this FTSO provider is submitting prices",
-          "enum": [14, 16, 19],
+          "description": "The chain ID of either Coston, Coston2, Flare or Songbird where this FTSO provider is submitting prices",
+          "enum": [
+            19,
+            114,
+            16,
+            14
+          ],
           "examples": [
             19,
+            114,
             16,
             14
           ]
@@ -109,6 +115,13 @@
           "pattern": "^https:\\/\\/raw\\.githubusercontent\\.com\\/TowoLabs\\/ftso-signal-providers\\/master\\/assets\\/0x[a-fA-F0-9]{40}\\.png$",
           "examples": [
             "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x69141E890F3a79cd2CFf552c0B71508bE23712dC.png"
+          ]
+        },
+        "listed": {
+          "type": "boolean",
+          "description": "Specifices whether the provider meets the extended requirements to be listed in Bifrost Wallet",
+          "examples": [
+            "true"
           ]
         }
       },
