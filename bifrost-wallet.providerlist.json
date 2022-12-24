@@ -554,6 +554,15 @@
     },
     {
       "chainId": 19,
+      "name": "Flare.Space",
+      "description": "Your most convenient and efficient Songbird network data provider and validator. Visit us to get access to information, tools and components for integration with Songbird network.",
+      "url": "https://flare.space/songbird",
+      "address": "0xCcd522393233052Dd0DfeAadc124a0a9bB87FD08",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xCcd522393233052Dd0DfeAadc124a0a9bB87FD08.png",
+      "listed": true
+    },
+    {
+      "chainId": 19,
       "name": "Comfy Nodes",
       "description": "Only the comfiest rates.",
       "url": "https://www.comfynodes.com",
