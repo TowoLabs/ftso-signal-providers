@@ -1569,6 +1569,14 @@
       "url": "https://nikola-ftso.com",
       "address": "0x15942e7dE003424A3e11C213Cd05e4fE9B8A9D7a",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x15942e7dE003424A3e11C213Cd05e4fE9B8A9D7a.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Kraken",
+      "description": "Our mission is to accelerate the adoption of cryptocurrency so that you and the rest of the world can achieve financial freedom and inclusion.",
+      "url": "https://kraken.com",
+      "address": "0xE636F0E91F96C0f007483E1e1ac899c5b5992CD5",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE636F0E91F96C0f007483E1e1ac899c5b5992CD5.png"
     }
   ]
 }
