@@ -298,8 +298,8 @@
       "name": "HEWG",
       "description": "HEWG strikes to provide best FTSO price data.",
       "url": "https://hewg.org",
-      "address": "0x819eaB111BD9A6E595187A914240529D2EFfF21f",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x819eaB111BD9A6E595187A914240529D2EFfF21f.png",
+      "address": "0xE72C7e75908c96303A9E129b37818aDae92856dC",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE72C7e75908c96303A9E129b37818aDae92856dC.png",
       "listed": true
     },
     {
