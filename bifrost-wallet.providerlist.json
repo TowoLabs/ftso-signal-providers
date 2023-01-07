@@ -1468,14 +1468,6 @@
     },
     {
       "chainId": 19,
-      "name": "The Fat Cats FTSO",
-      "description": "The Fat Cats official Songbird data provider.",
-      "url": "https://fat-cats.club",
-      "address": "0x7776fC062AE648466958a28b3001f6a4517a147c",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7776fC062AE648466958a28b3001f6a4517a147c.png"
-    },
-    {
-      "chainId": 19,
       "name": "True FTSO",
       "description": "Still improving. No cheating. Reliable data. No dumping. Low fee.",
       "url": "https://trueftso.com",
@@ -1577,6 +1569,22 @@
       "url": "https://www.can4ry.com",
       "address": "0xb76865823f68b48b02Bb9604A2CD886eB49A9f3D",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb76865823f68b48b02Bb9604A2CD886eB49A9f3D.png"
+    },
+    {
+      "chainId": 19,
+      "name": "The Fat Cats FTSO",
+      "description": "The Fat Cats official Songbird data provider.",
+      "url": "https://fat-cats.club",
+      "address": "0x7776fC062AE648466958a28b3001f6a4517a147c",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7776fC062AE648466958a28b3001f6a4517a147c.png"
+    },
+    {
+      "chainId": 14,
+      "name": "The Fat Cats FTSO",
+      "description": "The Fat Cats official Flare data provider.",
+      "url": "https://fat-cats.club",
+      "address": "0x961ECd8906B7CEd689c45b7EDB5b1e355CbEED45",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x961ECd8906B7CEd689c45b7EDB5b1e355CbEED45.png"
     }
   ]
 }
