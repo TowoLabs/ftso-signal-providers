@@ -1627,5 +1627,21 @@
       "address": "0x3805762710f1aeb3b62d3Cd36820eA19eb88a8D0",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3805762710f1aeb3b62d3Cd36820eA19eb88a8D0.png"
     }
+    ,{
+      "chainId": 19,
+      "name": "HXK Oracle",
+      "description": "HXK Oracle will onboard the next billion users to Flare by providing accurate price feeds to FTSO system",
+      "url": "https://hadexkori.com",
+      "address": "0x6c6f1d0fbf5e21c3f8b2ae6ef3e2ef479f95f438",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6c6f1d0fbf5e21c3f8b2ae6ef3e2ef479f95f438.png"
+    },
+    {
+      "chainId": 14,
+      "name": "HXK Oracle",
+      "description": "HXK Oracle will onboard the next billion users to Flare by providing accurate price feeds to FTSO system",
+      "url": "https://hadexkori.com",
+      "address": "0x3805762710f1aeb3b62d3cd36820ea19eb88a8d0",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3805762710f1aeb3b62d3cd36820ea19eb88a8d0.png"
+    }
   ]
 }
