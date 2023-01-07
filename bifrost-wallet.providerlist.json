@@ -276,6 +276,15 @@
       "listed": true
     },
     {
+      "chainId": 14,
+      "name": "FTSOExpress",
+      "description": "FTSO Express, looking to be a no frills, minimal FTSO Provider",
+      "url": "https://ftso.express",
+      "address": "0xc0452CEcee694Ab416d19E95a0907f022DEC5664",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc0452CEcee694Ab416d19E95a0907f022DEC5664.png",
+      "listed": true
+    },
+    {
       "chainId": 19,
       "name": "FTSOExpress",
       "description": "FTSO Express, looking to be a no frills, minimal FTSO Provider",
