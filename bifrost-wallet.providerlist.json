@@ -1594,6 +1594,22 @@
       "url": "https://fat-cats.club",
       "address": "0x961ECd8906B7CEd689c45b7EDB5b1e355CbEED45",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x961ECd8906B7CEd689c45b7EDB5b1e355CbEED45.png"
+    },
+    {
+      "chainId": 19,
+      "name": "LoveFTSO",
+      "description": "Scalable and reliable signal provider to the Songbird Network in Singapore",
+      "url": "https://loveftso.com",
+      "address": "0x2602f6456287A167B0214c3dbe8b4162f0Ec5409",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2602f6456287A167B0214c3dbe8b4162f0Ec5409.png"
+    },
+    {
+      "chainId": 14,
+      "name": "LoveFTSO",
+      "description": "Scalable and reliable signal provider to the Flare Network in Singapore",
+      "url": "https://loveftso.com",
+      "address": "0xbeC604772722fe2E7A2a7b96339fFA71CeaBF4e7",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbeC604772722fe2E7A2a7b96339fFA71CeaBF4e7.png"
     }
   ]
 }
