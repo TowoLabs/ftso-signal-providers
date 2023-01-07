@@ -563,6 +563,15 @@
     },
     {
       "chainId": 19,
+      "name": "Flare.Space",
+      "description": "Your most convenient and efficient Songbird network data provider and validator. Visit us to get access to information, tools and components for integration with Songbird network.",
+      "url": "https://flare.space/songbird",
+      "address": "0xCcd522393233052Dd0DfeAadc124a0a9bB87FD08",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xCcd522393233052Dd0DfeAadc124a0a9bB87FD08.png",
+      "listed": true
+    },
+    {
+      "chainId": 19,
       "name": "Comfy Nodes",
       "description": "Only the comfiest rates.",
       "url": "https://www.comfynodes.com",
@@ -989,7 +998,8 @@
       "description": "FTSO Stoadz provides a Flare Time Series Oracle for those who want to delegate their assets!",
       "url": "https://xtoadz.xyz/signal-provider",
       "address": "0xf9D68721929eF5811fcBbBc7C77ea897dCc8bB05",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf9D68721929eF5811fcBbBc7C77ea897dCc8bB05.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf9D68721929eF5811fcBbBc7C77ea897dCc8bB05.png",
+      "listed": true
     },
     {
       "chainId": 19,
@@ -997,7 +1007,8 @@
       "description": "FTSO Stoadz provides a Flare Time Series Oracle for those who want to delegate their assets!",
       "url": "https://xtoadz.xyz/signal-provider",
       "address": "0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae.png",
+      "listed": true
     },
     {
       "chainId": 16,
