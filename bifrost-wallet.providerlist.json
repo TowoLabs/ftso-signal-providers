@@ -1653,6 +1653,14 @@
       "url": "https://superbadseries.xyz",
       "address": "0xefc66E65c64B000778F487A0262664b802bA773c",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xefc66E65c64B000778F487A0262664b802bA773c.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Sigma Oracle",
+      "description": "Sigma Oracle is providing data to the Songbird network. Sigma Oracle is a passive income personal project.",
+      "url": "https://erikmr.com",
+      "address": "0x0A90265aff98cA7146F42422f2Ef46545867bA27",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0A90265aff98cA7146F42422f2Ef46545867bA27.png"
     }
   ]
 }
