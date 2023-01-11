@@ -1,0 +1,16 @@
+{
+  "name": "ftso-signal-providers",
+  "version": "1.0.0",
+  "author": "Towo Labs AB",
+  "license": "MIT",
+  "devDependencies": {
+    "ajv": "^8.10.0",
+    "ajv-formats": "^2.1.1",
+    "husky": "^7.0.4",
+    "web3-utils": "^1.7.0"
+  },
+  "scripts": {
+    "test": ".husky/pre-commit",
+    "postinstall": "husky install"
+  }
+}
