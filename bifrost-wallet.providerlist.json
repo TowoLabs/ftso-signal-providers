@@ -351,7 +351,7 @@
       "chainId": 19,
       "name": "HONO-TSO",
       "description": "Hono (Jap Honoo) It's the flame that ignites the game. Let's play!",
-      "url": "https://hono-tso.com",
+      "url": "https://hono-tso.net",
       "address": "0xa467ACeE8127C55Fb1f4d3b863EA5b0C4F599b9b",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa467ACeE8127C55Fb1f4d3b863EA5b0C4F599b9b.png",
       "listed": true
@@ -360,9 +360,9 @@
       "chainId": 14,
       "name": "HONO-TSO",
       "description": "Hono (Jap Honoo) It's the flame that ignites the game. Let's play!",
-      "url": "https://hono-tso.com",
-      "address": "0xa467ACeE8127C55Fb1f4d3b863EA5b0C4F599b9b",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa467ACeE8127C55Fb1f4d3b863EA5b0C4F599b9b.png",
+      "url": "https://hono-tso.net",
+      "address": "0xf455C12ed41edcD4c2FcC8a73F420e5833348A02",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf455C12ed41edcD4c2FcC8a73F420e5833348A02.png",
       "listed": true
     },
     {
