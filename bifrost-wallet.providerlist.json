@@ -1653,6 +1653,14 @@
       "url": "https://superbadseries.xyz",
       "address": "0xefc66E65c64B000778F487A0262664b802bA773c",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xefc66E65c64B000778F487A0262664b802bA773c.png"
+    },
+    {
+      "chainId": 16,
+      "name": "Dark FTSO",
+      "description": "Dark FTSO is contributing data to the Songbird & Flare network, helping decentralize and overall bringing even more value to the collection with special rewards for Flare delegators. Also developing next gen Unreal engine 5 game.",
+      "url": "https://dark.xyz",
+      "address": "0x6Cf683A2DF92F9c943A53F3d73d3EDaDFac8C2A3",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6Cf683A2DF92F9c943A53F3d73d3EDaDFac8C2A3.png"
     }
   ]
 }
