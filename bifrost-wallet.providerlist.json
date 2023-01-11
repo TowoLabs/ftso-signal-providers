@@ -599,8 +599,8 @@
       "name": "Topbird",
       "description": "Topbird is a team of blockchain engineers distributed across the world. We host reliable infrastructure and provide accurate price signals to FTSOs on Songbird network.",
       "url": "https://topbird.info",
-      "address": "0xf45e6102E702A95f633D1D914f6FB5f0cA344E80",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf45e6102E702A95f633D1D914f6FB5f0cA344E80.png"
+      "address": "0x1184f1df8ee3acdfb917a5816013d3673f586cc1",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1184f1df8ee3acdfb917a5816013d3673f586cc1.png"
     },
     {
       "chainId": 19,
