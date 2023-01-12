@@ -59,7 +59,7 @@ The purpose of `bifrost-wallet.providerlist.json` is to map on-chain signal prov
 ```
 
 ## Extended Requirements
-If your provider fulfills the extended requirements below, it may be eligible to receive the `listed` property. We regularly screen signal providers in `bifrost-wallet.providerlist.json` for eligiblity. If your provider has been eligible for more than 30 days without receiving the `listed` property or you think a mistake has been made, you may open an issue and provide data supporting your claim.
+If your provider fulfills the extended requirements below, it may be eligible to receive the `listed` property. We regularly screen signal providers in `bifrost-wallet.providerlist.json` for eligibility. If your provider has been eligible for more than 30 days without receiving the `listed` property or you think a mistake has been made, you may open an issue and provide data supporting your claim.
 
 ### Trustworthy
 * The team developing and running the signal provider is known to other signal providers
