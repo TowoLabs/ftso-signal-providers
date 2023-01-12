@@ -1569,6 +1569,14 @@
       "url": "https://nikola-ftso.com",
       "address": "0x15942e7dE003424A3e11C213Cd05e4fE9B8A9D7a",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x15942e7dE003424A3e11C213Cd05e4fE9B8A9D7a.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Bitrue FTSO",
+      "description": "Bitrue has been supporting Flare, XRP, and financial decentralization since 2018! Sign up on Bitrue today to trade your FLR alongside 800+ other cryptocurrencies, and try out special leveraged FLR pairs with Futures trading. Find out more at www.Bitrue.com",
+      "url": "https://www.bitrue.com",
+      "address": "0x2c8c4cA06D4dC335b37034a0315a00c04b409781",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2c8c4cA06D4dC335b37034a0315a00c04b409781.png"
     }
   ]
 }
