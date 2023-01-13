@@ -1569,6 +1569,22 @@
       "url": "https://nikola-ftso.com",
       "address": "0x15942e7dE003424A3e11C213Cd05e4fE9B8A9D7a",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x15942e7dE003424A3e11C213Cd05e4fE9B8A9D7a.png"
+    },
+    {
+      "chainId": 19,
+      "name": "tSovereign",
+      "description": "Data provider for the Songbird/Flare network assisting users in obtaining sovereignty over their delegated assets.",
+      "url": "https://tsovereign.xyz",
+      "address": "0x66064b9755Ff3C26C380bE0FbE7F38dF6222BA15",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x66064b9755Ff3C26C380bE0FbE7F38dF6222BA15.png"
+    },
+    {
+     "chainId": 14,
+     "name": "tSovereign",
+     "description": "Data provider for the Songbird/Flare network assisting users in obtaining sovereignty over their delegated assets.",
+     "url": "https://tsovereign.xyz",
+     "address": "0x693C74E3f72E8ba4B6382FD9ea1eD120b62D97d4",
+     "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x693C74E3f72E8ba4B6382FD9ea1eD120b62D97d4.png"
     }
   ]
 }
