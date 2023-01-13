@@ -659,7 +659,7 @@
     {
       "chainId": 19,
       "name": "Bitrue",
-      "description": "Bitrue exchange",
+      "description": "Bitrue has been supporting Flare, XRP, and financial decentralization since 2018! Sign up on Bitrue today to trade your FLR alongside 800+ other cryptocurrencies, and try out special leveraged FLR pairs with Futures trading. Find out more at www.bitrue.com",
       "url": "https://www.bitrue.com",
       "address": "0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE.png"
@@ -667,10 +667,10 @@
     {
       "chainId": 14,
       "name": "Bitrue",
-      "description": "Bitrue exchange",
+      "description": "Bitrue has been supporting Flare, XRP, and financial decentralization since 2018! Sign up on Bitrue today to trade your FLR alongside 800+ other cryptocurrencies, and try out special leveraged FLR pairs with Futures trading. Find out more at www.bitrue.com",
       "url": "https://www.bitrue.com",
-      "address": "0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE.png"
+      "address": "0x2c8c4cA06D4dC335b37034a0315a00c04b409781",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2c8c4cA06D4dC335b37034a0315a00c04b409781.png"
     },
     {
       "chainId": 19,
@@ -1635,14 +1635,6 @@
       "url": "https://superbadseries.xyz",
       "address": "0xefc66E65c64B000778F487A0262664b802bA773c",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xefc66E65c64B000778F487A0262664b802bA773c.png"
-    },
-    {
-      "chainId": 14,
-      "name": "Bitrue FTSO",
-      "description": "Bitrue has been supporting Flare, XRP, and financial decentralization since 2018! Sign up on Bitrue today to trade your FLR alongside 800+ other cryptocurrencies, and try out special leveraged FLR pairs with Futures trading. Find out more at www.Bitrue.com",
-      "url": "https://www.bitrue.com",
-      "address": "0x2c8c4cA06D4dC335b37034a0315a00c04b409781",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2c8c4cA06D4dC335b37034a0315a00c04b409781.png"
     }
   ]
 }
