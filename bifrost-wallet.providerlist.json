@@ -3,7 +3,7 @@
   "timestamp": "2023-01-07T00:00:00+00:00",
   "version": {
     "major": 3,
-    "minor": 18,
+    "minor": 19,
     "patch": 0
   },
   "providers": [
@@ -307,8 +307,8 @@
       "name": "HEWG",
       "description": "HEWG strikes to provide best FTSO price data.",
       "url": "https://hewg.org",
-      "address": "0x819eaB111BD9A6E595187A914240529D2EFfF21f",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x819eaB111BD9A6E595187A914240529D2EFfF21f.png",
+      "address": "0xB6d68Ea6C4dE734Ec481F92AFD1C35F712441b73",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB6d68Ea6C4dE734Ec481F92AFD1C35F712441b73.png",
       "listed": true
     },
     {
@@ -766,7 +766,8 @@
       "description": "Providing a Flare Time Series Oracle for those who want to delegate like a BEAST!",
       "url": "https://www.oracle-beast.com",
       "address": "0x3ed7b2cCC4BA420CdcE2BA232d3efdc13075F16D",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3ed7b2cCC4BA420CdcE2BA232d3efdc13075F16D.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3ed7b2cCC4BA420CdcE2BA232d3efdc13075F16D.png",
+      "listed": true
     },
     {
       "chainId": 14,
@@ -774,7 +775,8 @@
       "description": "Providing a Flare Time Series Oracle for those who want to delegate like a BEAST!",
       "url": "https://www.oracle-beast.com",
       "address": "0x5E2aFfA528DB55feE8cf8cCC41d0A5bb8BaCedC3",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5E2aFfA528DB55feE8cf8cCC41d0A5bb8BaCedC3.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5E2aFfA528DB55feE8cf8cCC41d0A5bb8BaCedC3.png",
+      "listed": true
     },
     {
       "chainId": 19,
@@ -1341,8 +1343,7 @@
       "description": "Starlink Oracle aggregates data from reliable sources. This ensures that our data algorithm computes accurate prices to consistently submit on delegators behalf. Building the future of global decentralized oracle services.",
       "url": "https://starlinkoracle.com",
       "address": "0xA9a143FEe74E12E97DC794fD1340f851813BDA92",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA9a143FEe74E12E97DC794fD1340f851813BDA92.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA9a143FEe74E12E97DC794fD1340f851813BDA92.png"
     },
     {
       "chainId": 14,
@@ -1350,8 +1351,7 @@
       "description": "Starlink Oracle aggregates data from reliable sources. This ensures that our data algorithm computes accurate prices to consistently submit on delegators behalf. Building the future of global decentralized oracle services.",
       "url": "https://starlinkoracle.com",
       "address": "0xEb190a42eff3bCCAf65A432F2B7D2b1CaBE30c25",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xEb190a42eff3bCCAf65A432F2B7D2b1CaBE30c25.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xEb190a42eff3bCCAf65A432F2B7D2b1CaBE30c25.png"
     },
     {
       "chainId": 19,
@@ -1492,8 +1492,7 @@
       "description": "Still improving. No cheating. Reliable data. No dumping. Low fee.",
       "url": "https://trueftso.com",
       "address": "0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA.png"
     },
     {
       "chainId": 14,
@@ -1501,8 +1500,7 @@
       "description": "Still improving. No cheating. Reliable data. No dumping. Low fee.",
       "url": "https://trueftso.com",
       "address": "0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA.png"
     },
     {
       "chainId": 19,
