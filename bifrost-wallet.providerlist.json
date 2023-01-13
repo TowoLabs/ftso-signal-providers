@@ -1637,6 +1637,22 @@
       "url": "https://superbadseries.xyz",
       "address": "0xefc66E65c64B000778F487A0262664b802bA773c",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xefc66E65c64B000778F487A0262664b802bA773c.png"
+    },
+    {
+      "chainId": 19,
+      "name": "BlockApp FTSO",
+      "description": "BlockApp FTSO data provider aiming to provide the most accurate price signals on the network.",
+      "url": "https://blockapps.net/",
+      "address": "0xf750178b0155c651b4fff490ce01d0736f1b54c6",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf750178b0155c651b4fff490ce01d0736f1b54c6.png"
+    },
+    {
+      "chainId": 14,
+      "name": "BlockApp FTSO",
+      "description": "BlockApp FTSO data provider aiming to provide the most accurate price signals on the network.",
+      "url": "https://blockapps.net/",
+      "address": "0xdd7b2bac728f027f23add7128711ecb60f761ad5",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xdd7b2bac728f027f23add7128711ecb60f761ad5.png"
     }
   ]
 }
