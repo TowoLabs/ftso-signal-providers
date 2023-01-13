@@ -1637,6 +1637,15 @@
       "url": "https://superbadseries.xyz",
       "address": "0xefc66E65c64B000778F487A0262664b802bA773c",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xefc66E65c64B000778F487A0262664b802bA773c.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Lena Instruments",
+      "description": "Institutional grade vote delegation service and FTSO signal provider to the Flare ecosystem",
+      "url": "https://www.lena.tech",
+      "address": "0xdde9BcB57cbA00A9718b67b4074ec6B62C542957",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc9AC8F034d295962A6a975b717B691437605Bbb6.png",
+      "listed": true
     }
   ]
 }
