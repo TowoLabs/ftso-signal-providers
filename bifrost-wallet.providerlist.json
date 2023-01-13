@@ -1631,12 +1631,20 @@
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB8de9A52E1Dca1Df3DEc5baa919985d00D2739db.png"
     },
     {
+      "chainId": 19,
+      "name": "Joined FTSO",
+      "description": "Joined FTSO is an open-minded data signals provider looking for a great partnership on the Flare and Songbird Network.",
+      "url": "https://www.joined.app/",
+      "address": "0x0a90265aff98ca7146f42422f2ef46545867ba27",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0a90265aff98ca7146f42422f2ef46545867ba27.png"
+    },
+    {
       "chainId": 14,
-      "name": "Super Bad Series FTSO",
-      "description": "Super Bad Series FTSO is contributing data to the Songbird & Flare network, helping decentralize and overall bringing even more value to the collection with special rewards for Flare delegators. Also developing next gen Unreal engine 5 game.",
-      "url": "https://superbadseries.xyz",
-      "address": "0xefc66E65c64B000778F487A0262664b802bA773c",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xefc66E65c64B000778F487A0262664b802bA773c.png"
+      "name": "Joined FTSO",
+      "description": "Joined FTSO is an open-minded data signals provider looking for a great partnership on the Flare and Songbird Network.",
+      "url": "https://www.joined.app/",
+      "address": "0xdde9bcb57cba00a9718b67b4074ec6b62c542957",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xdde9bcb57cba00a9718b67b4074ec6b62c542957.png"
     }
   ]
 }
