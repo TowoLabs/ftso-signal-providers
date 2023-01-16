@@ -1635,6 +1635,22 @@
       "url": "https://superbadseries.xyz",
       "address": "0xefc66E65c64B000778F487A0262664b802bA773c",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xefc66E65c64B000778F487A0262664b802bA773c.png"
+    },
+    {
+      "chainId": 19,
+      "name": "FLR Labs FTSO",
+      "description": "Our algorithm is built on innovative technology that optimizes the submission of the most accurate time series data for the FTSO. We aim to support decentralized data collection and to create many new applications using the Flare technology stack.",
+      "url": "https://flrlabs.com",
+      "address": "0x43F0a819DCCddEb05A282c78027873aB5Be35cf5",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x43F0a819DCCddEb05A282c78027873aB5Be35cf5.png"
+    },
+    {
+      "chainId": 14,
+      "name": "FLR Labs FTSO",
+      "description": "Our algorithm is built on innovative technology that optimizes the submission of the most accurate time series data for the FTSO. We aim to support decentralized data collection and to create many new applications using the Flare technology stack.",
+      "url": "https://flrlabs.com",
+      "address": "0x14b424Bc9E9B8091A40384ff3d8F0C3DfC1a2879",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x14b424Bc9E9B8091A40384ff3d8F0C3DfC1a2879.png"
     }
   ]
 }
