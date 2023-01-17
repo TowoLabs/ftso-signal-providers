@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet",
-  "timestamp": "2023-01-16T00:00:00+00:00",
+  "timestamp": "2023-01-17T00:00:00+00:00",
   "version": {
     "major": 3,
-    "minor": 20,
+    "minor": 21,
     "patch": 0
   },
   "providers": [
@@ -1257,7 +1257,8 @@
       "description": "Low fee and optimised rewards, Ivy Oracle strive for providing the best open analytics tools for the community.",
       "url": "https://ivyoracle.xyz",
       "address": "0xA174D46EF49D7d4a0328f9910222689E9eAb2f45",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA174D46EF49D7d4a0328f9910222689E9eAb2f45.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA174D46EF49D7d4a0328f9910222689E9eAb2f45.png",
+      "listed": true
     },
     {
       "chainId": 14,
@@ -1265,7 +1266,8 @@
       "description": "Low fee and optimised rewards, Ivy Oracle strive for providing the best open analytics tools for the community.",
       "url": "https://ivyoracle.xyz",
       "address": "0x64D998BC81424131E5aF05071263fDeBD1a82986",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x64D998BC81424131E5aF05071263fDeBD1a82986.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x64D998BC81424131E5aF05071263fDeBD1a82986.png",
+      "listed": true
     },
     {
       "chainId": 19,
