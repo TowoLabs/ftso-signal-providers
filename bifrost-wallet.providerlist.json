@@ -1635,6 +1635,22 @@
       "url": "https://superbadseries.xyz",
       "address": "0xefc66E65c64B000778F487A0262664b802bA773c",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xefc66E65c64B000778F487A0262664b802bA773c.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Poseidon FTSO",
+      "description": "Poseidon FTSO is an FTSO on Songbird and Flare mainnet. We provide ourself in operating a functional FTSO which plays by the rules. We aim to build a robust FTSO which will help enhance the Flare ecosystem.",
+      "url": "https://poseidon-ftso.com",
+      "address": "0x02a256FF137D680aC591f1959D64a8669006c95c",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x02a256FF137D680aC591f1959D64a8669006c95c.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Poseidon FTSO",
+      "description": "Poseidon FTSO is an FTSO on Songbird and Flare mainnet. We provide ourself in operating a functional FTSO which plays by the rules. We aim to build a robust FTSO which will help enhance the Flare ecosystem.",
+      "url": "https://poseidon-ftso.com",
+      "address": "0x8d5Ddf992D582AFA3b2062d56a7ffB8028AB59a2",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x8d5Ddf992D582AFA3b2062d56a7ffB8028AB59a2.png"
     }
   ]
 }
