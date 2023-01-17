@@ -1635,6 +1635,14 @@
       "url": "https://superbadseries.xyz",
       "address": "0xefc66E65c64B000778F487A0262664b802bA773c",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xefc66E65c64B000778F487A0262664b802bA773c.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Animalove FTSO",
+      "description": "The Animalove official SGB/Flare data provider",
+      "url": "https://animalove.art",
+      "address": "0x9a434D1C354e7ffD98CA91ACEDa10f40228eC3D2",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9a434D1C354e7ffD98CA91ACEDa10f40228eC3D2.png"
     }
   ]
 }
