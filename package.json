@@ -1,6 +1,6 @@
 {
   "name": "ftso-signal-providers",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "author": "Towo Labs AB",
   "license": "MIT",
   "devDependencies": {
