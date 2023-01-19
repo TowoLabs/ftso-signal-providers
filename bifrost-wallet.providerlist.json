@@ -1635,6 +1635,22 @@
       "url": "https://superbadseries.xyz",
       "address": "0xefc66E65c64B000778F487A0262664b802bA773c",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xefc66E65c64B000778F487A0262664b802bA773c.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Burst FTSO",
+      "description": "We strive to provide the best signals possible. Decentralization is extremely important to us, with this FTSO we will be helping the Flare blockchain achieve this.",
+      "url": "https://burstftso.xyz",
+      "address": "0x670a7Fd22cAa9C2Fb5B798078d084B29AB4bC63C",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x670a7Fd22cAa9C2Fb5B798078d084B29AB4bC63C.png"
+    },
+    {
+      "chainId": 114,
+      "name": "Burst FTSO",
+      "description": "We strive to provide the best signals possible. Decentralization is extremely important to us, with this FTSO we will be helping the Flare blockchain achieve this.",
+      "url": "https://burstftso.xyz",
+      "address": "0x670a7Fd22cAa9C2Fb5B798078d084B29AB4bC63C",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x670a7Fd22cAa9C2Fb5B798078d084B29AB4bC63C.png"
     }
   ]
 }
