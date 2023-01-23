@@ -1635,6 +1635,22 @@
       "url": "https://superbadseries.xyz",
       "address": "0xefc66E65c64B000778F487A0262664b802bA773c",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xefc66E65c64B000778F487A0262664b802bA773c.png"
+    },
+    {
+      "chainId": 19,
+      "name": "HT Markets FTSO",
+      "description": "HT Markets FTSO is powered by Hex Trust, that is the leading and most reliable Asian custodian.",
+      "url": "https://hextrust.com",
+      "address": "0x14d699c1d61d54a0390671B07B2b6f8C0Bf36275",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x14d699c1d61d54a0390671B07B2b6f8C0Bf36275.png"
+    },
+    {
+      "chainId": 14,
+      "name": "HT Markets FTSO",
+      "description": "HT Markets FTSO is powered by Hex Trust, that is the leading and most reliable Asian custodian.",
+      "url": "https://hextrust.com",
+      "address": "0xC77c8e1202c1A8264b37264EB6c08cb86a718d1a",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC77c8e1202c1A8264b37264EB6c08cb86a718d1a.png"
     }
   ]
 }
