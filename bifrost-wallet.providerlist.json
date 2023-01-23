@@ -183,8 +183,8 @@
       "name": "Lena Instruments",
       "description": "Institutional grade vote delegation service and FTSO signal provider to the Flare ecosystem",
       "url": "https://www.lena.tech",
-      "address": "0xc9AC8F034d295962A6a975b717B691437605Bbb6",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc9AC8F034d295962A6a975b717B691437605Bbb6.png",
+      "address": "0xdde9BcB57cbA00A9718b67b4074ec6B62C542957",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xdde9BcB57cbA00A9718b67b4074ec6B62C542957.png",
       "listed": true
     },
     {
@@ -307,8 +307,8 @@
       "name": "HEWG",
       "description": "HEWG strikes to provide best FTSO price data.",
       "url": "https://hewg.org",
-      "address": "0x819eaB111BD9A6E595187A914240529D2EFfF21f",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x819eaB111BD9A6E595187A914240529D2EFfF21f.png",
+      "address": "0xB6d68Ea6C4dE734Ec481F92AFD1C35F712441b73",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB6d68Ea6C4dE734Ec481F92AFD1C35F712441b73.png",
       "listed": true
     },
     {
@@ -599,8 +599,8 @@
       "name": "Topbird",
       "description": "Topbird is a team of blockchain engineers distributed across the world. We host reliable infrastructure and provide accurate price signals to FTSOs on Songbird network.",
       "url": "https://topbird.info",
-      "address": "0xf45e6102E702A95f633D1D914f6FB5f0cA344E80",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf45e6102E702A95f633D1D914f6FB5f0cA344E80.png"
+      "address": "0x1184F1dF8EE3AcdFb917a5816013d3673f586cC1",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1184F1dF8EE3AcdFb917a5816013d3673f586cC1.png"
     },
     {
       "chainId": 19,
@@ -659,7 +659,7 @@
     {
       "chainId": 19,
       "name": "Bitrue",
-      "description": "Bitrue exchange",
+      "description": "Bitrue has been supporting Flare, XRP, and financial decentralization since 2018! Sign up on Bitrue today to trade your FLR alongside 800+ other cryptocurrencies, and try out special leveraged FLR pairs with Futures trading. Find out more at www.bitrue.com",
       "url": "https://www.bitrue.com",
       "address": "0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE.png"
@@ -667,10 +667,10 @@
     {
       "chainId": 14,
       "name": "Bitrue",
-      "description": "Bitrue exchange",
+      "description": "Bitrue has been supporting Flare, XRP, and financial decentralization since 2018! Sign up on Bitrue today to trade your FLR alongside 800+ other cryptocurrencies, and try out special leveraged FLR pairs with Futures trading. Find out more at www.bitrue.com",
       "url": "https://www.bitrue.com",
-      "address": "0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE.png"
+      "address": "0x2c8c4cA06D4dC335b37034a0315a00c04b409781",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2c8c4cA06D4dC335b37034a0315a00c04b409781.png"
     },
     {
       "chainId": 19,
