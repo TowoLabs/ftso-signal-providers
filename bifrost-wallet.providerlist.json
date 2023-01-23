@@ -1241,7 +1241,8 @@
       "description": "Enterprise Data Provider FTSO",
       "url": "https://edp-ftso.com",
       "address": "0x1C602a30335187A97D8061Ffffd4522796DE82bF",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1C602a30335187A97D8061Ffffd4522796DE82bF.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1C602a30335187A97D8061Ffffd4522796DE82bF.png",
+      "listed": true
     },
     {
       "chainId": 14,
@@ -1249,7 +1250,8 @@
       "description": "Enterprise Data Provider FTSO",
       "url": "https://edp-ftso.com",
       "address": "0xad918962795547a8c997F96f7BAbB822612a5FfE",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xad918962795547a8c997F96f7BAbB822612a5FfE.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xad918962795547a8c997F96f7BAbB822612a5FfE.png",
+      "listed": true
     },
     {
       "chainId": 19,
