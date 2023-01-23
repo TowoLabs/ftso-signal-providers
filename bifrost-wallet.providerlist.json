@@ -1451,8 +1451,7 @@
       "description": "California data provider on the Songbird Network. Aggregating hundreds of external data points in order to provide the most accurate prices to the FTSO system.",
       "url": "https://odinftso.com",
       "address": "0x8FdBcb218561776759702b175084dBa856282a88",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x8FdBcb218561776759702b175084dBa856282a88.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x8FdBcb218561776759702b175084dBa856282a88.png"
     },
     {
       "chainId": 14,
@@ -1460,8 +1459,7 @@
       "description": "California data provider on the Flare Network. Aggregating hundreds of external data points in order to provide the most accurate prices to the FTSO system.",
       "url": "https://odinftso.com",
       "address": "0x0701ab70BB0deb504e2daD44ffe2f8E0f7399a1D",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0701ab70BB0deb504e2daD44ffe2f8E0f7399a1D.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0701ab70BB0deb504e2daD44ffe2f8E0f7399a1D.png"
     },
     {
       "chainId": 114,
