@@ -1655,6 +1655,22 @@
       "url": "https://hextrust.com",
       "address": "0xC77c8e1202c1A8264b37264EB6c08cb86a718d1a",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC77c8e1202c1A8264b37264EB6c08cb86a718d1a.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Taco FTSO",
+      "description": "tacoftso.xyz is the go-to FTSO for all taco enthusiasts. Our team of taco lovers has compiled a comprehensive database and work to provide the best pricing data. Come join us for a delicious data experience!",
+      "url": "https://tacoftso.xyz",
+      "address": "0x0fa9A119941aA3156aF9015353F045165b4fF860",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0fa9A119941aA3156aF9015353F045165b4fF860.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Taco FTSO",
+      "description": "tacoftso.xyz is the go-to FTSO for all taco enthusiasts. Our team of taco lovers has compiled a comprehensive database and work to provide the best pricing data. Come join us for a delicious data experience!",
+      "url": "https://tacoftso.xyz",
+      "address": "0x0fa9A119941aA3156aF9015353F045165b4fF860",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0fa9A119941aA3156aF9015353F045165b4fF860.png"
     }
   ]
 }
