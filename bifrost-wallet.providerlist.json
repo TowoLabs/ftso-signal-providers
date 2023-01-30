@@ -1221,22 +1221,6 @@
     },
     {
       "chainId": 19,
-      "name": "OracleSwap FTSO",
-      "description": "OracleSwap is the premier decentralized exchange on the Songbird Network. The OracleSwap FTSO uses a Machine Learning algorithm to aggregate price data from many sources to submit the most accurate price data possible.",
-      "url": "https://www.oracleswap.io",
-      "address": "0x4E6c61d1DC945EeBd3Fc9A6251BD8B8b5EbD5637",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4E6c61d1DC945EeBd3Fc9A6251BD8B8b5EbD5637.png"
-    },
-    {
-      "chainId": 14,
-      "name": "OracleSwap FTSO",
-      "description": "OracleSwap is the premier decentralized exchange on the Songbird Network. The OracleSwap FTSO uses a Machine Learning algorithm to aggregate price data from many sources to submit the most accurate price data possible.",
-      "url": "https://www.oracleswap.io",
-      "address": "0xEdFac79f110b0d792941508867f84552E6f3AA75",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xEdFac79f110b0d792941508867f84552E6f3AA75.png"
-    },
-    {
-      "chainId": 19,
       "name": "EDPFTSO",
       "description": "Enterprise Data Provider FTSO",
       "url": "https://edp-ftso.com",
