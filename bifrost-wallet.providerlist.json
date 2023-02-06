@@ -1655,6 +1655,22 @@
       "url": "https://hextrust.com",
       "address": "0xC77c8e1202c1A8264b37264EB6c08cb86a718d1a",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC77c8e1202c1A8264b37264EB6c08cb86a718d1a.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Sirius FTSO",
+      "description": "Sirius FTSO is a provider of algorithms that run on the Flare network to give you the best price feeds.",
+      "url": "https://siriusftso.com",
+      "address": "0x14f17A0B6dEf7eCfc4F807904C27842b556d42be",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAd5E40Ff92B083c657d27eCc1c629256e0Af0eD8.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Sirius FTSO",
+      "description": "Sirius FTSO is a provider of algorithms that run on the Flare network to give you the best price feeds.",
+      "url": "https://siriusftso.com",
+      "address": "0xAd5E40Ff92B083c657d27eCc1c629256e0Af0eD8 ",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAd5E40Ff92B083c657d27eCc1c629256e0Af0eD8.png"
     }
   ]
 }
