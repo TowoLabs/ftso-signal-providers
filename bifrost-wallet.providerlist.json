@@ -670,7 +670,8 @@
       "description": "Bitrue has been supporting Flare, XRP, and financial decentralization since 2018! Sign up on Bitrue today to trade your FLR alongside 800+ other cryptocurrencies, and try out special leveraged FLR pairs with Futures trading. Find out more at www.bitrue.com",
       "url": "https://www.bitrue.com",
       "address": "0x2c8c4cA06D4dC335b37034a0315a00c04b409781",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2c8c4cA06D4dC335b37034a0315a00c04b409781.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2c8c4cA06D4dC335b37034a0315a00c04b409781.png",
+      "listed": true
     },
     {
       "chainId": 19,
@@ -1662,7 +1663,8 @@
       "description": "We strive to provide the best signals possible. Decentralization is extremely important to us, with this FTSO we will be helping the Flare blockchain achieve this.",
       "url": "https://burstftso.xyz",
       "address": "0x670a7Fd22cAa9C2Fb5B798078d084B29AB4bC63C",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x670a7Fd22cAa9C2Fb5B798078d084B29AB4bC63C.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x670a7Fd22cAa9C2Fb5B798078d084B29AB4bC63C.png",
+      "listed": true
     },
     {
       "chainId": 114,
