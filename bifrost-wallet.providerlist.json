@@ -1665,6 +1665,14 @@
       "url": "https://poseidon-ftso.com",
       "address": "0x8d5Ddf992D582AFA3b2062d56a7ffB8028AB59a2",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x8d5Ddf992D582AFA3b2062d56a7ffB8028AB59a2.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Pinnacle FTSO",
+      "description": "Pinnacle FTSO provides more accurate price feeds to the Flare. Dedicated to offering clients a high reward rate",
+      "url": "https://ftsopinnacle.art",
+      "address": "0x2004b4F504eEeBEf915546A6f279DDE886b61c2b",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2004b4F504eEeBEf915546A6f279DDE886b61c2b.png"
     }
   ]
 }
