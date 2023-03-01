@@ -1675,6 +1675,14 @@
       "url": "https://ftsopinnacle.art",
       "address": "0x2004b4F504eEeBEf915546A6f279DDE886b61c2b",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2004b4F504eEeBEf915546A6f279DDE886b61c2b.png"
+    },
+    {
+      "chainId": 19,
+      "name": "xSPECTAR",
+      "description": "xSPECTAR infra FTSO",
+      "url": "https://xspectar.com",
+      "address": "0xd630063e8b60E069866d725A4205479BD5ABFE70",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xd630063e8b60E069866d725A4205479BD5ABFE70.png"
     }
   ]
 }
