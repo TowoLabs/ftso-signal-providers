@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet",
-  "timestamp": "2023-02-09T00:00:00+00:00",
+  "timestamp": "2023-02-28T00:00:00+00:00",
   "version": {
     "major": 3,
-    "minor": 24,
+    "minor": 25,
     "patch": 0
   },
   "providers": [
@@ -103,7 +103,8 @@
       "description": "Signal provider on the Flare Network. UK-based team with global coverage. Providing robust and weighted signals. Dedicated to unlocking value.",
       "url": "https://www.ftso.uk",
       "address": "0xB9b7355f5b71CEE345311921D247b1D2bA5cFe90",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB9b7355f5b71CEE345311921D247b1D2bA5cFe90.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB9b7355f5b71CEE345311921D247b1D2bA5cFe90.png",
+      "listed": true
     },
     {
       "chainId": 14,
@@ -111,7 +112,8 @@
       "description": "Signal provider on the Flare Network. UK-based team with global coverage. Providing robust and weighted signals. Dedicated to unlocking value.",
       "url": "https://www.ftso.uk",
       "address": "0x5F911C2C681f678e5A3a8D54f950d6b192CC16E3",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5F911C2C681f678e5A3a8D54f950d6b192CC16E3.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5F911C2C681f678e5A3a8D54f950d6b192CC16E3.png",
+      "listed": true
     },
     {
       "chainId": 19,
@@ -216,8 +218,8 @@
       "name": "Best FTSO",
       "description": "Our goal is to offer users the most value for their delegation. Come check out our NFT club and earn more than just FLR rewards!",
       "url": "https://bestftso.xyz",
-      "address": "0x939789ed3D07A80da886A3E3017d665cBb5591dC",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x939789ed3D07A80da886A3E3017d665cBb5591dC.png"
+      "address": "0x510Da05b7bf9d7713752da662AEdb26770F30d19",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x510Da05b7bf9d7713752da662AEdb26770F30d19.png"
     },
     {
       "chainId": 19,
@@ -1665,6 +1667,14 @@
       "url": "https://poseidon-ftso.com",
       "address": "0x8d5Ddf992D582AFA3b2062d56a7ffB8028AB59a2",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x8d5Ddf992D582AFA3b2062d56a7ffB8028AB59a2.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Pinnacle FTSO",
+      "description": "Pinnacle FTSO provides more accurate price feeds to the Flare. Dedicated to offering clients a high reward rate",
+      "url": "https://ftsopinnacle.art",
+      "address": "0x2004b4F504eEeBEf915546A6f279DDE886b61c2b",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2004b4F504eEeBEf915546A6f279DDE886b61c2b.png"
     },
     {
       "chainId": 19,
