@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet",
-  "timestamp": "2023-01-07T00:00:00+00:00",
+  "timestamp": "2023-02-28T00:00:00+00:00",
   "version": {
     "major": 3,
-    "minor": 19,
+    "minor": 25,
     "patch": 0
   },
   "providers": [
@@ -218,8 +218,8 @@
       "name": "Best FTSO",
       "description": "Our goal is to offer users the most value for their delegation. Come check out our NFT club and earn more than just FLR rewards!",
       "url": "https://bestftso.xyz",
-      "address": "0x939789ed3D07A80da886A3E3017d665cBb5591dC",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x939789ed3D07A80da886A3E3017d665cBb5591dC.png"
+      "address": "0x510Da05b7bf9d7713752da662AEdb26770F30d19",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x510Da05b7bf9d7713752da662AEdb26770F30d19.png"
     },
     {
       "chainId": 19,
@@ -351,7 +351,7 @@
       "chainId": 19,
       "name": "HONO-TSO",
       "description": "Hono (Jap Honoo) It's the flame that ignites the game. Let's play!",
-      "url": "https://hono-tso.com",
+      "url": "https://hono-tso.net",
       "address": "0xa467ACeE8127C55Fb1f4d3b863EA5b0C4F599b9b",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa467ACeE8127C55Fb1f4d3b863EA5b0C4F599b9b.png",
       "listed": true
@@ -360,9 +360,9 @@
       "chainId": 14,
       "name": "HONO-TSO",
       "description": "Hono (Jap Honoo) It's the flame that ignites the game. Let's play!",
-      "url": "https://hono-tso.com",
-      "address": "0xa467ACeE8127C55Fb1f4d3b863EA5b0C4F599b9b",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa467ACeE8127C55Fb1f4d3b863EA5b0C4F599b9b.png",
+      "url": "https://hono-tso.net",
+      "address": "0xf455C12ed41edcD4c2FcC8a73F420e5833348A02",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf455C12ed41edcD4c2FcC8a73F420e5833348A02.png",
       "listed": true
     },
     {
@@ -460,8 +460,8 @@
       "name": "African Proofs",
       "description": "We are a Flare and Songbird blockchain networks data signals provider based in South Africa. We provide a consistent and honest account of real world information for use in the Flare Networks ecosystem of chains.",
       "url": "https://proofs.africa",
-      "address": "0xaF31CA175bbE0C6dD667c8403B65a33b28238afa",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xaF31CA175bbE0C6dD667c8403B65a33b28238afa.png",
+      "address": "0x7808b9E0F7c488172B54B30f98C2FcF36D903B2c",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7808b9E0F7c488172B54B30f98C2FcF36D903B2c.png",
       "listed": true
     },
     {
@@ -670,7 +670,8 @@
       "description": "Bitrue has been supporting Flare, XRP, and financial decentralization since 2018! Sign up on Bitrue today to trade your FLR alongside 800+ other cryptocurrencies, and try out special leveraged FLR pairs with Futures trading. Find out more at www.bitrue.com",
       "url": "https://www.bitrue.com",
       "address": "0x2c8c4cA06D4dC335b37034a0315a00c04b409781",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2c8c4cA06D4dC335b37034a0315a00c04b409781.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2c8c4cA06D4dC335b37034a0315a00c04b409781.png",
+      "listed": true
     },
     {
       "chainId": 19,
@@ -874,8 +875,7 @@
       "description": "FTSO Brasil is the first ftso in South America working together with Flare Networks to empower token holders with knowledge and rewards.",
       "url": "https://www.ftso-brasil.com.br",
       "address": "0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926.png"
     },
     {
       "chainId": 14,
@@ -883,8 +883,7 @@
       "description": "FTSO Brasil is the first ftso in South America working together with Flare Networks to empower token holders with knowledge and rewards.",
       "url": "https://www.ftso-brasil.com.br",
       "address": "0x0DDD059Bf29DE115b48B2844E112eA9A2fcCfC2b",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0DDD059Bf29DE115b48B2844E112eA9A2fcCfC2b.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0DDD059Bf29DE115b48B2844E112eA9A2fcCfC2b.png"
     },
     {
       "chainId": 19,
@@ -999,8 +998,8 @@
       "name": "sToadz FTSO",
       "description": "FTSO Stoadz provides a Flare Time Series Oracle for those who want to delegate their assets!",
       "url": "https://xtoadz.xyz/signal-provider",
-      "address": "0xf9D68721929eF5811fcBbBc7C77ea897dCc8bB05",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf9D68721929eF5811fcBbBc7C77ea897dCc8bB05.png",
+      "address": "0x729589694a78FF2D8BACf75b7AC4389bd53ee533",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x729589694a78FF2D8BACf75b7AC4389bd53ee533.png",
       "listed": true
     },
     {
@@ -1008,8 +1007,8 @@
       "name": "sToadz FTSO",
       "description": "FTSO Stoadz provides a Flare Time Series Oracle for those who want to delegate their assets!",
       "url": "https://xtoadz.xyz/signal-provider",
-      "address": "0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae.png",
+      "address": "0x6Bf25C0256CBE8969424F6994e19Cf5e0A3C23Bb",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6Bf25C0256CBE8969424F6994e19Cf5e0A3C23Bb.png",
       "listed": true
     },
     {
@@ -1221,27 +1220,12 @@
     },
     {
       "chainId": 19,
-      "name": "OracleSwap FTSO",
-      "description": "OracleSwap is the premier decentralized exchange on the Songbird Network. The OracleSwap FTSO uses a Machine Learning algorithm to aggregate price data from many sources to submit the most accurate price data possible.",
-      "url": "https://www.oracleswap.io",
-      "address": "0x4E6c61d1DC945EeBd3Fc9A6251BD8B8b5EbD5637",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4E6c61d1DC945EeBd3Fc9A6251BD8B8b5EbD5637.png"
-    },
-    {
-      "chainId": 14,
-      "name": "OracleSwap FTSO",
-      "description": "OracleSwap is the premier decentralized exchange on the Songbird Network. The OracleSwap FTSO uses a Machine Learning algorithm to aggregate price data from many sources to submit the most accurate price data possible.",
-      "url": "https://www.oracleswap.io",
-      "address": "0xEdFac79f110b0d792941508867f84552E6f3AA75",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xEdFac79f110b0d792941508867f84552E6f3AA75.png"
-    },
-    {
-      "chainId": 19,
       "name": "EDPFTSO",
       "description": "Enterprise Data Provider FTSO",
       "url": "https://edp-ftso.com",
       "address": "0x1C602a30335187A97D8061Ffffd4522796DE82bF",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1C602a30335187A97D8061Ffffd4522796DE82bF.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1C602a30335187A97D8061Ffffd4522796DE82bF.png",
+      "listed": true
     },
     {
       "chainId": 14,
@@ -1249,7 +1233,8 @@
       "description": "Enterprise Data Provider FTSO",
       "url": "https://edp-ftso.com",
       "address": "0xad918962795547a8c997F96f7BAbB822612a5FfE",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xad918962795547a8c997F96f7BAbB822612a5FfE.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xad918962795547a8c997F96f7BAbB822612a5FfE.png",
+      "listed": true
     },
     {
       "chainId": 19,
@@ -1257,7 +1242,8 @@
       "description": "Low fee and optimised rewards, Ivy Oracle strive for providing the best open analytics tools for the community.",
       "url": "https://ivyoracle.xyz",
       "address": "0xA174D46EF49D7d4a0328f9910222689E9eAb2f45",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA174D46EF49D7d4a0328f9910222689E9eAb2f45.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA174D46EF49D7d4a0328f9910222689E9eAb2f45.png",
+      "listed": true
     },
     {
       "chainId": 14,
@@ -1265,7 +1251,8 @@
       "description": "Low fee and optimised rewards, Ivy Oracle strive for providing the best open analytics tools for the community.",
       "url": "https://ivyoracle.xyz",
       "address": "0x64D998BC81424131E5aF05071263fDeBD1a82986",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x64D998BC81424131E5aF05071263fDeBD1a82986.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x64D998BC81424131E5aF05071263fDeBD1a82986.png",
+      "listed": true
     },
     {
       "chainId": 19,
@@ -1429,8 +1416,7 @@
       "description": "Helping provide dentralised prices to Songbird and Flare.",
       "url": "https://ftso.xawc.live",
       "address": "0x190C6f470A866Db58A6c17631e24b07BE257eAf5",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x190C6f470A866Db58A6c17631e24b07BE257eAf5.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x190C6f470A866Db58A6c17631e24b07BE257eAf5.png"
     },
     {
       "chainId": 14,
@@ -1438,8 +1424,7 @@
       "description": "Helping provide dentralised prices to Songbird and Flare.",
       "url": "https://ftso.xawc.live",
       "address": "0x07aDBa9ecB8de51AeC39d8FF90cD8e49DBcFfd02",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x07aDBa9ecB8de51AeC39d8FF90cD8e49DBcFfd02.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x07aDBa9ecB8de51AeC39d8FF90cD8e49DBcFfd02.png"
     },
     {
       "chainId": 19,
@@ -1447,8 +1432,7 @@
       "description": "California data provider on the Songbird Network. Aggregating hundreds of external data points in order to provide the most accurate prices to the FTSO system.",
       "url": "https://odinftso.com",
       "address": "0x8FdBcb218561776759702b175084dBa856282a88",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x8FdBcb218561776759702b175084dBa856282a88.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x8FdBcb218561776759702b175084dBa856282a88.png"
     },
     {
       "chainId": 14,
@@ -1456,8 +1440,7 @@
       "description": "California data provider on the Flare Network. Aggregating hundreds of external data points in order to provide the most accurate prices to the FTSO system.",
       "url": "https://odinftso.com",
       "address": "0x0701ab70BB0deb504e2daD44ffe2f8E0f7399a1D",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0701ab70BB0deb504e2daD44ffe2f8E0f7399a1D.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0701ab70BB0deb504e2daD44ffe2f8E0f7399a1D.png"
     },
     {
       "chainId": 114,
@@ -1560,8 +1543,7 @@
       "description": "TempestFTSO created by industry professionals to deliver the most reliable and accurate price feeds to the FTSO system.",
       "url": "https://tempestftso.com",
       "address": "0x4eb408FA585a5C66E523a4aE5f5706374Ec9E8c7",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4eb408FA585a5C66E523a4aE5f5706374Ec9E8c7.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4eb408FA585a5C66E523a4aE5f5706374Ec9E8c7.png"
     },
     {
       "chainId": 14,
@@ -1569,8 +1551,7 @@
       "description": "TempestFTSO created by industry professionals to deliver the most reliable and accurate price feeds to the FTSO system.",
       "url": "https://tempestftso.com",
       "address": "0x96616c93747baBE136bB56310bE2AE665b18dA63",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x96616c93747baBE136bB56310bE2AE665b18dA63.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x96616c93747baBE136bB56310bE2AE665b18dA63.png"
     },
     {
       "chainId": 19,
@@ -1635,6 +1616,73 @@
       "url": "https://superbadseries.xyz",
       "address": "0xefc66E65c64B000778F487A0262664b802bA773c",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xefc66E65c64B000778F487A0262664b802bA773c.png"
+    },
+    {
+      "chainId": 19,
+      "name": "HT Markets FTSO",
+      "description": "HT Markets FTSO is powered by Hex Trust, that is the leading and most reliable Asian custodian.",
+      "url": "https://hextrust.com",
+      "address": "0x14d699c1d61d54a0390671B07B2b6f8C0Bf36275",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x14d699c1d61d54a0390671B07B2b6f8C0Bf36275.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "HT Markets FTSO",
+      "description": "HT Markets FTSO is powered by Hex Trust, that is the leading and most reliable Asian custodian.",
+      "url": "https://hextrust.com",
+      "address": "0xC77c8e1202c1A8264b37264EB6c08cb86a718d1a",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC77c8e1202c1A8264b37264EB6c08cb86a718d1a.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Burst FTSO",
+      "description": "We strive to provide the best signals possible. Decentralization is extremely important to us, with this FTSO we will be helping the Flare blockchain achieve this.",
+      "url": "https://burstftso.xyz",
+      "address": "0x670a7Fd22cAa9C2Fb5B798078d084B29AB4bC63C",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x670a7Fd22cAa9C2Fb5B798078d084B29AB4bC63C.png",
+      "listed": true
+    },
+    {
+      "chainId": 114,
+      "name": "Burst FTSO",
+      "description": "We strive to provide the best signals possible. Decentralization is extremely important to us, with this FTSO we will be helping the Flare blockchain achieve this.",
+      "url": "https://burstftso.xyz",
+      "address": "0x670a7Fd22cAa9C2Fb5B798078d084B29AB4bC63C",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x670a7Fd22cAa9C2Fb5B798078d084B29AB4bC63C.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Poseidon FTSO",
+      "description": "Poseidon FTSO is an FTSO on Songbird and Flare mainnet. We provide ourself in operating a functional FTSO which plays by the rules. We aim to build a robust FTSO which will help enhance the Flare ecosystem.",
+      "url": "https://poseidon-ftso.com",
+      "address": "0x02a256FF137D680aC591f1959D64a8669006c95c",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x02a256FF137D680aC591f1959D64a8669006c95c.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Poseidon FTSO",
+      "description": "Poseidon FTSO is an FTSO on Songbird and Flare mainnet. We provide ourself in operating a functional FTSO which plays by the rules. We aim to build a robust FTSO which will help enhance the Flare ecosystem.",
+      "url": "https://poseidon-ftso.com",
+      "address": "0x8d5Ddf992D582AFA3b2062d56a7ffB8028AB59a2",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x8d5Ddf992D582AFA3b2062d56a7ffB8028AB59a2.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Pinnacle FTSO",
+      "description": "Pinnacle FTSO provides more accurate price feeds to the Flare. Dedicated to offering clients a high reward rate",
+      "url": "https://ftsopinnacle.art",
+      "address": "0x2004b4F504eEeBEf915546A6f279DDE886b61c2b",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2004b4F504eEeBEf915546A6f279DDE886b61c2b.png"
+    },
+    {
+      "chainId": 19,
+      "name": "xSPECTAR",
+      "description": "xSPECTAR infra FTSO",
+      "url": "https://xspectar.com",
+      "address": "0xd630063e8b60E069866d725A4205479BD5ABFE70",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xd630063e8b60E069866d725A4205479BD5ABFE70.png"
     },
     {
       "chainId": 19,
