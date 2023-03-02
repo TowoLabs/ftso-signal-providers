@@ -1330,7 +1330,8 @@
       "description": "Starlink Oracle aggregates data from reliable sources. This ensures that our data algorithm computes accurate prices to consistently submit on delegators behalf. Building the future of global decentralized oracle services.",
       "url": "https://starlinkoracle.com",
       "address": "0xA9a143FEe74E12E97DC794fD1340f851813BDA92",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA9a143FEe74E12E97DC794fD1340f851813BDA92.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA9a143FEe74E12E97DC794fD1340f851813BDA92.png",
+      "listed": true
     },
     {
       "chainId": 14,
@@ -1338,7 +1339,8 @@
       "description": "Starlink Oracle aggregates data from reliable sources. This ensures that our data algorithm computes accurate prices to consistently submit on delegators behalf. Building the future of global decentralized oracle services.",
       "url": "https://starlinkoracle.com",
       "address": "0xEb190a42eff3bCCAf65A432F2B7D2b1CaBE30c25",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xEb190a42eff3bCCAf65A432F2B7D2b1CaBE30c25.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xEb190a42eff3bCCAf65A432F2B7D2b1CaBE30c25.png",
+      "listed": true
     },
     {
       "chainId": 19,
