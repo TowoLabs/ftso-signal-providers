@@ -1691,6 +1691,14 @@
       "url": "https://flareocean.io",
       "address": "0xf4213E49488b9320769D35924AC52ea31a4C9fc1",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf4213E49488b9320769D35924AC52ea31a4C9fc1.png"
+    },
+    {
+      "chainId": 19,
+      "name": "SafeTSO",
+      "description": "SafeTSO is an FTSO provider powered by the Stork Network",
+      "url": "https://stork.network",
+      "address": "0x946206b96e6E6b2BAffFdDe84E5b42e055953Dfa",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x946206b96e6E6b2BAffFdDe84E5b42e055953Dfa.png"
     }
   ]
 }
