@@ -1691,6 +1691,22 @@
       "url": "https://flareocean.io",
       "address": "0xf4213E49488b9320769D35924AC52ea31a4C9fc1",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf4213E49488b9320769D35924AC52ea31a4C9fc1.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Last Oracle",
+      "description": "We provide reliable and secure infrastructure for the economy of tomorrow, from validators to oracles to staking services. Our infrastructure is underpinned by sophisticated models that maximize returns on capital for our clients.",
+      "url": "https://lastoracle.xyz",
+      "address": "0x535268cB19f2cC0c65D463be6Ab7751Ff4E9fC07",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x535268cB19f2cC0c65D463be6Ab7751Ff4E9fC07.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Last Oracle",
+      "description": "We provide reliable and secure infrastructure for the economy of tomorrow, from validators to oracles to staking services. Our infrastructure is underpinned by sophisticated models that maximize returns on capital for our clients.",
+      "url": "https://lastoracle.xyz",
+      "address": "0x992f0FAf472FDDa84a488E3081FEaB3b0313A286",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x992f0FAf472FDDa84a488E3081FEaB3b0313A286.png"
     }
   ]
 }
