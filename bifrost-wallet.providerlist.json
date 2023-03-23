@@ -1691,6 +1691,22 @@
       "url": "https://flareocean.io",
       "address": "0xf4213E49488b9320769D35924AC52ea31a4C9fc1",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf4213E49488b9320769D35924AC52ea31a4C9fc1.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Bored Ape XRP Club",
+      "description": "The JungleFTSO is a Signal Provider for the Flare and Songbird Network ran by the apes from the Bored Apes XRP Club",
+      "url": "https://x-apes.com/",
+      "address": "0xCF0Bdc621F11dc75CaFc5C6624149270da353FB3",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xCF0Bdc621F11dc75CaFc5C6624149270da353FB3.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Bored Ape XRP Club",
+      "description": "The JungleFTSO is a Signal Provider for the Flare and Songbird Network ran by the apes from the Bored Apes XRP Club",
+      "url": "https://x-apes.com/",
+      "address": "0xCF0Bdc621F11dc75CaFc5C6624149270da353FB3",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xCF0Bdc621F11dc75CaFc5C6624149270da353FB3.png"
     }
   ]
 }
