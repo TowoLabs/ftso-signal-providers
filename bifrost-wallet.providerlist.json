@@ -8,6 +8,14 @@
   },
   "providers": [
     {
+      "chainId": 14,
+      "name": "Atomic Nodes",
+      "description": "Atomic Nodes - is a fully decentralised solution trusted by over 200k delegators. It’s unique features provide the highest yields amongst the peers, combined with leading architecture, reliance and security.",
+      "url": "https://atomicwallet.io",
+      "address": "0xbaF20e3912Af66AbC13fb2C14EA77694fC18Fd7a",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbaF20e3912Af66AbC13fb2C14EA77694fC18Fd7a.png"
+    },
+    {
       "chainId": 19,
       "name": "Bifrost Oracle",
       "description": "Bifrost Oracle is a reliable Songbird oracle service run by Towo Labs, a Songbird Network development partner and the company behind Bifrost Wallet.",
@@ -1691,14 +1699,6 @@
       "url": "https://flareocean.io",
       "address": "0xf4213E49488b9320769D35924AC52ea31a4C9fc1",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf4213E49488b9320769D35924AC52ea31a4C9fc1.png"
-    },
-    {
-      "chainId": 14,
-      "name": "Atomic Nodes",
-      "description": "Atomic Nodes - is a fully decentralised solution trusted by over 200k delegators. It’s unique features provide the highest yields amongst the peers, combined with leading architecture, reliance and security.",
-      "url": "https://atomicwallet.io",
-      "address": "0xbaF20e3912Af66AbC13fb2C14EA77694fC18Fd7a",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbaF20e3912Af66AbC13fb2C14EA77694fC18Fd7a.png"
     }
   ]
 }
