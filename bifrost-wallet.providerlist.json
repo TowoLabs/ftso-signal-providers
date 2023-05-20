@@ -1691,6 +1691,22 @@
       "url": "https://flareocean.io",
       "address": "0xf4213E49488b9320769D35924AC52ea31a4C9fc1",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf4213E49488b9320769D35924AC52ea31a4C9fc1.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Fly2Sonic",
+      "description": "Fly2Sonic is a reliable and efficient data provider that offers accurate and timely information for decentralized finance platforms.",
+      "url": "https://fly2sonic-ftso.nicepage.io/",
+      "address": "0xF05924D0Ae540546Ed47337c1791E82b1CB12640",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF05924D0Ae540546Ed47337c1791E82b1CB12640.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Fly2Sonic",
+      "description": "Fly2Sonic is a reliable and efficient data provider that offers accurate and timely information for decentralized finance platforms.",
+      "url": "https://fly2sonic-ftso.nicepage.io/",
+      "address": "0xE6caa2BCa8b0E9004724E0600b38db52C17BCaC3",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE6caa2BCa8b0E9004724E0600b38db52C17BCaC3.png"
     }
   ]
 }
