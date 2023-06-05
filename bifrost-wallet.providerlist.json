@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet",
-  "timestamp": "2023-02-28T00:00:00+00:00",
+  "timestamp": "2023-06-05T00:00:00+00:00",
   "version": {
     "major": 3,
-    "minor": 25,
+    "minor": 26,
     "patch": 0
   },
   "providers": [
@@ -1703,6 +1703,22 @@
       "url": "https://flareocean.io",
       "address": "0x50bd2D0B457E27a481f97C4685d16EeB8B978155",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x50bd2D0B457E27a481f97C4685d16EeB8B978155.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Punk FTSO",
+      "description": "The Canary Punks FTSO! 20% of our earnings are shared between our NFT holders, helping decentralization and giving back to the community all in one!",
+      "url": "https://canarypunks.xyz",
+      "address": "0x6eb6e5D8f5Ce11f4E2211F364453b000Bb379744",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x86BcAdA6c2148E6Bf4c69A228c56E4d2B4e9dBe2.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Punk FTSO",
+      "description": "The Canary Punks FTSO! 20% of our earnings are shared between our NFT holders, helping decentralization and giving back to the community all in one!",
+      "url": "https://canarypunks.xyz",
+      "address": "0x6eb6e5D8f5Ce11f4E2211F364453b000Bb379744",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb08cbc26735e9A32F36292De71E70Cce97441Ba9.png"
     }
   ]
 }
