@@ -1547,7 +1547,8 @@
       "description": "TempestFTSO created by industry professionals to deliver the most reliable and accurate price feeds to the FTSO system.",
       "url": "https://tempestftso.com",
       "address": "0x4eb408FA585a5C66E523a4aE5f5706374Ec9E8c7",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4eb408FA585a5C66E523a4aE5f5706374Ec9E8c7.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4eb408FA585a5C66E523a4aE5f5706374Ec9E8c7.png",
+      "listed": true
     },
     {
       "chainId": 14,
@@ -1555,7 +1556,8 @@
       "description": "TempestFTSO created by industry professionals to deliver the most reliable and accurate price feeds to the FTSO system.",
       "url": "https://tempestftso.com",
       "address": "0x96616c93747baBE136bB56310bE2AE665b18dA63",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x96616c93747baBE136bB56310bE2AE665b18dA63.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x96616c93747baBE136bB56310bE2AE665b18dA63.png",
+      "listed": true
     },
     {
       "chainId": 19,
