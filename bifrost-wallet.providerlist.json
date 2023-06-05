@@ -542,7 +542,8 @@
       "description": "Providing accurate on-time data to the network.",
       "url": "https://1ftso.com",
       "address": "0xeceFe81ff88E5609704697De20Cc36990b76d633",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xeceFe81ff88E5609704697De20Cc36990b76d633.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xeceFe81ff88E5609704697De20Cc36990b76d633.png",
+      "listed": true
     },
     {
       "chainId": 14,
@@ -550,7 +551,8 @@
       "description": "Providing accurate on-time data to the network.",
       "url": "https://1ftso.com",
       "address": "0xeceFe81ff88E5609704697De20Cc36990b76d633",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xeceFe81ff88E5609704697De20Cc36990b76d633.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xeceFe81ff88E5609704697De20Cc36990b76d633.png",
+      "listed": true
     },
     {
       "chainId": 14,
