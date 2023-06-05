@@ -1691,6 +1691,14 @@
       "url": "https://flareocean.io",
       "address": "0xf4213E49488b9320769D35924AC52ea31a4C9fc1",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf4213E49488b9320769D35924AC52ea31a4C9fc1.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Flare Ocean",
+      "description": "FlareOcean provides accurate and reliable price feeds to the Songbird & Flare Networks and a transparent, incentivized, risk-free delegation service.",
+      "url": "https://flareocean.io",
+      "address": "0x50bd2D0B457E27a481f97C4685d16EeB8B978155",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x50bd2D0B457E27a481f97C4685d16EeB8B978155.png"
     }
   ]
 }
