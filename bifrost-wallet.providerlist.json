@@ -1,6 +1,6 @@
 {
   "name": "Bifrost Wallet",
-  "timestamp": "2023-03-01T00:00:00+00:00",
+  "timestamp": "2023-06-05T00:00:00+00:00",
   "version": {
     "major": 3,
     "minor": 26,
@@ -542,7 +542,8 @@
       "description": "Providing accurate on-time data to the network.",
       "url": "https://1ftso.com",
       "address": "0xeceFe81ff88E5609704697De20Cc36990b76d633",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xeceFe81ff88E5609704697De20Cc36990b76d633.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xeceFe81ff88E5609704697De20Cc36990b76d633.png",
+      "listed": true
     },
     {
       "chainId": 14,
@@ -550,7 +551,8 @@
       "description": "Providing accurate on-time data to the network.",
       "url": "https://1ftso.com",
       "address": "0xeceFe81ff88E5609704697De20Cc36990b76d633",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xeceFe81ff88E5609704697De20Cc36990b76d633.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xeceFe81ff88E5609704697De20Cc36990b76d633.png",
+      "listed": true
     },
     {
       "chainId": 14,
@@ -1330,7 +1332,8 @@
       "description": "Starlink Oracle aggregates data from reliable sources. This ensures that our data algorithm computes accurate prices to consistently submit on delegators behalf. Building the future of global decentralized oracle services.",
       "url": "https://starlinkoracle.com",
       "address": "0xA9a143FEe74E12E97DC794fD1340f851813BDA92",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA9a143FEe74E12E97DC794fD1340f851813BDA92.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA9a143FEe74E12E97DC794fD1340f851813BDA92.png",
+      "listed": true
     },
     {
       "chainId": 14,
@@ -1338,7 +1341,8 @@
       "description": "Starlink Oracle aggregates data from reliable sources. This ensures that our data algorithm computes accurate prices to consistently submit on delegators behalf. Building the future of global decentralized oracle services.",
       "url": "https://starlinkoracle.com",
       "address": "0xEb190a42eff3bCCAf65A432F2B7D2b1CaBE30c25",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xEb190a42eff3bCCAf65A432F2B7D2b1CaBE30c25.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xEb190a42eff3bCCAf65A432F2B7D2b1CaBE30c25.png",
+      "listed": true
     },
     {
       "chainId": 19,
@@ -1669,6 +1673,40 @@
       "url": "https://poseidon-ftso.com",
       "address": "0x8d5Ddf992D582AFA3b2062d56a7ffB8028AB59a2",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x8d5Ddf992D582AFA3b2062d56a7ffB8028AB59a2.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Pinnacle FTSO",
+      "description": "Pinnacle FTSO provides more accurate price feeds to the Flare. Dedicated to offering clients a high reward rate",
+      "url": "https://ftsopinnacle.art",
+      "address": "0x2004b4F504eEeBEf915546A6f279DDE886b61c2b",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2004b4F504eEeBEf915546A6f279DDE886b61c2b.png"
+    },
+    {
+      "chainId": 19,
+      "name": "xSPECTAR",
+      "description": "xSPECTAR infra FTSO",
+      "url": "https://xspectar.com",
+      "address": "0xd630063e8b60E069866d725A4205479BD5ABFE70",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xd630063e8b60E069866d725A4205479BD5ABFE70.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Flare Ocean",
+      "description": "FlareOcean provides accurate and reliable price feeds to the Songbird & Flare Networks and a transparent, incentivized, risk-free delegation service.",
+      "url": "https://flareocean.io",
+      "address": "0xf4213E49488b9320769D35924AC52ea31a4C9fc1",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf4213E49488b9320769D35924AC52ea31a4C9fc1.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Flare Ocean",
+      "description": "FlareOcean provides accurate and reliable price feeds to the Songbird & Flare Networks and a transparent, incentivized, risk-free delegation service.",
+      "url": "https://flareocean.io",
+      "address": "0x50bd2D0B457E27a481f97C4685d16EeB8B978155",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x50bd2D0B457E27a481f97C4685d16EeB8B978155.png",
+      "listed": true
     }
   ]
 }
