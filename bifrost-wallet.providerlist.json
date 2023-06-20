@@ -1479,7 +1479,8 @@
       "description": "Still improving. No cheating. Reliable data. No dumping. Low fee.",
       "url": "https://trueftso.com",
       "address": "0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA.png",
+      "listed": true
     },
     {
       "chainId": 14,
@@ -1487,7 +1488,8 @@
       "description": "Still improving. No cheating. Reliable data. No dumping. Low fee.",
       "url": "https://trueftso.com",
       "address": "0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA.png",
+      "listed": true
     },
     {
       "chainId": 19,
