@@ -1707,6 +1707,15 @@
       "address": "0x50bd2D0B457E27a481f97C4685d16EeB8B978155",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x50bd2D0B457E27a481f97C4685d16EeB8B978155.png",
       "listed": true
+    },
+    {
+      "chainId": 19,
+      "name": "The Fat Cats",
+      "description": "TheFatCats brand provides high quality accurate prices for all available ftso's",
+      "url": "https://www.the-fat-cats.club",
+      "address": "0x0935B4c1A67c4AD0497389eCC977Ed05bE1feDbB",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0935B4c1A67c4AD0497389eCC977Ed05bE1feDbB.png",
+      "listed": true
     }
   ]
 }
