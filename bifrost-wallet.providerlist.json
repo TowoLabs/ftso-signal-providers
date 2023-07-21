@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet",
-  "timestamp": "2023-06-05T00:00:00+00:00",
+  "timestamp": "2023-07-21T00:00:00+00:00",
   "version": {
     "major": 3,
-    "minor": 26,
+    "minor": 27,
     "patch": 0
   },
   "providers": [
@@ -1709,6 +1709,38 @@
       "address": "0x50bd2D0B457E27a481f97C4685d16EeB8B978155",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x50bd2D0B457E27a481f97C4685d16EeB8B978155.png",
       "listed": true
+    },
+    {
+      "chainId": 19,
+      "name": "Fly2Sonic",
+      "description": "Fly2Sonic is a reliable and efficient data provider that offers accurate and timely information for decentralized finance platforms.",
+      "url": "https://fly2sonic-ftso.vercel.app",
+      "address": "0xE6caa2BCa8b0E9004724E0600b38db52C17BCaC3",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE6caa2BCa8b0E9004724E0600b38db52C17BCaC3.png"
+    },
+    {
+      "chainId": 19,
+      "name": "The Fat Cats",
+      "description": "TheFatCats brand provides high quality accurate prices for all available FTSOs",
+      "url": "https://www.the-fat-cats.club",
+      "address": "0x0935B4c1A67c4AD0497389eCC977Ed05bE1feDbB",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0935B4c1A67c4AD0497389eCC977Ed05bE1feDbB.png"
+    },
+    {
+      "chainId": 19,
+      "name": "FLR Labs FTSO",
+      "description": "Our algorithm is built on innovative technology that optimizes the submission of the most accurate time series data for the FTSO. We aim to support decentralized data collection and to create many new applications using the Flare technology stack.",
+      "url": "https://flrlabs.com",
+      "address": "0x43F0a819DCCddEb05A282c78027873aB5Be35cf5",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x43F0a819DCCddEb05A282c78027873aB5Be35cf5.png"
+    },
+    {
+      "chainId": 14,
+      "name": "FLR Labs FTSO",
+      "description": "Our algorithm is built on innovative technology that optimizes the submission of the most accurate time series data for the FTSO. We aim to support decentralized data collection and to create many new applications using the Flare technology stack.",
+      "url": "https://flrlabs.com",
+      "address": "0x14b424Bc9E9B8091A40384ff3d8F0C3DfC1a2879",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x14b424Bc9E9B8091A40384ff3d8F0C3DfC1a2879.png"
     }
   ]
 }
