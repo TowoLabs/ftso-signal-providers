@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet",
-  "timestamp": "2023-06-05T00:00:00+00:00",
+  "timestamp": "2023-07-21T00:00:00+00:00",
   "version": {
     "major": 3,
-    "minor": 26,
+    "minor": 27,
     "patch": 0
   },
   "providers": [
@@ -1722,7 +1722,7 @@
       "description": "TheFatCats brand provides high quality accurate prices for all available FTSOs",
       "url": "https://www.the-fat-cats.club",
       "address": "0x0935B4c1A67c4AD0497389eCC977Ed05bE1feDbB",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0935B4c1A67c4AD0497389eCC977Ed05bE1feDbB.png",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0935B4c1A67c4AD0497389eCC977Ed05bE1feDbB.png"
     },
     {
       "chainId": 19,
