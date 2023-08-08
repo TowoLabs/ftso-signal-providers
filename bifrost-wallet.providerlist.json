@@ -1741,6 +1741,14 @@
       "url": "https://flrlabs.com",
       "address": "0x14b424Bc9E9B8091A40384ff3d8F0C3DfC1a2879",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x14b424Bc9E9B8091A40384ff3d8F0C3DfC1a2879.png"
+    },
+    {
+      "chainId": 19,
+      "name": "AilandFlare",
+      "description": "AilandFlare is a signal provider that provides a reliable and accurate price feeds to Flare ecosystem",
+      "url": "https://ailandflare.com",
+      "address": "0x3a6B118e7B338140BAB0B1F548cd78A0D7bccAdC",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3a6B118e7B338140BAB0B1F548cd78A0D7bccAdC.png"
     }
   ]
 }
