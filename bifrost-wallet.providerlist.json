@@ -1746,7 +1746,7 @@
       "chainId": 14,
       "name": "FocusTSO",
       "description": "FocusTSO. Data provider built by Focus Global team of developers and Polish Flare community members who run an educational portal in Polish , English and Japanese. The team also provide tools like Airdrop Simulator and recently released Delegation Portal.",
-      "url": "https://ftso.focusflr.app/",
+      "url": "https://ftso.focusflr.app",
       "address": "0xb084575cacedf7dedd78329656715651f8f66712",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb084575cacedf7dedd78329656715651f8f66712.png"
     }
