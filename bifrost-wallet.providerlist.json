@@ -1714,7 +1714,7 @@
       "chainId": 19,
       "name": "Fly2Sonic",
       "description": "Fly2Sonic is a reliable and efficient data provider that offers accurate and timely information for decentralized finance platforms.",
-      "url": "https://fly2sonic-ftso.vercel.app",
+      "url": "https://fly2sonic.com",
       "address": "0xE6caa2BCa8b0E9004724E0600b38db52C17BCaC3",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE6caa2BCa8b0E9004724E0600b38db52C17BCaC3.png"
     },
