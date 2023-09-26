@@ -1757,6 +1757,14 @@
       "url": "https://ailandflare.com",
       "address": "0x3a6B118e7B338140BAB0B1F548cd78A0D7bccAdC",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3a6B118e7B338140BAB0B1F548cd78A0D7bccAdC.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Restake",
+      "description": "Effortless staking with institutional standards",
+      "url": "https://restake.net",
+      "address": "0xbF55a6eb78487F49197806025CA82DdaF633204e",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbF55a6eb78487F49197806025CA82DdaF633204e.png"
     }
   ]
 }
