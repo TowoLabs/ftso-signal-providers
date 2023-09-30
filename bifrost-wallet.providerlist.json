@@ -1757,6 +1757,15 @@
       "url": "https://ailandflare.com",
       "address": "0x3a6B118e7B338140BAB0B1F548cd78A0D7bccAdC",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3a6B118e7B338140BAB0B1F548cd78A0D7bccAdC.png"
+    },
+    {
+      "chainId": 14,
+      "name": "DataVector",
+      "description": "DataVector is an Infrastructure Provider on Flare Network providing validation services and reliable data provisioning to the Flare oracle system.",
+      "url": "https://x.com/datavector_ftso",
+      "address": "0xCaA49C97318b6Bb62b7F9241891D70F87FC05D35",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xCaA49C97318b6Bb62b7F9241891D70F87FC05D35.png",
+      "listed": true
     }
   ]
 }
