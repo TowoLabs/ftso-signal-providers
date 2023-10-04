@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet",
-  "timestamp": "2023-07-21T00:00:00+00:00",
+  "timestamp": "2023-10-04T00:00:00+00:00",
   "version": {
     "major": 3,
-    "minor": 27,
+    "minor": 28,
     "patch": 0
   },
   "providers": [
@@ -31,8 +31,7 @@
       "description": "We are proud to be part of Flare Networks. We have a responsibility and take our role as a signal provider very serious. We do not only provide data estimates. We provide good estimates, for maximum returns.",
       "url": "https://ftso.scandinodes.com",
       "address": "0x4ed9e5b82CE66311Ac2230D2FCCc5202D7B8c083",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4ed9e5b82CE66311Ac2230D2FCCc5202D7B8c083.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4ed9e5b82CE66311Ac2230D2FCCc5202D7B8c083.png"
     },
     {
       "chainId": 14,
@@ -40,8 +39,7 @@
       "description": "We are proud to be part of Flare Networks. We have a responsibility and take our role as a signal provider very serious. We do not only provide data estimates. We provide good estimates, for maximum returns.",
       "url": "https://ftso.scandinodes.com",
       "address": "0xB6d771E1892EB2c04b136C13Abe23390022e8206",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB6d771E1892EB2c04b136C13Abe23390022e8206.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB6d771E1892EB2c04b136C13Abe23390022e8206.png"
     },
     {
       "chainId": 19,
