@@ -1763,6 +1763,14 @@
       "url": "https://restake.net",
       "address": "0xbF55a6eb78487F49197806025CA82DdaF633204e",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbF55a6eb78487F49197806025CA82DdaF633204e.png"
+    },
+    {
+      "chainId": 14,
+      "name": "InfStones",
+      "description": "Infinite ease, speed, power. The ultimate WEB3 infrastructure platform",
+      "url": "https://infstones.com",
+      "address": "0xB1Aa0F2691Db6bBb2969EfC7BE70787F58DD2461",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB1Aa0F2691Db6bBb2969EfC7BE70787F58DD2461.png"
     }
   ]
 }
