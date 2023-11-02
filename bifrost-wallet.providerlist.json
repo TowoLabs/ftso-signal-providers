@@ -1763,6 +1763,14 @@
       "url": "https://restake.net",
       "address": "0xbF55a6eb78487F49197806025CA82DdaF633204e",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbF55a6eb78487F49197806025CA82DdaF633204e.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Kiln",
+      "description": "Enterprise-grade staking made easy",
+      "url": "https://kiln.fi",
+      "address": "0x6df84895f1f1f6F6767C59324F94089d4097051A",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6df84895f1f1f6F6767C59324F94089d4097051A.png"
     }
   ]
 }
