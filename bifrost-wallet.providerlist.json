@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet",
-  "timestamp": "2023-10-04T00:00:00+00:00",
+  "timestamp": "2023-11-14T00:00:00+00:00",
   "version": {
     "major": 3,
-    "minor": 28,
+    "minor": 29,
     "patch": 0
   },
   "providers": [
@@ -1762,7 +1762,17 @@
       "description": "Effortless staking with institutional standards",
       "url": "https://restake.net",
       "address": "0xbF55a6eb78487F49197806025CA82DdaF633204e",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbF55a6eb78487F49197806025CA82DdaF633204e.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbF55a6eb78487F49197806025CA82DdaF633204e.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "DataVector",
+      "description": "DataVector is an Infrastructure Provider on Flare Network providing validation services and reliable data provisioning to the Flare oracle system.",
+      "url": "https://datavector.org",
+      "address": "0xCaA49C97318b6Bb62b7F9241891D70F87FC05D35",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xCaA49C97318b6Bb62b7F9241891D70F87FC05D35.png",
+      "listed": true
     }
   ]
 }
