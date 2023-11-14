@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet",
-  "timestamp": "2023-07-21T00:00:00+00:00",
+  "timestamp": "2023-10-04T00:00:00+00:00",
   "version": {
     "major": 3,
-    "minor": 27,
+    "minor": 28,
     "patch": 0
   },
   "providers": [
@@ -31,8 +31,7 @@
       "description": "We are proud to be part of Flare Networks. We have a responsibility and take our role as a signal provider very serious. We do not only provide data estimates. We provide good estimates, for maximum returns.",
       "url": "https://ftso.scandinodes.com",
       "address": "0x4ed9e5b82CE66311Ac2230D2FCCc5202D7B8c083",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4ed9e5b82CE66311Ac2230D2FCCc5202D7B8c083.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4ed9e5b82CE66311Ac2230D2FCCc5202D7B8c083.png"
     },
     {
       "chainId": 14,
@@ -40,8 +39,7 @@
       "description": "We are proud to be part of Flare Networks. We have a responsibility and take our role as a signal provider very serious. We do not only provide data estimates. We provide good estimates, for maximum returns.",
       "url": "https://ftso.scandinodes.com",
       "address": "0xB6d771E1892EB2c04b136C13Abe23390022e8206",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB6d771E1892EB2c04b136C13Abe23390022e8206.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB6d771E1892EB2c04b136C13Abe23390022e8206.png"
     },
     {
       "chainId": 19,
@@ -654,8 +652,8 @@
       "name": "InGen.FTSO",
       "description": "We are an Asian dynamic data provider for the FTSO bringing growth to the decentralized Flare.",
       "url": "https://www.ftso.ingen.com.ph",
-      "address": "0x664e070592063bFE5072F0aC25C6C11e5ccF9928",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x664e070592063bFE5072F0aC25C6C11e5ccF9928.png",
+      "address": "0xdd7B2Bac728f027f23aDD7128711ecB60f761aD5",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xdd7B2Bac728f027f23aDD7128711ecB60f761aD5.png",
       "listed": true
     },
     {
@@ -1757,6 +1755,15 @@
       "url": "https://ailandflare.com",
       "address": "0x3a6B118e7B338140BAB0B1F548cd78A0D7bccAdC",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3a6B118e7B338140BAB0B1F548cd78A0D7bccAdC.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Restake",
+      "description": "Effortless staking with institutional standards",
+      "url": "https://restake.net",
+      "address": "0xbF55a6eb78487F49197806025CA82DdaF633204e",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbF55a6eb78487F49197806025CA82DdaF633204e.png",
+      "listed": true
     },
     {
       "chainId": 14,
