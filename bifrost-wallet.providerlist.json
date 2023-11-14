@@ -1767,6 +1767,15 @@
     },
     {
       "chainId": 14,
+      "name": "Kiln",
+      "description": "Enterprise-grade staking made easy",
+      "url": "https://kiln.fi",
+      "address": "0x6df84895f1f1f6F6767C59324F94089d4097051A",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6df84895f1f1f6F6767C59324F94089d4097051A.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
       "name": "DataVector",
       "description": "DataVector is an Infrastructure Provider on Flare Network providing validation services and reliable data provisioning to the Flare oracle system.",
       "url": "https://datavector.org",
