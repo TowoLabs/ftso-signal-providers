@@ -1789,8 +1789,7 @@
       "description": "Swiss-Operated Institutional Grade Staking Provider",
       "url": "https://luganodes.com",
       "address": "0xB53F6CFaB63CAbFc255c702ebeB273510DB541d7",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB53F6CFaB63CAbFc255c702ebeB273510DB541d7.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB53F6CFaB63CAbFc255c702ebeB273510DB541d7.png"
     }
   ]
 }
