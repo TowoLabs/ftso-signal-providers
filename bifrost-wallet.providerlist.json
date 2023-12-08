@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet",
-  "timestamp": "2023-10-04T00:00:00+00:00",
+  "timestamp": "2023-12-08T00:00:00+00:00",
   "version": {
     "major": 3,
-    "minor": 28,
+    "minor": 30,
     "patch": 0
   },
   "providers": [
@@ -977,8 +977,8 @@
     },
     {
       "chainId": 19,
-      "name": "BushiFinance",
-      "description": "As samurai are born to serve their lord and die, BushiFinance exists to provide accurate and reliable prices for the Songbird ecosystem.",
+      "name": "Bushido FTSO",
+      "description": "As samurai are born to serve their lord and die, Bushido FTSO exists to provide accurate and reliable prices for the Songbird ecosystem.",
       "url": "https://bushi.finance",
       "address": "0x0d3852Ad415477fFC39ce9351bD4dEdbbd585833",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0d3852Ad415477fFC39ce9351bD4dEdbbd585833.png",
@@ -986,8 +986,8 @@
     },
     {
       "chainId": 14,
-      "name": "BushiFinance",
-      "description": "As samurai are born to serve their lord and die, BushiFinance exists to provide accurate and reliable prices for the Flare ecosystem.",
+      "name": "Bushido FTSO",
+      "description": "As samurai are born to serve their lord and die, Bushido FTSO exists to provide accurate and reliable prices for the Flare ecosystem.",
       "url": "https://bushi.finance",
       "address": "0xC7cF3238D2ca63d01Ad4d42B4cCB9dB8b0adE702",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC7cF3238D2ca63d01Ad4d42B4cCB9dB8b0adE702.png",
@@ -1762,7 +1762,34 @@
       "description": "Effortless staking with institutional standards",
       "url": "https://restake.net",
       "address": "0xbF55a6eb78487F49197806025CA82DdaF633204e",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbF55a6eb78487F49197806025CA82DdaF633204e.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbF55a6eb78487F49197806025CA82DdaF633204e.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Kiln",
+      "description": "Enterprise-grade staking made easy",
+      "url": "https://kiln.fi",
+      "address": "0x6df84895f1f1f6F6767C59324F94089d4097051A",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6df84895f1f1f6F6767C59324F94089d4097051A.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "DataVector",
+      "description": "DataVector is an Infrastructure Provider on Flare Network providing validation services and reliable data provisioning to the Flare oracle system.",
+      "url": "https://datavector.org",
+      "address": "0xCaA49C97318b6Bb62b7F9241891D70F87FC05D35",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xCaA49C97318b6Bb62b7F9241891D70F87FC05D35.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Luganodes",
+      "description": "Swiss-Operated Institutional Grade Staking Provider",
+      "url": "https://luganodes.com",
+      "address": "0xB53F6CFaB63CAbFc255c702ebeB273510DB541d7",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB53F6CFaB63CAbFc255c702ebeB273510DB541d7.png"
     },
     {
       "chainId": 14,
