@@ -1782,6 +1782,14 @@
       "address": "0xCaA49C97318b6Bb62b7F9241891D70F87FC05D35",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xCaA49C97318b6Bb62b7F9241891D70F87FC05D35.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Luganodes",
+      "description": "Swiss-Operated Institutional Grade Staking Provider",
+      "url": "https://luganodes.com",
+      "address": "0xB53F6CFaB63CAbFc255c702ebeB273510DB541d7",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB53F6CFaB63CAbFc255c702ebeB273510DB541d7.png"
     }
   ]
 }
