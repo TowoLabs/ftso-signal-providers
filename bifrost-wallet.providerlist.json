@@ -1762,8 +1762,9 @@
       "description": "Effortless staking with institutional standards",
       "url": "https://restake.net",
       "address": "0xbF55a6eb78487F49197806025CA82DdaF633204e",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbF55a6eb78487F49197806025CA82DdaF633204e.png"
-    },    
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbF55a6eb78487F49197806025CA82DdaF633204e.png",
+      "listed": true
+    },
     {
       "chainId": 19,
       "name": "Insight Oracle",
