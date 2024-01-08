@@ -1798,6 +1798,14 @@
       "url": "https://infstones.com",
       "address": "0xB1Aa0F2691Db6bBb2969EfC7BE70787F58DD2461",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB1Aa0F2691Db6bBb2969EfC7BE70787F58DD2461.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Chainbase Staking",
+      "description": "Chainbase staking is not just a validator provider, we are your powerful ecosystem collaborator.",
+      "url": "https://staking.chainbase.com",
+      "address": "0x6434b1ED626585D3e58E995aD3C2cc0D6718755c",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6434b1ED626585D3e58E995aD3C2cc0D6718755c.png"
     }
   ]
 }
