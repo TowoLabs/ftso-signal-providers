@@ -2,8 +2,8 @@
   "name": "Bifrost Wallet",
   "timestamp": "2024-01-15T00:00:00+00:00",
   "version": {
-    "major": 3,
-    "minor": 31,
+    "major": 4,
+    "minor": 0,
     "patch": 0
   },
   "providers": [
@@ -1830,9 +1830,10 @@
       "chainId": 14,
       "name": "Google Cloud",
       "description": "Google Cloud's data provider for Flare Network",
-      "url": "https://cloud.google.com/",
+      "url": "https://cloud.google.com",
       "address": "0x50A1BCa4d5e91B3bcea7891742248F5BA5ACF0e5",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x50A1BCa4d5e91B3bcea7891742248F5BA5ACF0e5.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x50A1BCa4d5e91B3bcea7891742248F5BA5ACF0e5.png",
+      "listed": true
     }
   ]
 }
