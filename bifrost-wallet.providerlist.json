@@ -1,5 +1,5 @@
 {
-  "name": "Bifrost Wallet",
+  "name": "Bifrost Wallet FTSO Provider List",
   "timestamp": "2024-01-15T00:00:00+00:00",
   "version": {
     "major": 4,
@@ -9,18 +9,18 @@
   "providers": [
     {
       "chainId": 19,
-      "name": "Bifrost Oracle",
-      "description": "Bifrost Oracle is a reliable Songbird oracle service run by Towo Labs, a Songbird Network development partner and the company behind Bifrost Wallet.",
-      "url": "https://bifrostoracle.com",
+      "name": "Bifrost Wallet",
+      "description": "Bifrost Wallet runs a competitive, accurate and reliable oracle service since 2021. Developed by Towo Labs a Songbird Network development partner.",
+      "url": "https://bifrostwallet.com",
       "address": "0x69141E890F3a79cd2CFf552c0B71508bE23712dC",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x69141E890F3a79cd2CFf552c0B71508bE23712dC.png",
       "listed": true
     },
     {
       "chainId": 14,
-      "name": "Bifrost Oracle",
-      "description": "Bifrost Oracle is a reliable Flare oracle service run by Towo Labs, a Flare Network development partner and the company behind Bifrost Wallet.",
-      "url": "https://bifrostoracle.com",
+      "name": "Bifrost Wallet",
+      "description": "Bifrost Wallet runs a competitive, accurate and reliable oracle service since 2021. Developed by Towo Labs a Flare Network development partner.",
+      "url": "https://bifrostwallet.com",
       "address": "0x9A46864A3b0a7805B266C445289C3fAD1E48f18e",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9A46864A3b0a7805B266C445289C3fAD1E48f18e.png",
       "listed": true
