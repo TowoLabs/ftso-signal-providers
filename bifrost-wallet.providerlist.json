@@ -1798,6 +1798,14 @@
       "url": "https://infstones.com",
       "address": "0xB1Aa0F2691Db6bBb2969EfC7BE70787F58DD2461",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB1Aa0F2691Db6bBb2969EfC7BE70787F58DD2461.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Ankr",
+      "description": "Build web3 apps with a full suite of developer tools. Power them with fast, global, decentralized connections to dozens of chains",
+      "url": "https://ankr.com",
+      "address": "0xB7fD410Bb86f427b2d2C75eFe6e35e621465913b",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB7fD410Bb86f427b2d2C75eFe6e35e621465913b.png"
     }
   ]
 }
