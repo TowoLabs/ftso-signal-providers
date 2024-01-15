@@ -1825,6 +1825,14 @@
       "address": "0xB7fD410Bb86f427b2d2C75eFe6e35e621465913b",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB7fD410Bb86f427b2d2C75eFe6e35e621465913b.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Google Cloud",
+      "description": "Google Cloud's data provider for Flare Network",
+      "url": "https://cloud.google.com/",
+      "address": "0x50A1BCa4d5e91B3bcea7891742248F5BA5ACF0e5",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x50A1BCa4d5e91B3bcea7891742248F5BA5ACF0e5.png"
     }
   ]
 }
