@@ -1,26 +1,26 @@
 {
-  "name": "Bifrost Wallet",
-  "timestamp": "2023-12-08T00:00:00+00:00",
+  "name": "Bifrost Wallet FTSO Provider List",
+  "timestamp": "2024-01-15T00:00:00+00:00",
   "version": {
-    "major": 3,
-    "minor": 30,
+    "major": 4,
+    "minor": 0,
     "patch": 0
   },
   "providers": [
     {
       "chainId": 19,
-      "name": "Bifrost Oracle",
-      "description": "Bifrost Oracle is a reliable Songbird oracle service run by Towo Labs, a Songbird Network development partner and the company behind Bifrost Wallet.",
-      "url": "https://bifrostoracle.com",
+      "name": "Bifrost Wallet",
+      "description": "Bifrost Wallet runs a competitive, accurate and reliable oracle service since 2021. Developed by Towo Labs a Songbird Network development partner.",
+      "url": "https://bifrostwallet.com",
       "address": "0x69141E890F3a79cd2CFf552c0B71508bE23712dC",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x69141E890F3a79cd2CFf552c0B71508bE23712dC.png",
       "listed": true
     },
     {
       "chainId": 14,
-      "name": "Bifrost Oracle",
-      "description": "Bifrost Oracle is a reliable Flare oracle service run by Towo Labs, a Flare Network development partner and the company behind Bifrost Wallet.",
-      "url": "https://bifrostoracle.com",
+      "name": "Bifrost Wallet",
+      "description": "Bifrost Wallet runs a competitive, accurate and reliable oracle service since 2021. Developed by Towo Labs a Flare Network development partner.",
+      "url": "https://bifrostwallet.com",
       "address": "0x9A46864A3b0a7805B266C445289C3fAD1E48f18e",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9A46864A3b0a7805B266C445289C3fAD1E48f18e.png",
       "listed": true
@@ -1766,6 +1766,14 @@
       "listed": true
     },
     {
+      "chainId": 19,
+      "name": "Insight Oracle",
+      "description": "We are a group of friends obsessed with crypto, maths and algorithms. We want to build dApps and help to develop and expand the Flare Network.",
+      "url": "https://insightoracle.site",
+      "address": "0x86B8012c254cbe2fe63A5B7f64Cb1a039bAB2047",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x86B8012c254cbe2fe63A5B7f64Cb1a039bAB2047.png"
+    },
+    {
       "chainId": 14,
       "name": "Kiln",
       "description": "Enterprise-grade staking made easy",
@@ -1789,7 +1797,8 @@
       "description": "Swiss-Operated Institutional Grade Staking Provider",
       "url": "https://luganodes.com",
       "address": "0xB53F6CFaB63CAbFc255c702ebeB273510DB541d7",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB53F6CFaB63CAbFc255c702ebeB273510DB541d7.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB53F6CFaB63CAbFc255c702ebeB273510DB541d7.png",
+      "listed": true
     },
     {
       "chainId": 14,
@@ -1798,6 +1807,33 @@
       "url": "https://infstones.com",
       "address": "0xB1Aa0F2691Db6bBb2969EfC7BE70787F58DD2461",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB1Aa0F2691Db6bBb2969EfC7BE70787F58DD2461.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Chainbase Staking",
+      "description": "Chainbase staking is not just a validator provider, we are your powerful ecosystem collaborator.",
+      "url": "https://staking.chainbase.com",
+      "address": "0x6434b1ED626585D3e58E995aD3C2cc0D6718755c",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6434b1ED626585D3e58E995aD3C2cc0D6718755c.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Ankr",
+      "description": "Build web3 apps with a full suite of developer tools. Power them with fast, global, decentralized connections to dozens of chains",
+      "url": "https://ankr.com",
+      "address": "0xB7fD410Bb86f427b2d2C75eFe6e35e621465913b",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB7fD410Bb86f427b2d2C75eFe6e35e621465913b.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Google Cloud",
+      "description": "Google Cloud's data provider for Flare Network",
+      "url": "https://cloud.google.com",
+      "address": "0x50A1BCa4d5e91B3bcea7891742248F5BA5ACF0e5",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x50A1BCa4d5e91B3bcea7891742248F5BA5ACF0e5.png",
+      "listed": true
     },
     {
       "chainId": 14,

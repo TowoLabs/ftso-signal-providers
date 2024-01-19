@@ -78,7 +78,7 @@
           "maxLength": 32,
           "pattern": "^[ \\w.'+\\-%/À-ÖØ-öø-ÿ:&\\[\\]\\(\\)]+$",
           "examples": [
-            "Bifrost Oracle"
+            "Bifrost Wallet"
           ]
         },
         "description": {
@@ -88,7 +88,7 @@
           "maxLength": 350,
           "pattern": "^[ \\w.'+\\-%/À-ÖØ-öø-ÿ:&\\[\\]\\(\\)]+",
           "examples": [
-            "Bifrost Oracle"
+            "Bifrost Wallet"
           ]
         },
         "url": {
@@ -98,7 +98,7 @@
           "maxLength": 100,
           "pattern": "^https://[A-Za-z0-9\/#.-]*[^/]$",
           "examples": [
-            "https://bifrostoracle.com"
+            "https://bifrostwallet.com"
           ]
         },
         "address": {
@@ -142,7 +142,7 @@
       "type": "string",
       "description": "The name of the FTSO provider list",
       "minLength": 1,
-      "maxLength": 30,
+      "maxLength": 48,
       "pattern": "^[A-Za-z ]+$",
       "examples": [
         "My Provider List"
