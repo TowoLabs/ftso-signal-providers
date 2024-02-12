@@ -24,7 +24,7 @@ The purpose of `bifrost-wallet.providerlist.json` is to map on-chain signal prov
     * Must redirect HTTP to HTTPS
 * `address` must be 40 characters hex
     * Must be EIP-55 checksummed
-    * Must be actively and successfully submitting prices
+    * Must be submitting prices
 * `logoURI` must be this repository's raw GitHub user content path
   * Must end with your checksummed address and a `.png` file extension
   * Must fulfill the [PNG image requirements](#png-image-requirements)
@@ -74,6 +74,7 @@ If your provider fulfills the extended requirements below, it may be eligible to
 * The provider uses an algorithm developed in-house or an open-source alternative
 
 ### Available
+* The provider is successfully submitting prices
 * The provider has enough voting power to participate in the FTSO system
 * The provider has at least 95% uptime, measured over the last 30 days
 
