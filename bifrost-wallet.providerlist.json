@@ -1834,6 +1834,22 @@
       "address": "0x50A1BCa4d5e91B3bcea7891742248F5BA5ACF0e5",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x50A1BCa4d5e91B3bcea7891742248F5BA5ACF0e5.png",
       "listed": true
+    },
+    {
+      "chainId": 19,
+      "name": "E8T.app",
+      "description": "Songbird network signal provider by the E8T team. Bringing trusted reviews to the blockchain",
+      "url": "https://www.e8t.app",
+      "address": "0xC7de51A131522749c7c18CEAF46BB985c5687A5e",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC7de51A131522749c7c18CEAF46BB985c5687A5e.png"
+    },
+    {
+      "chainId": 14,
+      "name": "E8T.app",
+      "description": "Flare network signal provider by the E8T team. Bringing trusted reviews to the blockchain",
+      "url": "https://www.e8t.app",
+      "address": "0x3C1BafC9E066dfdeBCf6cFcDEd6aBF89541b08c2",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3C1BafC9E066dfdeBCf6cFcDEd6aBF89541b08c2.png"
     }
   ]
 }
