@@ -1851,6 +1851,14 @@
       "url": "https://www.e8t.app",
       "address": "0x3C1BafC9E066dfdeBCf6cFcDEd6aBF89541b08c2",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3C1BafC9E066dfdeBCf6cFcDEd6aBF89541b08c2.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Stream TSO",
+      "description": "Stream TSO is building infrastructure to stream all types of data to the networks. Come stream with us!",
+      "url": "https://www.streamtso.com",
+      "address": "0x84Ad97f9b4589392dbb31F46283314cCa30931A7",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x84Ad97f9b4589392dbb31F46283314cCa30931A7.png"
     }
   ]
 }
