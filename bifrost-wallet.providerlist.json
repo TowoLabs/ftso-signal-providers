@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet FTSO Provider List",
-  "timestamp": "2024-01-15T00:00:00+00:00",
+  "timestamp": "2024-02-15T00:00:00+00:00",
   "version": {
     "major": 4,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "providers": [
@@ -1696,8 +1696,7 @@
       "description": "FlareOcean provides accurate and reliable price feeds to the Songbird & Flare Networks and a transparent, incentivized, risk-free delegation service.",
       "url": "https://flareocean.io",
       "address": "0xf4213E49488b9320769D35924AC52ea31a4C9fc1",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf4213E49488b9320769D35924AC52ea31a4C9fc1.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf4213E49488b9320769D35924AC52ea31a4C9fc1.png"
     },
     {
       "chainId": 14,
@@ -1705,8 +1704,7 @@
       "description": "FlareOcean provides accurate and reliable price feeds to the Songbird & Flare Networks and a transparent, incentivized, risk-free delegation service.",
       "url": "https://flareocean.io",
       "address": "0x50bd2D0B457E27a481f97C4685d16EeB8B978155",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x50bd2D0B457E27a481f97C4685d16EeB8B978155.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x50bd2D0B457E27a481f97C4685d16EeB8B978155.png"
     },
     {
       "chainId": 19,
@@ -1746,7 +1744,8 @@
       "description": "FocusTSO. Data provider built by Focus Global Team of developers and Polish Flare community members who run an educational portal in Polish , English and Japanese. The team also provide tools like Airdrop Simulator and recently released Delegation Portal.",
       "url": "https://ftso.focusflr.app",
       "address": "0xb084575CaCedf7DEdd78329656715651F8f66712",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb084575CaCedf7DEdd78329656715651F8f66712.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb084575CaCedf7DEdd78329656715651F8f66712.png",
+      "listed": true
     },
     {
       "chainId": 19,
@@ -1834,6 +1833,22 @@
       "address": "0x50A1BCa4d5e91B3bcea7891742248F5BA5ACF0e5",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x50A1BCa4d5e91B3bcea7891742248F5BA5ACF0e5.png",
       "listed": true
+    },
+    {
+      "chainId": 19,
+      "name": "E8T.app",
+      "description": "Songbird network signal provider by the E8T team. Bringing trusted reviews to the blockchain",
+      "url": "https://www.e8t.app",
+      "address": "0xC7de51A131522749c7c18CEAF46BB985c5687A5e",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC7de51A131522749c7c18CEAF46BB985c5687A5e.png"
+    },
+    {
+      "chainId": 14,
+      "name": "E8T.app",
+      "description": "Flare network signal provider by the E8T team. Bringing trusted reviews to the blockchain",
+      "url": "https://www.e8t.app",
+      "address": "0x3C1BafC9E066dfdeBCf6cFcDEd6aBF89541b08c2",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3C1BafC9E066dfdeBCf6cFcDEd6aBF89541b08c2.png"
     },
     {
       "chainId": 14,
