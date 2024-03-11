@@ -1569,14 +1569,6 @@
     },
     {
       "chainId": 19,
-      "name": "Canary FTSO",
-      "description": "Canary FTSO. A Flexible And Adaptable Data Provider For Songbird Network.",
-      "url": "https://www.can4ry.com",
-      "address": "0xb76865823f68b48b02Bb9604A2CD886eB49A9f3D",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb76865823f68b48b02Bb9604A2CD886eB49A9f3D.png"
-    },
-    {
-      "chainId": 19,
       "name": "The Fat Cats FTSO",
       "description": "The Fat Cats official Songbird data provider.",
       "url": "https://fat-cats.club",
