@@ -1569,14 +1569,6 @@
     },
     {
       "chainId": 19,
-      "name": "Canary FTSO",
-      "description": "Canary FTSO. A Flexible And Adaptable Data Provider For Songbird Network.",
-      "url": "https://www.can4ry.com",
-      "address": "0xb76865823f68b48b02Bb9604A2CD886eB49A9f3D",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb76865823f68b48b02Bb9604A2CD886eB49A9f3D.png"
-    },
-    {
-      "chainId": 19,
       "name": "The Fat Cats FTSO",
       "description": "The Fat Cats official Songbird data provider.",
       "url": "https://fat-cats.club",
@@ -1849,6 +1841,22 @@
       "url": "https://www.e8t.app",
       "address": "0x3C1BafC9E066dfdeBCf6cFcDEd6aBF89541b08c2",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3C1BafC9E066dfdeBCf6cFcDEd6aBF89541b08c2.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Canary FTSO",
+      "description": "Canary FTSO, your European-based Signal Service Provider, actively contributes to the Flare ecosystem. We ensure a secure and stable price provision service, allowing you to delegate your votes worldwide.",
+      "url": "https://can4ary.com/, 
+      "address": "0xb76865823f68b48b02Bb9604A2CD886eB49A9f3D",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb76865823f68b48b02Bb9604A2CD886eB49A9f3D.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Canary FTSO",
+      "description": "Canary FTSO, your European-based Signal Service Provider, actively contributes to the Flare ecosystem. We ensure a secure and stable price provision service, allowing you to delegate your votes worldwide.",
+      "url": "https://can4ary.com/",
+      "address": "0x0b31C6571D6C0dd9250b737Ea5e7e3D918d99046",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0b31C6571D6C0dd9250b737Ea5e7e3D918d99046.png"
     }
   ]
 }
