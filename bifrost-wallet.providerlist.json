@@ -1849,6 +1849,14 @@
       "url": "https://www.e8t.app",
       "address": "0x3C1BafC9E066dfdeBCf6cFcDEd6aBF89541b08c2",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3C1BafC9E066dfdeBCf6cFcDEd6aBF89541b08c2.png"
+    },
+    {
+      "chainId": 14,
+      "name": "The Fat Cats",
+      "description": "TheFatCats brand provides high quality accurate prices for all available FTSOs",
+      "url": "https://www.the-fat-cats.club",
+      "address": "0xadE79671EB7Fd99De14477f2DAA318a60639cdf4",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xadE79671EB7Fd99De14477f2DAA318a60639cdf4.png"
     }
   ]
 }
