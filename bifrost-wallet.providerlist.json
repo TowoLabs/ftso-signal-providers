@@ -1849,6 +1849,14 @@
       "url": "https://www.e8t.app",
       "address": "0x3C1BafC9E066dfdeBCf6cFcDEd6aBF89541b08c2",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3C1BafC9E066dfdeBCf6cFcDEd6aBF89541b08c2.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Last Oracle",
+      "description": "Infrastructure services for Web3 and beyond.",
+      "url": "https://lastoracle.xyz/",
+      "address": "0x535268cB19f2cC0c65D463be6Ab7751Ff4E9fC07",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x535268cB19f2cC0c65D463be6Ab7751Ff4E9fC07.png"
     }
   ]
 }
