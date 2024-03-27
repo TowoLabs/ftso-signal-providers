@@ -1861,7 +1861,7 @@
     {
       "chainId": 19,
       "name": "TriforceOne Data Providers",
-      "description": "TriforceOne represents a joint effort between Astral Credits, BluebirdX, & The Phoenix Project. We aim to introduce quality data, dynamic rewards, and deflationary clauses to Songbird & Flare."
+      "description": "TriforceOne represents a joint effort between Astral Credits, BluebirdX, & The Phoenix Project. We aim to introduce quality data, dynamic rewards, and deflationary clauses to Songbird & Flare.",
       "url": "https://bluebirdx.xyz/",
       "address": "0x86fBF03CCF0FE152B2aBE2B43bA82662c59Ac1B4",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x86fBF03CCF0FE152B2aBE2B43bA82662c59Ac1B4.png"
