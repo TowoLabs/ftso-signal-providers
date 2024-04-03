@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet FTSO Provider List",
-  "timestamp": "2024-02-15T00:00:00+00:00",
+  "timestamp": "2024-04-03T00:00:00+00:00",
   "version": {
     "major": 4,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "providers": [
@@ -1569,22 +1569,6 @@
     },
     {
       "chainId": 19,
-      "name": "The Fat Cats FTSO",
-      "description": "The Fat Cats official Songbird data provider.",
-      "url": "https://fat-cats.club",
-      "address": "0x7776fC062AE648466958a28b3001f6a4517a147c",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7776fC062AE648466958a28b3001f6a4517a147c.png"
-    },
-    {
-      "chainId": 14,
-      "name": "The Fat Cats FTSO",
-      "description": "The Fat Cats official Flare data provider.",
-      "url": "https://fat-cats.club",
-      "address": "0x961ECd8906B7CEd689c45b7EDB5b1e355CbEED45",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x961ECd8906B7CEd689c45b7EDB5b1e355CbEED45.png"
-    },
-    {
-      "chainId": 19,
       "name": "HXK Oracle",
       "description": "HXK Oracle will onboard the next billion users to Flare by providing accurate price feeds to FTSO system",
       "url": "https://hadexkori.com",
@@ -1705,14 +1689,6 @@
       "url": "https://fly2sonic.com",
       "address": "0xE6caa2BCa8b0E9004724E0600b38db52C17BCaC3",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE6caa2BCa8b0E9004724E0600b38db52C17BCaC3.png"
-    },
-    {
-      "chainId": 19,
-      "name": "The Fat Cats",
-      "description": "TheFatCats brand provides high quality accurate prices for all available FTSOs",
-      "url": "https://www.the-fat-cats.club",
-      "address": "0x0935B4c1A67c4AD0497389eCC977Ed05bE1feDbB",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0935B4c1A67c4AD0497389eCC977Ed05bE1feDbB.png"
     },
     {
       "chainId": 19,
@@ -1841,6 +1817,38 @@
       "url": "https://www.e8t.app",
       "address": "0x3C1BafC9E066dfdeBCf6cFcDEd6aBF89541b08c2",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3C1BafC9E066dfdeBCf6cFcDEd6aBF89541b08c2.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Last Oracle",
+      "description": "Infrastructure services for Web3 and beyond.",
+      "url": "https://lastoracle.xyz/",
+      "address": "0x535268cB19f2cC0c65D463be6Ab7751Ff4E9fC07",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x535268cB19f2cC0c65D463be6Ab7751Ff4E9fC07.png"
+    },
+    {
+      "chainId": 19,
+      "name": "The Fat Cats",
+      "description": "The Fat Cats brand provides high quality accurate prices for all available FTSOs",
+      "url": "https://www.the-fat-cats.club",
+      "address": "0x0935B4c1A67c4AD0497389eCC977Ed05bE1feDbB",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0935B4c1A67c4AD0497389eCC977Ed05bE1feDbB.png"
+    },
+    {
+      "chainId": 14,
+      "name": "The Fat Cats",
+      "description": "The Fat Cats brand provides high quality accurate prices for all available FTSOs",
+      "url": "https://www.the-fat-cats.club",
+      "address": "0xadE79671EB7Fd99De14477f2DAA318a60639cdf4",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xadE79671EB7Fd99De14477f2DAA318a60639cdf4.png"
+    },
+    {
+      "chainId": 19,
+      "name": "TriforceOne Data Providers",
+      "description": "TriforceOne represents a joint effort between Astral Credits, BluebirdX, & The Phoenix Project. We aim to introduce quality data, dynamic rewards, and deflationary clauses to Songbird & Flare.",
+      "url": "https://bluebirdx.xyz",
+      "address": "0x86fBF03CCF0FE152B2aBE2B43bA82662c59Ac1B4",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x86fBF03CCF0FE152B2aBE2B43bA82662c59Ac1B4.png"
     },
     {
       "chainId": 19,
