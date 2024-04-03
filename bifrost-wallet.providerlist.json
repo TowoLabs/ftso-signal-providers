@@ -1569,14 +1569,6 @@
     },
     {
       "chainId": 19,
-      "name": "Canary FTSO",
-      "description": "Canary FTSO. A Flexible And Adaptable Data Provider For Songbird Network.",
-      "url": "https://www.can4ry.com",
-      "address": "0xb76865823f68b48b02Bb9604A2CD886eB49A9f3D",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb76865823f68b48b02Bb9604A2CD886eB49A9f3D.png"
-    },
-    {
-      "chainId": 19,
       "name": "HXK Oracle",
       "description": "HXK Oracle will onboard the next billion users to Flare by providing accurate price feeds to FTSO system",
       "url": "https://hadexkori.com",
@@ -1857,6 +1849,22 @@
       "url": "https://bluebirdx.xyz",
       "address": "0x86fBF03CCF0FE152B2aBE2B43bA82662c59Ac1B4",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x86fBF03CCF0FE152B2aBE2B43bA82662c59Ac1B4.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Canary FTSO",
+      "description": "Canary FTSO, your European-based Signal Service Provider, actively contributes to the Flare ecosystem. We ensure a secure and stable price provision service, allowing you to delegate your votes worldwide.",
+      "url": "https://can4ary.com",
+      "address": "0xb76865823f68b48b02Bb9604A2CD886eB49A9f3D",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb76865823f68b48b02Bb9604A2CD886eB49A9f3D.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Canary FTSO",
+      "description": "Canary FTSO, your European-based Signal Service Provider, actively contributes to the Flare ecosystem. We ensure a secure and stable price provision service, allowing you to delegate your votes worldwide.",
+      "url": "https://can4ary.com",
+      "address": "0x0b31C6571D6C0dd9250b737Ea5e7e3D918d99046",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0b31C6571D6C0dd9250b737Ea5e7e3D918d99046.png"
     }
   ]
 }
