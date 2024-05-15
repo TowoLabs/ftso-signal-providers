@@ -1865,6 +1865,22 @@
       "url": "https://can4ary.com",
       "address": "0x0b31C6571D6C0dd9250b737Ea5e7e3D918d99046",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0b31C6571D6C0dd9250b737Ea5e7e3D918d99046.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Drusus",
+      "description": "Join the Roman Legion and Earn with Us! We fight for the most accurate data to bring you maximum profit.",
+      "url": "https://drususftso.net",
+      "address": "0xd06225a70d865C7A737a0beeC744b0C420E9bfdb",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xd06225a70d865C7A737a0beeC744b0C420E9bfdb.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Drusus",
+      "description": "Join the Roman Legion and Earn with Us! We fight for the most accurate data to bring you maximum profit.",
+      "url": "https://drususftso.net",
+      "address": "0xFB4Ca37173Bc786A84dE34509105575C83DEA898",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xFB4Ca37173Bc786A84dE34509105575C83DEA898.png"
     }
   ]
 }
