@@ -1865,6 +1865,14 @@
       "url": "https://can4ary.com",
       "address": "0x0b31C6571D6C0dd9250b737Ea5e7e3D918d99046",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0b31C6571D6C0dd9250b737Ea5e7e3D918d99046.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Civil FTSO",
+      "description": "The Civil FTSO provides high quality accurate prices for all available FTSOs",
+      "url": "https://civil-ftso.vercel.app/",
+      "address": "0x0efdf599710a4e2940250f682f15b0710b14f4e1",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0efdf599710a4e2940250f682f15b0710b14f4e1.png"
     }
   ]
 }
