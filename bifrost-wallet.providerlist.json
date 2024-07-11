@@ -1865,6 +1865,14 @@
       "url": "https://can4ary.com",
       "address": "0x0b31C6571D6C0dd9250b737Ea5e7e3D918d99046",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0b31C6571D6C0dd9250b737Ea5e7e3D918d99046.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Precision FTSO",
+      "description": "Utilizing advanced algorithms and state-of-the-art technology, Precision FTSO ensures high precision and real-time updates to support the decentralized ecosystem.",
+      "url": "https://precision-ftso.xyz",
+      "address": "0x1ff09da268c7ba834abcc6d7ba64d2b7ddc4fb37",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1ff09da268c7ba834abcc6d7ba64d2b7ddc4fb37.png"
     }
   ]
 }
