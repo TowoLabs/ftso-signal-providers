@@ -1874,6 +1874,15 @@
       "address": "0x43cab70e8edefef8c648c4fc0863dd9d8ff5776a",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x43cab70e8edefef8c648c4fc0863dd9d8ff5776a.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Fury Oracle",
+      "description": "We pride ourselves on being a premier FTSO Data Provider, delivering highly accurate data to the Flare network through our advanced algorithms.",
+      "url": "https://furyftso.org",
+      "address": "0x0efdf599710a4e2940250f682f15b0710b14f4e1",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0efdf599710a4e2940250f682f15b0710b14f4e1.png",
+      "listed": true
     }
   ]
 }
