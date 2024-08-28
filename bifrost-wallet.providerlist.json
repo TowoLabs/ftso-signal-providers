@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet FTSO Provider List",
-  "timestamp": "2024-04-03T00:00:00+00:00",
+  "timestamp": "2024-08-29T00:00:00+00:00",
   "version": {
     "major": 4,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "providers": [
@@ -1609,6 +1609,14 @@
       "address": "0x670a7Fd22cAa9C2Fb5B798078d084B29AB4bC63C",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x670a7Fd22cAa9C2Fb5B798078d084B29AB4bC63C.png",
       "listed": true
+    },
+    {
+      "chainId": 19,
+      "name": "Burst FTSO",
+      "description": "We strive to provide the best signals possible. Decentralization is extremely important to us, with this FTSO we will be helping the Flare blockchain achieve this.",
+      "url": "https://burstftso.xyz",
+      "address": "0x580B729602c10c59B058c3C3b0Cec6c3db7Ae0c7",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x580B729602c10c59B058c3C3b0Cec6c3db7Ae0c7.png"
     },
     {
       "chainId": 114,
