@@ -1509,22 +1509,6 @@
     },
     {
       "chainId": 19,
-      "name": "FTSchizO",
-      "description": "FTSchizO is a SGB/FLR data provider that focuses on esoteric community building.",
-      "url": "https://ftschizo.xyz",
-      "address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86.png"
-    },
-    {
-      "chainId": 14,
-      "name": "FTSchizO",
-      "description": "FTSchizO is a SGB/FLR data provider that focuses on esoteric community building.",
-      "url": "https://ftschizo.xyz",
-      "address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86.png"
-    },
-    {
-      "chainId": 19,
       "name": "CFN",
       "description": "A passive income community driven project based on utility NFTs.",
       "url": "https://cryptapero.fr",
@@ -1865,6 +1849,22 @@
       "url": "https://can4ary.com",
       "address": "0x0b31C6571D6C0dd9250b737Ea5e7e3D918d99046",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0b31C6571D6C0dd9250b737Ea5e7e3D918d99046.png"
+    },
+    {
+      "chainId": 19,
+      "name": "FTSchizO",
+      "description": "FTSchizO is a SGB/FLR data provider that focuses on esoteric community building.",
+      "url": "https://ftschizo.xyz",
+      "address": "0x2886Eaa737BB5CeD07fFBD0594AeDCD1022aA36b",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2886Eaa737BB5CeD07fFBD0594AeDCD1022aA36b.png"
+    },
+    {
+      "chainId": 14,
+      "name": "FTSchizO",
+      "description": "FTSchizO is a SGB/FLR data provider that focuses on esoteric community building.",
+      "url": "https://ftschizo.xyz",
+      "address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86.png"
     },
     {
       "chainId": 19,
