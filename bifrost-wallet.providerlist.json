@@ -1865,6 +1865,15 @@
       "url": "https://ftschizo.xyz",
       "address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86.png"
+    },
+    {
+      "chainId": 19,
+      "name": "DataVector",
+      "description": "DataVector is an Infrastructure Provider on Flare Network validation services and reliable data provisioning to the Flare oracle system.",
+      "url": "https://datavector.org",
+      "address": "0x43cab70e8edefef8c648c4fc0863dd9d8ff5776a",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x43cab70e8edefef8c648c4fc0863dd9d8ff5776a.png",
+      "listed": true
     }
   ]
 }
