@@ -1891,6 +1891,14 @@
       "address": "0x90C6423ec3Ea40591bAdb177171B64c7e6556028",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x90C6423ec3Ea40591bAdb177171B64c7e6556028.png",
       "listed": true
+    },
+    {
+      "chainId": 19,
+      "name": "IOT FTSO",
+      "description": "We are at the forefront of integrating Internet of Things (IoT) technology with blockchain solutions. Our innovative platform enables seamless transmission of signal prices to the Flare blockchain and Songbird network, ensuring secure, transparent, and efficient data management.",
+      "url": "https://iotftso.com",
+      "address": "0x6E8049be02a720f8845191D0939d34f1009E94D9",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6E8049be02a720f8845191D0939d34f1009E94D9.png"
     }
   ]
 }
