@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet FTSO Provider List",
-  "timestamp": "2024-04-03T00:00:00+00:00",
+  "timestamp": "2024-08-29T00:00:00+00:00",
   "version": {
     "major": 4,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "providers": [
@@ -1509,22 +1509,6 @@
     },
     {
       "chainId": 19,
-      "name": "FTSchizO",
-      "description": "FTSchizO is a SGB/FLR data provider that focuses on esoteric community building.",
-      "url": "https://ftschizo.xyz",
-      "address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86.png"
-    },
-    {
-      "chainId": 14,
-      "name": "FTSchizO",
-      "description": "FTSchizO is a SGB/FLR data provider that focuses on esoteric community building.",
-      "url": "https://ftschizo.xyz",
-      "address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86.png"
-    },
-    {
-      "chainId": 19,
       "name": "CFN",
       "description": "A passive income community driven project based on utility NFTs.",
       "url": "https://cryptapero.fr",
@@ -1627,6 +1611,14 @@
       "listed": true
     },
     {
+      "chainId": 19,
+      "name": "Burst FTSO",
+      "description": "We strive to provide the best signals possible. Decentralization is extremely important to us, with this FTSO we will be helping the Flare blockchain achieve this.",
+      "url": "https://burstftso.xyz",
+      "address": "0x580B729602c10c59B058c3C3b0Cec6c3db7Ae0c7",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x580B729602c10c59B058c3C3b0Cec6c3db7Ae0c7.png"
+    },
+    {
       "chainId": 114,
       "name": "Burst FTSO",
       "description": "We strive to provide the best signals possible. Decentralization is extremely important to us, with this FTSO we will be helping the Flare blockchain achieve this.",
@@ -1671,16 +1663,16 @@
       "name": "Flare Ocean",
       "description": "FlareOcean provides accurate and reliable price feeds to the Songbird & Flare Networks and a transparent, incentivized, risk-free delegation service.",
       "url": "https://flareocean.io",
-      "address": "0xf4213E49488b9320769D35924AC52ea31a4C9fc1",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf4213E49488b9320769D35924AC52ea31a4C9fc1.png"
+      "address": "0x51c8b8e6f56432494B98Cf2bA813cDB292789cAb",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x51c8b8e6f56432494B98Cf2bA813cDB292789cAb.png"
     },
     {
       "chainId": 14,
       "name": "Flare Ocean",
       "description": "FlareOcean provides accurate and reliable price feeds to the Songbird & Flare Networks and a transparent, incentivized, risk-free delegation service.",
       "url": "https://flareocean.io",
-      "address": "0x50bd2D0B457E27a481f97C4685d16EeB8B978155",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x50bd2D0B457E27a481f97C4685d16EeB8B978155.png"
+      "address": "0x8b9aa18cd47C6BF7a06B0fe458B2E1CA832F7a03",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x8b9aa18cd47C6BF7a06B0fe458B2E1CA832F7a03.png"
     },
     {
       "chainId": 19,
@@ -1868,6 +1860,22 @@
     },
     {
       "chainId": 19,
+      "name": "FTSchizO",
+      "description": "FTSchizO is a SGB/FLR data provider that focuses on esoteric community building.",
+      "url": "https://ftschizo.xyz",
+      "address": "0x2886Eaa737BB5CeD07fFBD0594AeDCD1022aA36b",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2886Eaa737BB5CeD07fFBD0594AeDCD1022aA36b.png"
+    },
+    {
+      "chainId": 14,
+      "name": "FTSchizO",
+      "description": "FTSchizO is a SGB/FLR data provider that focuses on esoteric community building.",
+      "url": "https://ftschizo.xyz",
+      "address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86.png"
+    },
+    {
+      "chainId": 19,
       "name": "DataVector",
       "description": "DataVector is an Infrastructure Provider on Flare Network validation services and reliable data provisioning to the Flare oracle system.",
       "url": "https://datavector.org",
@@ -1882,6 +1890,16 @@
       "url": "https://stakeway.com",
       "address": "0xf26Be97eB0d7a9fBf8d67f813D3Be411445885ce",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf26Be97eB0d7a9fBf8d67f813D3Be411445885ce.png"
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "A41",
+      "description": "A41 is a blockchain infra-service provider that validates and paves paths never ventured before.",
+      "url": "https://www.a41.io",
+      "address": "0x90C6423ec3Ea40591bAdb177171B64c7e6556028",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x90C6423ec3Ea40591bAdb177171B64c7e6556028.png",
+      "listed": true
     }
   ]
 }
