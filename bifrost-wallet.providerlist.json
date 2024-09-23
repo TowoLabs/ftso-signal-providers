@@ -1885,6 +1885,15 @@
     },
     {
       "chainId": 14,
+      "name": "Stakeway",
+      "description": "Stakeway by Gateway.fm is a premier staking provider offering Enterprise Grade Infrastructure tailored for customers seeking reliable and secure staking solutions. With a focus on performance and trust, we deliver a robust platform. Our services are designed to optimize staking experience, ensuring seamless operation and maximum returns",
+      "url": "https://stakeway.com",
+      "address": "0xf26Be97eB0d7a9fBf8d67f813D3Be411445885ce",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf26Be97eB0d7a9fBf8d67f813D3Be411445885ce.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
       "name": "A41",
       "description": "A41 is a blockchain infra-service provider that validates and paves paths never ventured before.",
       "url": "https://www.a41.io",
