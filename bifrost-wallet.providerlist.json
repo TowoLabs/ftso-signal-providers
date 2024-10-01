@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet FTSO Provider List",
-  "timestamp": "2024-09-23T00:00:00+00:00",
+  "timestamp": "2024-10-02T00:00:00+00:00",
   "version": {
     "major": 4,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "providers": [
@@ -1899,6 +1899,24 @@
       "url": "https://www.a41.io",
       "address": "0x90C6423ec3Ea40591bAdb177171B64c7e6556028",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x90C6423ec3Ea40591bAdb177171B64c7e6556028.png",
+      "listed": true
+    },
+    {
+      "chainId": 19,
+      "name": "StakeCapital FTSO",
+      "description": "Stake Capital is a group run by Blockchain and DeFi pioneers standing at the intersection of traditional industries and blockchain technology.",
+      "url": "https://stake.capital",
+      "address": "0xe3704aBE555Fb4807062e68c5Ce1c3EB8FdCB11B",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe3704aBE555Fb4807062e68c5Ce1c3EB8FdCB11B.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "StakeCapital FTSO",
+      "description": "Stake Capital is a group run by Blockchain and DeFi pioneers standing at the intersection of traditional industries and blockchain technology.",
+      "url": "https://stake.capital",
+      "address": "0x9Dfc1c62B7F7a3D4D412Fc502Cba37157446aEe9",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9Dfc1c62B7F7a3D4D412Fc502Cba37157446aEe9.png",
       "listed": true
     }
   ]
