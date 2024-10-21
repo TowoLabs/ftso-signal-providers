@@ -1918,6 +1918,15 @@
       "address": "0x9Dfc1c62B7F7a3D4D412Fc502Cba37157446aEe9",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9Dfc1c62B7F7a3D4D412Fc502Cba37157446aEe9.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Encode Club",
+      "description": "We are a global community of top developers, professionals and talented students in Emerging Tech.",
+      "url": "https://www.encode.club",
+      "address": "0x1c2bB2CA14914a462AB7268DE4A48eF6445116c2",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1c2bB2CA14914a462AB7268DE4A48eF6445116c2.png",
+      "listed": true
     }
   ]
 }
