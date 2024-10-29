@@ -1918,6 +1918,14 @@
       "address": "0x9Dfc1c62B7F7a3D4D412Fc502Cba37157446aEe9",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9Dfc1c62B7F7a3D4D412Fc502Cba37157446aEe9.png",
       "listed": true
-    }
+    },
+	{
+      "chainId": 19,
+      "name": "XterraMetrics",
+      "description": "At XTerraMetrics, we specialize in providing reliable and accurate data to the coston network. We offer solutions tailored to your needs. Our expertise in data analytics and the Flare network ensures top-notch crypto services for our clients.",
+      "url": "https://www.xterrametrics.com/",
+      "address": "0xb0840104e84da02254b043fd4c205415e759bf1e",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb0840104e84da02254b043fd4c205415e759bf1e.png"
+	}
   ]
 }
