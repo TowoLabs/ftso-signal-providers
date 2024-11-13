@@ -1926,6 +1926,14 @@
       "address": "0x9Dfc1c62B7F7a3D4D412Fc502Cba37157446aEe9",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9Dfc1c62B7F7a3D4D412Fc502Cba37157446aEe9.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "SenseiNode",
+      "description": "SenseiNode provides top-tier, secure, and reliable blockchain  infrastructure. Trusted by leading networks and developers, SenseiNode is the key partner for powering decentralization.",
+      "url": "https://senseinode.com",
+      "address": "0xe08898B7B8b18dBCdDcC6339c8b9c19EFfA81413",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe08898B7B8b18dBCdDcC6339c8b9c19EFfA81413.png"
     }
   ]
 }
