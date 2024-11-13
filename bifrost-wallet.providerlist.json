@@ -1734,6 +1734,14 @@
     },
     {
       "chainId": 14,
+      "name": "Insight Oracle",
+      "description": "We are a group of friends obsessed with crypto, maths and algorithms. We want to build dApps and help to develop and expand the Flare Network.",
+      "url": "https://insightoracle.site",
+      "address": "0x8E621dEdDE2B5F6D7d9f3Da3Ed77656a991B7Bf3",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x8E621dEdDE2B5F6D7d9f3Da3Ed77656a991B7Bf3.png"
+    },
+    {
+      "chainId": 14,
       "name": "Kiln",
       "description": "Enterprise-grade staking made easy",
       "url": "https://kiln.fi",
