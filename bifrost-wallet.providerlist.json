@@ -1308,18 +1308,18 @@
     },
     {
       "chainId": 19,
-      "name": "TheGrungies",
-      "description": "TheGrungies FTSO is a Signal Provider based on the TheGrungies NFT Community",
-      "url": "https://ftso.thegrungies.com",
+      "name": "FTSO PARIS",
+      "description": "FTSO Paris is a data provider based in Paris, France, submitting prices calculated from over 80 cryptocurrency exchanges using a proprietary, robust, and fault-tolerant algorithm.",
+      "url": "https://ftso.paris",
       "address": "0x2C293599ca61bb53e8fF82c8a19c2A8B883ea23f",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2C293599ca61bb53e8fF82c8a19c2A8B883ea23f.png",
       "listed": true
     },
     {
       "chainId": 14,
-      "name": "TheGrungies",
-      "description": "TheGrungies FTSO is a Signal Provider based on the TheGrungies NFT Community",
-      "url": "https://ftso.thegrungies.com",
+      "name": "FTSO PARIS",
+      "description": "FTSO Paris is a data provider based in Paris, France, submitting prices calculated from over 80 cryptocurrency exchanges using a proprietary, robust, and fault-tolerant algorithm.",
+      "url": "https://ftso.paris",
       "address": "0x085841B253590281cc5c5222b09D4e59a605E774",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x085841B253590281cc5c5222b09D4e59a605E774.png",
       "listed": true
