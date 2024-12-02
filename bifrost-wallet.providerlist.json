@@ -115,18 +115,18 @@
     },
     {
       "chainId": 19,
-      "name": "FTSO AU",
-      "description": "FTSO AU provide accurate and reliable price feeds to the Flare Network and a transparent, incentivised, risk-free delegation service. We do so by leveraging the distributed nature of the network and its participants.",
-      "url": "https://www.ftso.com.au",
+      "name": "AU",
+      "description": "AU provide accurate and reliable price feeds to the Flare Network and a transparent, incentivised, risk-free delegation service. We do so by leveraging the distributed nature of the network and its participants.",
+      "url": "https://www.au.cc",
       "address": "0x499017ADB21D6f70480E4E6224cf4144071C1461",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x499017ADB21D6f70480E4E6224cf4144071C1461.png",
       "listed": true
     },
     {
       "chainId": 14,
-      "name": "FTSO AU",
-      "description": "FTSO AU provide accurate and reliable price feeds to the Flare Network and a transparent, incentivised, risk-free delegation service. We do so by leveraging the distributed nature of the network and its participants.",
-      "url": "https://www.ftso.com.au",
+      "name": "AU",
+      "description": "AU provide accurate and reliable price feeds to the Flare Network and a transparent, incentivised, risk-free delegation service. We do so by leveraging the distributed nature of the network and its participants.",
+      "url": "https://www.au.cc",
       "address": "0x4990320858AE3528B645C60059281a66C3488888",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4990320858AE3528B645C60059281a66C3488888.png",
       "listed": true
