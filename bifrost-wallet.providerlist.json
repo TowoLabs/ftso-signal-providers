@@ -1944,6 +1944,15 @@
       "url": "https://www.xterrametrics.com",
       "address": "0xB0840104E84DA02254B043Fd4C205415E759Bf1E",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB0840104E84DA02254B043Fd4C205415E759Bf1E.png"
+    },
+    {
+      "chainId": 14,
+      "name": "SenseiNode",
+      "description": "SenseiNode provides top-tier, secure, and reliable blockchain  infrastructure. Trusted by leading networks and developers, SenseiNode is the key partner for powering decentralization.",
+      "url": "https://senseinode.com",
+      "address": "0xe08898B7B8b18dBCdDcC6339c8b9c19EFfA81413",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe08898B7B8b18dBCdDcC6339c8b9c19EFfA81413.png",
+      "listed": true
     }
   ]
 }
