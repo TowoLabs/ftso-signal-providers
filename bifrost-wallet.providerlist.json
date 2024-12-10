@@ -1272,18 +1272,18 @@
     },
     {
       "chainId": 19,
-      "name": "SolidiFi FTSO",
-      "description": "The SolidiFi FTSO Data provider aims to provide accurate price information to the Songbird Network",
-      "url": "https://solidifi.app",
+      "name": "SolidiFi Nexus",
+      "description": "SolidiFi Nexus: Pioneering Flare's data integrity with accurate price feeds, free DeFi tools, and community-focused dApps since the Songbird days.",
+      "url": "https://solidifinexus.com",
       "address": "0x769530a9F2e4624aE2D6869869d510D4cd55b545",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x769530a9F2e4624aE2D6869869d510D4cd55b545.png",
       "listed": true
     },
     {
       "chainId": 14,
-      "name": "SolidiFi FTSO",
-      "description": "The SolidiFi FTSO Data provider aims to provide accurate price information to the Flare Network",
-      "url": "https://solidifi.app",
+      "name": "SolidiFi Nexus",
+      "description": "SolidiFi Nexus: Pioneering Flare's data integrity with accurate price feeds, free DeFi tools, and community-focused dApps since the Songbird days.",
+      "url": "https://solidifinexus.com",
       "address": "0x4CfB79399cd840414a2BeF2c7C7A0cE3b9b0F89d",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4CfB79399cd840414a2BeF2c7C7A0cE3b9b0F89d.png",
       "listed": true
