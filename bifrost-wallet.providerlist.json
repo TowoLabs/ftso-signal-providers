@@ -1774,7 +1774,8 @@
       "description": "Infinite ease, speed, power. The ultimate WEB3 infrastructure platform",
       "url": "https://infstones.com",
       "address": "0xB1Aa0F2691Db6bBb2969EfC7BE70787F58DD2461",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB1Aa0F2691Db6bBb2969EfC7BE70787F58DD2461.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB1Aa0F2691Db6bBb2969EfC7BE70787F58DD2461.png",
+      "listed": true
     },
     {
       "chainId": 14,
