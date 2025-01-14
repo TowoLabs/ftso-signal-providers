@@ -1954,6 +1954,14 @@
       "address": "0xe08898B7B8b18dBCdDcC6339c8b9c19EFfA81413",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe08898B7B8b18dBCdDcC6339c8b9c19EFfA81413.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Linden Services",
+      "description": "Linden Services provides data to the Flare oracle system, validates transactions and blocks, and participates in the consensus process.",
+      "url": "https://lindenservices.org",
+      "address": "0x27Cb5f4EbA81976617b75953053D33EF2002daDF",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x27Cb5f4EbA81976617b75953053D33EF2002daDF.png"
     }
   ]
 }
