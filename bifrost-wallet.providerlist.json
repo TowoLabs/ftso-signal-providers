@@ -1633,7 +1633,8 @@
       "description": "Poseidon FTSO is an FTSO on Songbird and Flare mainnet. We provide ourself in operating a functional FTSO which plays by the rules. We aim to build a robust FTSO which will help enhance the Flare ecosystem.",
       "url": "https://poseidon-ftso.com",
       "address": "0x02a256FF137D680aC591f1959D64a8669006c95c",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x02a256FF137D680aC591f1959D64a8669006c95c.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x02a256FF137D680aC591f1959D64a8669006c95c.png",
+      "listed": true
     },
     {
       "chainId": 19,
@@ -1774,7 +1775,8 @@
       "description": "Infinite ease, speed, power. The ultimate WEB3 infrastructure platform",
       "url": "https://infstones.com",
       "address": "0xB1Aa0F2691Db6bBb2969EfC7BE70787F58DD2461",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB1Aa0F2691Db6bBb2969EfC7BE70787F58DD2461.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB1Aa0F2691Db6bBb2969EfC7BE70787F58DD2461.png",
+      "listed": true
     },
     {
       "chainId": 14,
@@ -1953,6 +1955,14 @@
       "address": "0xe08898B7B8b18dBCdDcC6339c8b9c19EFfA81413",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe08898B7B8b18dBCdDcC6339c8b9c19EFfA81413.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Linden Services",
+      "description": "Linden Services provides data to the Flare oracle system, validates transactions and blocks, and participates in the consensus process.",
+      "url": "https://lindenservices.org",
+      "address": "0x27Cb5f4EbA81976617b75953053D33EF2002daDF",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x27Cb5f4EbA81976617b75953053D33EF2002daDF.png"
     }
   ]
 }
