@@ -1308,7 +1308,7 @@
     },
     {
       "chainId": 19,
-      "name": "FTSO PARIS",
+      "name": "FTSO Paris",
       "description": "FTSO Paris is a data provider based in Paris, France, submitting prices calculated from over 80 cryptocurrency exchanges using a proprietary, robust, and fault-tolerant algorithm.",
       "url": "https://ftso.paris",
       "address": "0x2C293599ca61bb53e8fF82c8a19c2A8B883ea23f",
@@ -1317,7 +1317,7 @@
     },
     {
       "chainId": 14,
-      "name": "FTSO PARIS",
+      "name": "FTSO Paris",
       "description": "FTSO Paris is a data provider based in Paris, France, submitting prices calculated from over 80 cryptocurrency exchanges using a proprietary, robust, and fault-tolerant algorithm.",
       "url": "https://ftso.paris",
       "address": "0x085841B253590281cc5c5222b09D4e59a605E774",
