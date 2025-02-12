@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet FTSO Provider List",
-  "timestamp": "2024-10-02T00:00:00+00:00",
+  "timestamp": "2025-02-12T00:00:00+00:00",
   "version": {
     "major": 4,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
   "providers": [
