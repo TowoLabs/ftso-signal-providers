@@ -1963,6 +1963,14 @@
       "url": "https://lindenservices.org",
       "address": "0x27Cb5f4EbA81976617b75953053D33EF2002daDF",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x27Cb5f4EbA81976617b75953053D33EF2002daDF.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Stakecore",
+      "description": "An infrastructure provider that recognizes the importance of reliable data for an oracle-based chain.",
+      "url": "https://stakecore.org",
+      "address": "0x1e68DC808A240C096F0261144dc41fd4c883Cfb0",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1e68DC808A240C096F0261144dc41fd4c883Cfb0.png"
     }
   ]
 }
