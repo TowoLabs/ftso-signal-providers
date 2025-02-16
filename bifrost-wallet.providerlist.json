@@ -1971,6 +1971,14 @@
       "url": "https://stakecore.org",
       "address": "0x1e68DC808A240C096F0261144dc41fd4c883Cfb0",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1e68DC808A240C096F0261144dc41fd4c883Cfb0.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Linden Services",
+      "description": "Linden Services provides data to the Flare oracle system, validates transactions and blocks, and participates in the consensus process.",
+      "url": "https://lindenservices.org",
+      "address": "0x27Cb5f4EbA81976617b75953053D33EF2002daDF",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x27Cb5f4EbA81976617b75953053D33EF2002daDF.png"
     }
   ]
 }
