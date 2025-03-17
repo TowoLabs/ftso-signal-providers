@@ -1974,8 +1974,8 @@
     },
     {
       "chainId": 19,
-      "name": "FTSO Sensei",
-      "description": "FTSO Sensei is part of the Flare Sensei group providing infrastructure for both the Songbird and Flare network.",
+      "name": "Flare Sensei",
+      "description": "Flare Sensei provides FTSO, FDC and staking infrastructure for both the Songbird and Flare network.",
       "url": "https://ftso-sensei.com",
       "address": "0x3886E101Bb798Ab3180B52A393B5BEAb39f2dB1d",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3886E101Bb798Ab3180B52A393B5BEAb39f2dB1d.png"
