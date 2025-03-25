@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet FTSO Provider List",
-  "timestamp": "2025-02-12T00:00:00+00:00",
+  "timestamp": "2025-03-26T00:00:00+00:00",
   "version": {
     "major": 4,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "providers": [
@@ -1962,15 +1962,8 @@
       "description": "Linden Services provides data to the Flare oracle system, validates transactions and blocks, and participates in the consensus process.",
       "url": "https://lindenservices.org",
       "address": "0x27Cb5f4EbA81976617b75953053D33EF2002daDF",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x27Cb5f4EbA81976617b75953053D33EF2002daDF.png"
-    },
-    {
-      "chainId": 14,
-      "name": "Stakecore",
-      "description": "An infrastructure provider that recognizes the importance of reliable data for an oracle-based chain.",
-      "url": "https://stakecore.org",
-      "address": "0x1e68DC808A240C096F0261144dc41fd4c883Cfb0",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1e68DC808A240C096F0261144dc41fd4c883Cfb0.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x27Cb5f4EbA81976617b75953053D33EF2002daDF.png",
+      "listed": true
     },
     {
       "chainId": 19,
@@ -1979,6 +1972,43 @@
       "url": "https://lindenservices.org",
       "address": "0x27Cb5f4EbA81976617b75953053D33EF2002daDF",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x27Cb5f4EbA81976617b75953053D33EF2002daDF.png"
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Stakecore",
+      "description": "An infrastructure provider that recognizes the importance of reliable data for an oracle-based chain.",
+      "url": "https://stakecore.org",
+      "address": "0x1e68DC808A240C096F0261144dc41fd4c883Cfb0",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1e68DC808A240C096F0261144dc41fd4c883Cfb0.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "ITB Validator",
+      "description": "ITB runs DeFi strategies for the largest institutions in the crypto space. It also provides protocol-level risk signals for the top DeFi protocols in the market.",
+      "url": "https://www.intotheblock.com",
+      "address": "0x5Cbd87F8591869f5959a196722245F0C893C78EA",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5Cbd87F8591869f5959a196722245F0C893C78EA.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Flare Sensei",
+      "description": "Flare Sensei provides FTSO, FDC and staking infrastructure for both the Songbird and Flare network.",
+      "url": "https://ftso-sensei.com",
+      "address": "0x2566E97B2947dC2D6E9CAf0BF737Aabd7e78a0f6",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2566E97B2947dC2D6E9CAf0BF737Aabd7e78a0f6.png",
+      "listed": true
+    },
+    {
+      "chainId": 19,
+      "name": "Flare Sensei",
+      "description": "Flare Sensei provides FTSO, FDC and staking infrastructure for both the Songbird and Flare network.",
+      "url": "https://ftso-sensei.com",
+      "address": "0x3886E101Bb798Ab3180B52A393B5BEAb39f2dB1d",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3886E101Bb798Ab3180B52A393B5BEAb39f2dB1d.png",
+      "listed": true
     }
   ]
 }
