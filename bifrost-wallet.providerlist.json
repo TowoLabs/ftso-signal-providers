@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet FTSO Provider List",
-  "timestamp": "2025-02-12T00:00:00+00:00",
+  "timestamp": "2025-03-26T00:00:00+00:00",
   "version": {
     "major": 4,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "providers": [
@@ -1979,6 +1979,15 @@
       "url": "https://www.intotheblock.com",
       "address": "0x5Cbd87F8591869f5959a196722245F0C893C78EA",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5Cbd87F8591869f5959a196722245F0C893C78EA.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Flare Sensei",
+      "description": "Flare Sensei provides FTSO, FDC and staking infrastructure for both the Songbird and Flare network.",
+      "url": "https://ftso-sensei.com",
+      "address": "0x2566E97B2947dC2D6E9CAf0BF737Aabd7e78a0f6",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2566E97B2947dC2D6E9CAf0BF737Aabd7e78a0f6.png",
       "listed": true
     }
   ]
