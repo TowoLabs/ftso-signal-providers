@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet FTSO Provider List",
-  "timestamp": "2025-02-12T00:00:00+00:00",
+  "timestamp": "2025-03-26T00:00:00+00:00",
   "version": {
     "major": 4,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "providers": [
@@ -1971,6 +1971,24 @@
       "url": "https://stakecore.org",
       "address": "0x1e68DC808A240C096F0261144dc41fd4c883Cfb0",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1e68DC808A240C096F0261144dc41fd4c883Cfb0.png"
+    },
+    {
+      "chainId": 14,
+      "name": "ITB Validator",
+      "description": "ITB runs DeFi strategies for the largest institutions in the crypto space. It also provides protocol-level risk signals for the top DeFi protocols in the market.",
+      "url": "https://www.intotheblock.com",
+      "address": "0x5Cbd87F8591869f5959a196722245F0C893C78EA",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5Cbd87F8591869f5959a196722245F0C893C78EA.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Flare Sensei",
+      "description": "Flare Sensei provides FTSO, FDC and staking infrastructure for both the Songbird and Flare network.",
+      "url": "https://ftso-sensei.com",
+      "address": "0x2566E97B2947dC2D6E9CAf0BF737Aabd7e78a0f6",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2566E97B2947dC2D6E9CAf0BF737Aabd7e78a0f6.png",
+      "listed": true
     },
     {
       "chainId": 19,
