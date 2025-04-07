@@ -2009,6 +2009,15 @@
       "address": "0x3886E101Bb798Ab3180B52A393B5BEAb39f2dB1d",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3886E101Bb798Ab3180B52A393B5BEAb39f2dB1d.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Nansen",
+      "description": "Nansen is a leading on-chain analytics platform founded in 2020, and is now one of the most trusted names in crypto, serving traders and institutions. Disclaimer: delegating comes with slashing risks",
+      "url": "https://nansen.ai",
+      "address": "0xc382325BddE0BAa40A03A34863fCE45C510a4bE9",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc382325BddE0BAa40A03A34863fCE45C510a4bE9.png",
+      "listed": true
     }
   ]
 }
