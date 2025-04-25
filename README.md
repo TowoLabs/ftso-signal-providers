@@ -81,5 +81,6 @@ If your provider fulfills the extended requirements below, it may be eligible to
 ## Recommendations for Developers
 If you're a wallet or dapp developer using `bifrost-wallet.providerlist.json` in your software, we recommend that you:
 
-1. **Hide** all providers missing the `listed` property from contexts where users choose between different providers, such as in searchable signal provider lists.
-2. **Show** all providers in contexts where a choice has already been made, such as in confirmation views and transaction details.
+1. **Use the master branch**. Do not rely on next, it is considered development/unstable.
+2. **Hide** all providers missing the `listed` property from contexts where users choose between different providers, such as in searchable signal provider lists.
+3. **Show** all providers in contexts where a choice has already been made, such as in confirmation views and transaction details.
