@@ -2028,6 +2028,15 @@
       "address": "0xc382325BddE0BAa40A03A34863fCE45C510a4bE9",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc382325BddE0BAa40A03A34863fCE45C510a4bE9.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Flare Bank",
+      "description": "Flare Bank is providing you the ability to Experience the Power of Compound Gains",
+      "url": "https://flrbank.com",
+      "address": "0xfa9368CFbee3b070d8552d8e75Cdc0fF72eFAC50",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfa9368CFbee3b070d8552d8e75Cdc0fF72eFAC50.png",
+      "listed": true
     }
   ]
 }
