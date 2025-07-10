@@ -640,18 +640,18 @@
     },
     {
       "chainId": 19,
-      "name": "InGen.FTSO",
+      "name": "FTSO Asia",
       "description": "We are an Asian dynamic data provider for the FTSO bringing growth to the decentralized Flare.",
-      "url": "https://www.ftso.ingen.com.ph",
+      "url": "https://asia.ingen.com.ph",
       "address": "0x664e070592063bFE5072F0aC25C6C11e5ccF9928",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x664e070592063bFE5072F0aC25C6C11e5ccF9928.png",
       "listed": true
     },
     {
       "chainId": 14,
-      "name": "InGen.FTSO",
+      "name": "FTSO Asia",
       "description": "We are an Asian dynamic data provider for the FTSO bringing growth to the decentralized Flare.",
-      "url": "https://www.ftso.ingen.com.ph",
+      "url": "https://asia.ingen.com.ph",
       "address": "0xdd7B2Bac728f027f23aDD7128711ecB60f761aD5",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xdd7B2Bac728f027f23aDD7128711ecB60f761aD5.png",
       "listed": true
@@ -1719,9 +1719,9 @@
     },
     {
       "chainId": 14,
-      "name": "Restake",
-      "description": "Effortless staking with institutional standards",
-      "url": "https://restake.net",
+      "name": "Swyke",
+      "description": "Swyke is an ISO-27001 certified institutional grade validator registered with VARA (Virtual Asset Regulatory Authority)",
+      "url": "https://swyke.ai",
       "address": "0xbF55a6eb78487F49197806025CA82DdaF633204e",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbF55a6eb78487F49197806025CA82DdaF633204e.png",
       "listed": true
@@ -1973,6 +1973,15 @@
       "url": "https://lindenservices.org",
       "address": "0x27Cb5f4EbA81976617b75953053D33EF2002daDF",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x27Cb5f4EbA81976617b75953053D33EF2002daDF.png",
+      "listed": true
+    },
+    {
+      "chainId": 19,
+      "name": "Stakecore",
+      "description": "An infrastructure provider that recognizes the importance of reliable data for an oracle-based chain.",
+      "url": "https://stakecore.org",
+      "address": "0x1e68DC808A240C096F0261144dc41fd4c883Cfb0",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1e68DC808A240C096F0261144dc41fd4c883Cfb0.png",
       "listed": true
     },
     {
