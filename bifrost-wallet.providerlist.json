@@ -1827,7 +1827,8 @@
       "description": "Infrastructure services for Web3 and beyond.",
       "url": "https://lastoracle.xyz",
       "address": "0x535268cB19f2cC0c65D463be6Ab7751Ff4E9fC07",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x535268cB19f2cC0c65D463be6Ab7751Ff4E9fC07.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x535268cB19f2cC0c65D463be6Ab7751Ff4E9fC07.png",
+      "listed": true
     },
     {
       "chainId": 19,
