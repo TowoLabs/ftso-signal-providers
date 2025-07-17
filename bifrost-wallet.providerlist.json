@@ -2053,6 +2053,14 @@
       "url": "https://ftso.best",
       "address": "0xc396b6f023f3A1C894a20FBa08432E847C05c7F9",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc396b6f023f3A1C894a20FBa08432E847C05c7F9.png"
+    },
+    {
+      "chainId": 14,
+      "name": "FlareBus",
+      "description": "FlareBus is a decentralized FTSO provider that delivers accurate and real-time price data for the Flare Network ecosystem. Our infrastructure is a hybrid blend of dedicated bare-metal servers and scalable cloud environments. This combination allows us to optimize for both low-latency performance and high availability.",
+      "url": "https://flarebus.com",
+      "address": "0x6c5C813Dd19F071bE0b6e83701955810f118e717",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6c5C813Dd19F071bE0b6e83701955810f118e717.png"
     }
   ]
 }
