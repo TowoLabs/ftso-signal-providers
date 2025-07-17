@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet FTSO Provider List",
-  "timestamp": "2025-03-26T00:00:00+00:00",
+  "timestamp": "2025-07-17T00:00:00+00:00",
   "version": {
     "major": 4,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "providers": [
@@ -2027,6 +2027,15 @@
       "url": "https://nansen.ai",
       "address": "0xc382325BddE0BAa40A03A34863fCE45C510a4bE9",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc382325BddE0BAa40A03A34863fCE45C510a4bE9.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Honest Systems",
+      "description": "We validate, support FTSO and FDC, and do the honest work powering decentralized systems.",
+      "url": "https://honestsystems.io",
+      "address": "0x00031123b50cdD187dc4D2982164b5458061B463",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x00031123b50cdD187dc4D2982164b5458061B463.png",
       "listed": true
     },
     {
