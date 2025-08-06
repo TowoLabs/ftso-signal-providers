@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet FTSO Provider List",
-  "timestamp": "2025-03-26T00:00:00+00:00",
+  "timestamp": "2025-07-17T00:00:00+00:00",
   "version": {
     "major": 4,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "providers": [
@@ -1719,9 +1719,9 @@
     },
     {
       "chainId": 14,
-      "name": "Restake",
-      "description": "Effortless staking with institutional standards",
-      "url": "https://restake.net",
+      "name": "Swyke",
+      "description": "Swyke is an ISO-27001 certified institutional grade validator registered with VARA (Virtual Asset Regulatory Authority)",
+      "url": "https://swyke.ai",
       "address": "0xbF55a6eb78487F49197806025CA82DdaF633204e",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbF55a6eb78487F49197806025CA82DdaF633204e.png",
       "listed": true
@@ -1827,7 +1827,8 @@
       "description": "Infrastructure services for Web3 and beyond.",
       "url": "https://lastoracle.xyz",
       "address": "0x535268cB19f2cC0c65D463be6Ab7751Ff4E9fC07",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x535268cB19f2cC0c65D463be6Ab7751Ff4E9fC07.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x535268cB19f2cC0c65D463be6Ab7751Ff4E9fC07.png",
+      "listed": true
     },
     {
       "chainId": 19,
@@ -2037,6 +2038,40 @@
       "address": "0xfa9368CFbee3b070d8552d8e75Cdc0fF72eFAC50",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfa9368CFbee3b070d8552d8e75Cdc0fF72eFAC50.png",
       "listed": true
+    }
+    {
+      "chainId": 14,
+      "name": "Honest Systems",
+      "description": "We validate, support FTSO and FDC, and do the honest work powering decentralized systems.",
+      "url": "https://honestsystems.io",
+      "address": "0x00031123b50cdD187dc4D2982164b5458061B463",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x00031123b50cdD187dc4D2982164b5458061B463.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Ftso.Best",
+      "description": "ftso.best is an independent team focused solely on building projects for the Flare Network – including ftsolottery, dax.best, and more. Our mission is to bring real value to the community. Disclaimer: delegating comes with slashing risks.",
+      "url": "https://ftso.best",
+      "address": "0xc396b6f023f3A1C894a20FBa08432E847C05c7F9",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc396b6f023f3A1C894a20FBa08432E847C05c7F9.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Ftso.Best",
+      "description": "ftso.best is an independent team focused solely on building projects for the Flare Network – including ftsolottery, dax.best, and more. Our mission is to bring real value to the community. Disclaimer: delegating comes with slashing risks.",
+      "url": "https://ftso.best",
+      "address": "0xc396b6f023f3A1C894a20FBa08432E847C05c7F9",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc396b6f023f3A1C894a20FBa08432E847C05c7F9.png"
+    },
+    {
+      "chainId": 14,
+      "name": "FlareBus",
+      "description": "FlareBus is a decentralized FTSO provider that delivers accurate and real-time price data for the Flare Network ecosystem. Our infrastructure is a hybrid blend of dedicated bare-metal servers and scalable cloud environments. This combination allows us to optimize for both low-latency performance and high availability.",
+      "url": "https://flarebus.com",
+      "address": "0x6c5C813Dd19F071bE0b6e83701955810f118e717",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6c5C813Dd19F071bE0b6e83701955810f118e717.png"
+
     }
   ]
 }
