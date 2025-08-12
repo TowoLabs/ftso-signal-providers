@@ -2062,6 +2062,14 @@
       "url": "https://flarebus.com",
       "address": "0x6c5C813Dd19F071bE0b6e83701955810f118e717",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6c5C813Dd19F071bE0b6e83701955810f118e717.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Resonance",
+      "description": "Resonance delivers accurate, transparent oracle signals on Flare, while prioritizing durability and the network's long-term health over short-term wins.",
+      "url": "https://resonanceoracle.xyz",
+      "address": "0x62571dE064cAC560207b7116C6d87C818f7376cC",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62571dE064cAC560207b7116C6d87C818f7376cC.png"
     }
   ]
 }
