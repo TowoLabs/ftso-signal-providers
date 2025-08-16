@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet FTSO Provider List",
-  "timestamp": "2025-07-17T00:00:00+00:00",
+  "timestamp": "2025-08-16T00:00:00+00:00",
   "version": {
-    "major": 4,
-    "minor": 8,
+    "major": 5,
+    "minor": 0,
     "patch": 0
   },
   "providers": [
@@ -1220,18 +1220,18 @@
     },
     {
       "chainId": 19,
-      "name": "EDPFTSO",
-      "description": "Enterprise Data Provider FTSO",
-      "url": "https://edp-ftso.com",
+      "name": "Catenalytica",
+      "description": "Our mission is to deliver the highest possible reward rates for our delegators. We achieve this by combining a high-accuracy FTSO algorithm with low validator fees, all while committing to complete data transparency.",
+      "url": "https://catenalytica.com",
       "address": "0x1C602a30335187A97D8061Ffffd4522796DE82bF",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1C602a30335187A97D8061Ffffd4522796DE82bF.png",
       "listed": true
     },
     {
       "chainId": 14,
-      "name": "EDPFTSO",
-      "description": "Enterprise Data Provider FTSO",
-      "url": "https://edp-ftso.com",
+      "name": "Catenalytica",
+      "description": "Our mission is to deliver the highest possible reward rates for our delegators. We achieve this by combining a high-accuracy FTSO algorithm with low validator fees, all while committing to complete data transparency.",
+      "url": "https://catenalytica.com",
       "address": "0xad918962795547a8c997F96f7BAbB822612a5FfE",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xad918962795547a8c997F96f7BAbB822612a5FfE.png",
       "listed": true
@@ -2061,7 +2061,8 @@
       "description": "FlareBus is a decentralized FTSO provider that delivers accurate and real-time price data for the Flare Network ecosystem. Our infrastructure is a hybrid blend of dedicated bare-metal servers and scalable cloud environments. This combination allows us to optimize for both low-latency performance and high availability.",
       "url": "https://flarebus.com",
       "address": "0x6c5C813Dd19F071bE0b6e83701955810f118e717",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6c5C813Dd19F071bE0b6e83701955810f118e717.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6c5C813Dd19F071bE0b6e83701955810f118e717.png",
+      "listed": true
     },
     {
       "chainId": 14,
@@ -2069,7 +2070,17 @@
       "description": "Resonance delivers accurate, transparent oracle signals on Flare, while prioritizing durability and the network's long-term health over short-term wins.",
       "url": "https://resonanceoracle.xyz",
       "address": "0x62571dE064cAC560207b7116C6d87C818f7376cC",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62571dE064cAC560207b7116C6d87C818f7376cC.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62571dE064cAC560207b7116C6d87C818f7376cC.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Juice Nodes",
+      "description": "Juice Nodes is an independently owned and operated validator focused on providing fast and accurate data for the Flare ecosystem.",
+      "url": "https://juicenodes.com",
+      "address": "0xce73ADe61b0d0100BA1507D9fA1Dc2feA3046578",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xce73ADe61b0d0100BA1507D9fA1Dc2feA3046578.png",
+      "listed": true
     }
   ]
 }
