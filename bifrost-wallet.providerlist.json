@@ -1220,18 +1220,18 @@
     },
     {
       "chainId": 19,
-      "name": "EDPFTSO",
-      "description": "Enterprise Data Provider FTSO",
-      "url": "https://edp-ftso.com",
+      "name": "Catenalytica",
+      "description": "Our mission is to deliver the highest possible reward rates for our delegators. We achieve this by combining a high-accuracy FTSO algorithm with low validator fees, all while committing to complete data transparency.",
+      "url": "https://catenalytica.com",
       "address": "0x1C602a30335187A97D8061Ffffd4522796DE82bF",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1C602a30335187A97D8061Ffffd4522796DE82bF.png",
       "listed": true
     },
     {
       "chainId": 14,
-      "name": "EDPFTSO",
-      "description": "Enterprise Data Provider FTSO",
-      "url": "https://edp-ftso.com",
+      "name": "Catenalytica",
+      "description": "Our mission is to deliver the highest possible reward rates for our delegators. We achieve this by combining a high-accuracy FTSO algorithm with low validator fees, all while committing to complete data transparency.",
+      "url": "https://catenalytica.com",
       "address": "0xad918962795547a8c997F96f7BAbB822612a5FfE",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xad918962795547a8c997F96f7BAbB822612a5FfE.png",
       "listed": true
