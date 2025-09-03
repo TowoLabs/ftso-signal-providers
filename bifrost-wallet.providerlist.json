@@ -2090,6 +2090,15 @@
       "address": "0xce73ADe61b0d0100BA1507D9fA1Dc2feA3046578",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xce73ADe61b0d0100BA1507D9fA1Dc2feA3046578.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "HP/Mana Nodes",
+      "description": "HP/Mana Nodes is a community based infrastructure provider on Flare Networks. Mint Player One or Player Two NFTs to fund our validator’s self-bonding and secure your place as an infrastructure shareholder. The more FLR is bonded, the more yield is shared by all.",
+      "url": "https://veriguardnft.xyz",
+      "address": "0xF61B94dEdC5f23398997D73B7701D67556eaaD6F",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF61B94dEdC5f23398997D73B7701D67556eaaD6F.png",
+      "listed": true
     }
   ]
 }
