@@ -1,8 +1,8 @@
 {
   "name": "Bifrost Wallet FTSO Provider List",
-  "timestamp": "2025-08-16T00:00:00+00:00",
+  "timestamp": "2025-09-04T00:00:00+00:00",
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 0,
     "patch": 0
   },
@@ -2073,6 +2073,15 @@
       "url": "https://flarebus.com",
       "address": "0x6c5C813Dd19F071bE0b6e83701955810f118e717",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6c5C813Dd19F071bE0b6e83701955810f118e717.png",
+      "listed": true
+    },
+    {
+      "chainId": 19,
+      "name": "FlareBus",
+      "description": "FlareBus is a decentralized FTSO provider that delivers accurate and real-time price data for the Flare Network ecosystem. Our infrastructure is a hybrid blend of dedicated bare-metal servers and scalable cloud environments. This combination allows us to optimize for both low-latency performance and high availability.",
+      "url": "https://flarebus.com",
+      "address": "0xF24F04f1F886B2e09d9Cf76FbC7e02925c9f8CC8",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF24F04f1F886B2e09d9Cf76FbC7e02925c9f8CC8.png",
       "listed": true
     },
     {
