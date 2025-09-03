@@ -1,8 +1,8 @@
 {
   "name": "Bifrost Wallet FTSO Provider List",
-  "timestamp": "2025-08-16T00:00:00+00:00",
+  "timestamp": "2025-09-04T00:00:00+00:00",
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 0,
     "patch": 0
   },
@@ -2032,6 +2032,15 @@
     },
     {
       "chainId": 14,
+      "name": "Flare Bank",
+      "description": "Flare Bank is providing you the ability to Experience the Power of Compound Gains",
+      "url": "https://flrbank.com",
+      "address": "0xfa9368CFbee3b070d8552d8e75Cdc0fF72eFAC50",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfa9368CFbee3b070d8552d8e75Cdc0fF72eFAC50.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
       "name": "Honest Systems",
       "description": "We validate, support FTSO and FDC, and do the honest work powering decentralized systems.",
       "url": "https://honestsystems.io",
@@ -2041,19 +2050,21 @@
     },
     {
       "chainId": 14,
-      "name": "Ftso.Best",
-      "description": "ftso.best is an independent team focused solely on building projects for the Flare Network – including ftsolottery, dax.best, and more. Our mission is to bring real value to the community. Disclaimer: delegating comes with slashing risks.",
+      "name": "FTSOBest",
+      "description": "The name is our mission: We are a data provider that enables the community to participate directly in the project’s success through utility NFTs",
       "url": "https://ftso.best",
       "address": "0xc396b6f023f3A1C894a20FBa08432E847C05c7F9",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc396b6f023f3A1C894a20FBa08432E847C05c7F9.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc396b6f023f3A1C894a20FBa08432E847C05c7F9.png",
+      "listed": true
     },
     {
       "chainId": 19,
-      "name": "Ftso.Best",
-      "description": "ftso.best is an independent team focused solely on building projects for the Flare Network – including ftsolottery, dax.best, and more. Our mission is to bring real value to the community. Disclaimer: delegating comes with slashing risks.",
+      "name": "FTSOBest",
+      "description": "The name is our mission: We are a data provider that enables the community to participate directly in the project’s success through utility NFTs",
       "url": "https://ftso.best",
       "address": "0xc396b6f023f3A1C894a20FBa08432E847C05c7F9",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc396b6f023f3A1C894a20FBa08432E847C05c7F9.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc396b6f023f3A1C894a20FBa08432E847C05c7F9.png",
+      "listed": true
     },
     {
       "chainId": 14,
@@ -2062,6 +2073,15 @@
       "url": "https://flarebus.com",
       "address": "0x6c5C813Dd19F071bE0b6e83701955810f118e717",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6c5C813Dd19F071bE0b6e83701955810f118e717.png",
+      "listed": true
+    },
+    {
+      "chainId": 19,
+      "name": "FlareBus",
+      "description": "FlareBus is a decentralized FTSO provider that delivers accurate and real-time price data for the Flare Network ecosystem. Our infrastructure is a hybrid blend of dedicated bare-metal servers and scalable cloud environments. This combination allows us to optimize for both low-latency performance and high availability.",
+      "url": "https://flarebus.com",
+      "address": "0xF24F04f1F886B2e09d9Cf76FbC7e02925c9f8CC8",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF24F04f1F886B2e09d9Cf76FbC7e02925c9f8CC8.png",
       "listed": true
     },
     {
@@ -2083,12 +2103,12 @@
       "listed": true
     },
     {
-      "chainId": 19,
-      "name": "FlareBus",
-      "description": "FlareBus is a decentralized FTSO provider that delivers accurate and real-time price data for the Flare Network ecosystem. Our infrastructure is a hybrid blend of dedicated bare-metal servers and scalable cloud environments. This combination allows us to optimize for both low-latency performance and high availability.",
-      "url": "https://flarebus.com",
-      "address": "0xF24F04f1F886B2e09d9Cf76FbC7e02925c9f8CC8",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF24F04f1F886B2e09d9Cf76FbC7e02925c9f8CC8.png",
+      "chainId": 14,
+      "name": "HP/Mana Nodes",
+      "description": "HP/Mana Nodes is a community based infrastructure provider on Flare Networks. Mint Player One or Player Two NFTs to fund our validator’s self-bonding and secure your place as an infrastructure shareholder. The more FLR is bonded, the more yield is shared by all.",
+      "url": "https://veriguardnft.xyz",
+      "address": "0xF61B94dEdC5f23398997D73B7701D67556eaaD6F",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF61B94dEdC5f23398997D73B7701D67556eaaD6F.png",
       "listed": true
     }
   ]
