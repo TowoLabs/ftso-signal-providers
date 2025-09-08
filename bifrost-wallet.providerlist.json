@@ -2110,6 +2110,15 @@
       "address": "0xF61B94dEdC5f23398997D73B7701D67556eaaD6F",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF61B94dEdC5f23398997D73B7701D67556eaaD6F.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "FTSO Yggdrassil",
+      "description": "Inspired by the mighty Yggdrassil tree, my FTSO stands firmly rooted in the Flare Network nurturing reliable and decentralized data feeds, symbolizing strength and growth.",
+      "url": "https://ftso-yggdrassil.com",
+      "address": "0x6dC9f5e5EeFDdf1982BfE00c29Ad2f7c8917e1BB",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6dC9f5e5EeFDdf1982BfE00c29Ad2f7c8917e1BB.png",
+      "listed": true
     }
   ]
 }
