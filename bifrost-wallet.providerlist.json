@@ -853,18 +853,18 @@
     },
     {
       "chainId": 19,
-      "name": "ACDTftso",
-      "description": "ACDTftso is an Italian provider. We offer near real time prices with an high accuracy rate and a simple Webapp for interact with Flare Network.",
-      "url": "https://www.acdtftso.it",
+      "name": "FlareBase",
+      "description": "FlareBase is an Italian Flare provider. We offer near real time prices with an high accuracy rate, FDC data and Flare validators.",
+      "url": "https://www.flare-base.io",
       "address": "0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d.png",
       "listed": true
     },
     {
       "chainId": 14,
-      "name": "ACDTftso",
-      "description": "ACDTftso is an Italian provider. We offer near real time prices with an high accuracy rate and a simple Webapp for interact with Flare Network.",
-      "url": "https://www.acdtftso.it",
+      "name": "FlareBase",
+      "description": "FlareBase is an Italian Flare provider. We offer near real time prices with an high accuracy rate, FDC data and Flare validators.",
+      "url": "https://www.flare-base.io",
       "address": "0xAc2884A4479Bf7c21AA0462d52bc9c76c3a9A3dD",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAc2884A4479Bf7c21AA0462d52bc9c76c3a9A3dD.png",
       "listed": true
