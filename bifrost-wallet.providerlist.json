@@ -2110,6 +2110,14 @@
       "address": "0xF61B94dEdC5f23398997D73B7701D67556eaaD6F",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF61B94dEdC5f23398997D73B7701D67556eaaD6F.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "MirSFlr",
+      "description": "On a mission to deliver fast, reliable and transparent data on the Flare Network to maximize rewards for delegators with near-zero downtime.",
+      "url": "https://www.mirhollio.com",
+      "address": "0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade.png"
     }
   ]
 }
