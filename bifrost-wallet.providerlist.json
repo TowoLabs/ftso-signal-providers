@@ -101,8 +101,7 @@
       "description": "Signal provider on the Flare Network. UK-based team with global coverage. Providing robust and weighted signals. Dedicated to unlocking value.",
       "url": "https://www.ftso.uk",
       "address": "0xB9b7355f5b71CEE345311921D247b1D2bA5cFe90",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB9b7355f5b71CEE345311921D247b1D2bA5cFe90.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB9b7355f5b71CEE345311921D247b1D2bA5cFe90.png"
     },
     {
       "chainId": 14,
@@ -110,8 +109,7 @@
       "description": "Signal provider on the Flare Network. UK-based team with global coverage. Providing robust and weighted signals. Dedicated to unlocking value.",
       "url": "https://www.ftso.uk",
       "address": "0x5F911C2C681f678e5A3a8D54f950d6b192CC16E3",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5F911C2C681f678e5A3a8D54f950d6b192CC16E3.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5F911C2C681f678e5A3a8D54f950d6b192CC16E3.png"
     },
     {
       "chainId": 19,
@@ -1276,8 +1274,7 @@
       "description": "SolidiFi Nexus: Pioneering Flare's data integrity with accurate price feeds, free DeFi tools, and community-focused dApps since the Songbird days.",
       "url": "https://solidifinexus.com",
       "address": "0x769530a9F2e4624aE2D6869869d510D4cd55b545",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x769530a9F2e4624aE2D6869869d510D4cd55b545.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x769530a9F2e4624aE2D6869869d510D4cd55b545.png"
     },
     {
       "chainId": 14,
@@ -1285,8 +1282,7 @@
       "description": "SolidiFi Nexus: Pioneering Flare's data integrity with accurate price feeds, free DeFi tools, and community-focused dApps since the Songbird days.",
       "url": "https://solidifinexus.com",
       "address": "0x4CfB79399cd840414a2BeF2c7C7A0cE3b9b0F89d",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4CfB79399cd840414a2BeF2c7C7A0cE3b9b0F89d.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4CfB79399cd840414a2BeF2c7C7A0cE3b9b0F89d.png"
     },
     {
       "chainId": 19,
