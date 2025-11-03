@@ -2115,6 +2115,24 @@
       "address": "0xFCAB33D4af3a8e7c9997968114c5754D987B8563",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xFCAB33D4af3a8e7c9997968114c5754D987B8563.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "PrivatAsset",
+      "description": "Driven by expertise, guided by integrity – Turning financial potential into real progress"
+      "url": "https://privatasset.com",
+      "address": "0xfF2E51FBf9196eaf96978eC454C5acDCF4C46990",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfF2E51FBf9196eaf96978eC454C5acDCF4C46990.png",
+      "listed": true
+    },
+    {
+      "chainId": 19,
+      "name": "PrivatAsset",
+      "description": "Driven by expertise, guided by integrity – Turning financial potential into real progress"
+      "url": "https://privatasset.com",
+      "address": "0xfF2E51FBf9196eaf96978eC454C5acDCF4C46990",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfF2E51FBf9196eaf96978eC454C5acDCF4C46990.png",
+      "listed": true
     }
   ]
 }
