@@ -2115,6 +2115,15 @@
       "address": "0xFCAB33D4af3a8e7c9997968114c5754D987B8563",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xFCAB33D4af3a8e7c9997968114c5754D987B8563.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Quicknode",
+      "description": "Accelerating Web3 with lightning-fast Flare infrastructure ⚡ SOC 1 Type 2, SOC 2 Type 2, ISO 27001 Certified.",
+      "url": "https://quicknode.com",
+      "address": "0x7121Ee7189631b7DD08f0cc82F931403a0548E28",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7121Ee7189631b7DD08f0cc82F931403a0548E28.png",
+      "listed": true
     }
   ]
 }
