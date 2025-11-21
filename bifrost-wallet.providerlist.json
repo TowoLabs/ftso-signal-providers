@@ -2112,9 +2112,26 @@
       "name": "SparkDEX",
       "description": "Flares DeFi Hub.",
       "url": "https://sparkdex.ai",
-      "address": "0xFCAB33D4af3a8e7c9997968114c5754D987B8563",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xFCAB33D4af3a8e7c9997968114c5754D987B8563.png",
+      "address": "0xf8Fb4cD8728F7def92b12F9de005Df934f0b69cB",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf8Fb4cD8728F7def92b12F9de005Df934f0b69cB.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Quicknode",
+      "description": "Accelerating Web3 with lightning-fast Flare infrastructure ⚡ SOC 1 Type 2, SOC 2 Type 2, ISO 27001 Certified.",
+      "url": "https://quicknode.com",
+      "address": "0x7121Ee7189631b7DD08f0cc82F931403a0548E28",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7121Ee7189631b7DD08f0cc82F931403a0548E28.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "MirSFlr",
+      "description": "On a mission to deliver fast, reliable and transparent data on the Flare Network to maximize rewards for delegators with near-zero downtime.",
+      "url": "https://www.mirhollio.com",
+      "address": "0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade.png"
     },
     {
       "chainId": 14,
