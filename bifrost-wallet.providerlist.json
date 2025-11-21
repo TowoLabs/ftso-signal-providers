@@ -2118,20 +2118,21 @@
     },
     {
       "chainId": 14,
-      "name": "Quicknode",
-      "description": "Accelerating Web3 with lightning-fast Flare infrastructure ⚡ SOC 1 Type 2, SOC 2 Type 2, ISO 27001 Certified.",
-      "url": "https://quicknode.com",
-      "address": "0x7121Ee7189631b7DD08f0cc82F931403a0548E28",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7121Ee7189631b7DD08f0cc82F931403a0548E28.png",
+      "name": "PrivatAsset",
+      "description": "Driven by expertise, guided by integrity – Turning financial potential into real progress"
+      "url": "https://privatasset.com",
+      "address": "0xfF2E51FBf9196eaf96978eC454C5acDCF4C46990",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfF2E51FBf9196eaf96978eC454C5acDCF4C46990.png",
       "listed": true
     },
     {
-      "chainId": 14,
-      "name": "MirSFlr",
-      "description": "On a mission to deliver fast, reliable and transparent data on the Flare Network to maximize rewards for delegators with near-zero downtime.",
-      "url": "https://www.mirhollio.com",
-      "address": "0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade.png"
+      "chainId": 19,
+      "name": "PrivatAsset",
+      "description": "Driven by expertise, guided by integrity – Turning financial potential into real progress"
+      "url": "https://privatasset.com",
+      "address": "0xfF2E51FBf9196eaf96978eC454C5acDCF4C46990",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfF2E51FBf9196eaf96978eC454C5acDCF4C46990.png",
+      "listed": true
     }
   ]
 }
