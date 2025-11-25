@@ -2131,7 +2131,8 @@
       "description": "On a mission to deliver fast, reliable and transparent data on the Flare Network to maximize rewards for delegators with near-zero downtime.",
       "url": "https://www.mirhollio.com",
       "address": "0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade.png",
+      "listed": true
     }
   ]
 }
