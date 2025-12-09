@@ -2132,6 +2132,15 @@
       "url": "https://www.mirhollio.com",
       "address": "0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Pingu",
+      "description": "Providing clear and reliable price signals for the Flare ecosystem.",
+      "url": "https://pingu.cat",
+      "address": "0x5e6e598D64b7e559dB91523067a3aD5699A9b77E",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5e6e598D64b7e559dB91523067a3aD5699A9b77E.png",
+      "listed": true
     }
   ]
 }
