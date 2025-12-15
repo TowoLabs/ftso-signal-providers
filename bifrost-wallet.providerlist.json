@@ -2109,11 +2109,6 @@
     },
     {
       "chainId": 14,
-      "name": "Digital Dynamix",
-      "description": "The Digital Dynamix Validator is a key component of our expanding ecosystem on Flare which allows Rewards to be forwarded to our amazing community through novel initiatives - Sharing is Caring!",
-      "url": "https://www.digitaldynamix.co.uk",
-      "address": "0x16C0619b2C427AaEb5931426eB0a898b6E3Cd885",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x16C0619b2C427AaEb5931426eB0a898b6E3Cd885.png"
       "name": "SparkDEX",
       "description": "Flares DeFi Hub.",
       "url": "https://sparkdex.ai",
@@ -2137,6 +2132,15 @@
       "url": "https://www.mirhollio.com",
       "address": "0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Digital Dynamix",
+      "description": "The Digital Dynamix Validator is a key component of our expanding ecosystem on Flare which allows Rewards to be forwarded to our amazing community through novel initiatives - Sharing is Caring!",
+      "url": "https://www.digitaldynamix.co.uk",
+      "address": "0x16C0619b2C427AaEb5931426eB0a898b6E3Cd885",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x16C0619b2C427AaEb5931426eB0a898b6E3Cd885.png"
+      "listed": true
     }
   ]
 }
