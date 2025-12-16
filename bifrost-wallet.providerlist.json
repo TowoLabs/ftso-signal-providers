@@ -2132,6 +2132,14 @@
       "url": "https://www.mirhollio.com",
       "address": "0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Nifty League",
+      "description": "Combining decentralized data, network rewards, platform fees, and gamified vesting into a single scalable gaming ecosystem.",
+      "url": "https://ftso.com",
+      "address": "0x87e1237074760F57b424121edcA06F082700dBC2",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x87e1237074760F57b424121edcA06F082700dBC2.png"
     }
   ]
 }
