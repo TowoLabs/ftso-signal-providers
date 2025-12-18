@@ -2147,6 +2147,24 @@
       "url": "https://www.digitaldynamix.co.uk",
       "address": "0x16C0619b2C427AaEb5931426eB0a898b6E3Cd885",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x16C0619b2C427AaEb5931426eB0a898b6E3Cd885.png"
+    },
+    {
+      "chainId": 14,
+      "name": "PrivatAsset",
+      "description": "Driven by expertise, guided by integrity – Turning financial potential into real progress"
+      "url": "https://privatasset.com",
+      "address": "0xfF2E51FBf9196eaf96978eC454C5acDCF4C46990",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfF2E51FBf9196eaf96978eC454C5acDCF4C46990.png",
+      "listed": true
+    },
+    {
+      "chainId": 19,
+      "name": "PrivatAsset",
+      "description": "Driven by expertise, guided by integrity – Turning financial potential into real progress"
+      "url": "https://privatasset.com",
+      "address": "0xfF2E51FBf9196eaf96978eC454C5acDCF4C46990",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfF2E51FBf9196eaf96978eC454C5acDCF4C46990.png",
+      "listed": true
     }
   ]
 }
