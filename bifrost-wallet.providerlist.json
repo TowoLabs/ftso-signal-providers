@@ -2142,6 +2142,7 @@
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3035364f988CfC4574D459009F9D3f68D9d734d7.png"
     },
     {
+      "chainId": 14,
       "name": "Digital Dynamix",
       "description": "The Digital Dynamix Validator is a key component of our expanding ecosystem on Flare which allows Rewards to be forwarded to our amazing community through novel initiatives - Sharing is Caring!",
       "url": "https://www.digitaldynamix.co.uk",
