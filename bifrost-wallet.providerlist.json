@@ -2148,6 +2148,14 @@
       "url": "https://www.digitaldynamix.co.uk",
       "address": "0x16C0619b2C427AaEb5931426eB0a898b6E3Cd885",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x16C0619b2C427AaEb5931426eB0a898b6E3Cd885.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Cottage Nodes",
+      "description": "Our delegation services enable token holders to earn lucrative rewards on the Flare Network. Advanced algorithms are constantly refined with the objective of generating maximum reward for the benefit of all Flare token holders who have delegated their vote to us. Validating from under the Alps 🏔️.",
+      "url": "https://www.cottagenodes.com",
+      "address": "0x6EBbd69832AF87434253C10F9045E012286f509E",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6EBbd69832AF87434253C10F9045E012286f509E.png"
     }
   ]
 }
