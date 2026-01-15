@@ -2148,6 +2148,14 @@
       "url": "https://www.digitaldynamix.co.uk",
       "address": "0x16C0619b2C427AaEb5931426eB0a898b6E3Cd885",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x16C0619b2C427AaEb5931426eB0a898b6E3Cd885.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Latin Link",
+      "description": "Legalmente constituido como Latin Link Blockchain S.A. en Panamá. Ofrecemos feeds de precios descentralizados, precisos y resistentes a manipulaciones para Flare. Alta disponibilidad y accuracy. Delega con confianza y obtén recompensas pasivas sin riesgo de principal. ¡El FTSO hecho para Latam!",
+      "url": "https://latin-link.net",
+      "address": "0x6Bf769AE43A66e3E957f939D8C6A330BC0b6215A",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6Bf769AE43A66e3E957f939D8C6A330BC0b6215A.png"
     }
   ]
 }
