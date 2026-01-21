@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet FTSO Provider List",
-  "timestamp": "2025-10-25T00:00:00+00:00",
+  "timestamp": "2026-01-12T00:00:00+00:00",
   "version": {
     "major": 6,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "providers": [
@@ -2131,7 +2131,8 @@
       "description": "On a mission to deliver fast, reliable and transparent data on the Flare Network to maximize rewards for delegators with near-zero downtime.",
       "url": "https://www.mirhollio.com",
       "address": "0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade.png",
+      "listed": true
     },
     {
       "chainId": 14,
@@ -2146,8 +2147,9 @@
       "name": "Digital Dynamix",
       "description": "The Digital Dynamix Validator is a key component of our expanding ecosystem on Flare which allows Rewards to be forwarded to our amazing community through novel initiatives - Sharing is Caring!",
       "url": "https://www.digitaldynamix.co.uk",
-      "address": "0x16C0619b2C427AaEb5931426eB0a898b6E3Cd885",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x16C0619b2C427AaEb5931426eB0a898b6E3Cd885.png"
+      "address": "0x57711D552E2309c7a83716351e7a59a438f17e3a",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x57711D552E2309c7a83716351e7a59a438f17e3a.png",
+      "listed": true
     },
     {
       "chainId": 14,
@@ -2168,10 +2170,11 @@
     {
       "chainId": 14,
       "name": "Cottage Nodes",
-      "description": "Our delegation services enable token holders to earn lucrative rewards on the Flare Network. Advanced algorithms are constantly refined with the objective of generating maximum reward for the benefit of all Flare token holders who have delegated their vote to us. Validating from under the Alps 🏔️.",
+      "description": "Our delegation services enable token holders to earn lucrative rewards on the Flare Network. Advanced algorithms are constantly refined with the objective of generating maximum reward for the benefit of all Flare token holders who have delegated their vote to us. Validating from under the Alps.",
       "url": "https://www.cottagenodes.com",
       "address": "0x6EBbd69832AF87434253C10F9045E012286f509E",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6EBbd69832AF87434253C10F9045E012286f509E.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6EBbd69832AF87434253C10F9045E012286f509E.png",
+      "listed": true
     }
   ]
 }
