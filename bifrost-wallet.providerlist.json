@@ -2153,6 +2153,22 @@
     },
     {
       "chainId": 14,
+      "name": "PrivatAsset",
+      "description": "Driven by expertise, guided by integrity – Turning financial potential into real progress"
+      "url": "https://privatasset.com",
+      "address": "0xfF2E51FBf9196eaf96978eC454C5acDCF4C46990",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfF2E51FBf9196eaf96978eC454C5acDCF4C46990.png"
+    },
+    {
+      "chainId": 19,
+      "name": "PrivatAsset",
+      "description": "Driven by expertise, guided by integrity – Turning financial potential into real progress"
+      "url": "https://privatasset.com",
+      "address": "0xfF2E51FBf9196eaf96978eC454C5acDCF4C46990",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfF2E51FBf9196eaf96978eC454C5acDCF4C46990.png"
+    },
+    {
+      "chainId": 14,
       "name": "Cottage Nodes",
       "description": "Our delegation services enable token holders to earn lucrative rewards on the Flare Network. Advanced algorithms are constantly refined with the objective of generating maximum reward for the benefit of all Flare token holders who have delegated their vote to us. Validating from under the Alps.",
       "url": "https://www.cottagenodes.com",
