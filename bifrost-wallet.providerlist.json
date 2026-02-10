@@ -2003,7 +2003,7 @@
       "chainId": 14,
       "name": "Flare Sensei",
       "description": "Flare Sensei provides FTSO, FDC and staking infrastructure for both the Songbird and Flare network.",
-      "url": "https://ftso-sensei.com",
+      "url": "https://flare-sensei.com",
       "address": "0x2566E97B2947dC2D6E9CAf0BF737Aabd7e78a0f6",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2566E97B2947dC2D6E9CAf0BF737Aabd7e78a0f6.png",
       "listed": true
