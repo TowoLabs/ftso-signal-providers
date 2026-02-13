@@ -2175,6 +2175,14 @@
       "address": "0x6EBbd69832AF87434253C10F9045E012286f509E",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6EBbd69832AF87434253C10F9045E012286f509E.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Latin Link",
+      "description": "Latin Link Blockchain S.A., legally established in Panama, is a dedicated FTSO provider focused on Latin America. Delivering accurate, manipulation-resistant price feeds for Flare with high uptime and precision. Delegate confidently for passive, risk-free rewards. Empowering the Latam community",
+      "url": "https://latin-link.net",
+      "address": "0x6Bf769AE43A66e3E957f939D8C6A330BC0b6215A",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6Bf769AE43A66e3E957f939D8C6A330BC0b6215A.png"
     }
   ]
 }
