@@ -2166,8 +2166,7 @@
       "description": "Reliable validator and oracle infrastructure supporting Flare's core data protocols.",
       "url": "https://agnioracle.xyz",
       "address": "0x9c8A42155b73647Be3471FF22A61D803eA61FdcF",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9c8A42155b73647Be3471FF22A61D803eA61FdcF.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9c8A42155b73647Be3471FF22A61D803eA61FdcF.png"
     }
   ]
 }
