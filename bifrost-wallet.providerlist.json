@@ -2183,6 +2183,22 @@
       "url": "https://agnioracle.xyz",
       "address": "0x9c8A42155b73647Be3471FF22A61D803eA61FdcF",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9c8A42155b73647Be3471FF22A61D803eA61FdcF.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Pingu",
+      "description": "Providing clear and reliable price signals for the Flare ecosystem.",
+      "url": "https://pingu.cat",
+      "address": "0x5e6e598D64b7e559dB91523067a3aD5699A9b77E",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5e6e598D64b7e559dB91523067a3aD5699A9b77E.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Pingu",
+      "description": "Providing clear and reliable price signals for the Flare ecosystem.",
+      "url": "https://pingu.cat",
+      "address": "0x54Ab61FB24d3ba8409bc608C7256F44De8376d88",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x54Ab61FB24d3ba8409bc608C7256F44De8376d88.png"
     }
   ]
 }
