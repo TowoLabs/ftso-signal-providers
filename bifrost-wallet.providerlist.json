@@ -1972,7 +1972,7 @@
       "chainId": 14,
       "name": "Flare Sensei",
       "description": "Flare Sensei provides FTSO, FDC and staking infrastructure for both the Songbird and Flare network.",
-      "url": "https://ftso-sensei.com",
+      "url": "https://flare-sensei.com",
       "address": "0x2566E97B2947dC2D6E9CAf0BF737Aabd7e78a0f6",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2566E97B2947dC2D6E9CAf0BF737Aabd7e78a0f6.png",
       "listed": true
@@ -2122,12 +2122,52 @@
     },
     {
       "chainId": 14,
+      "name": "PrivatAsset",
+      "description": "Driven by expertise, guided by integrity – Turning financial potential into real progress",
+      "url": "https://privatasset.com",
+      "address": "0xfF2E51FBf9196eaf96978eC454C5acDCF4C46990",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfF2E51FBf9196eaf96978eC454C5acDCF4C46990.png"
+    },
+    {
+      "chainId": 19,
+      "name": "PrivatAsset",
+      "description": "Driven by expertise, guided by integrity – Turning financial potential into real progress",
+      "url": "https://privatasset.com",
+      "address": "0xfF2E51FBf9196eaf96978eC454C5acDCF4C46990",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfF2E51FBf9196eaf96978eC454C5acDCF4C46990.png"
+    },
+    {
+      "chainId": 14,
       "name": "Cottage Nodes",
       "description": "Our delegation services enable token holders to earn lucrative rewards on the Flare Network. Advanced algorithms are constantly refined with the objective of generating maximum reward for the benefit of all Flare token holders who have delegated their vote to us. Validating from under the Alps.",
       "url": "https://www.cottagenodes.com",
       "address": "0x6EBbd69832AF87434253C10F9045E012286f509E",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6EBbd69832AF87434253C10F9045E012286f509E.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Agni",
+      "description": "Reliable validator and oracle infrastructure supporting Flare's core data protocols.",
+      "url": "https://agnioracle.xyz",
+      "address": "0x9c8A42155b73647Be3471FF22A61D803eA61FdcF",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9c8A42155b73647Be3471FF22A61D803eA61FdcF.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Pingu",
+      "description": "Providing clear and reliable price signals for the Flare ecosystem.",
+      "url": "https://pingu.cat",
+      "address": "0x5e6e598D64b7e559dB91523067a3aD5699A9b77E",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5e6e598D64b7e559dB91523067a3aD5699A9b77E.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Pingu",
+      "description": "Providing clear and reliable price signals for the Flare ecosystem.",
+      "url": "https://pingu.cat",
+      "address": "0x54Ab61FB24d3ba8409bc608C7256F44De8376d88",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x54Ab61FB24d3ba8409bc608C7256F44De8376d88.png"
     }
   ]
 }
