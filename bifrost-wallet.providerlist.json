@@ -2159,8 +2159,7 @@
       "description": "1FTSO runs production-grade infrastructure for the Flare Network with a focus on reliability, transparency, and long-term network health. No gimmicks, no fluff, just consistent operations.",
       "url": "https://1ftso.com",
       "address": "0xdc908744b7946Dd19bf8E754c058Fab9fEc84993",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xdc908744b7946Dd19bf8E754c058Fab9fEc84993.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xdc908744b7946Dd19bf8E754c058Fab9fEc84993.png"
     }
   ]
 }
