@@ -529,22 +529,6 @@
       "listed": true
     },
     {
-      "chainId": 19,
-      "name": "1FTSO",
-      "description": "Providing accurate on-time data to the network.",
-      "url": "https://1ftso.com",
-      "address": "0xeceFe81ff88E5609704697De20Cc36990b76d633",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xeceFe81ff88E5609704697De20Cc36990b76d633.png"
-    },
-    {
-      "chainId": 14,
-      "name": "1FTSO",
-      "description": "Providing accurate on-time data to the network.",
-      "url": "https://1ftso.com",
-      "address": "0xeceFe81ff88E5609704697De20Cc36990b76d633",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xeceFe81ff88E5609704697De20Cc36990b76d633.png"
-    },
-    {
       "chainId": 14,
       "name": "Flare.Space",
       "description": "Your most convenient and efficient Flare network data provider and validator. Visit us to get access to information, tools and components for integration with Flare network.",
@@ -2168,6 +2152,14 @@
       "url": "https://pingu.cat",
       "address": "0x54Ab61FB24d3ba8409bc608C7256F44De8376d88",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x54Ab61FB24d3ba8409bc608C7256F44De8376d88.png"
+    },
+    {
+      "chainId": 14,
+      "name": "1FTSO",
+      "description": "1FTSO runs production-grade infrastructure for the Flare Network with a focus on reliability, transparency, and long-term network health. No gimmicks, no fluff, just consistent operations.",
+      "url": "https://1ftso.com",
+      "address": "0xdc908744b7946Dd19bf8E754c058Fab9fEc84993",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xdc908744b7946Dd19bf8E754c058Fab9fEc84993.png"
     }
   ]
 }
