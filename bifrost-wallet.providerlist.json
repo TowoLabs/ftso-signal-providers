@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet FTSO Provider List",
-  "timestamp": "2026-02-17T00:00:00+00:00",
+  "timestamp": "2026-04-09T00:00:00+00:00",
   "version": {
     "major": 7,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "providers": [
@@ -2162,6 +2162,24 @@
       "url": "https://1ftso.com",
       "address": "0xdc908744b7946Dd19bf8E754c058Fab9fEc84993",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xdc908744b7946Dd19bf8E754c058Fab9fEc84993.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Next Finance Tech",
+      "description": "Japan's leading staking service provider under a Nasdaq-listed group.",
+      "url": "https://nxt-fintech.com",
+      "address": "0x6c23aa4C5A1dA47F8FDF9Df4A032904c062cB92B",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6c23aa4C5A1dA47F8FDF9Df4A032904c062cB92B.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Zellic",
+      "description": "The go-to blockchain security firm for top teams, specializing in Cosmos, EVM, ZK, Move (Aptos and Sui). We solve your hardest security problems. Twitter: https://twitter.com/zellic_io Telegram: t.me/zellic_io",
+      "url": "https://zellic.io/validators",
+      "address": "0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E.png",
+      "listed": true
     }
   ]
 }
