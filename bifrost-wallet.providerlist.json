@@ -2178,6 +2178,17 @@
       "address": "0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E.png",
       "listed": true
-    }
-  ]
-}
+      },
+      {
+        "chainId": 14,
+        "name": "Prometheus",
+        "description": "High-accuracy FTSO data provider. Full FDC attestation stack, 10% delegation fee.", 
+        "url": "",
+        "address": "0x0e6A50e6Fe42ba2299409Fa77F5279E0ABc07489",
+        "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0e6A50e6Fe42ba2299409Fa77F5279E0ABc07489.png",
+        "listed": true
+      }
+    ]
+  }
+ 
+  
