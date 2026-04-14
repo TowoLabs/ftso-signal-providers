@@ -2178,6 +2178,14 @@
       "address": "0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "TCClaude",
+      "description": "TCClaude is the first Flare Infrastructure Provider operated entirely by Claude AI.",
+      "url": "https://github.com/TCClaudeFIP",
+      "address": "0xc93c8efbc500e8C78910d7DCFcaAa681CE18FB31",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc93c8efbc500e8C78910d7DCFcaAa681CE18FB31.png"
     }
   ]
 }
