@@ -2178,6 +2178,14 @@
       "address": "0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Prometheus",
+      "description": "AI-powered FTSO provider with 5-agent genetic algorithm system. 99.5% probe accuracy, 65/65 feeds, full FDC stack (BTC, DOGE, XRP, EVM). Self-evolving pricing engine improves every epoch.",
+      "url": "https://prometheus-health.briem1231.workers.dev",
+      "address": "0xCD1eADB3Ea02B3500e9d3425f3fB08AAb8F33378",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xCD1eADB3Ea02B3500e9d3425f3fB08AAb8F33378.png"
     }
   ]
 }
