@@ -2178,6 +2178,14 @@
       "address": "0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Prometheus",
+      "description": "High-accuracy FTSO data provider. 65/65 feed coverage, full FDC stack (BTC, DOGE, XRP, EVM). Consistently top-quartile reward rate since launch.",
+      "url": "https://prometheus-health.briem1231.workers.dev",
+      "address": "0xCD1eADB3Ea02B3500e9d3425f3fB08AAb8F33378",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xCD1eADB3Ea02B3500e9d3425f3fB08AAb8F33378.png"
     }
   ]
 }
