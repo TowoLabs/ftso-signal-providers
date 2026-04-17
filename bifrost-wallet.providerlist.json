@@ -2178,6 +2178,14 @@
       "address": "0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E.png",
       "listed": true
+    },
+    {
+      "chainId": 19,
+      "name": "CosmicData",
+      "description": "CosmicData operates production-grade oracle infrastructure on the Songbird and Flare networks. Custom multi-exchange FTSO price aggregation, in-house FDC verifier stack (BTC/DOGE/XRPL/ETH), and high-availability validator nodes - engineered for accuracy, uptime, and the FAssets era.",
+      "url": "https://cosmicdata.io",
+      "address": "0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337.png"
     }
   ]
 }
