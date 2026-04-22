@@ -2178,6 +2178,14 @@
       "address": "0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Flare Strategies",
+      "description": "Italian infrastructure provider running FTSO, FDC and validator services on Flare. Built for compound optimization, maximum security and long-term network decentralization.",
+      "url": "https://flarestrategies.github.io",
+      "address": "0x457464F9390Ebc5217cfeFcBCEd3f1562A0379B2",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x457464F9390Ebc5217cfeFcBCEd3f1562A0379B2.png"
     }
   ]
 }
