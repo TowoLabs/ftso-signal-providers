@@ -2179,6 +2179,14 @@
       "address": "0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E.png",
       "listed": true
+    },
+    {
+      "chainId": 19,
+      "name": "ApexOracle",
+      "description": "ApexOracle is a reliable FTSO v2 data provider on the Songbird network, committed to delivering accurate and timely price feeds to the ecosystem.",
+      "url": "https://github.com/apex-oracle",
+      "address": "0xe679F0A970331A8A1BdD81EfEE09a2FCd5307532",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe679F0A970331A8A1BdD81EfEE09a2FCd5307532.png"
     }
   ]
 }
