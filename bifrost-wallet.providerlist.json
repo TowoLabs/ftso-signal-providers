@@ -2183,8 +2183,8 @@
     {
       "chainId": 19,
       "name": "ApexOracle",
-      "description": "ApexOracle is a reliable FTSO v2 data provider on the Songbird network, committed to delivering accurate and timely price feeds to the ecosystem.",
-      "url": "https://github.com/apex-oracle",
+      "description": "ApexOracle is a reliable FTSO v2 data provider on Songbird. Real-time price feeds aggregated from 5 exchanges. Live dashboard at apexoracle.xyz — contact@apexoracle.xyz",
+      "url": "https://apexoracle.xyz",
       "address": "0xe679F0A970331A8A1BdD81EfEE09a2FCd5307532",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe679F0A970331A8A1BdD81EfEE09a2FCd5307532.png"
     }
