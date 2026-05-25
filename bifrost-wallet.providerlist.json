@@ -2185,8 +2185,8 @@
       "name": "ApexOracle",
       "description": "ApexOracle is a reliable FTSO v2 data provider on Songbird. Real-time price feeds aggregated from 5 exchanges. Live dashboard at apexoracle.xyz — contact@apexoracle.xyz",
       "url": "https://apexoracle.xyz",
-      "address": "0xe679F0A970331A8A1BdD81EfEE09a2FCd5307532",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe679F0A970331A8A1BdD81EfEE09a2FCd5307532.png"
+      "address": "0xd22F78Eb2f81F256467d248B74155945324f8e15",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xd22F78Eb2f81F256467d248B74155945324f8e15.png"
     }
   ]
 }
