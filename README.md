@@ -24,7 +24,7 @@ The purpose of `bifrost-wallet.providerlist.json` is to map on-chain signal prov
     * Must redirect HTTP to HTTPS
 * `address` must be 40 characters hex
     * Must be EIP-55 checksummed
-    * Must be submitting prices
+    * Must be the delegation address (not the identity address)
 * `logoURI` must be this repository's raw GitHub user content path
   * Must end with your checksummed address and a `.png` file extension
   * Must fulfill the [PNG image requirements](#png-image-requirements)
