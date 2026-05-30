@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet FTSO Provider List",
-  "timestamp": "2026-04-09T00:00:00+00:00",
+  "timestamp": "2026-05-30T22:21:35.000Z",
   "version": {
     "major": 7,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "providers": [
@@ -2178,6 +2178,15 @@
       "url": "https://zellic.io/validators",
       "address": "0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "FlareWatch",
+      "description": "Operated by the team behind FlareWatch.io - the validator-scoring + DeFi dashboard the Flare community uses daily. All yield from this validator funds FlareWatch's public infrastructure: monitoring, dashboards, and ecosystem tooling. Transparent methodology, no protocol affiliations. Delegate to support the tools you already use.",
+      "url": "https://www.flarewatch.io",
+      "address": "0x973B899Fe1422efDdeBE1d54E9A6487a70966aC5",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x973B899Fe1422efDdeBE1d54E9A6487a70966aC5.png",
       "listed": true
     }
   ]
