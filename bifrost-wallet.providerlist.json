@@ -26,6 +26,15 @@
       "listed": true
     },
     {
+      "chainId": 14,
+      "name": "FTSO AI",
+      "description": "Secure, independent FTSO V2 data provider powered by a smart outlier-detection and VWAP price engine.",
+      "url": "https://your-website.com",
+      "address": "0x0f88eC78478c2f11e9Aa3ac46bBD0bDcbA6931EE",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0f88eC78478c2f11e9Aa3ac46bBD0bDcbA6931EE.png",
+      "Listed": true
+    },
+    {
       "chainId": 19,
       "name": "ScandiNodes FTSO",
       "description": "We are proud to be part of Flare Networks. We have a responsibility and take our role as a signal provider very serious. We do not only provide data estimates. We provide good estimates, for maximum returns.",
