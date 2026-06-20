@@ -2186,8 +2186,7 @@
       "description": "Operated by the team behind FlareWatch.io - the validator-scoring + DeFi dashboard the Flare community uses daily. All yield from this validator funds FlareWatch's public infrastructure: monitoring, dashboards, and ecosystem tooling. Transparent methodology, no protocol affiliations. Delegate to support the tools you already use.",
       "url": "https://www.flarewatch.io",
       "address": "0x973B899Fe1422efDdeBE1d54E9A6487a70966aC5",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x973B899Fe1422efDdeBE1d54E9A6487a70966aC5.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x973B899Fe1422efDdeBE1d54E9A6487a70966aC5.png"
     }
   ]
 }
