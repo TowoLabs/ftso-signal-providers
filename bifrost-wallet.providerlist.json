@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet FTSO Provider List",
-  "timestamp": "2026-05-17T03:17:52.000Z",
+  "timestamp": "2026-04-09T00:00:00+00:00",
   "version": {
     "major": 7,
-    "minor": 2,
+    "minor": 1,
     "patch": 0
   },
   "providers": [
@@ -2186,7 +2186,8 @@
       "description": "Operated by the team behind FlareWatch.io - the validator-scoring + DeFi dashboard the Flare community uses daily. All yield from this validator funds FlareWatch's public infrastructure: monitoring, dashboards, and ecosystem tooling. Transparent methodology, no protocol affiliations. Delegate to support the tools you already use.",
       "url": "https://www.flarewatch.io",
       "address": "0xaf4eF2A0Ecf8d914Db6b721D3eb79C46CA612796",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xaf4eF2A0Ecf8d914Db6b721D3eb79C46CA612796.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xaf4eF2A0Ecf8d914Db6b721D3eb79C46CA612796.png",
+      "listed": true
     }
   ]
 }
