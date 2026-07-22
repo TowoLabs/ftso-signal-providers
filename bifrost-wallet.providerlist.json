@@ -2179,6 +2179,14 @@
       "address": "0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Seraphim FTSO",
+      "description": "Seraphim FTSO is a Flare oracle entity providing anchor price feeds and FDC attestations, operated by Seraphim Lab, a Canadian-incorporated company.",
+      "url": "https://seraphimlab.ca",
+      "address": "0xCD1eADB3Ea02B3500e9d3425f3fB08AAb8F33378",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xCD1eADB3Ea02B3500e9d3425f3fB08AAb8F33378.png"
     }
   ]
 }
