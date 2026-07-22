@@ -2179,6 +2179,15 @@
       "address": "0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "FlareForward",
+      "description": "AI-coded FTSO v2 provider from FlareForward, with full anchor-feed coverage and a self-bonded validator, tuned continuously by our own AI. We also run DeFi University - learn decentralized finance and AI with us: https://defiuniversitypro.com. Delegate your WFLR and check our live on-chain results for yourself.",
+      "url": "https://flareforward.com",
+      "address": "0xce2c92C54F7307894725e8ceb16424B7C9C18807",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xce2c92C54F7307894725e8ceb16424B7C9C18807.png",
+      "listed": true
     }
   ]
 }
