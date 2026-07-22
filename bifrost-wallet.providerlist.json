@@ -2179,6 +2179,15 @@
       "address": "0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Sparky",
+      "description": "Sparky is an independent Flare infrastructure operator, providing enterprise-grade validator and data-feed infrastructure.",
+      "url": "https://sparky.capital",
+      "address": "0x59187c1f521FbaCc0236e74Db052EcFb17d9A845",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x59187c1f521FbaCc0236e74Db052EcFb17d9A845.png",
+      "listed": true
     }
   ]
 }
