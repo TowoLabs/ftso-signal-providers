@@ -2143,7 +2143,8 @@
       "description": "Providing clear and reliable price signals for the Flare ecosystem.",
       "url": "https://pingu.cat",
       "address": "0x5e6e598D64b7e559dB91523067a3aD5699A9b77E",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5e6e598D64b7e559dB91523067a3aD5699A9b77E.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5e6e598D64b7e559dB91523067a3aD5699A9b77E.png",
+      "listed": true
     },
     {
       "chainId": 19,
@@ -2185,7 +2186,17 @@
       "description": "CosmicData operates production-grade oracle infrastructure on the Songbird and Flare networks. Custom multi-exchange FTSO price aggregation, in-house FDC verifier stack (BTC/DOGE/XRPL/ETH), and high-availability validator nodes - engineered for accuracy, uptime, and the FAssets era.",
       "url": "https://cosmicdata.io",
       "address": "0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337.png",
+      "listed": true
+    },
+    {
+      "chainId": 19,
+      "name": "FlareWatch",
+      "description": "Operated by the team behind FlareWatch.io - the validator-scoring + DeFi dashboard the Flare community uses daily. All yield from this validator funds FlareWatch's public infrastructure: monitoring, dashboards, and ecosystem tooling. Transparent methodology, no protocol affiliations. Delegate to support the tools you already use.",
+      "url": "https://www.flarewatch.io",
+      "address": "0xaf4eF2A0Ecf8d914Db6b721D3eb79C46CA612796",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xaf4eF2A0Ecf8d914Db6b721D3eb79C46CA612796.png",
+      "listed": true
     }
   ]
 }
