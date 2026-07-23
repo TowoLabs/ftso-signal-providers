@@ -2184,6 +2184,14 @@
       "listed": true
     },
     {
+      "chainId": 14,
+      "name": "VirelithX",
+      "description": "Enterprise-grade validator and oracle infrastructure for the Flare ecosystem, delivering resilient, secure and highly available decentralized data services through transparent operations and long-term reliability.",
+      "url": "https://virelithx.com",
+      "address": "0x26E135eFD09b6756F5A847be991c8305611A05f1",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x26E135eFD09b6756F5A847be991c8305611A05f1.png"
+    },
+    {
       "chainId": 19,
       "name": "CosmicData",
       "description": "CosmicData operates production-grade oracle infrastructure on the Songbird and Flare networks. Custom multi-exchange FTSO price aggregation, in-house FDC verifier stack (BTC/DOGE/XRPL/ETH), and high-availability validator nodes - engineered for accuracy, uptime, and the FAssets era.",
