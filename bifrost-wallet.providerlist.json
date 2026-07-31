@@ -2198,7 +2198,15 @@
     "url": "https://flare.lavadigitalassets.com",
     "address": "0x7A8FB697C7CBB05bF9175B2D6FE4779e4E12a38b",
     "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7A8FB697C7CBB05bF9175B2D6FE4779e4E12a38b.png"
-  }
+  },
+    {
+  "chainId": 14,
+  "name": "Flare En Español",
+  "description": "Independent Flare data provider operated by Lava Digital Assets, focused on reliable market data, transparent infrastructure and Spanish-language education for the Flare ecosystem.",
+  "url": "https://flare.lavadigitalassets.com",
+  "address": "0x7A8FB697C7CBB05bF9175B2D6FE4779e4E12a38b",
+  "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7A8FB697C7CBB05bF9175B2D6FE4779e4E12a38b.png"
+}
 ]
   ]
 }
