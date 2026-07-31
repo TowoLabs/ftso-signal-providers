@@ -2190,6 +2190,15 @@
       "url": "https://cosmicdata.io",
       "address": "0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337.png"
-    }
+    },
+      {
+    "chainId": 19,
+    "name": "Flare En Español",
+    "description": "Independent Songbird data provider operated by Lava Digital Assets, focused on reliable market data, transparent infrastructure and Spanish-language education for the Flare ecosystem.",
+    "url": "https://flare.lavadigitalassets.com",
+    "address": "0x7A8FB697C7CBB05bF9175B2D6FE4779e4E12a38b",
+    "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7A8FB697C7CBB05bF9175B2D6FE4779e4E12a38b.png"
+  }
+]
   ]
 }
