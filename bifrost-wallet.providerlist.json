@@ -2190,6 +2190,15 @@
       "url": "https://cosmicdata.io",
       "address": "0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Rotko Networks",
+      "address": "0x7e74D30eF4dd811830118645633a9471f6cc63D3",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7e74D30eF4dd811830118645633a9471f6cc63D3.png",
+      "description": "Rotko Networks (AS142108) operates bare-metal infrastructure for Flare, running FTSO price feeds, Flare Data Connector attestations and validator nodes from its own network.",
+      "url": "https://rotko.net",
+      "listed": true
     }
   ]
 }
