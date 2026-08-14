@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet FTSO Provider List",
-  "timestamp": "2026-04-09T00:00:00+00:00",
+  "timestamp": "2026-08-13T00:00:00+00:00",
   "version": {
     "major": 7,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "providers": [
@@ -2190,6 +2190,15 @@
       "url": "https://cosmicdata.io",
       "address": "0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Seraphim FTSO",
+      "description": "Seraphim FTSO is a Flare oracle entity providing anchor price feeds and FDC attestations, operated by Seraphim Lab, a Canadian-incorporated company.",
+      "url": "https://seraphimlab.ca",
+      "address": "0xCD1eADB3Ea02B3500e9d3425f3fB08AAb8F33378",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xCD1eADB3Ea02B3500e9d3425f3fB08AAb8F33378.png",
+      "listed": true
     }
   ]
 }
