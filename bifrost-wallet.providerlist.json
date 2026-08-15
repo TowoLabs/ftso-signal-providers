@@ -2184,12 +2184,13 @@
       "listed": true
     },
     {
-      "chainId": 19,
-      "name": "CosmicData",
-      "description": "CosmicData operates production-grade oracle infrastructure on the Songbird and Flare networks. Custom multi-exchange FTSO price aggregation, in-house FDC verifier stack (BTC/DOGE/XRPL/ETH), and high-availability validator nodes - engineered for accuracy, uptime, and the FAssets era.",
-      "url": "https://cosmicdata.io",
-      "address": "0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337.png"
+      "chainId": 14,
+      "name": "Sparky",
+      "description": "Sparky is an independent Flare infrastructure operator, providing enterprise-grade validator and data-feed infrastructure.",
+      "url": "https://sparky.capital",
+      "address": "0x59187c1f521FbaCc0236e74Db052EcFb17d9A845",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x59187c1f521FbaCc0236e74Db052EcFb17d9A845.png",
+      "listed": true
     }
   ]
 }
