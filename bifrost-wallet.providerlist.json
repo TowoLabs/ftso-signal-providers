@@ -2052,8 +2052,7 @@
       "description": "Flares DeFi Hub.",
       "url": "https://sparkdex.ai",
       "address": "0xf8Fb4cD8728F7def92b12F9de005Df934f0b69cB",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf8Fb4cD8728F7def92b12F9de005Df934f0b69cB.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf8Fb4cD8728F7def92b12F9de005Df934f0b69cB.png"
     },
     {
       "chainId": 14,
