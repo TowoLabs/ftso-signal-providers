@@ -2189,6 +2189,14 @@
       "url": "https://cosmicdata.io",
       "address": "0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337.png"
+    },
+    {
+      "chainId": 14,
+      "name": "G1Flare818",
+      "description": "G1Flare818 is an independent solo operator on Flare, running a validator node together with FTSO and FDC data provider infrastructure. Everything is self-hosted on dedicated hardware with automated health monitoring. The focus is reliability, transparency and long-term operation.",
+      "url": "https://g1flare.com",
+      "address": "0xC8142E2b2f6f8Adfd34d8e6735F389667F9E2C0a",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC8142E2b2f6f8Adfd34d8e6735F389667F9E2C0a.png"
     }
   ]
 }
