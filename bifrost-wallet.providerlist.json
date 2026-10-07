@@ -2189,6 +2189,14 @@
       "url": "https://cosmicdata.io",
       "address": "0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337.png"
+    },
+    {
+      "chainId": 14,
+      "name": "D20 Oracle",
+      "description": "Independent FTSO and FDC provider. Our own price engine aggregates major exchange feeds and submits from a private Flare node. Self-hosted FDC verifiers for BTC, DOGE, XRP and EVM chains. 5M FLR self-bonded validator. Every epoch's results are published from Flare's reward data.",
+      "url": "https://d20oracle.com",
+      "address": "0xaF7c10dCF8fBA62b29230052AF0be80936c10af3",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xaF7c10dCF8fBA62b29230052AF0be80936c10af3.png"
     }
   ]
 }
