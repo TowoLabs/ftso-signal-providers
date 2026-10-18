@@ -1,3 +1,6 @@
+> [!WARNING]
+> **Deprecated.** This repository is no longer maintained. New provider submissions go to https://github.com/bifrostwallet/assets.
+
 # Flare Time Series Oracle Signal Providers
 Anyone operating an FTSO signal provider, passing all tests and fulfilling all requirements, may submit a pull request to this repository. We may require you to prove ownership of your website and on-chain address before accepting your contribution.
 
