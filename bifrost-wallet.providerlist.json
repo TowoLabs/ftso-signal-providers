@@ -2189,6 +2189,14 @@
       "url": "https://cosmicdata.io",
       "address": "0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Radroot",
+      "description": "Independent Flare data provider.",
+      "url": "https://radroot.org",
+      "address": "0xFC936989b5BCA0bdea6B0f4A184044eb720D86A5",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xFC936989b5BCA0bdea6B0f4A184044eb720D86A5.png"
     }
   ]
 }
