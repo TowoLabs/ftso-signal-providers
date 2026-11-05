@@ -1,8 +1,8 @@
 # FTSO Signal Providers
 
-This repository was Bifrost Wallet’s own provider list. It maps Flare and Songbird FTSO signal provider addresses to names, descriptions, websites, and logos so the wallet can show them. This snapshot is deprecated. The maintained package is [`@bifrostwallet/assets`](https://www.npmjs.com/package/@bifrostwallet/assets).
+This repository was [Bifrost Wallet](https://bifrostwallet.com)’s FTSO provider list for Flare and Songbird. This snapshot is deprecated and is not production-ready. A frontend should not consume its JSON, or its logos, directly from GitHub.
 
-This snapshot is frozen. It was built for Bifrost Wallet, and it is not a general-purpose feed meant to be consumed as-is. Integrator guide: [Consuming Assets](https://docs.bifrostwallet.com/list/consuming-assets).
+The maintained catalog is [`@bifrostwallet/assets`](https://www.npmjs.com/package/@bifrostwallet/assets), a zero-dependency package of the curated assets Bifrost Wallet ships: FTSO data providers, validators, tokens, contracts, and dapps. [Consuming Assets](https://docs.bifrostwallet.com/list/consuming-assets) is the guide for installing it, hosting logos on your own CDN or backend, comparing logo hashes, and checking that providers have signed their entries. Apply those checks according to your security requirements.
 
 ## What `listed: true` means
 
@@ -11,12 +11,6 @@ This snapshot is frozen. It was built for Bifrost Wallet, and it is not a genera
 The bar is there so wallet users do not lose rewards, and so the networks stay protected from malicious actors, colluding actors, and unreliable actors. Providers we list are expected to be active and earning rewards, with sound uptime, a good reputation, a public presence, a few months of on-chain history, a sizeable self-bond, a real set of stakers, and vote power from the community.
 
 Anyone using this archived list can apply their own quality bar and decide for themselves what deserves `listed: true`. Bifrost Wallet’s flag is our standard for our users. It is not a neutral ranking, and it is not an obligation to list every provider that asked.
-
-## Use the maintained catalog
-
-Install `@bifrostwallet/assets`. It has no runtime dependencies. Host the logos on your own CDN or backend. `logoURL` in the package defaults to GitHub raw URLs; rewrite them to your origin before serving them to users. GitHub’s CDN is a fallback for this snapshot, not a production image host.
-
-In a provider picker, show only `listed: true` (`getListedProviders`). After a user has already chosen a provider, show that provider even when `listed` is false (`getProvider`).
 
 ## Contents
 
