@@ -2292,6 +2292,14 @@
       "url": "https://www.griffwn.tech",
       "address": "0x802c64FCD19D8DBA98Ae96302C0C9fAa16952Cd5",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x802c64FCD19D8DBA98Ae96302C0C9fAa16952Cd5.png"
+    },
+    {
+      "chainId": 14,
+      "name": "CashLab",
+      "description": "Independent Flare provider running the full protocol stack: FTSO price feeds, Fast Updates, FDC attestations and its own validator, on dedicated hardware with an in-house feed engine.",
+      "url": "https://cashlab.network",
+      "address": "0x46F75Ac75a9E389809b965A876303681D32bCf2e",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x46F75Ac75a9E389809b965A876303681D32bCf2e.png"
     }
   ]
 }
