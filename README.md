@@ -1,8 +1,8 @@
 # FTSO Signal Providers
 
-This repository was Bifrost Wallet’s own provider list. It maps Flare and Songbird FTSO signal provider addresses to names, descriptions, websites, and logos so the wallet can show them. It was actively maintained through early 2026. From then on, [`bifrostwallet/assets`](https://github.com/bifrostwallet/assets) is the only actively maintained catalog, and the only one we recommend.
+This repository was Bifrost Wallet’s own provider list. It maps Flare and Songbird FTSO signal provider addresses to names, descriptions, websites, and logos so the wallet can show them. This snapshot is deprecated. The maintained package is [`@bifrostwallet/assets`](https://www.npmjs.com/package/@bifrostwallet/assets).
 
-This snapshot is frozen. It was built for Bifrost Wallet, and it is not a general-purpose feed meant to be consumed as-is. If you need a maintained provider list, switch to [`@bifrostwallet/assets`](https://www.npmjs.com/package/@bifrostwallet/assets). Integrator guide: [Consuming Assets](https://docs.bifrostwallet.com/list/consuming-assets).
+This snapshot is frozen. It was built for Bifrost Wallet, and it is not a general-purpose feed meant to be consumed as-is. Integrator guide: [Consuming Assets](https://docs.bifrostwallet.com/list/consuming-assets).
 
 ## What `listed: true` means
 
