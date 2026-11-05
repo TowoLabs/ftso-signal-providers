@@ -2253,6 +2253,14 @@
       "url": "https://flare.lavadigitalassets.com",
       "address": "0x7A8FB697C7CBB05bF9175B2D6FE4779e4E12a38b",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7A8FB697C7CBB05bF9175B2D6FE4779e4E12a38b.png"
+    },
+    {
+      "chainId": 14,
+      "name": "BlockNth",
+      "description": "Secure validator infrastructure for growing networks",
+      "url": "https://blocknth.com",
+      "address": "0xa2c403ea9D293308821aA4ddB377C8d3d9483a89",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa2c403ea9D293308821aA4ddB377C8d3d9483a89.png"
     }
   ]
 }
