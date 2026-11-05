@@ -2,7 +2,7 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "https://github.com/TowoLabs/ftso-signal-providers/blob/master/providerlist.schema.json",
   "title": "Bifrost Wallet FTSO Provider List",
-  "description": "Schema for lists of FTSO providers compatible with Bifrost Wallet",
+  "description": "Schema for archived Bifrost Wallet-compatible FTSO signal provider lists (names, descriptions, websites, logos, and addresses)",
   "definitions": {
     "Version": {
       "type": "object",
@@ -57,17 +57,13 @@
       "properties": {
         "chainId": {
           "type": "integer",
-          "description": "The chain ID of either Coston, Coston2, Flare or Songbird where this FTSO provider is submitting prices",
+          "description": "The chain ID of Songbird or Flare where this FTSO provider is submitting prices",
           "enum": [
             19,
-            114,
-            16,
             14
           ],
           "examples": [
             19,
-            114,
-            16,
             14
           ]
         },
@@ -111,7 +107,7 @@
         },
         "logoURI": {
           "type": "string",
-          "description": "A content URL for this repository to the FTSO provider logo asset",
+          "description": "A content URL in this repository for the FTSO provider logo, named by delegation address",
           "pattern": "^https:\\/\\/raw\\.githubusercontent\\.com\\/TowoLabs\\/ftso-signal-providers\\/master\\/assets\\/0x[a-fA-F0-9]{40}\\.png$",
           "examples": [
             "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x69141E890F3a79cd2CFf552c0B71508bE23712dC.png"
@@ -146,6 +142,36 @@
       "pattern": "^[A-Za-z ]+$",
       "examples": [
         "My Provider List"
+      ]
+    },
+    "description": {
+      "type": "string",
+      "description": "A human-readable summary of the list, including deprecation or archival status when applicable",
+      "minLength": 10,
+      "maxLength": 500,
+      "examples": [
+        "Archived snapshot of Flare and Songbird FTSO signal provider metadata."
+      ]
+    },
+    "keywords": {
+      "type": "array",
+      "description": "Searchable keywords describing the list contents and status",
+      "uniqueItems": true,
+      "minItems": 1,
+      "maxItems": 32,
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 32,
+        "pattern": "^[a-z0-9-]+$"
+      },
+      "examples": [
+        [
+          "ftso",
+          "flare",
+          "songbird",
+          "archived"
+        ]
       ]
     },
     "timestamp": {

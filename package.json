@@ -1,15 +1,33 @@
 {
   "name": "ftso-signal-providers",
-  "version": "1.0.0",
-  "license": "MIT",
-  "devDependencies": {
-    "ajv": "^8.10.0",
-    "ajv-formats": "^2.1.1",
-    "husky": "^7.0.4",
-    "web3-utils": "^1.7.0"
+  "version": "9.0.6",
+  "description": "Archived public registry of Flare and Songbird FTSO signal provider metadata (names, descriptions, websites, logos, and addresses), originally maintained for Bifrost Wallet.",
+  "license": "CC0-1.0",
+  "keywords": [
+    "flare",
+    "songbird",
+    "ftso",
+    "oracle",
+    "bifrost-wallet",
+    "archived"
+  ],
+  "homepage": "https://github.com/TowoLabs/ftso-signal-providers#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TowoLabs/ftso-signal-providers.git"
+  },
+  "engines": {
+    "node": ">=26"
   },
   "scripts": {
-    "test": ".husky/pre-commit",
-    "postinstall": "husky install"
-  }
+    "test": "node validate.js"
+  },
+  "files": [
+    "assets/",
+    "bifrost-wallet.providerlist.json",
+    "providerlist.schema.json",
+    "validate.js",
+    "LICENSE",
+    "README.md"
+  ]
 }

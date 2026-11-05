@@ -1,86 +1,55 @@
-# Flare Time Series Oracle Signal Providers
-Anyone operating an FTSO signal provider, passing all tests and fulfilling all requirements, may submit a pull request to this repository. We may require you to prove ownership of your website and on-chain address before accepting your contribution.
+# FTSO Signal Providers
 
-The purpose of `bifrost-wallet.providerlist.json` is to map on-chain signal provider addresses to their logos, names, descriptions and websites. It may be referenced by wallets, dapps and other applications in need of signal provider logos and metadata. Inactive, underperforming or misbehaving signal providers will be denied and removed.
+This repository was Bifrost Wallet’s own provider list. It maps Flare and Songbird FTSO signal provider addresses to names, descriptions, websites, and logos so the wallet can show them. It was actively maintained through early 2026. From then on, [`bifrostwallet/assets`](https://github.com/bifrostwallet/assets) is the only actively maintained catalog, and the only one we recommend.
 
-## How to Add Your Signal Provider
-1. Read the [Requirements](#requirements)
-2. Fork the repository and run `yarn install`
-3. Copy an existing provider entry in `bifrost-wallet.providerlist.json`
-4. Fill your details and add your entry to the bottom of the list
-5. Add your logo to `assets/` and make sure it's named correctly
-6. Run `yarn test` and make sure all tests pass
-7. Submit a pull request to the `next` branch
+This snapshot is frozen. It was built for Bifrost Wallet, and it is not a general-purpose feed meant to be consumed as-is. If you need a maintained provider list, switch to [`@bifrostwallet/assets`](https://www.npmjs.com/package/@bifrostwallet/assets). Integrator guide: [Consuming Assets](https://docs.bifrostwallet.com/list/consuming-assets).
 
-## Requirements
-* `chainId` must be either `19` (Songbird), `14` (Flare), `16` (Coston) or `114` (Coston2)
-* All attributes are required and must be in ASCII
-* `name` may be max 32 characters
-* `description` may be max 350 characters
-    * Must describe your service, values or unique selling points
-    * Must be spellchecked
-* `url` may be max 100 characters
-    * Must be prefixed with https://
-    * Must redirect HTTP to HTTPS
-* `address` must be 40 characters hex
-    * Must be EIP-55 checksummed
-    * Must be the delegation address (not the identity address)
-* `logoURI` must be this repository's raw GitHub user content path
-  * Must end with your checksummed address and a `.png` file extension
-  * Must fulfill the [PNG image requirements](#png-image-requirements)
+## What `listed: true` means
 
-### PNG Image Requirements
-* The aspect ratio must be 1, use the same width and height
-* The width and height must be between 128 px and 256 px
-* The background must be transparent or fill the entire image
-* The image content must be centered horizontally and vertically
-* The image must be optimized using for example: https://tinypng.com
-* The maximum image file size is 24 KB
+`listed: true` is a quality stamp Bifrost Wallet awards to providers who actively support the Flare and Songbird networks. It is awarded at the discretion of the Bifrost Wallet team. A submission, a pull request, or time spent waiting does not create a right to be listed.
 
-### Example for Songbird and Flare
+The bar is there so wallet users do not lose rewards, and so the networks stay protected from malicious actors, colluding actors, and unreliable actors. Providers we list are expected to be active and earning rewards, with sound uptime, a good reputation, a public presence, a few months of on-chain history, a sizeable self-bond, a real set of stakers, and vote power from the community.
 
-```json
-{
-  "chainId": 19,
-  "name": "Example Name",
-  "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 350 characters. Shorter is better.",
-  "url": "https://example.com",
-  "address": "0x69141E890F3a79cd2CFf552c0B71508bE23712dC",
-  "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x69141E890F3a79cd2CFf552c0B71508bE23712dC.png"
-},
-{
-  "chainId": 14,
-  "name": "Example Name",
-  "description": "This is your chance to describe your signal provider service. Try to highlight your unique selling points and why users should delegate to your service. Your description may be no longer than 350 characters. Shorter is better.",
-  "url": "https://example.com",
-  "address": "0x9A46864A3b0a7805B266C445289C3fAD1E48f18e",
-  "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9A46864A3b0a7805B266C445289C3fAD1E48f18e.png"
-}
+Anyone using this archived list can apply their own quality bar and decide for themselves what deserves `listed: true`. Bifrost Wallet’s flag is our standard for our users. It is not a neutral ranking, and it is not an obligation to list every provider that asked.
+
+## Use the maintained catalog
+
+Install `@bifrostwallet/assets`. It has no runtime dependencies. Host the logos on your own CDN or backend. `logoURL` in the package defaults to GitHub raw URLs; rewrite them to your origin before serving them to users. GitHub’s CDN is a fallback for this snapshot, not a production image host.
+
+In a provider picker, show only `listed: true` (`getListedProviders`). After a user has already chosen a provider, show that provider even when `listed` is false (`getProvider`).
+
+## Contents
+
+* `bifrost-wallet.providerlist.json` — the frozen provider list
+* `assets/` — historical PNG logos, named by delegation address
+* `providerlist.schema.json` — JSON Schema for the list
+* `validate.js` — checks formatting, schema rules, EIP-55 checksums, and local logo files
+
+Only Songbird (`chainId` 19) and Flare (`chainId` 14) are included. Every `logoURI` points at a PNG in this repository, named by delegation address, so the archive stays self-contained.
+
+## Record format
+
+These are the constraints the frozen records follow. `providerlist.schema.json` is the machine-readable copy. This section documents the archive. It is not an application form.
+
+* `chainId` is `19` (Songbird) or `14` (Flare)
+* Text fields are ASCII
+* `name` is 2–32 characters
+* `description` is 10–350 characters
+* `url` is at most 100 characters, uses `https://`, and has no trailing slash
+* `address` is the delegation address (not the identity address), 40 hex characters, EIP-55 checksummed
+* `logoURI` ends with that same checksummed address and `.png`
+* The logo file is a square PNG in `assets/`, 128–256 px on each side, at most 24 KB, with the mark centered and a background that is either transparent or full-bleed
+
+## License
+
+[CC0 1.0](LICENSE). This snapshot is dedicated to the public domain.
+
+## Validate the snapshot
+
+Requires Node.js 26 or newer.
+
+```sh
+npm test
 ```
 
-## Extended Requirements
-If your provider fulfills the extended requirements below, it may be eligible to receive the `listed` property. We regularly screen signal providers in `bifrost-wallet.providerlist.json` for eligibility. If your provider has been eligible for more than 30 days without receiving the `listed` property or you think a mistake has been made, you may open an issue and provide data supporting your claim.
-
-### Trustworthy
-* The team developing and running the signal provider is known to other signal providers
-* The on-chain address is referenced on the signal provider's website _(enforced 2023-03-31)_
-
-### Resilient
-* The team is only running one signal provider attracting vote power per network
-* The provider uses a private node to submit prices
-
-### Independent
-* The team has no legal, development or operational ties to other signal providers
-* The provider uses an algorithm developed in-house or an open-source alternative
-
-### Available
-* The provider is successfully submitting prices
-* The provider has enough voting power to participate in the FTSO system
-* The provider has at least 95% uptime, measured over the last 30 days
-
-## Recommendations for Developers
-If you're a wallet or dapp developer using `bifrost-wallet.providerlist.json` in your software, we recommend that you:
-
-1. **Use the master branch**. Do not rely on next, it is considered development/unstable.
-2. **Hide** all providers missing the `listed` property from contexts where users choose between different providers, such as in searchable signal provider lists.
-3. **Show** all providers in contexts where a choice has already been made, such as in confirmation views and transaction details.
+A passing run prints `OK — validated N providers`.
