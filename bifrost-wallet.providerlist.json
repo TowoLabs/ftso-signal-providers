@@ -2229,6 +2229,14 @@
       "url": "https://g1flare.com",
       "address": "0xC8142E2b2f6f8Adfd34d8e6735F389667F9E2C0a",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC8142E2b2f6f8Adfd34d8e6735F389667F9E2C0a.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Rotko Networks",
+      "address": "0x7e74D30eF4dd811830118645633a9471f6cc63D3",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7e74D30eF4dd811830118645633a9471f6cc63D3.png",
+      "description": "Rotko Networks operates bare-metal infrastructure for Flare, running FTSO price feeds, Flare Data Connector attestations and validator nodes from its own network.",
+      "url": "https://rotko.net"
     }
   ]
 }
