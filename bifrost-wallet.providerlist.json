@@ -2065,8 +2065,8 @@
     },
     {
       "chainId": 14,
-      "name": "MirSFlr",
-      "description": "On a mission to deliver fast, reliable and transparent data on the Flare Network to maximize rewards for delegators with near-zero downtime.",
+      "name": "Mirhollio Core",
+      "description": "Mirhollio Core, formerly MirSFlr. Independent Flare entity with its own infrastructure: FTSOv2 price feeds, FDC attestations and a validator node. No promises, just measurable results: band-accurate submissions, public monitoring, near-zero downtime.",
       "url": "https://www.mirhollio.com",
       "address": "0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade.png",
