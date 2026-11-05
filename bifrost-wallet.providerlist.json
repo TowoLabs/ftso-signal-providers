@@ -2213,6 +2213,14 @@
       "url": "https://radroot.org",
       "address": "0xFC936989b5BCA0bdea6B0f4A184044eb720D86A5",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xFC936989b5BCA0bdea6B0f4A184044eb720D86A5.png"
+    },
+    {
+      "chainId": 14,
+      "name": "D20 Oracle",
+      "description": "Independent FTSO and FDC provider on Flare. Own price engine, private node, self-hosted FDC verifiers.",
+      "url": "https://d20oracle.com",
+      "address": "0xaF7c10dCF8fBA62b29230052AF0be80936c10af3",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xaF7c10dCF8fBA62b29230052AF0be80936c10af3.png"
     }
   ]
 }
