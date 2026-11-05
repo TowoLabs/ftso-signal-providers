@@ -2261,6 +2261,14 @@
       "url": "https://blocknth.com",
       "address": "0xa2c403ea9D293308821aA4ddB377C8d3d9483a89",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa2c403ea9D293308821aA4ddB377C8d3d9483a89.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Sparky",
+      "description": "Sparky is an independent Flare infrastructure operator, providing enterprise-grade validator and data-feed infrastructure.",
+      "url": "https://sparky.capital",
+      "address": "0x59187c1f521FbaCc0236e74Db052EcFb17d9A845",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x59187c1f521FbaCc0236e74Db052EcFb17d9A845.png"
     }
   ]
 }
