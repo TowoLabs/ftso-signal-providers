@@ -1880,10 +1880,10 @@
       "name": "XTerraMetrics",
       "description": "At XTerraMetrics, we specialize in providing reliable and accurate data to the coston network. We offer solutions tailored to your needs. Our expertise in data analytics and the Flare network ensures top-notch crypto services for our clients.",
       "url": "https://www.xterrametrics.com",
-      "address": "0xB0840104E84DA02254B043Fd4C205415E759Bf1E",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB0840104E84DA02254B043Fd4C205415E759Bf1E.png",
+      "address": "0xb0840104e84da02254b043fd4c205415e759bf1e",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb0840104e84da02254b043fd4c205415e759bf1e.png",
       "listed": true
-    },
+    },    
     {
       "chainId": 14,
       "name": "SenseiNode",
@@ -1934,8 +1934,8 @@
       "name": "ITB Validator",
       "description": "ITB runs DeFi strategies for the largest institutions in the crypto space. It also provides protocol-level risk signals for the top DeFi protocols in the market.",
       "url": "https://www.intotheblock.com",
-      "address": "0x5Cbd87F8591869f5959a196722245F0C893C78EA",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5Cbd87F8591869f5959a196722245F0C893C78EA.png",
+      "address": "0x2e8320B92B640cF8CBdEaFFBe70d4bC407303b9F",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2e8320B92B640cF8CBdEaFFBe70d4bC407303b9F.png",
       "listed": true
     },
     {
@@ -2052,8 +2052,7 @@
       "description": "Flares DeFi Hub.",
       "url": "https://sparkdex.ai",
       "address": "0xf8Fb4cD8728F7def92b12F9de005Df934f0b69cB",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf8Fb4cD8728F7def92b12F9de005Df934f0b69cB.png",
-      "listed": true
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf8Fb4cD8728F7def92b12F9de005Df934f0b69cB.png"
     },
     {
       "chainId": 14,
@@ -2066,8 +2065,8 @@
     },
     {
       "chainId": 14,
-      "name": "MirSFlr",
-      "description": "On a mission to deliver fast, reliable and transparent data on the Flare Network to maximize rewards for delegators with near-zero downtime.",
+      "name": "Mirhollio Core",
+      "description": "Mirhollio Core, formerly MirSFlr. Independent Flare entity with its own infrastructure: FTSOv2 price feeds, FDC attestations and a validator node. No promises, just measurable results: band-accurate submissions, public monitoring, near-zero downtime.",
       "url": "https://www.mirhollio.com",
       "address": "0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade.png",
@@ -2076,7 +2075,7 @@
     {
       "chainId": 14,
       "name": "FTSO Yggdrassil",
-      "description": "Inspired by the mighty Yggdrassil tree, my FTSO stands firmly rooted in the Flare Network nurturing reliable and decentralized data feeds, symbolizing strength and growth.",
+      "description": "Inspired by the mighty Yggdrassil tree, our FTSO stands firmly rooted in the Flare Network nurturing reliable and decentralized data feeds, symbolizing strength and growth.",
       "url": "https://ftso-yggdrassil.com",
       "address": "0x3035364f988CfC4574D459009F9D3f68D9d734d7",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3035364f988CfC4574D459009F9D3f68D9d734d7.png"
@@ -2175,6 +2174,14 @@
       "listed": true
     },
     {
+      "chainId": 14,
+      "name": "Flare Strategies",
+      "description": "Italian infrastructure provider running FTSO, FDC and validator services on Flare. Built for compound optimization, maximum security and long-term network decentralization.",
+      "url": "https://flarestrategies.github.io",
+      "address": "0x457464F9390Ebc5217cfeFcBCEd3f1562A0379B2",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x457464F9390Ebc5217cfeFcBCEd3f1562A0379B2.png"
+      },
+      {
       "chainId": 19,
       "name": "FlareWatch",
       "description": "Operated by the team behind FlareWatch.io - the validator-scoring + DeFi dashboard the Flare community uses daily. All yield from this validator funds FlareWatch's public infrastructure: monitoring, dashboards, and ecosystem tooling. Transparent methodology, no protocol affiliations. Delegate to support the tools you already use.",
@@ -2191,22 +2198,61 @@
       "address": "0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3bE85b604E6EEd1384Fac798A7919cBEBAdb8337.png"
     },
-      {
-    "chainId": 19,
-    "name": "Flare En Español",
-    "description": "Independent Songbird data provider operated by Lava Digital Assets, focused on reliable market data, transparent infrastructure and Spanish-language education for the Flare ecosystem.",
-    "url": "https://flare.lavadigitalassets.com",
-    "address": "0x7A8FB697C7CBB05bF9175B2D6FE4779e4E12a38b",
-    "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7A8FB697C7CBB05bF9175B2D6FE4779e4E12a38b.png"
-  },
     {
-  "chainId": 14,
-  "name": "Flare En Español",
-  "description": "Independent Flare data provider operated by Lava Digital Assets, focused on reliable market data, transparent infrastructure and Spanish-language education for the Flare ecosystem.",
-  "url": "https://flare.lavadigitalassets.com",
-  "address": "0x7A8FB697C7CBB05bF9175B2D6FE4779e4E12a38b",
-  "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7A8FB697C7CBB05bF9175B2D6FE4779e4E12a38b.png"
-}
-]
+      "chainId": 14,
+      "name": "Seraphim FTSO",
+      "description": "Seraphim FTSO is a Flare oracle entity providing anchor price feeds and FDC attestations, operated by Seraphim Lab, a Canadian-incorporated company.",
+      "url": "https://seraphimlab.ca",
+      "address": "0xCD1eADB3Ea02B3500e9d3425f3fB08AAb8F33378",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xCD1eADB3Ea02B3500e9d3425f3fB08AAb8F33378.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Radroot",
+      "description": "Independent Flare data provider.",
+      "url": "https://radroot.org",
+      "address": "0xFC936989b5BCA0bdea6B0f4A184044eb720D86A5",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xFC936989b5BCA0bdea6B0f4A184044eb720D86A5.png"
+    },
+    {
+      "chainId": 14,
+      "name": "D20 Oracle",
+      "description": "Independent FTSO and FDC provider on Flare. Own price engine, private node, self-hosted FDC verifiers.",
+      "url": "https://d20oracle.com",
+      "address": "0xaF7c10dCF8fBA62b29230052AF0be80936c10af3",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xaF7c10dCF8fBA62b29230052AF0be80936c10af3.png"
+    },
+    {
+      "chainId": 14,
+      "name": "G1Flare818",
+      "description": "G1Flare818 is an independent solo operator on Flare, running a validator node together with FTSO and FDC data provider infrastructure. Everything is self-hosted on dedicated hardware with automated health monitoring. The focus is reliability, transparency and long-term operation.",
+      "url": "https://g1flare.com",
+      "address": "0xC8142E2b2f6f8Adfd34d8e6735F389667F9E2C0a",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC8142E2b2f6f8Adfd34d8e6735F389667F9E2C0a.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Rotko Networks",
+      "address": "0x7e74D30eF4dd811830118645633a9471f6cc63D3",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7e74D30eF4dd811830118645633a9471f6cc63D3.png",
+      "description": "Rotko Networks operates bare-metal infrastructure for Flare, running FTSO price feeds, Flare Data Connector attestations and validator nodes from its own network.",
+      "url": "https://rotko.net"
+    },
+    {
+      "chainId": 19,
+      "name": "Flare En Espanol",
+      "description": "Independent Songbird data provider operated by Lava Digital Assets, focused on reliable market data, transparent infrastructure and Spanish-language education for the Flare ecosystem.",
+      "url": "https://flare.lavadigitalassets.com",
+      "address": "0x7A8FB697C7CBB05bF9175B2D6FE4779e4E12a38b",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7A8FB697C7CBB05bF9175B2D6FE4779e4E12a38b.png"
+    },
+    {
+      "chainId": 14,
+      "name": "Flare En Espanol",
+      "description": "Independent Flare data provider operated by Lava Digital Assets, focused on reliable market data, transparent infrastructure and Spanish-language education for the Flare ecosystem.",
+      "url": "https://flare.lavadigitalassets.com",
+      "address": "0x7A8FB697C7CBB05bF9175B2D6FE4779e4E12a38b",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7A8FB697C7CBB05bF9175B2D6FE4779e4E12a38b.png"
+    }
   ]
 }
